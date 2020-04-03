@@ -1,5 +1,6 @@
-out/
+out/*
 data/htmls/*
 source/__pycache__
 
 !data/htmls/.gitkeep
+!out/.gitkeep
