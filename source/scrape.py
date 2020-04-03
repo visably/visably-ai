@@ -15,8 +15,6 @@ from collections import Counter
 import asyncio
 import aiohttp
 import multiprocessing as mp
-
-from multiprocessing import cpu_count
 from itertools import repeat
 
 ###############################################################################
