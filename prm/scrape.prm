@@ -1,10 +1,8 @@
 scrape V1.0 Program Parameters 09/06/2019
 
 Title [This is a test]
-# Filename for URL list to scrape  [/home/daniel/consulting/visably/visably_data/200120_urls/MASTER_Tagged_Human_v2_200110.csv]
-# Directory to place scraped URLs  [/home/daniel/consulting/visably/visably_data/200120_urls/htmls3]
-Filename for URL list to scrape  [/home/daniel/consulting/visably/visably_data/3_5_2020/ALL_tagged_3_17_20_with_header.csv]
-Directory to place scraped URLs  [/home/daniel/consulting/visably/visably_data/3_5_2020/htmls]
+Filename for URL list to scrape  [../data/sample_data/ALL_tagged_3_17_2020_with_header_small.csv]
+Directory to place scraped URLs  [../data/htmls]
 Max URLs to scrape                   [1000000]
 URL Protocol to force                [http] (http, https, or none)
 URL Timeout (seconds)                [60]
