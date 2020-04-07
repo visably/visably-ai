@@ -1,0 +1,18 @@
+wordcount V1.0 Program Parameters 01/14/2020
+
+Title [This is a test]
+Filename for wordcount URL list            [/home/daniel/consulting/visably/visably_data/3_5_2020/ALL_tagged_3_17_20_english_no_protocol_cleaned.csv]
+Directory for input URLs                   [/home/daniel/consulting/visably/visably_data/3_5_2020/htmls]
+Filename for text wordcount output file    [../model/3_13_2020_twordcountA_lemma_english.csv]
+Filename for link wordcount output file    [../model/3_13_2020_lwordcountA_lemma_english.csv]
+Filename for htmltag wordcount output file [../model/3_13_2020_hwordcountA_lemma_english.csv]
+
+Maximum number of text characters per document         [100000]
+Maximum number of text words per document              [10000]
+Maximum number of link words per document              [1000]
+Maximum number of html tag word features               [10000]
+Max URLs for wordcount             [1000000]
+Minimum word length                [3]
+Maximum word length                [15]
+Drop stop words (yes/no)           [yes]
+Verbose (yes/no)                   [no]
