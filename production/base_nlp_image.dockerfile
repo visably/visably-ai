@@ -16,3 +16,5 @@ RUN pip3 install -r /init/requirements.txt
 
 RUN python3 -m nltk.downloader stopwords
 RUN python3 -m spacy download en
+
+ENV LANG C.UTF-8 

@@ -17,3 +17,4 @@ COPY source /inference/source
 COPY data/ /inference/data
 COPY run/ /inference/run
 
+ENV LANG C.UTF-8 

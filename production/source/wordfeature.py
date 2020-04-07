@@ -121,7 +121,7 @@ for err_flag in tqdm(pool.imap_unordered(get_features, range(len(urls)), chunksi
 pool.close()
 pool.join()
 
-print(f"Number of errors: {num_errors}, Percent errors: {num_errors / len(urls):.2f}")
+print(f"\nNumber of errors: {num_errors}, Percent errors: {num_errors / len(urls):.2f}")
 
 url_list = list(url_list)
 if 'label' in urls.columns:
