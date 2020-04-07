@@ -1,0 +1,2261 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="ie9"> <![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcCWVdUGwAEUlBSDwI=",licenseKey:"776f0c0f83",applicationID:"3461083"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(25),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(26),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){L++,C=g.hash,this[u]=y.now()}function o(){L--,g.hash!==C&&i(0,!0);var t=y.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+g,e])}function a(t,e){t.on(e,function(){this[e]=y.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,g=w.location,y=t("loader");if(w[v]&&y.xhrWrappable){var x=t(10),b=t(11),E=t(8),O=t(6),R=t(13),P=t(7),T=t(14),N=t(9),M=t("ee"),S=M.get("tracer");t(16),y.features.spa=!0;var C,L=0;M.on(u,r),M.on(p,r),M.on(d,o),M.on(l,o),M.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),R.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),P.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),x.buffer([u]),b.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),N.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(M,"xhr-resolved"),a(M,"xhr-done"),a(P,m+s),a(P,m+"-done"),a(N,"new-jsonp"),a(N,"jsonp-end"),a(N,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,L>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(8),"addEventListener"in window&&t(6);var x=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),o.on(v,function(t,e){var n=t[0];n instanceof x&&i("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),o.on(g+l,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),o.on(g+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=i(arguments),e={};o.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var s=r.apply(this,t);return o.emit(n+"start",[t,a],s),s.then(function(t){return o.emit(n+"end",[null,t],s),t},function(t){throw o.emit(n+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(26),a=t(25);e.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,p=s.Response,l=s.fetch,h="prototype",m="nr@context";d&&p&&l&&(a(u,function(t,e){r(d[h],e,f),r(p[h],e,f)}),r(s,"fetch",c),o.on(c+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(c+"done",[null,e],n)}else o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t("wrap-function")(r);e.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t("wrap-function")(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];Node&&Node.prototype&&Node.prototype.appendChild?f.inPlace(Node.prototype,l,"dom-"):(f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-")),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t("wrap-function")(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t("wrap-function"),a=t("ee").get("promise"),s=i(a),c=t(25),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",s)}function i(t){y.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,x),x.prototype=l.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){if(!i(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,s=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var c=a.generateCatId(),f=a.generateCatId(),u=Date.now(),d=o(c,f,u,n,r,s);return{header:d,guid:c,traceId:f,timestamp:u}}function o(t,e,n,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:e,ti:n}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}function i(t){var e=!1,n=!1,r={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(r=NREUM.init.distributed_tracing,n=!!r.enabled),n)if(t.sameOrigin)e=!0;else if(r.allowed_origins instanceof Array)for(var o=0;o<r.allowed_origins.length;o++){var i=s(r.allowed_origins[o]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return n&&e}var a=t(23),s=t(17);e.exports={generateTracePayload:r,shouldGenerateTrace:i}},{}],16:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):i(this,t),n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime]))}}function o(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=c(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function i(t,e){t.params.status=e.status;var n=v(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(17),f=t(15).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],p=d.length,l=t("id"),h=t(21),m=t(20),v=t(18),w=window.XMLHttpRequest;a.features.xhr=!0,t(14),t(7),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){i(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);n&&n.header&&(e.setRequestHeader("newrelic",n.header),this.dt=n)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=m(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<p;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof w&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){var e,n=t[1]||{};"string"==typeof t[0]?e=t[0]:t[0]&&t[0].url&&(e=t[0].url),e&&(this.parsedOrigin=c(e),this.sameOrigin=this.parsedOrigin.sameOrigin);var r=f(this.parsedOrigin);if(r&&r.header){var o=r.header;if("string"==typeof t[0]){var i={};for(var a in n)i[a]=n[a];i.headers=new Headers(n.headers||{}),i.headers.set("newrelic",o),this.dt=r,t.length>1?t[1]=i:t.push(i)}else t[0]&&t[0].headers&&(t[0].headers.append("newrelic",o),this.dt=r)}})}},{}],17:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,o={};e.href=t,o.port=e.port;var i=e.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=e.hostname||n.hostname,o.pathname=e.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,s=e.hostname===document.domain&&e.port===n.port;return o.sameOrigin=a&&(!e.hostname||s),"/"===o.pathname&&(r[t]=o),o}},{}],18:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?o(t.response):"text"===n||"document"===n||""===n||void 0===n?o(t.responseText):void 0}var o=t(20);e.exports=r},{}],19:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(25),s=t(26),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],20:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],21:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],22:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?c("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&c("timing",["fcp",Math.floor(t.startTime)])})}function o(t,e){var n=t.getEntries();n.length>0&&c("lcp",[n[n.length-1]])}function i(t){if(t instanceof u&&!p){var e,n=Math.round(t.timeStamp);e=n>1e12?Date.now()-n:f.now()-n,p=!0,c("timing",["fi",n,{type:t.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,s,c=t("handle"),f=t("loader"),u=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),s=new PerformanceObserver(o);try{a.observe({entryTypes:["paint"]}),s.observe({entryTypes:["largest-contentful-paint"]})}catch(d){}}if("addEventListener"in document){var p=!1,l=["click","keydown","mousedown","pointerdown","touchstart"];l.forEach(function(t){document.addEventListener(t,i,!1)})}}},{}],23:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}e.exports={generateUuid:r,generateCatId:o}},{}],24:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],25:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],26:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],27:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function l(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(25),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+b.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(25),u=t("ee"),d=t(24),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1167.min.js"},x=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:s,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(19),t(22),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(27)},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(26),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,16,5,3,4]);</script>
+<title>Rogue Fitness Europe - Strength &amp; Conditioning Equipment</title>
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<meta name="description" content="The Rogue Fitness online store brings the leading strength and conditioning equipment to the European market. From power racks, rigs, and barbells to shoes, apparel &amp; accessories, Rogue can equip any garage gym or pro facility. Official sponsor of the CrossFit Games and Arnold Classic." />
+<meta name="keywords" content="Crossfit, Strength training, Military Equipment, Fitness Equipment, Home Gym" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="https://www.rogueeurope.eu/media/favicon/default/favicon_2.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://www.rogueeurope.eu/media/favicon/default/favicon_2.ico" type="image/x-icon" />
+<script>
+    (function () {
+        if (!Object.prototype.hasOwnProperty.call(window, 'globalStore')) {
+            window.globalStore = {}
+        }
+
+                window.globalStore.fpc = {"cacheId":"cache-js-data","secureFlag":true,"roguecache_enabled":false,"oauthUserToken":"","oauthUserSecret":""};
+                window.globalStore.magento = {"baseUrl":"https:\/\/www.rogueeurope.eu","defaultCountryId":"BE","store":{"id":"5","code":"euroview","websiteId":"4","name":"Europe Store View","frontendName":"Rogue Fitness Europe Oy","currencyCode":"EUR","currencySymbol":"\u20ac"},"urls":{"checkout":"https:\/\/www.rogueeurope.eu\/onestepcheckout","cart":"https:\/\/www.rogueeurope.eu\/checkout\/cart"},"pageCategory":"cms-index-index"};
+                window.globalStore.firebase = {"service_mode":"1","web_config":"{\"apiKey\":\"AIzaSyByxSW4v7nrVkABmK7g1xgzC20qlyYadDI\",\"authDomain\":\"rogue-app-19fb1.firebaseapp.com\",\"databaseURL\":\"https:\/\/rogue-app-19fb1.firebaseio.com\",\"projectId\":\"rogue-app-19fb1\",\"storageBucket\":\"rogue-app-19fb1.appspot.com\",\"messagingSenderId\":\"498556009405\"}","custom_url":"","use_for_shipping_sidecart":0,"use_for_shipping_checkout":0};
+                window.globalStore.sli = {"strategy":"rac"};
+                window.globalStore.applepay = {"enabled":false};
+                window.globalStore.promotions = {"five_for_five":{"enabled":false,"limit":2}};
+                window.globalStore.rapidCheckout = {"is_enabled":true,"fullModeParam":"rapidcheckout","is_eligible":null,"quote_id":null};
+                window.globalStore.side_cart = {"enable":true,"split_shipping_estimate":true,"auto_shipping_estimate":false,"enable_instant_cart":true,"instant_cart_timeout":400,"enable_instant_cart_app":false};
+                window.globalStore.quote = {"expires":86400};
+                window.globalStore.googleApiKey = "AIzaSyD1pYz4LY06VvTIRyCOvcPH89E8efDHsDM";
+                window.globalStore.checkout = {"shipping_pickup_code":"shqshared_fixed","is_enabled":true,"enabled_for_logged_in":true,"contact_phone":"+358 (0)20 7710850","contact_email":"team@rogueeurope.eu"};
+                window.globalStore.sheerid = {"veterans_day":{"state":0,"states":{"disabled":0,"upcoming":1,"active":2}},"banner_settings":{"url_landing":"military","url_category":"veterans-day"}};
+                window.globalStore.zeus = {"is_enabled":false};
+                window.globalStore.scm = {"three_ships_free":false,"five_k":false};
+        
+        
+        window.isInMobileAppContext = false;
+    }());
+</script>
+<script>
+  /* Begin Reset Defined AB Tests */
+  var testsToReset = [
+    'preview-search'
+  ];
+
+  if (Object.hasOwnProperty.call(localStorage, "studyjs-ab-tests")) {
+    var abTests = JSON.parse(localStorage["studyjs-ab-tests"]);
+
+    testsToReset.forEach(function(value) {
+      if (abTests.hasOwnProperty(value)) {
+        delete abTests[value];
+      }
+    });
+
+    localStorage['studyjs-ab-tests'] = JSON.stringify(abTests);
+  }
+  /* End Reset Definded AB Tests */
+
+  window.AB = {
+    sideCartTest: 1,
+    search: 1,
+    instantCart: 1,
+    newCheckoutTest: 1,
+    newCheckout: 1
+  };
+  window.mbfDealsPageData = {
+    mbfOn: false,
+    mbfNonUs: false,
+    cyberMonday: false
+  };
+  window.covidUpsMessage = {
+    active: true,
+    error: {
+      message: 'Orders to Italy and Spain Temporarily Suspended.',
+      code: 'covid19'
+    }
+  };
+</script><link rel="stylesheet" type="text/css" href="https://www.rogueeurope.eu/skin/frontend/rg/2015/css/base.css?c98341f1" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.rogueeurope.eu/skin/frontend/rg/angie/commons.css?7cdc347b" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.rogueeurope.eu/skin/frontend/rg/2015/css/featured-hotdeals.css?97610c3a" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.rogueeurope.eu/skin/frontend/rg/2015/css/homepage.css?fdbc6716" media="all" />
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/prototype/prototype.js?372ae8e0" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/lib/ccard.js?f2d1ce81" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/prototype/validation.js?e12a355c" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/scriptaculous/effects.js?aecb4956" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/scriptaculous/controls.js?cf04290b" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/varien/js.js?18647a0b" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/varien/form.js?869a21b2" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/mage/translate.js?f8a2ff8e" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/mage/cookies.js?13f52fe3" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/rogue/lib.js?071ab4ff" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/rogue/fullpagecache/cache.js?fe18a7a7" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/rogue/editablecart-rg.js?d9cb0002" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/varien/configurable.js?0072d56e" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/varien/product.js?e1bc743e" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/skin/frontend/enterprise/default/js/scripts.js?061af6ad" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/skin/frontend/base/default/js/bundle.js?35471df9" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/skin/frontend/enterprise/default/js/enterprise/catalogevent.js?ed69cbee" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/skin/frontend/enterprise/default/js/enterprise/wishlist.js?5475ab0f" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/skin/frontend/rg/2015/js/rogue/roguebin/signup.js?3536d03a" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/skin/frontend/rg/2015/js/rogue/roguebin/configurable.js?84eb2164" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/skin/frontend/rg/angie/commons-head.js?f7eb64c0" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/rogue/product.js?6a143973" site 999></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/rogue/catalog/enhanced_qty.js?cd6a89b5" page></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/rogue/quickview.js?865937f6" page></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/rogue/promo/countdown.js?03ffcef9"></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/js/rogue/promo/featured.js?572bd6a1"></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/skin/frontend/base/default/js/cookielaw.js?ce8056fa"></script>
+<link rel="canonical" href="https://www.rogueeurope.eu" />
+<link rel="alternate" hreflang="en-GB" href="https://www.rogueeurope.eu" />
+<link rel="alternate" hreflang="nl-NL" href="https://www.rogueeurope.eu?locale=nl" />
+<link rel="alternate" hreflang="fr-FR" href="https://www.rogueeurope.eu?locale=fr" />
+<link rel="alternate" hreflang="de-DE" href="https://www.rogueeurope.eu?locale=de" />
+<link rel="alternate" hreflang="es-ES" href="https://www.rogueeurope.eu?locale=es" />
+<link rel="alternate" hreflang="en-AU" href="https://www.rogueaustralia.com.au" />
+<link rel="alternate" hreflang="en-CA" href="https://www.roguecanada.ca" />
+<link rel="alternate" hreflang="en-US" href="https://www.roguefitness.com" />
+<!--[if lt IE 10]>
+<link rel="stylesheet" type="text/css" href="https://www.rogueeurope.eu/skin/frontend/rg/2015/css/ie.css?9b451f5f" media="all" />
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.rogueeurope.eu';
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+<script type="text/javascript">
+    var ecommercePurchaseElements =
+        {"product_view":"Product View","side_cart":"Side Cart Button","quick_view":"Quick View","gift_registry":"Gift Registry","saved_for_later":"Saved for Later","wishlist":"Wishlist"},
+        ecommercePurchaseRequestParam = "ecommerce_purchase_element",
+        insertEcommerceElementToForm = function (form, type) {
+            var purchaseInfoEl;
+            if (!(purchaseInfoEl = form.down('#ecommerce-purchase-info'))) {
+                form.insert(new Element('input', {
+                    type  : 'hidden',
+                    id    : 'ecommerce-purchase-info',
+                    name  : ecommercePurchaseRequestParam,
+                    value : ecommercePurchaseElements[type]
+                }));
+            } else {
+                purchaseInfoEl.setValue(ecommercePurchaseElements[type]);
+            }
+        };
+</script>
+
+<meta property="fb:app_id" content="1664713057151785" />
+<meta property="fb:admins" content="731170917" />
+<meta property="og:site_name" content="Rogue Fitness Europe Oy" />
+<meta property="og:url" content="https://www.rogueeurope.eu" />
+<meta property="og:type" content="product" />
+<meta property="og:title" content="Rogue Fitness Europe - Strength &amp; Conditioning Equipment" />
+<meta property="og:description" content="The Rogue Fitness online store brings the leading strength and conditioning equipment to the European market. From power racks, rigs, and barbells to shoes, apparel & accessories, Rogue can equip any garage gym or pro facility. Official sponsor of the CrossFit Games and Arnold Classic." />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:title" content="Rogue Fitness Europe - Strength &amp; Conditioning Equipment" />
+<meta name="twitter:description" content="The Rogue Fitness online store brings the leading strength and conditioning equipment to the European market. From power racks, rigs, and barbells to shoes, apparel & accessories, Rogue can equip any garage gym or pro facility. Official sponsor of the CrossFit Games and Arnold Classic." />
+<meta name="twitter:image" content="" />
+<script type="text/javascript">//<![CDATA[
+	var quickView = new QuickView(
+	    '.qv-link',
+        '//www.rogueeurope.eu/rquickview/index/view',
+        true    );
+
+	Event.observe(window, "load", function(){
+		jQuery(".qv-link").click(function() {
+			spinnerLoader();
+            $body.css("overflow-y","hidden");
+		});
+
+		var timeout;
+		function spinnerLoader() {
+			clearTimeout(timeout);
+
+			if(jQuery(".qvLoader").length > 0) {
+				loadSpinner();
+			} else {
+				timeout = setTimeout(spinnerLoader,10);
+			}
+		}
+	});
+//]]></script> <script type="text/javascript" src="https://display.ugc.bazaarvoice.com/static/rogueeurope/Main+Site/en_US/bvapi.js"></script>
+<script type="text/javascript">
+        var bvapiUrl = "https://display.ugc.bazaarvoice.com/static/rogueeurope/Main+Site/en_US/bvapi.js";
+        document.observe("dom:loaded", function () {
+            jQuery(function($) {
+                $('div[id^="BVRRInlineRating-"]').on("DOMSubtreeModified", function () {
+                    $(this).off('DOMSubtreeModified');
+                    findEmptyBV();
+                });
+
+                            });
+        });
+    </script>
+<meta property="og:image" content="https://www.rogueeurope.eu/media/wysiwyg/rogue-og.jpg" />
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><link rel="apple-touch-icon" sizes="57x57" href="/skin/frontend/rg/2015/images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/skin/frontend/rg/2015/images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/skin/frontend/rg/2015/images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/skin/frontend/rg/2015/images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/skin/frontend/rg/2015/images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/skin/frontend/rg/2015/images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/skin/frontend/rg/2015/images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/skin/frontend/rg/2015/images/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/skin/frontend/rg/2015/images/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/skin/frontend/rg/2015/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/skin/frontend/rg/2015/images/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/skin/frontend/rg/2015/images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/skin/frontend/rg/2015/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="manifest.json">
+<link rel="mask-icon" href="/skin/frontend/rg/2015/images/favicons/safari-pinned-tab.svg" color="#000000">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/skin/frontend/rg/2015/images/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script type="text/javascript">
+ var _sf_startpt=(new Date()).getTime();
+ </script>
+<script type="text/javascript">
+    (function() {
+        var matchCookie = document.cookie.match('(?:^|;) ?bab_locale=([^;]*)(?:;|$)'),
+            localeCookie = matchCookie && matchCookie.length ? matchCookie[1] : null,
+            matchLocation = window.location.href.match('[?&]locale=([a-z]{2})'),
+            localeLocation = matchLocation && matchLocation.length ? matchLocation[1] : null;
+        if (localeLocation || localeCookie !== 'en') {
+            var s = document.createElement('script');
+            s.setAttribute('data-cfasync', 'false');
+            s.setAttribute('type', 'text/javascript');
+            s.setAttribute('data-bablic', '595a31d92a502812d8ef8791');
+            s.setAttribute('data-bablic-m', "[0,'en','en',1,['de', 'fr', 'es', 'nl'],0,0,0,0,0,0,0,0,[],'www.rogueeurope.eu/',[],['_v',2]]");
+            s.setAttribute('src', '//cdn2.bablic.com/js/bablic.3.9.js');
+            document.head.appendChild(s);
+        }
+    }());
+</script></head>
+<body class=" cms-index-index euroview website-eurostore cms-homepage-2015">
+
+<script>var google_tag_params={ecomm_pagetype:'other'};if(typeof(dataLayer)==='undefined'){var dataLayer=[];}dataLayer.push({'google_tag_params':window.google_tag_params});</script>
+
+
+<script type="application/javascript">
+    if (typeof(dataLayer) === 'undefined') {
+        var dataLayer = [];
+    }
+            dataLayer.push({"ecommerce":{"impressions":{"affiliation":"Europe Store View"}}});
+        dataLayer.push({"browser_type":"in browser"});
+            domAfterLoadCallback(function () {
+        var logFn = function (ecEv) {
+            var pr;
+            if (ecEv.event === 'addToCart' && ecEv.ecommerce && ecEv.ecommerce.add && ecEv.ecommerce.add.products) {
+                for (var i = 0; i < ecEv.ecommerce.add.products.length; i++) {
+                    pr = ecEv.ecommerce.add.products[i];
+                    reporting.addToCart(pr.id, pr.quantity, pr.dimension1);
+                }
+            }
+
+            var eventTypes = {'checkout' : 'checkout', 'transaction' : 'purchase'};
+            for (var eventType in eventTypes) {
+                var key = eventTypes[eventType];
+                if (ecEv.event === eventType && ecEv.ecommerce && ecEv.ecommerce[key] && ecEv.ecommerce[key].products) {
+                    var obj = {};
+                    for (var i = 0; i < ecEv.ecommerce[key].products.length; i++) {
+                        pr = ecEv.ecommerce[key].products[i];
+                        if (pr.id) {
+                            obj[pr.id] = pr.quantity;
+                        }
+                    }
+                    if (Object.keys(obj).length) {
+                        reporting[key + 'View'](obj);
+                    }
+                }
+            }
+        };
+                logFn({"ecommerce":{"impressions":{"affiliation":"Europe Store View"}}});
+                logFn({"browser_type":"in browser"});
+            });
+</script>
+
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K5BDZ82');
+</script>
+<div id="cookienote" class="hidden">
+<div id="cookienote-container">
+<p>We use cookies to give you the best possible experience on our site. By continuing to use the site you agree to our use of cookies. <a href="https://www.rogueeurope.eu/about-cookies">Learn more</a>.</p>
+<div class="x" onclick="cookieIagree();"></div>
+</div>
+</div>
+<noscript>
+    <div id="cookienote">
+        <div id="cookienote-container">
+            <p>We use cookies to give you the best possible experience on our site. By continuing to use the site you agree to our use of cookies. <a href="https://www.rogueeurope.eu/about-cookies">Learn more</a>.</p>
+        </div>
+    </div>
+</noscript><div id="covid-still-open-banner" style="background-color: #f1f1f1; width: 100%; padding: 8px 40px;">
+<div style="margin: 0 auto 0;text-align: center;"><span style="font: 14px 'Roboto', 'Helvetica', Arial, sans-serif; display:block;"><b>SHIPPING DELAY:</b> 3-5 BUSINESS DAYS.<br /><span style="font-size: 12px; text-transform: uppercase; margin-top:8px; display:block; line-height: 14px;"><b>Online orders and operations are active. Retail store is closed. | <a href="/covid-19">Covid-19 Status</a></b></span></span></div>
+</div>
+<style>
+    .platform-android #covid-still-open-banner > div,
+    .platform-ios #covid-still-open-banner > div {
+      max-width: 385px;
+    }
+  
+    .platform-android.cms-cart #covid-still-open-banner,
+    .platform-ios.cms-cart #covid-still-open-banner,
+    .platform-android.onestepcheckout2-index-index #covid-still-open-banner,
+    .platform-ios.onestepcheckout2-index-index #covid-still-open-banner {
+      position: absolute;
+    }
+  
+    .platform-ios.onestepcheckout2-index-index .mobile-fixed-block {
+      position: initial;
+    }
+  
+    .platform-android.onestepcheckout2-index-index #checkout,
+    .platform-ios.onestepcheckout2-index-index #checkout {
+      margin-top: 88px;
+    }
+  
+    .platform-ios.cms-cart .wrapper {
+      min-height: calc(100% - 88px);
+    }
+  
+    .platform-android.onestepcheckout2-index-index #checkout .add-shipping-address-container,
+    .platform-ios.onestepcheckout2-index-index #checkout .add-shipping-address-container {
+      height: calc(100vh - 185px);
+    }
+  
+    .platform-ios .cart-wrapper #cart-container:not(.empty-cart),
+    .platform-android .cart-wrapper #cart-container:not(.empty-cart) {
+      height: calc(100vh - 140px);
+      margin-top: 88px;
+    }
+  
+    @media (min-height: 375px), screen and (orientation: portrait) {
+      .platform-android.onestepcheckout2-index-index #checkout,
+      .platform-ios.onestepcheckout2-index-index #checkout {
+        margin-top: 70px;
+      }
+  
+      .platform-ios.cms-cart .wrapper {
+        min-height: calc(100% - 70px);
+      }
+  
+      .platform-android.onestepcheckout2-index-index #checkout .add-shipping-address-container,
+      .platform-ios.onestepcheckout2-index-index #checkout .add-shipping-address-container {
+        height: calc(100vh - 167px);
+      }
+  
+      .platform-ios .cart-wrapper #cart-container:not(.empty-cart),
+      .platform-android .cart-wrapper #cart-container:not(.empty-cart) {
+        height: calc(100vh - 125px);
+        margin-top: 70px;
+      }
+    }
+  </style><div class="widget widget-static-block"><style>
+/* Removing store credit */
+.redeem-gift-card {
+display: none !important;
+}
+
+/* START - FIX FOR ROGUE LT-1 50 CAL TROLLEY™ & LEVER ARM KIT - Upcoming Timer */
+.product-essential .promo-counter-wrapper.type-grouped.promo-counter-wrapper-active .promo-countdown-wrap {
+ float:none
+}
+
+.product-essential .promo-counter-wrapper.type-grouped.promo-counter-wrapper-active .promo-countdown-wrap .promo-timer-subtitle {
+  margin-top:0 !important
+}
+/* END - FIX FOR ROGUE LT-1 50 CAL TROLLEY™ & LEVER ARM KIT - Upcoming Timer */
+
+[data-useragent*='rv:11'] #side-cart .off-canvas-body {
+  display: block;
+}
+
+.website-roguecanada .badge.badge-free-shipping .note {
+    display: none !important;
+}
+
+.color-swatch-container-color .swatch-20kg-power-bar-black-shaft-w-chrome-sleeves {
+    background: linear-gradient(135deg,#000,#000 50%,#BFC0BF 51%,#BFC0BF);
+}
+.color-swatch-container-color .swatch-45lb-ohio-power-bar-black-shaft-w-black-sleeve {
+    background: #000;
+}
+
+
+/* Disable some QV buttons for recommendations. */
+.recommendations-container [rel='26549'],
+.recommendations-container [rel='26551'],
+.recommendations-container [rel='33589'],
+.recommendations-container [rel='46859'] {
+    display: none !important;
+}
+
+/* FIXES FOR MOBILE BREADCRUMBS*/
+@media screen and (max-width: 736px){
+.display_always {
+padding-left: 12px;
+padding-top: 10px;
+padding-bottom: 8px;
+}
+.display_always a, .display_always span.active {
+line-height: 23px !important;
+}
+}
+
+.display_always{ 
+display: block !important;
+}
+/* FIXES FOR MOBILE BREADCRUMBS*/
+
+/* MBF Fixes */
+.mbf-below-header-promo-block img {
+   width: auto;
+}
+
+.onestepcheckout-index-index .mbf-below-header-promo-block {
+   display: none !important;
+}
+
+/* GCs in Product Recs */
+#product-page-recommendations [data-id*='Gift'] {
+   order: 5;
+}
+
+#product-page-recommendations [data-id*='Gift'] [class*='price'] {
+   display: none;
+}
+
+/* APP */
+body.platform-ios {
+  -webkit-transform: none;
+  transform: none;
+}
+/* /APP */
+
+/* hide promo disclaimer CA */
+.canada-eng .product-shipping-deal-disclaimer {
+display: none;
+}
+/* hide promo disclaimer CA */
+
+.onestepcheckout-index-index.canada-eng .credit-card.amex {
+   display:none;
+}
+/* WEB-903 */
+@media screen and (min-width: 1025px) {
+    .roguebox-container .you-tube, .roguebox-container [youtube] {
+        max-width: 1280px;
+    } 
+}
+
+.roguebox-container .roguebox-item-container {
+    max-width: 1280px;
+}
+/* END WEB-903 */
+
+/* hide link to redeem gift card in my account */
+.enterprise-customerbalance-info-index .account-balance p {
+    display: none;
+}
+
+@media (max-width: 736px) {
+.rogue-shipping-system-tracker .package .shipping-flowchart.quality.pickup {
+    background-position: -136px 0;
+}
+}
+
+a.minimal-price-link {
+    display: none;
+}
+
+.onestepcheckout-index-index.au-eng .credit-card.amex, .onestepcheckout-index-index.au-eng .credit-card.discover {
+      display:none;
+}
+.onestepcheckout-index-index .credit-card-container, .onestepcheckout-index-index.sup-eng .credit-card-container {
+    display:block !important;
+}
+.onestepcheckout-index-index #p_method_authorizenet+label .credit-card-container {
+float:right !important;
+}
+
+/*Cerakote bar styles for operator bar quickview*/
+.swatch-olive-drab-black {
+    background: linear-gradient( 135deg, #696752, #696752 50%, #000 51%, #000);
+}
+
+.swatch-desert-tan-black {
+    background: linear-gradient( 135deg, #BCA177, #BCA177 50%, #000 51%, #000);
+}
+.swatch-black-black {
+    background: #000;
+}
+
+.swatch-red-black {
+    background: linear-gradient( 135deg, #C20016, #C20016 50%, #000 51%, #000);
+}
+
+.swatch-pink-black {
+    background: linear-gradient( 135deg, #DB4086, #DB4086 50%, #000 51%, #000);
+}
+
+.swatch-blue-black {
+    background: linear-gradient( 135deg, #274EC3, #274EC3 50%, #000 51%, #000);
+}
+
+.swatch-gray-black {
+    background: linear-gradient( 135deg, #91877C, #91877C 50%, #000 51%, #000);
+}
+
+.swatch-black-chrome {
+    background: linear-gradient( 135deg, #000, #000 50%, #BFC0BF 51%, #BFC0BF);
+}
+.color-swatch-container.color-swatch-container-color .swatch-item.swatch-oos.active-swatch:after {
+    content: "";
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    -webkit-background-size: 20px;
+    -moz-background-size: 20px;
+    -o-background-size: 20px;
+    background-size: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("/skin/frontend/rg/2015/images/customcolors/swatch-active.png")
+}
+.color-swatch-container .swatch-item.swatch-oos:after, .color-swatch-container .swatch-item.swatch-oos.swatch-white.active-swatch:after {
+    background: initial;
+}
+.compare-grid .item {
+    padding-bottom: 2.1875em;
+}
+@media screen and (max-width: 736px){
+  .compare-grid .item {
+      padding-bottom: 3.25em;
+  }
+}
+/*end cerakote bar styles for operator bar quickview*/
+
+/* hide Hot Deals FAQ icon */
+.ga_mbf_product_rhpa-faq {
+  display: none;
+}
+
+/*BV REVIEWS HOTFIX*/
+.product-reivews #BVRRContainer .bv-cleanslate .bv-author-profile {
+    position: relative !important;
+}
+
+/* Add to Cart A/B test IE9 Fix */
+.platform-grade-c .product-cart-box .btn-add-to-cart {
+  opacity: 1;
+  background-color: #5bbd15;
+}
+</style>
+<style>
+  /* Hide Mobile Nav On Desktop -- This should stay post MBF */
+@media (min-width: 1025px) {
+    .nav-container ul #deals, .nav-container ul #hot-deals {
+        display: none !important;
+    }
+}
+  
+  /* MBF STYLES FOR HOT DEALS IN HEADER/NAV */
+ /* MBF: Mobile Nav Hot Deals -- LOGO */
+ #hot-deals {
+   color: white;
+   user-select: none;
+ }
+ 
+ /* MBF: Desktop Horizontal Nav Hot Deals -- LOGO */
+ #nav-hot-deals {
+   position: relative;
+   background: linear-gradient(180deg, #ea0000 0%, #bc0000 100%);
+   cursor: pointer;
+   color: #FFFFFF;
+   padding: 0 16px;
+ }
+ 
+ #nav-hot-deals:hover {
+   background: linear-gradient(180deg, #ee3434 0%, #ea0000 100%);
+ }
+ /* MBF STYLES FOR HOT DEALS IN HEADER/NAV */
+
+  /* fix for breadcrumbs in stored credit cards */
+  .customer-paymentinfo-index .breadcrumbs {
+    display: none !important;
+  }
+
+/* color swatches for cerakote */
+.swatch-black-black {
+    background: #000;
+}
+
+.swatch-red-black {
+    background: linear-gradient( 135deg, #C20016, #C20016 50%, #000 51%, #000);
+}
+
+.swatch-blue-black {
+    background: linear-gradient( 135deg, #274EC3, #274EC3 50%, #000 51%, #000);
+}
+
+.swatch-gray-black {
+    background: linear-gradient( 135deg, #91877C, #91877C 50%, #000 51%, #000);
+}
+
+.swatch-black-chrome {
+    background: linear-gradient( 135deg, #000, #000 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+
+.swatch-orange-chrome {
+    background: linear-gradient( 135deg, #E43E1C, #E43E1C 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-orange-black {
+    background: linear-gradient( 135deg, #E43E1C, #E43E1C 50%, #000 51%, #000);
+}
+
+.swatch-green-black {
+    background: linear-gradient( 135deg, #668A25, #668A25 50%, #000 51%, #000);
+}
+
+.swatch-green-chrome {
+    background: linear-gradient( 135deg, #668A25, #668A25 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-blue-chrome {
+    background: linear-gradient( 135deg, #274EC3, #274EC3 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-gray-chrome {
+    background: linear-gradient( 135deg, #91877C, #91877C 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-red-chrome {
+    background: linear-gradient( 135deg, #C20016, #C20016 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-light-blue-black {
+    background: linear-gradient( 135deg, #8ABCE7, #8ABCE7 50%, #000 51%, #000);
+}
+
+.swatch-light-blue-chrome {
+    background: linear-gradient( 135deg, #8ABCE7, #8ABCE7 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-maroon-black {
+    background: linear-gradient( 135deg, #711117, #711117 50%, #000 51%, #000);
+}
+
+.swatch-maroon-chrome {
+    background: linear-gradient( 135deg, #711117, #711117 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-navy-black {
+    background: linear-gradient( 135deg, #18224F, #18224F 50%, #000 51%, #000);
+}
+
+.swatch-navy-chrome {
+    background: linear-gradient( 135deg, #18224F, #18224F 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-tek-grey-camo-black {
+    background: url(/media/wysiwyg/tek-gray-camo-color-thumb.png) no-repeat;
+    background-size: 100%;
+}
+
+.swatch-tiger-stripe-woodland-camo-black {
+    background: url(/media/wysiwyg/tiger-stripe-woodland-camo-color-thumb.png) no-repeat;
+    background-size: 100%;
+}
+.swatch-orange-chrome {
+    background: linear-gradient( 135deg, #E43E1C, #E43E1C 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-orange-black {
+    background: linear-gradient( 135deg, #E43E1C, #E43E1C 50%, #000 51%, #000);
+}
+
+.swatch-green-black {
+    background: linear-gradient( 135deg, #668A25, #668A25 50%, #000 51%, #000);
+}
+
+.swatch-green-chrome {
+    background: linear-gradient( 135deg, #668A25, #668A25 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-blue-chrome {
+    background: linear-gradient( 135deg, #274EC3, #274EC3 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-gray-chrome {
+    background: linear-gradient( 135deg, #91877C, #91877C 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-red-chrome {
+    background: linear-gradient( 135deg, #C20016, #C20016 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-pink-black {
+    background: linear-gradient( 135deg, #DB4086, #DB4086 50%, #000 51%, #000);
+}
+
+.swatch-pink-chrome {
+    background: linear-gradient( 135deg, #DB4086, #DB4086 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-light-blue-black {
+    background: linear-gradient( 135deg, #8ABCE7, #8ABCE7 50%, #000 51%, #000);
+}
+
+.swatch-light-blue-chrome {
+    background: linear-gradient( 135deg, #8ABCE7, #8ABCE7 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-maroon-black {
+    background: linear-gradient( 135deg, #711117, #711117 50%, #000 51%, #000);
+}
+
+.swatch-maroon-chrome {
+    background: linear-gradient( 135deg, #711117, #711117 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-navy-black {
+    background: linear-gradient( 135deg, #18224F, #18224F 50%, #000 51%, #000);
+}
+
+.swatch-navy-chrome {
+    background: linear-gradient( 135deg, #18224F, #18224F 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-purple-black {
+    background: linear-gradient( 135deg, #735A94, #735A94 50%, #000 51%, #000);
+}
+
+.swatch-purple-chrome {
+    background: linear-gradient( 135deg, #735A94, #735A94 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-rogue-high-gloss-clear-black {
+    background: linear-gradient( 135deg, #E7E7E6, #E7E7E6 50%, #000 51%, #000);
+}
+
+.swatch-rogue-high-gloss-clear-chrome {
+    background: linear-gradient( 135deg, #E7E7E6, #E7E7E6 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-matte-clear-chrome {
+    background: linear-gradient( 135deg, #CECECE, #CECECE 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.color-swatch-container-bar_shaft_coating .swatch-stainless-steel-w-black-cerakote-center {
+    background: linear-gradient( 135deg, #000000, #000000 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.color-swatch-container-bar_shaft_coating .swatch-none-stainless-steel {
+    background: linear-gradient( 135deg, #E7E7E6, #E7E7E6 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-black-black {
+    background: #000;
+}
+
+.swatch-red-black {
+    background: linear-gradient( 135deg, #C20016, #C20016 50%, #000 51%, #000);
+}
+
+.swatch-blue-black {
+    background: linear-gradient( 135deg, #274EC3, #274EC3 50%, #000 51%, #000);
+}
+
+.swatch-gray-black {
+    background: linear-gradient( 135deg, #91877C, #91877C 50%, #000 51%, #000);
+}
+
+.swatch-black-chrome {
+    background: linear-gradient( 135deg, #000, #000 50%, #BFC0BF 51%, #BFC0BF);
+}
+
+.swatch-tek-grey-camo-black {
+    background: url(/media/wysiwyg/tek-gray-camo-color-thumb.png) no-repeat;
+}
+
+.swatch-tiger-stripe-woodland-camo-black {
+    background: url(/media/wysiwyg/tiger-stripe-woodland-camo-color-thumb.png) no-repeat;
+}
+.color-swatch-container .swatch-item.swatch-oos:after, .color-swatch-container .swatch-item.swatch-oos.swatch-white.active-swatch:after {
+    background: initial;
+}
+
+.swatch-orange-cerakote-smooth {
+    background: url(/media/wysiwyg/rspb-orange-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-orange-cerakote-knurled {
+    background: url(/media/wysiwyg/rspb-orange-knurled-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-black-cerakote-smooth {
+    background: url(/media/wysiwyg/rspb-black-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-black-cerakote-knurled {
+    background: url(/media/wysiwyg/rspb-black-knurled-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-blue-cerakote-smooth {
+    background: url(/media/wysiwyg/rspb-blue-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-blue-cerakote-knurled {
+    background: url(/media/wysiwyg/rspb-blue-knurled-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-gray-cerakote-smooth {
+    background: url(/media/wysiwyg/rspb-gray-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-gray-cerakote-knurled {
+    background: url(/media/wysiwyg/rspb-gray-knurled-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-green-cerakote-smooth {
+    background: url(/media/wysiwyg/rspb-green-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-green-cerakote-knurled {
+    background: url(/media/wysiwyg/rspb-green-knurled-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-pink-cerakote-smooth {
+    background: url(/media/wysiwyg/rspb-pink-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-pink-cerakote-knurled {
+    background: url(/media/wysiwyg/rspb-pink-knurled-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-red-cerakote-smooth {
+    background: url(/media/wysiwyg/rspb-red-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-red-cerakote-knurled {
+    background: url(/media/wysiwyg/rspb-red-knurled-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-stainless-steel-smooth {
+    background: url(/media/wysiwyg/rspb-stainless-swatch.jpg) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-stainless-steel-knurled {
+    background: url(/media/wysiwyg/rspb-stainless-knurled-swatch.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.swatch-tek-gray-camo-cerakote-smooth {
+    background: url(/media/wysiwyg/jamr-tek.png) no-repeat !important;
+    background-size: 38px 38px !important;
+    background-position: 50%
+}
+
+.swatch-tiger-stripe-woodland-camo-cerakote-smooth {
+    background: url(/media/wysiwyg/jamr-camo.png) no-repeat !important;
+    background-size: 38px 38px !important;
+    background-position: 50%
+}
+
+.swatch-rogue-textured-black-powdercoat-knurled {
+    background: url(/media/wysiwyg/jamr-powder-knurled.png) no-repeat !important;
+    background-size: 38px 38px !important;
+    background-position: 50%
+}
+
+.swatch-tek-gray-camo-cerakote-knurled {
+    background: url(/media/wysiwyg/jamr-tek-knurled.png) no-repeat !important;
+    background-size: 38px 38px !important;
+    background-position: 50%
+}
+
+.swatch-tiger-stripe-woodland-camo-cerakote-knurled  {
+    background: url(/media/wysiwyg/jamr-camo-knurled.png) no-repeat !important;
+    background-size: 38px 38px !important;
+    background-position: 50%
+}
+
+.swatch-rogue-textured-black-powdercoat-smooth {
+    background: url(/media/wysiwyg/jamr-powder.png) no-repeat !important;
+    background-size: 38px 38px !important;
+    background-position: 50%
+}
+.footer-container .ajaxcartpro_confirm .v-btn-gray {
+    color: #000;
+}
+
+/*Weaver custom price for jammer bar*/
+.products-grid .item .product-details .price-box .custom_price_text {
+    color: #44a80a;
+    font-weight: 700;
+}
+
+/* Weaver custom ohio bar fluid bin signup button override */
+#fluid-stock-status + .fc-add-to-cart-button .fc-button-label {
+    color: #000;
+    border: 1px solid #d2d2d2;
+    background: linear-gradient(180deg,#fff,#e9e9e9);
+    transition: none;
+}
+
+#fluid-stock-status + .fc-add-to-cart-button .fc-button-label:focus, #fluid-stock-status + .fc-add-to-cart-button .fc-button-label:hover {
+    color: #000;
+    background: #e9e9e9;
+}
+
+#fluid-stock-status + .fc-add-to-cart-button .fc-button-label:active {
+    color: rgba(0,0,0,.5);
+    background: #d2d2d2;
+}
+
+/* Fix for build-a-bar snipe */
+nav div#sub-weightlifting-bars-plates .bottom-promo-image {
+    width: 100%;
+    position: relative;
+}
+
+nav div#sub-weightlifting-bars-plates .bottom-promo-image img {
+    width: auto;
+    max-width: 100%;
+    position: absolute;
+    left: 0;
+}
+
+.desktop-footer .old-logo {
+  display: block;
+  max-width: 150px; 
+  margin: 20px auto 15px;
+}
+
+.mobile-footer .old-logo {
+ display: block; 
+  max-width: 150px;
+  margin: 40px auto 10px;
+}
+
+.default .mobile-footer .old-logo {
+ display: block; 
+  max-width: 150px;
+  margin: 20px auto 10px;
+}
+
+/* fix for vet day banner centering */
+.cms-index-index .vd-text-snipe {
+    padding-left: 0;
+}
+
+/* TEMP CART RECOMMENDATION FIX 01/09/2019 */
+#cart-container .cart-recommendations .recommendations-container a p {
+    text-align: center;
+}
+
+#cart-container .cart-recommendations .recommendations-container a p.product-name {
+    font-weight: bold;
+    display: block;
+}
+
+#cart-container .cart-recommendations .recommendations-container a p.price {
+    font-weight: normal;
+}
+
+#cart-container .cart-recommendations .recommendations-container a .special-price-container {
+    font-weight: normal;
+}
+
+@media screen and (max-width: 736px) {
+  #cart-container .cart-recommendations {
+    padding: 16px 0;
+  }
+  #cart-container .cart-recommendations .recommendations-container {
+      height: auto;
+  }
+  #cart-container .outer-container.cart-recommendations .recommendation {
+      flex-basis: 22.5%;
+  }
+
+  #cart-container .cart-recommendations .recommendations-container a:nth-of-type(5) {
+    display: none;
+  }
+  #cart-container .cart-recommendations .recommendations-container a:nth-of-type(6) {
+    display: none;
+  }
+}
+/* END TEMP CART RECOMMENDATIONS FIX */
+
+/* STYLES FOR RIGS AND RACKS CALLOUT */
+nav #sub-rogue-rigs-racks .bottom-promo-image img {
+    width: auto;
+    max-width: 100%;
+    position: absolute;
+    left: 0;
+}
+/* END STYLES FOR RIGS AND RACKS CALLOUT */
+
+/* MBN CATEGORY COUNTDOWN TIMER STYLE UPDATES */
+.catalog-category-view .main-container .promo-sale-starts {
+  padding: 5px 10px !important;
+  margin-bottom: 0 !important;
+}
+.catalog-category-view .main-container .promo-time-remaining-outer-container {
+  margin-bottom: 0 !important;
+}
+/* END MBN CATEGORY COUNTDOWN TIMER STYLE UPDATES */
+</style></div>
+<div class="widget widget-static-block"><script type="application/ld+json"> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "Organization",
+  "name": "Rogue Fitness",
+  "url": "https://www.roguefitness.com",
+  "logo": "https://www.roguefitness.com/media/wysiwyg/rogue-schema-logo-large.jpg",
+  "description": "Rogue Fitness is an American manufacturer and distributor of strength and conditioning equipment, including weightlifting bars, plates, racks and other fitness related equipment for CrossFit boxes, personal garage gyms, military, collegiate, and professional sports teams.",
+  "disambiguatingDescription": "Rogue Fitness is an American manufacturer and distributor of strength and conditioning equipment.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "545 E 5th Ave",
+    "addressLocality": "Columbus",
+    "addressRegion": "OH",
+    "postalCode": "43201",
+    "addressCountry": "United States"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+1-614-358-6190",
+    "contactType": "Customer Service"
+  },
+  "faxNumber": "+1-614-340-7206",
+  "email": "team@roguefitness.com",
+  "sameAs" : [
+            "https://www.facebook.com/roguefitness",
+            "http://instagram.com/roguefitness",
+            "https://twitter.com/roguefitness",
+            "https://www.youtube.com/user/RogueFitness",
+            "https://plus.google.com/+roguefitness",
+            "https://www.linkedin.com/company/rogue-fitness"
+  ],
+  "founder": {
+       "@type": "Person",
+       "name": "Bill Henniger"
+  },
+  "foundingDate": "2006",
+  "foundingLocation": {
+       "@type": "Place",
+       "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Columbus",
+            "addressRegion": "OH"
+       }     
+  },
+  "numberOfEmployees": "600+",
+  "hasOfferCatalog": {
+       "@type": "OfferCatalog",
+       "name": "Rogue Catalog",
+       "url": "https://www.roguefitness.com/rogue-catalog"
+  },
+  "knowsAbout": [
+       "Fitness",
+       "Strength & Conditioning equipment"
+  ],
+  "department": {
+       "@type": "Organization",
+       "name": "Rogue Supply Co.",
+       "url": "https://www.roguesupplyco.com/"
+  },
+  "subOrganization": {
+       "@type": "Organization",
+       "name": "Rogue Europe",
+       "url": "https://www.rogueeurope.eu/"
+  }
+}
+</script></div>
+<div id="app">
+<side-cart></side-cart>
+<account></account>
+<messages></messages>
+</div>
+<div class="header-wrapper">
+<noscript>
+        <div class="global-site-notice noscript">
+            <div style="color: white;" class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br/>
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+<header class="header-container">
+<div class="top-header">
+<div class="top-header-container">
+<div class="store-switcher-container">
+<a class="rogue ga-header-storeSwitcher" href="https://www.rogueeurope.eu"><span></span></a>
+<div class="current-store-container euroview">
+<span class="current-store-title top-header-link">EUR</span>
+<div class="store-switcher-dropdown" data-store-url="https://www.rogueeurope.eu">
+<a class="flag-usa  ga-header-storeSwitcher" data-store-id="1" href="https://www.roguefitness.com?___store=default">USA</a><a class="flag-apo  ga-header-storeSwitcher" data-store-id="4" href="https://www.rogueapo.com?___store=apostore">APO</a><a class="flag-canada  ga-header-storeSwitcher" data-store-id="2" href="https://www.roguecanada.ca?___store=canada_eng">CAN</a><a class="flag-europe locale-switcher   current-store  ga-header-storeSwitcher" data-store-id="5" href="https://www.rogueeurope.eu">EUR</a><a class="flag-australia  ga-header-storeSwitcher" data-store-id="18" href="https://www.rogueaustralia.com.au?___store=au_eng">AUS</a> </div>
+<div class="store-locale-dropdown" data-store-id="5">
+<a data-locale-code="en" href="https://www.rogueeurope.eu?locale=en">English</a><a data-locale-code="nl" href="https://www.rogueeurope.eu?locale=nl">Dutch</a><a data-locale-code="fr" href="https://www.rogueeurope.eu?locale=fr">French</a><a data-locale-code="de" href="https://www.rogueeurope.eu?locale=de">German</a><a data-locale-code="es" href="https://www.rogueeurope.eu?locale=es">Spanish</a> </div>
+</div>
+<a class="rogue-apo top-header-link ga-header-storeSwitcher" href="https://www.rogueapo.com?___store=apostore">
+APO Store </a>
+<div class="store-switcher-dropdown-container"></div>
+</div>
+<div class="top-header-links">
+<a class="top-header-link top-link-gift-cards ga-header-topLink" href="https://www.rogueeurope.eu/gift-cards">Gift Cards</a>
+<a class="top-header-link ga-header-topLink" href="https://www.rogueeurope.eu/contact-us">Contact Us</a>
+<a class="top-header-link ga-header-topLink" href="https://www.rogueeurope.eu/shippingtracker">Order Status</a>
+<span class="top-header-live-chat">
+<div id="live-chat"></div>
+<span>
+</div>
+</div>
+</div>
+<div class="rogue-section">
+<div class="rogue-section-container">
+<div class="hamburger ga-header-hamburger"><div class="hamburger-icon"></div></div>
+<a class="rogue-logo ga-header-rogueLogo" href="https://www.rogueeurope.eu/"></a>
+<form id="search_mini_form" action="https://www.rogueeurope.eu/catalogsearch/result" method="get">
+<div class="input-text">
+<input id="search" placeholder="Search" type="text" name="q" maxlength="128" />
+<span class="mag-glass" onclick="document.getElementById('search_mini_form').submit()"></span>
+</div>
+<div id="site-search">
+<site-search />
+</div>
+</form>
+<div class="promo-block">
+<a class="red-banner ga-header-shippingPromoBanner" href="https://www.rogueeurope.eu/shipping-promotions">Daily Shipping Deals</a>
+<p class="short-desc">BUY 3 OR MORE <span class="red">3 SHIPS FREE</span> ITEMS AND THEY SHIP FOR FREE <a href="https://www.rogueeurope.eu/3-ships-free" class="ga-header-shippingPromoLink ga-header-shippingPromoLink-threeShipsFree">Shop Now</a></p>
+<p class="short-desc"><span class="red">FREE SHIPPING</span> ON SELECT ITEMS <a href="https://www.rogueeurope.eu/free-shipping" class="ga-header-shippingPromoLink ga-header-shippingPromoLink-freeShippingItems">Shop Now</a></p>
+<p class="short-desc">BUY A RIG* AND IT <span class="red">SHIPS FREE</span> <a href="https://www.rogueeurope.eu/shipping-promotions" class="ga-header-shippingPromoLink ga-header-shippingPromoLink-rigShipsFree">See Details</a></p>
+</div>
+<script type="text/javascript">
+document.observe("dom:loaded", function(){
+	var k = 0,
+	    desc = jQuery("p.short-desc");
+	if (desc.length > 1) {
+		setInterval(function () {
+   			k = (k+1) % desc.length;
+   			desc.fadeOut().delay(500).eq(k).fadeIn(); 
+		}, 5000);
+	}
+});
+</script>
+<div class="quick-access-icons">
+<div class="search-icon"></div>
+<div id="customer-account-icon"></div>
+<div id="cart-icon"></div>
+</div>
+</div>
+</div>
+<nav>
+<div class="topnav">
+<div class="view-all-categories"><span>Shop</span></div>
+<div class='topnav-links'>
+<a href="https://www.rogueeurope.eu/crossfit-equipment" title="Equipment for CrossFit" id="nav-crossfit" class="ga-header-topNav">EQUIPMENT FOR CROSSFIT<sup>&reg;</sup></a>
+<a href="https://www.rogueeurope.eu/new-gear" title="New Gear" id="nav-gear" class="ga-header-topNav">NEW GEAR</a>
+<a href="https://www.rogueeurope.eu/weightlifting-bars-plates/barbells" title="Barbells" id="nav-bars" class="ga-header-topNav">BARBELLS</a>
+<a href="https://www.rogueeurope.eu/weightlifting-bars-plates/bumpers" title="Plates" id="nav-plates" class="ga-header-topNav">PLATES</a>
+<a href="https://www.rogueeurope.eu/rogue-rigs-racks" title="Rogue Rigs &amp; Racks" id="nav-rigs-racks" class="ga-header-topNav">RIGS &amp; RACKS</a>
+<a href="https://www.rogueeurope.eu/shoes" title="Shoes" id="nav-shoes" class="ga-header-topNav">SHOES</a>
+<a href="https://www.rogueeurope.eu/gear-apparel" title="Apparel" id="nav-apparel" class="ga-header-topNav">APPAREL</a>
+<a href="https://www.rogueeurope.eu/3-ships-free" title="3 Ships Free" id="nav-ships-free" class="ga-header-topNav">3 SHIPS FREE</a>
+<a href="https://www.rogueeurope.eu/conditioning" title="Conditioning" id="nav-conditioning" class="ga-header-topNav">CONDITIONING</a>
+<a href="https://www.rogueeurope.eu/deals" title="Deals" id="nav-hot-deals" class="ga-header-topNav">DEALS</a>
+</div>
+<style>
+  .free_get_png, .free_buy_png { display: none !important; }
+
+  @media(max-width: 1325px) {
+    #nav-conditioning { display: none; }
+  }
+  
+  @media(max-width: 1075px) {
+    nav .topnav .topnav-links a {
+      font-size: 15px;
+    }
+    
+    #nav-hot-deals:before {
+      height: 12px !important;
+    }
+  }
+</style> <div class="nav-container">
+<div class="shop-by-category-mobile"><span class="mobile-navigation-back"></span>SHOP BY CATEGORY</div>
+<ul><li><a id="deals" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/deals">Deals</a></li><li><a id="weightlifting-bars-plates" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/weightlifting-bars-plates">Weightlifting Bars & Plates</a></li><li><a id="strength-equipment" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/strength-equipment">Strength Equipment</a></li><li><a id="rogue-rigs-racks" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/rogue-rigs-racks">Rogue Rigs & Racks</a></li><li><a id="equipment-packages" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/equipment-packages">Equipment Packages</a></li><li><a id="conditioning" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/conditioning">Conditioning</a></li><li><a id="bodyweight-gymnastics" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/bodyweight-gymnastics">Bodyweight & Gymnastics</a></li><li><a id="shoes" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/shoes">Shoes</a></li><li><a id="gear-apparel" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/gear-apparel">Apparel</a></li><li><a id="gear-accessories" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/gear-accessories">Rogue Gear & Accessories</a></li><li><a id="lifting-straps-wraps" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/lifting-straps-wraps">Straps, Wraps & Support</a></li><li><a id="strongman" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/strongman">Strongman</a></li><li><a id="crossfit-equipment" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/crossfit-equipment">Equipment for CrossFit®</a></li><li><a id="mobility-rehab" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/mobility-rehab">Mobility</a></li><li><a id="facility-outfitting" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/facility-outfitting">Facility Outfitting</a></li><li><a id="nutrition-supplements" class="level-top ga-header-nav-level1" href="https://www.rogueeurope.eu/nutrition-supplements">Nutrition & Supplements</a></li></ul><div id="sub-deals" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/deals">Deals</a></h3><div class="subnav-wrap"></div></div><div id="sub-weightlifting-bars-plates" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/weightlifting-bars-plates">Weightlifting Bars & Plates</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/weightlifting-bars-plates/barbells"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/ohio-red-update_1.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/weightlifting-bars-plates/barbells">Barbells</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/barbells/mens-20kg-barbells">Men's 20KG Barbells</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/barbells/womens-15kg-barbells">Women's 15KG Barbells</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/barbells/junior-barbells">Junior's Barbells</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/barbells/technique-barbells">Technique Barbells</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/barbells/specialty-barbells">Specialty Barbells</a></div><div class="sub-col column-2"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/weightlifting-bars-plates/bumpers"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/2014-rogue-color-lb-training-2.0-plates-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/weightlifting-bars-plates/bumpers">Plates</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/bumpers/bumper-plates">Bumper Plates</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/bumpers/competition-bumpers">Competition Bumpers</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/bumpers/steel-plates">Steel Plates</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/bumpers/fractional-plates">Change Plates</a></div><div class="sub-col column-3"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/weightlifting-bars-plates/storage"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/plate-tree-v3-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/weightlifting-bars-plates/storage">Storage</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/storage/barbells">Barbell Storage</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/storage/plate-storage">Plate Storage</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/storage/dumbbells">Dumbbell Storage</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/storage/kettlebells">Kettlebell Storage</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/storage/accessories">Storage Accessories</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/storage/wall-storage">Wall Storage</a></div><div class="sub-col column-4"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/weightlifting-bars-plates/collars"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/oso-rogue-collars-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/weightlifting-bars-plates/collars">Collars</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/collars/hg-collars">HG Collars</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/collars/oso-collars">OSO Collars</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/collars/spring-collars">Spring Collars</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/weightlifting-bars-plates/collars/specialty-collars">Specialty Collars</a></div></div></div><div id="sub-strength-equipment" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/strength-equipment">Strength Equipment</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strength-equipment/squat-stands"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/Equipment-Squat-Stands-nav.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strength-equipment/squat-stands">Squat Stands</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/squat-stands/monster-lite">Monster Lite Series</a></div><div class="sub-col column-2"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strength-equipment/power-racks"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/Equipment--Power-Racks-nav.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strength-equipment/power-racks">Power Racks</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/power-racks/monster-series">Monster Series</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/power-racks/monster-lite-series">Monster Lite Series</a></div><div class="sub-col column-3"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strength-equipment/pullup-rigs"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/Strength_Equipment_-_Pullup_Rigs.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strength-equipment/pullup-rigs">Pull-up Rigs</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/pullup-rigs/monster-lite-series">Monster Lite Series</a></div><div class="sub-col column-4"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strength-equipment/strength-training"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/Strength_Equipment_-_Strength_Training.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strength-equipment/strength-training">Strength Training</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/strength-training/benches">Weight Benches</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/strength-training/ghds">Glute Ham (GHD)</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/strength-training/reverse-hypers">Reverse Hypers</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/strength-training/sleds">Sleds</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/strength-training/yokes">Yokes</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/strength-training/upper-body">Upper Body Training</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/strength-training/lower-body">Lower Body Training</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/strength-training/platforms">Platforms</a></div><div class="sub-col column-5"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strength-equipment/kits-accessories"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/mini-deadlift-bar-jack-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strength-equipment/kits-accessories">Training Accessories</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/kits-accessories/bands">Bands</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/kits-accessories/storage">Storage</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/kits-accessories/jerk-blocks">Jerk Blocks</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/kits-accessories/deadlift-bar-jack">Deadlift Bar Jack</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strength-equipment/kits-accessories/rig-accessories">Rig Accessories</a></div></div></div><div id="sub-rogue-rigs-racks" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/rogue-rigs-racks">Rogue Rigs & Racks</a></h3><div class="subnav-wrap"><div class="sub-col column-3"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/rogue-rigs-racks/rigs"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rr-thumb-rig-nav.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/rogue-rigs-racks/rigs">Rigs</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/rogue-rigs-racks/rigs/monster-lite-rigs">Monster Lite Rigs</a></div><div class="sub-col column-4"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/rogue-rigs-racks/wallmounts"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rr-thumb-wall-nav_1.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/rogue-rigs-racks/wallmounts">Wallmounts</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/rogue-rigs-racks/wallmounts/ml-wallmounts">Monster Lite Wallmounts</a></div><div class="sub-col column-2"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/rogue-rigs-racks/power-racks"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/690.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/rogue-rigs-racks/power-racks">Power Racks</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/rogue-rigs-racks/power-racks/monster-racks">Monster Racks</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/rogue-rigs-racks/power-racks/monster-lite-racks">Monster Lite Racks</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/rogue-rigs-racks/power-racks/r-series-racks">R-Series Racks</a></div><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/rogue-rigs-racks/squat-stands"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/squat-stands-nav-thumb.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/rogue-rigs-racks/squat-stands">Squat Stands</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/rogue-rigs-racks/squat-stands/ml-squat-stands">Monster Lite Squat Stands</a></div><div class="sub-col column-5"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/rogue-rigs-racks/accessories"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/monster-lite-spotter-arm-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/rogue-rigs-racks/accessories">Rig & Rack Accessories</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/rogue-rigs-racks/accessories/monster-accessories">Monster Accessories</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/rogue-rigs-racks/accessories/ml-accessories">Monster Lite Accessories</a></div></div><div class="sub-col sub-col-two bottom-promo-image"><a href="/rogue-rigs-racks/accessories/monster-accessories"><img data-src="https://www.rogueeurope.eu/media/catalog/category//Monster_Homepage_Snipe.png"></a></div></div><div id="sub-equipment-packages" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/equipment-packages">Equipment Packages</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/equipment-packages/crossfit-packages"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/4863.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/equipment-packages/crossfit-packages">CrossFit® Packages</a></h5></div></div></div><div id="sub-conditioning" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/conditioning">Conditioning</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/conditioning/strength-equipment"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rogue-black-med-balls-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/conditioning/strength-equipment">Strength Equipment</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/strength-equipment/kettlebells">Kettlebells</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/strength-equipment/dumbbells">Dumbbells</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/strength-equipment/sleds">Sleds</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/strength-equipment/yokes">Yokes</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/strength-equipment/medicine-balls">Medicine Balls</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/strength-equipment/slam-balls">Slam Balls</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/strength-equipment/sand-bags">Sand Bags</a></div><div class="sub-col column-2"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/conditioning/plyo-boxes"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/plyoboxes-th_4.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/conditioning/plyo-boxes">Plyo Boxes</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/plyo-boxes/games-boxes">Games Boxes</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/plyo-boxes/wood">Wood Plyoboxes</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/plyo-boxes/foam-plyoboxes">Foam Plyoboxes</a></div><div class="sub-col column-3"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/conditioning/endurance"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/echo-bike-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/conditioning/endurance">Endurance</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/endurance/rowers">Concept 2 Rowers</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/endurance/skiergs">SkiErgs</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/endurance/bikes">Bikes</a></div><div class="sub-col column-4"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/conditioning/jump-ropes"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/jump-rope-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/conditioning/jump-ropes">Jump Ropes</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/jump-ropes/sr-series">SR Series</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/jump-ropes/speed-ropes">Speed Ropes</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/jump-ropes/weighted-ropes">Weighted Ropes</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/jump-ropes/training-ropes">Training Ropes</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/jump-ropes/cables">Cables</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/jump-ropes/storage">Storage</a></div><div class="sub-col column-5"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/conditioning/speed-agility"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/speed-nav.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/conditioning/speed-agility">Speed & Agility</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/speed-agility/suspension-training">Suspension Training</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/speed-agility/core">Core & Stability</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/speed-agility/ladders">Ladders</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/speed-agility/hurdles">Hurdles</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/speed-agility/balance">Balance</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/conditioning/speed-agility/boxing-mma">Boxing & MMA</a></div></div></div><div id="sub-bodyweight-gymnastics" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/bodyweight-gymnastics">Bodyweight & Gymnastics</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/bodyweight-gymnastics/gymnastics"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rogue-wood-rings-th.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/bodyweight-gymnastics/gymnastics">Gymnastics</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/gymnastics/rings">Rings</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/gymnastics/parallettes">Parallettes</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/gymnastics/grips">Grips</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/gymnastics/matting">Matting</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/gymnastics/accessories">Accessories</a></div><div class="sub-col column-2"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/bodyweight-gymnastics/body-weight"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/511-vests-h-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/bodyweight-gymnastics/body-weight">Bodyweight</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/body-weight/abmats">AbMats</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/body-weight/weight-vests">Weighted Vests</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/body-weight/rucking">Rucking</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/body-weight/dip-belts">Dip Belts</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/body-weight/peg-boards">Peg Boards</a></div><div class="sub-col column-3"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/bodyweight-gymnastics/rpg-pullup-system"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/door-jammer-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/bodyweight-gymnastics/rpg-pullup-system">Pull-up Systems</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/rpg-pullup-system/wall-mounted">Wall Mounted</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/rpg-pullup-system/ceiling-mounted">Ceiling Mounted</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/rpg-pullup-system/portable">Portable</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/rpg-pullup-system/pull-up-bands">Pull-up Bands</a></div><div class="sub-col column-4"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/bodyweight-gymnastics/ropes"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rogue-utility-rope-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/bodyweight-gymnastics/ropes">Ropes</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/ropes/climbing-ropes">Climbing Ropes</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/ropes/conditioning-ropes">Conditioning Ropes</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/ropes/jump-ropes">Jump Ropes</a></div><div class="sub-col column-5"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/bodyweight-gymnastics/grip"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/climbing-hold-crossmember-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/bodyweight-gymnastics/grip">Grip</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/grip/pinch-blocks">Pinch Blocks</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/grip/grippers">Grippers</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/grip/fat-grips">Fat Grips</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/grip/pull-up-tools">Pull-up Tools</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/grip/strongman-implements">Strongman Implements</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/grip/rock-climbing">Climbing</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/bodyweight-gymnastics/grip/chalk">Chalk</a></div></div></div><div id="sub-shoes" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/shoes">Shoes</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/shoes/weightlifting-shoes"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/ao7987001-th.png" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/shoes/weightlifting-shoes">Weightlifting Shoes</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/shoes/weightlifting-shoes/nike">Nike</a></div><div class="sub-col column-4"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/shoes/training-shoes"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/aq1189-011-h.png" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/shoes/training-shoes">Training Shoes</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/shoes/training-shoes/nike">Nike Metcon</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/shoes/training-shoes/nobull-training-shoes">NOBULL</a></div></div></div><div id="sub-gear-apparel" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/gear-apparel">Apparel</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-apparel/mens-apparel"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/hw0701-h.png" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-apparel/mens-apparel">Men's Apparel</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/mens-apparel/tshirts">T-Shirts</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/mens-apparel/tanks">Tanks</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/mens-apparel/hoodies">Hoodies</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/mens-apparel/longsleeve">Longsleeve</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/mens-apparel/shorts">Shorts</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/mens-apparel/pants">Pants</a></div><div class="sub-col column-2"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-apparel/womens-apparel"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rogue-womens-zip-up-mil-green-h.png" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-apparel/womens-apparel">Women's Apparel</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/womens-apparel/t-shirts">T-Shirts</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/womens-apparel/tanks">Tanks</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/womens-apparel/hoodies">Hoodies</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/womens-apparel/longsleeve">Longsleeve</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/womens-apparel/shorts-sweatpants">Shorts</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/womens-apparel/pants">Pants</a></div><div class="sub-col column-3"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-apparel/kids-apparel"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rogue-basic-youth-shirt-red-th.png" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-apparel/kids-apparel">Kid's Apparel</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/kids-apparel/one-pieces">One-Pieces</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/kids-apparel/t-shirts">T-Shirts</a></div><div class="sub-col column-4"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-apparel/headwear"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/google-30365-_2_.png" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-apparel/headwear">Headwear</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/headwear/hats">Hats</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/headwear/beanies">Beanies</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/headwear/head-bands">Headbands</a></div><div class="sub-col column-5"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-apparel/accessories"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/r-you-rogue-sock-web-th1_1.png" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-apparel/accessories">Accessories</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/accessories/socks">Socks</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/accessories/belts">Belts </a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/accessories/compression-gear">Compression Gear</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-apparel/accessories/patches">Patches</a></div></div></div><div id="sub-gear-accessories" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/gear-accessories">Rogue Gear & Accessories</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-accessories/gym-essentials"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rogue-echo-timer-th2.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-accessories/gym-essentials">Gym Essentials</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/gym-essentials/chalk">Gym Chalk</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/gym-essentials/flooring-and-rubber">Flooring & Rubber</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/gym-essentials/timers">Timers</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/gym-essentials/banners-posters">Banners & Posters</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/gym-essentials/flags">Flags</a></div><div class="sub-col column-2"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-accessories/packs-bags"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rogue-ripstop-gym-bag-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-accessories/packs-bags">Packs & Bags</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/packs-bags/kit-bags">Duffels</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/packs-bags/accessories">Accessories</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/packs-bags/rucks">Backpacks</a></div><div class="sub-col column-3"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-accessories/books-media"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rogue-supply-book-ends-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-accessories/books-media">Books & Media</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/books-media/books">Books</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/books-media/dvds-bluray">DVD & Blu-Ray</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/books-media/posters">Posters</a></div><div class="sub-col column-4"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-accessories/accessories"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/yt0022-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/gear-accessories/accessories">Accessories</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/accessories/water-bottles">Shakers & Bottles</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/accessories/sweat-bands">Sweatbands</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/gear-accessories/accessories/everyday-gear">Everyday Gear</a></div></div></div><div id="sub-lifting-straps-wraps" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/lifting-straps-wraps">Straps, Wraps & Support</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/lifting-straps-wraps/straps-wraps"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rwb-strength-wrap-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/lifting-straps-wraps/straps-wraps">Straps & Wraps</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/straps-wraps/wrist-wraps">Wrist Wraps</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/straps-wraps/lifting-straps">Lifting Straps</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/straps-wraps/knee-wraps">Knee Wraps</a></div><div class="sub-col column-2"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/lifting-straps-wraps/hand-protection"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/bear-komplex-3-hole-carbon-froning-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/lifting-straps-wraps/hand-protection">Hand Protection</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/hand-protection/gloves">Gloves</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/hand-protection/grips">Grips</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/hand-protection/hand-care">Hand Care</a></div><div class="sub-col column-3"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/lifting-straps-wraps/lifting-belts"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/nylon-foam-weightlifting-belts-update.png" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/lifting-straps-wraps/lifting-belts">Belts</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/lifting-belts/weightlifting">Weightlifting</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/lifting-belts/powerlifting">Powerlifting</a></div><div class="sub-col column-4"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/lifting-straps-wraps/protection-supports"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/black-rogue-knee-sleeve-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/lifting-straps-wraps/protection-supports">Protection & Supports</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/protection-supports/knee-sleeves">Knee</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/protection-supports/elbow-sleeves">Elbow </a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/protection-supports/shin-sleeves">Shin </a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/protection-supports/back">Back</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/protection-supports/thigh-groin">Thigh & Groin </a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/protection-supports/wrist">Wrist</a></div><div class="sub-col column-5"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/lifting-straps-wraps/weight-straps"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/black-upper-body-sled-strap-web-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/lifting-straps-wraps/weight-straps">Weight Straps</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/weight-straps/harnesses">Harnesses</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/weight-straps/sled-straps-belts">Sled Straps & Belts</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/lifting-straps-wraps/weight-straps/strap-accessories">Strap Accessories</a></div></div></div><div id="sub-strongman" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/strongman">Strongman</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strongman/sleds"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rogue-echo-sled-th-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strongman/sleds">Yokes & Sleds</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/sleds/yokes">Yokes</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/sleds/sleds">Sleds</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/sleds/push-sleds">Push Sleds</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/sleds/pull-sleds">Pull Sleds</a></div><div class="sub-col column-2"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strongman/logs-axles-handles"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/stubby-axle-th-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strongman/logs-axles-handles">Logs, Axles & Handles</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/logs-axles-handles/farmers-walk">Farmers Walk</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/logs-axles-handles/axles">Axles</a></div><div class="sub-col column-3"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strongman/sandbags-stone-molds"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/Sandbags-new-nav.png" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strongman/sandbags-stone-molds">Sandbags & Stone Molds</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/sandbags-stone-molds/strongman-sandbags">Strongman Sandbags</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/sandbags-stone-molds/hybrid-molds">Hybrid Molds</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/sandbags-stone-molds/straps">Straps</a></div><div class="sub-col column-4"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strongman/hammers-grip"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/plate-loaded-gripper-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strongman/hammers-grip">Grip Strength</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/hammers-grip/fat-bars">Fat Bars</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/hammers-grip/captains-of-crush">Captains of Crush</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/hammers-grip/pinch-grips">Pinch Grips</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/hammers-grip/fat-grips">Fat Grips</a></div><div class="sub-col column-5"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strongman/accessories"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/rogue-strongman-throwbag-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/strongman/accessories">Strongman Accessories</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/accessories/hammers">Hammers</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/strongman/accessories/supports">Supports</a></div></div></div><div id="sub-crossfit-equipment" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/crossfit-equipment">Equipment for CrossFit®</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/crossfit-equipment/top-products"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/crossfit-top-product_1.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/crossfit-equipment/top-products">Top Products</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/top-products/bars">Bars</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/top-products/bumpers">Plates</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/top-products/rings">Rings</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/top-products/medicine-balls">Medicine Balls</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/top-products/abmats">Abmat</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/top-products/jump-ropes">Jump Ropes</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/top-products/kettlebells">Kettlebells</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/top-products/squat-stands-and-racks">Squat Stands and Racks</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/top-products/pull-up-rigs-and-bars">Pull-up Systems</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/top-products/rowers">Rowers</a></div><div class="sub-col column-2"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/crossfit-equipment/by-type"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/tia-updated.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/crossfit-equipment/by-type">By Type</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/by-type/experienced-crossfitter">Experienced CrossFitter</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/by-type/new-to-crossfit">New To CrossFit®</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/by-type/affiliate">Affiliate</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/by-type/education-college-schools">Education/College & Schools</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/by-type/kids">Kids'</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/crossfit-equipment/by-type/mobility">Mobility</a></div></div></div><div id="sub-mobility-rehab" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/mobility-rehab">Mobility</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/mobility-rehab/mobility-tools"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/short-bands-new-logo-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/mobility-rehab/mobility-tools">Mobility Tools</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/mobility-rehab/mobility-tools/balls">Balls</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/mobility-rehab/mobility-tools/rollers">Foam Rollers</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/mobility-rehab/mobility-tools/bands">Bands</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/mobility-rehab/mobility-tools/massage-sticks">Massage Sticks</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/mobility-rehab/mobility-tools/floss">Floss</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/mobility-rehab/mobility-tools/muscle-stimulation">Muscle Stimulation</a></div><div class="sub-col column-2"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/mobility-rehab/mobilitywod"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/Black-Voodo-Band-nav.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/mobility-rehab/mobilitywod">MobilityWOD</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/mobility-rehab/mobilitywod/tools">Tools</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/mobility-rehab/mobilitywod/voodoo-floss">VooDoo Floss</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/mobility-rehab/mobilitywod/books-and-posters">Books and Posters</a></div><div class="sub-col column-3"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/mobility-rehab/mobility-accessories"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/Mobility_-_Accessories.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/mobility-rehab/mobility-accessories">Mobility Accessories</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/mobility-rehab/mobility-accessories/recovery">Recovery</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/mobility-rehab/mobility-accessories/tape">Tape</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/mobility-rehab/mobility-accessories/posters">Posters</a></div></div></div><div id="sub-facility-outfitting" class="sub wide no-columns" style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/facility-outfitting">Facility Outfitting</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/facility-outfitting/garage-gyms">Garage Gyms</a></h5></div><div class="sub-col column-2"><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/facility-outfitting/affiliate-gyms">Affiliate Gyms</a></h5></div><div class="sub-col column-3"><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/facility-outfitting/training-gyms">Training Gyms</a></h5></div></div><div class="sub-col sub-col-two"><a href="/facility-outfitting"><img data-src="https://www.rogueeurope.eu/media/catalog/category//facility-outfitting-nav-bg2.jpg"></a></div></div><div id="sub-nutrition-supplements" class="sub wide " style="display: none;"><h3><a class="ga-header-nav-level1Title" href="https://www.rogueeurope.eu/nutrition-supplements">Nutrition & Supplements</a></h3><div class="subnav-wrap"><div class="sub-col column-1"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/nutrition-supplements/nutrition"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/sc0041-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/nutrition-supplements/nutrition">Nutrition</a></h5></div><div class="sub-col column-2"><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/nutrition-supplements/supplements"><img data-src="https://www.rogueeurope.eu/media/catalog/category/resize/128/stainless-blender-bottle-update.jpg" /></a><h5><a class="ga-header-nav-level2" href="https://www.rogueeurope.eu/nutrition-supplements/supplements">Supplements</a></h5><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/nutrition-supplements/supplements/vitamins">Vitamins</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/nutrition-supplements/supplements/protein">Protein</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/nutrition-supplements/supplements/sports-nutrition">Sports Nutrition & Workout Support</a><a class="sc-r ga-header-nav-level3" href="https://www.rogueeurope.eu/nutrition-supplements/supplements/shaker-bottles">Shaker Bottles</a></div></div></div> <div class="mobile-navigation-items">
+<a href="/custom-quotes" class="mobile-nav-item custom-quotes">Custom Quotes</a>
+<a href="/new-gear/" class="mobile-nav-item new-gear">New Gear</a>
+<a href="/shipping-promotions/" class="mobile-nav-item daily-shipping-deals">Daily Shipping Deals</a>
+<a href="/3-ships-free/" class="mobile-nav-item three-ships-free-items">3 Ships Free Items</a>
+<a href="/gift-certificates-eu/" class="mobile-nav-item gift-cards gift-certificates">Gift Cards</a>
+<a href="/deals-closeout/closeout" class="mobile-nav-item closeout">Closeout</a>
+<a href="/athletes/" class="mobile-nav-item rogue-athletes">Rogue Athletes</a>
+<a href="/shippingtracker" class="mobile-nav-item track-an-order">Track An Order</a> </div>
+</div>
+</div>
+</nav>
+</header>
+<div id="vue-veterans-day">
+<veterans-day is-snipe="true" />
+</div>
+</div>
+<div class="wrapper">
+<div class="main-container">
+<div style="display:none" class="cache-message" id="cache-session-messages-global_messages"></div> <div id="applight-customer"></div>
+<script type="text/javascript">
+            //<![CDATA[
+                roguebinurl = "https://www.rogueeurope.eu/roguebin";
+            //]]>
+            </script><div id="rogueBinTemplate"><div class="bin-stock-availability">
+
+<div class="bin-out-of-stock bin-out-of-stock-option" style="display: none">
+<div class="bin-out-of-stock-message" style="display: none">
+Out of Stock </div>
+<div class="bin-out-of-stock-status" style="display: none">
+Availability: {custom_status} </div>
+</div>
+<div class="bin-signup-dropper">
+<button type="button" onclick="signupToggle(this)" title="Notify Me" class="v-btn v-btn-gray v-btn-full">
+Notify Me </button>
+</div>
+</div>
+<div class="bin-signup-container" style="display: none">
+<div class="wrapper bin-wrapper">
+<a class="bin-closer" onclick="signupClose(this);"></a>
+<div class="bin-banner">
+<span class="bin-banner-oos">
+Coming Soon </span>
+</div>
+ <span class="bin-banner-name">
+{product_name} </span>
+<p class="bin-message">
+Sign-up to be notified when this product is available! </p>
+<div class="bin-signup-fields">
+<div class="bin-email-field input-text">
+<input id="binemail-{product_id}" type="text" class="bin-email" placeholder="Email" onkeydown="rogueBinEmailKeydown(event, '{product_id}')" />
+</div>
+<div class="bin-email-message">
+Account email will be used for sign up. </div>
+<button id="bin-button-{product_id}" type="button" class="btn bin-button btn-green btn-arrow-right" onclick="binsignupAction('{product_id}', '{parent_id}')">
+Sign Up </button>
+</div>
+<div id="roguebin-response-{product_id}" class="bin-response"></div>
+</div>
+</div>
+</div><div style="display:none" class="cache-message" id="cache-session-messages-messages"></div><div class="big-slider">
+<div class="first-slide owl-carousel" style="display: block">
+<a href="https://www.rogueeurope.eu/garage-gym?icid=carousel" class="slider-item garage-gym" style="background-position: center;">
+<div class="contentWrapper">
+<div class="content top-left">
+<div class="big-text">
+<div class="line large-txt">Garage Gym<br />Essentials</div>
+<div class="button">Shop Now</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="owl-carousel lazy-carousel">
+<a href="https://www.rogueeurope.eu/conditioning/endurance?icid=carousel" class="slider-item conditioning" style="background-position: center;">
+<div class="contentWrapper">
+<div class="content top-left">
+<div class="big-text">
+<div class="line large-txt">Conditioning<br />Gear</div>
+<div class="button">Shop Now</div>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.rogueeurope.eu/iwf-certified?icid=carousel" class="slider-item iwf-approved" style="background-position: center;">
+<div class="contentWrapper">
+<div class="content top-left">
+<div class="big-text">
+<div class="line large-txt">IWF<br />Approved Gear</div>
+<div class="button">Shop Now</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<style>
+/* overwrite homepage css */
+.big-slider .slider-item .contentWrapper .content.bottom-left,
+.big-slider .slider-item .contentWrapper .content.top-left {
+     left:112px;
+}
+
+.big-slider .slider-item {
+  display: block;
+}
+
+
+  /*general stuff*/
+  .big-slider .content {
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+  }
+
+  .big-slider .slider-item .contentWrapper .content.bottom-left,
+  .big-slider .slider-item .contentWrapper .content.top-left {
+    left: 40px;
+  }
+
+  .big-slider .button {
+    font-size: 16px !important;
+    text-shadow: none;
+  }
+
+  .big-slider .large-txt {
+    font-size: 30px;
+    line-height: 0.9em;
+  }
+
+  .big-slider .small-txt {
+    font-size: 18px;
+    font-weight: normal;
+  }
+
+  .big-slider .large-txt + .small-txt {
+    margin-top: -10px;
+  }
+
+  .big-slider .invert {
+    background-color: #ffffff;
+    color: #000000;
+    margin: 0.15em 0;
+    padding: 0 5px;
+    display: inline-block;
+    line-height: 52px;
+  }
+
+  .hot-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+  }
+
+  @media (min-width: 737px) {
+    .big-slider .slider-item .contentWrapper .content.bottom-left,
+    .big-slider .slider-item .contentWrapper .content.top-left {
+      left: 112px;
+    }
+    .big-slider .slider-item .contentWrapper .content.bottom-left {
+      bottom: 40px;
+    }
+    .big-slider .large-txt {
+      font-size: 50px;
+    }
+    .big-slider .small-txt {
+      font-size: 23px;
+    }
+  }
+
+  @media (min-width: 1025px) {
+    .big-slider .slider-item .contentWrapper .content.top-left {
+      top: 70px;
+    }
+  }
+  /*end general stuff*/
+
+  /*iwf-approved*/
+  .big-slider .slider-item.iwf-approved {
+    background-image: url(https://assets.roguefitness.com/image/upload/f_auto,q_auto,w_auto/v1583432200/homepage/sliders/IWF-Mobile-Slider-Final_lccgvr.jpg);
+  }
+
+  .big-slider .slider-item.iwf-approved .content.top-left {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+
+  @media (min-width: 737px) {
+    .big-slider .slider-item.iwf-approved{
+      background-image: url(https://assets.roguefitness.com/image/upload/f_auto,q_auto,w_auto/v1583427671/homepage/sliders/IWF-Desktop-Slider-Final_no_text_hl5x5c.jpg);
+    }
+  }
+  /*iwf-approved*/
+
+  /*garage-gym*/
+  .big-slider .slider-item.garage-gym {
+    background-image: url(https://assets.roguefitness.com/image/upload/f_auto,q_auto,w_auto/v1583432200/homepage/sliders/Home-Gym-Slider_Mobile_b6wsns.jpg);
+  }
+
+  .big-slider .slider-item.garage-gym .content.top-left {
+    top: 60%;
+    transform: translateY(-50%);
+  }
+
+
+  @media (min-width: 737px) {
+    .big-slider .slider-item.garage-gym{
+      background-image: url(https://assets.roguefitness.com/image/upload/f_auto,q_auto,w_auto/v1583427671/homepage/sliders/Home-Gym-Slider_Desktop_fvzc5k.jpg);
+    }
+  }
+  /*garage-gym*/
+
+  /*conditioning*/
+  .big-slider .slider-item.conditioning {
+    background-image: url(https://assets.roguefitness.com/image/upload/f_auto,q_auto,w_auto/v1583432200/homepage/sliders/Conditioning-Slider_Mobile_bmv8gc.jpg);
+  }
+
+  @media (min-width: 737px) {
+    .big-slider .slider-item.conditioning{
+      background-image: url(https://assets.roguefitness.com/image/upload/f_auto,q_auto,w_auto/v1583427671/homepage/sliders/Conditioning-Slider_Desktop_lahc5q.jpg);
+    }
+  }
+  /*conditioning*/
+</style>
+<div class="new-mobile-top-buttons">
+<a class="v-btn v-btn-black shop-new-gear" href="https://www.rogueeurope.eu/new-gear">SHOP NEW GEAR</a>
+<a class="v-btn v-btn-black deals" href="https://www.rogueeurope.eu/deals">
+<svg height="15" viewBox="0 0 61 15" width="61" xmlns="http://www.w3.org/2000/svg"><path d="m1 1.288h6.282c2.376 0 4.266.81 5.382 2.268v8.064c-1.116 1.458-3.006 2.268-5.382 2.268h-6.282zm3.816 3.06v6.48h1.89c1.098 0 1.746-.108 2.142-.612v-5.238c-.45-.432-1.098-.63-2.142-.63zm19.692 0h-6.408v1.71h5.112v2.88h-5.112v1.89h6.408v3.06h-10.044v-12.6h10.044zm8.802 7.2h-3.708l-.576 2.34h-3.834l3.546-12.6h5.49l3.528 12.6h-3.888zm-.684-2.88-1.152-4.86-1.188 4.86zm9.846 2.07h5.868v3.15h-9.684v-12.6h3.816zm14.598-5.31v-1.368h-3.744v1.476l7.38 1.566v6.3c-1.584.54-3.762.774-5.49.774-1.8 0-3.942-.234-5.526-.774v-3.654h3.636v1.368h3.744v-1.476l-7.38-1.566v-6.3c1.584-.54 3.726-.774 5.526-.774 1.728 0 3.906.234 5.49.774v3.654z" fill="#fff" fill-rule="evenodd" /></svg>
+</a>
+</div>
+<div class="small-slider">
+<h3 class="featured-mobile-header">Featured Gear</h3>
+<div class="product-slider">
+<div class="item">
+<a href="https://www.rogueeurope.eu/rogue-echo-bike-eu?icid=slider" title="Rogue Echo Bike">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/r/o/rogue-echo-bike-th_1_2.jpg" width="200" height="200" alt="Rogue Echo Bike" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/rogue-echo-bike-eu?icid=slider" title="Rogue Echo Bike">
+<div class="content">
+<div class="title">Rogue Echo Bike</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/rogue-echo-timer-eu?icid=slider" title="Rogue Echo Gym Timer">
+ <img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/r/o/rogue-echo-timer-th_2_1.jpg" width="200" height="200" alt="Rogue Echo Gym Timer" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/rogue-echo-timer-eu?icid=slider" title="Rogue Echo Gym Timer">
+<div class="content">
+<div class="title">Rogue Echo Gym Timer</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/rogue-ohio-deadlift-bar-black-zinc-eu?icid=slider" title="Rogue Ohio Deadlift Bar - Black Zinc">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/r/a/ra0963-blbr_1_1.jpg" width="200" height="200" alt="Rogue Ohio Deadlift Bar - Black Zinc" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/rogue-ohio-deadlift-bar-black-zinc-eu?icid=slider" title="Rogue Ohio Deadlift Bar - Black Zinc">
+<div class="content">
+<div class="title">Rogue Ohio Deadlift Bar - Black Zinc</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/rogue-color-kg-training-2-0-plates-iwf-eu?icid=slider" title="Rogue Color KG Training 2.0 Plates (IWF)">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/i/w/iwf-training-bumpers-th_1_4_1_2.jpg" width="200" height="200" alt="Rogue Color KG Training 2.0 Plates (IWF)" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/rogue-color-kg-training-2-0-plates-iwf-eu?icid=slider" title="Rogue Color KG Training 2.0 Plates (IWF)">
+<div class="content">
+<div class="title">Rogue Color KG Training 2.0 Plates (IWF)</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/rogue-usa-nylon-lifting-belt-eu?icid=slider" title="Rogue USA Nylon Lifting Belt">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/u/s/usa-nylon-lifting-belt-th_2.jpg" width="200" height="200" alt="Rogue USA Nylon Lifting Belt" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/rogue-usa-nylon-lifting-belt-eu?icid=slider" title="Rogue USA Nylon Lifting Belt">
+<div class="content">
+<div class="title">Rogue USA Nylon Lifting Belt</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/rogue-kg-change-plates-eu?icid=slider" title="Rogue KG Change Plates">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/n/e/new-rogue-change-plates-kg-th1_2.jpg" width="200" height="200" alt="Rogue KG Change Plates" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/rogue-kg-change-plates-eu?icid=slider" title="Rogue KG Change Plates">
+<div class="content">
+<div class="title">Rogue KG Change Plates</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+ </a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/rogue-resin-plyobox-eu?icid=slider" title="Rogue Resin Plyo Box">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/r/o/rogue-resin-plyoboxes-th_3.jpg" width="200" height="200" alt="Rogue Resin Plyo Box" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/rogue-resin-plyobox-eu?icid=slider" title="Rogue Resin Plyo Box">
+<div class="content">
+<div class="title">Rogue Resin Plyo Box</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/rogue-thor-shirt-eu?icid=slider" title="Rogue THOR Shirt">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/r/o/rogue_thumb_thor_men2.jpg" width="200" height="200" alt="Rogue THOR Shirt" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/rogue-thor-shirt-eu?icid=slider" title="Rogue THOR Shirt">
+<div class="content">
+<div class="title">Rogue THOR Shirt</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/rogue-echo-slam-balls-eu?icid=slider" title="Rogue Echo Slam Balls">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/e/c/echo-slam-ball-th_1.jpg" width="200" height="200" alt="Rogue Echo Slam Balls" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/rogue-echo-slam-balls-eu?icid=slider" title="Rogue Echo Slam Balls">
+<div class="content">
+<div class="title">Rogue Echo Slam Balls</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/yeti-rambler-20-oz-eu?icid=slider" title="YETI Rambler - 20oz">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/y/e/yeti-rogue-rambler-20oz-yt0001-th_2.png" width="200" height="200" alt="YETI Rambler - 20oz" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/yeti-rambler-20-oz-eu?icid=slider" title="YETI Rambler - 20oz">
+<div class="content">
+<div class="title">YETI Rambler - 20oz</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/ab-wheel-eu?icid=slider" title="Ab Wheel">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/r/o/rogue-ab-roller-th1_1.jpg" width="200" height="200" alt="Ab Wheel" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/ab-wheel-eu?icid=slider" title="Ab Wheel">
+<div class="content">
+<div class="title">Ab Wheel</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/basic-fitness-floor-home?icid=slider" title="Basic Fitness Floor Tiles">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/f/i/fitness-tile-th.jpg" width="200" height="200" alt="Basic Fitness Floor Tiles" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/basic-fitness-floor-home?icid=slider" title="Basic Fitness Floor Tiles">
+<div class="content">
+<div class="title">Basic Fitness Floor Tiles</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/nike-react-metcon-mens-black-white-eu?icid=slider" title="Nike React Metcon - Men's">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/b/q/bq6044010-th_1.jpg" width="200" height="200" alt="Nike React Metcon - Men's" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/nike-react-metcon-mens-black-white-eu?icid=slider" title="Nike React Metcon - Men's">
+<div class="content">
+<div class="title">Nike React Metcon - Men's</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/rogue-monster-bands-eu?icid=slider" title="Rogue Monster Bands">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/m/o/monster-band-new-logo-th1_2.jpg" width="200" height="200" alt="Rogue Monster Bands" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/rogue-monster-bands-eu?icid=slider" title="Rogue Monster Bands">
+<div class="content">
+<div class="title">Rogue Monster Bands</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/woddice-eu?icid=slider" title="WODDice®">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/w/o/wod-dice-th_1.jpg" width="200" height="200" alt="WODDice®" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/woddice-eu?icid=slider" title="WODDice®">
+<div class="content">
+<div class="title">WODDice®</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="https://www.rogueeurope.eu/rpm-speed-rope-4-0-eu?icid=slider" title="RPM Speed Rope 4.0">
+<img src="https://www.rogueeurope.eu/media/catalog/product/cache/5/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/r/p/rpm0006-th_1.jpg" width="200" height="200" alt="RPM Speed Rope 4.0" />
+</a>
+<a class="hidden" href="https://www.rogueeurope.eu/rpm-speed-rope-4-0-eu?icid=slider" title="RPM Speed Rope 4.0">
+<div class="content">
+<div class="title">RPM Speed Rope 4.0</div>
+<div class="btn btn-red">Shop Now</div>
+</div>
+</a>
+</div>
+<div class="item item-shop-now">
+<div class="image-gradient"><img src="data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABQAAD/7gAmQWRvYmUAZMAAAAABAwAVBAMGCg0AAAJ/AAACowAAA8AAAAPk/9sAhAACAgICAgICAgICAwICAgMEAwICAwQFBAQEBAQFBgUFBQUFBQYGBwcIBwcGCQkKCgkJDAwMDAwMDAwMDAwMDAwMAQMDAwUEBQkGBgkNCwkLDQ8ODg4ODw8MDAwMDA8PDAwMDAwMDwwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wgARCADIAMgDAREAAhEBAxEB/8QAbwABAQAAAAAAAAAAAAAAAAAAAAkBAQAAAAAAAAAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAJARAQAAAAAAAAAAAAAAAAAAAJASAQAAAAAAAAAAAAAAAAAAAJATAQAAAAAAAAAAAAAAAAAAAJD/2gAMAwEAAhEDEQAAAZ/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/9oACAEBAAEFAhx//9oACAECAAEFAhx//9oACAEDAAEFAhx//9oACAECAgY/Ahx//9oACAEDAgY/Ahx//9oACAEBAQY/Ahx//9oACAEBAwE/IRx//9oACAECAwE/IRx//9oACAEDAwE/IRx//9oADAMBAAIRAxEAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/9oACAEBAwE/EBx//9oACAECAwE/EBx//9oACAEDAwE/EBx//9k=" width="200" height="200" /></div>
+<div class="hidden">
+<div class="content">
+<div class="title"><h4>Shop All New & Featured Gear</h4></div>
+<a href="new-gear?icid=slider" title="Shop All New &amp; Featured Gear" class="v-btn v-btn-red">Shop Now</a>
+</div>
+</div>
+</div>
+</div>
+<div class="product-slider-nav">
+<div class="prev inactive"></div>
+<div class="next"></div>
+</div>
+</div>
+<div class="scrollWrapper">
+<div class="scroller">
+<div class="scrollHandle"></div>
+</div>
+</div>
+
+<div class="homepage-cards">
+<style>
+  #homepage-card-one {
+    background-image: url(/media/wysiwyg/20191129-December-Apparel-Block-Mobile.png);
+  }
+  #homepage-card-two {
+    background-image: url(/media/wysiwyg/20190821_2_Mobile.jpg);
+  }
+  #homepage-card-three {
+    background-image: url(/media/wysiwyg/20190722_EU_3_Mobile.jpg);
+  }
+  #homepage-card-four {
+    background-image: url(/media/wysiwyg/20190626_EU_4_Mobile.jpg);
+  }
+  #homepage-card-five {
+    background-image: url(/media/wysiwyg/20190913_5_Mobile.jpg);
+  }
+  #homepage-card-six {
+    background-image: url(/media/wysiwyg/20190626_EU_6_Mobile.jpg);
+  }
+  #homepage-card-seven {
+    background-image: url(/media/wysiwyg/20190626_US_7_Mobile_new.jpg);
+  }
+  #homepage-card-eight {
+    background-image: url(/media/wysiwyg/20190626_EU_8_Mobile.jpg);
+  }
+  #homepage-card-nine {
+    background-image: url(/media/wysiwyg/20190626_EU_9_Mobile.jpg);
+  }
+  
+  @media (min-width: 1024px) {
+    #homepage-card-one {
+      background-image: url(/media/wysiwyg/20191129-December_Apparel_Block.png);
+    }
+    #homepage-card-two {
+      background-image: url(/media/wysiwyg/20190821_2_Desktop.jpg);
+    }
+    #homepage-card-three {
+      background-image: url(/media/wysiwyg/20190722_EU_3_Desktop.jpg);
+    }
+    #homepage-card-four {
+      background-image: url(/media/wysiwyg/20190626_EU_4_Desktop.jpg);
+    }
+    #homepage-card-five {
+      background-image: url(/media/wysiwyg/20190913_5_Desktop.jpg);
+    }
+    #homepage-card-six {
+      background-image: url(/media/wysiwyg/20190626_EU_6_Desktop.jpg);
+    }
+    #homepage-card-seven {
+      background-image: url(/media/wysiwyg/20190626_US_7_Desktop_new.jpg);
+    }
+    #homepage-card-eight {
+      background-image: url(/media/wysiwyg/20190626_EU_8_Desktop.jpg);
+    }
+    #homepage-card-nine {
+      background-image: url(/media/wysiwyg/20190626_EU_9_Desktop.jpg);
+    }
+  }
+</style>
+<div class="homepage-cards-2019">
+<div class="cards">
+<div class="top-section">
+<div id="homepage-card-one" class="card wide-card">
+<div class="inner">
+<div class="content">
+<div class="text-links">
+<div class="big-text">Apparel</div>
+<div class="small-text">
+<a class="ga-homepagePersonalization-default-bars-mens" href="https://www.rogueeurope.eu/gear-apparel/womens-apparel?icid=home-page-tout-default">Womens</a> /
+<a class="ga-homepagePersonalization-default-bars-womens" href="https://www.rogueeurope.eu/gear-apparel/mens-apparel?icid=home-page-tout-default">Mens</a> /
+<a class="ga-homepagePersonalization-default-bars-juniors" href="https://www.rogueeurope.eu/gear-apparel/kids-apparel?icid=home-page-tout-default">Kids</a>
+</div>
+</div>
+<a class="ga-homepagePersonalization-default-bars" href="https://www.rogueeurope.eu/gear-apparel?icid=home-page-tout-default">
+<div class="v-btn v-btn-red">Shop Now</div>
+</a>
+</div>
+</div>
+</div>
+<div id="homepage-card-two" class="card wide-card">
+<div class="inner">
+<div class="content">
+<div class="text-links">
+<div class="big-text">Straps, Wraps &amp; Supports</div>
+<div class="small-text">
+<a class="ga-homepagePersonalization-default-bars-mens" href="https://www.rogueeurope.eu/lifting-straps-wraps/straps-wraps/lifting-straps?icid=home-page-tout-default">Straps</a> /
+<a class="ga-homepagePersonalization-default-bars-womens" href="https://www.rogueeurope.eu/lifting-straps-wraps/protection-supports/knee-sleeves?icid=home-page-tout-default">Knee Sleeves</a> /
+<a class="ga-homepagePersonalization-default-bars-juniors" href="https://www.rogueeurope.eu/lifting-straps-wraps/lifting-belts?icid=home-page-tout-default">Belts</a> /
+<a class="ga-homepagePersonalization-default-bars-technique" href="https://www.rogueeurope.eu/lifting-straps-wraps/hand-protection?icid=home-page-tout-default">Hand Protection</a>
+</div>
+</div>
+<a class="ga-homepagePersonalization-default-bars" href="https://www.rogueeurope.eu/lifting-straps-wraps?icid=home-page-tout-default">
+<div class="v-btn v-btn-red">Shop Now</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="vert-section">
+<div id="homepage-card-three" class="card">
+<div class="inner">
+<div class="content">
+<div class="text-links">
+<div class="big-text">Shoes</div>
+</div>
+<a class="ga-homepagePersonalization-default-bars" href="https://www.rogueeurope.eu/shoes?icid=home-page-tout-default">
+<div class="v-btn v-btn-red">Shop Now</div>
+</a>
+</div>
+</div>
+</div>
+<div id="homepage-card-four" class="card">
+<div class="inner">
+<div class="content">
+<div class="text-links">
+<div class="big-text">Barbells</div>
+</div>
+<a class="ga-homepagePersonalization-default-bars" href="https://www.rogueeurope.eu/weightlifting-bars-plates/barbells?icid=home-page-tout-default">
+<div class="v-btn v-btn-red">Shop Now</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="horz-section">
+<div id="homepage-card-five" class="card wide-card">
+<div class="inner">
+<div class="content">
+<div class="text-links">
+<div class="big-text">Plates</div>
+<div class="small-text">
+<a class="ga-homepagePersonalization-default-bars-mens" href="https://www.rogueeurope.eu/weightlifting-bars-plates/bumpers/bumper-plates?icid=home-page-tout-default">Bumper Plates</a> /
+<a class="ga-homepagePersonalization-default-bars-womens" href="https://www.rogueeurope.eu/weightlifting-bars-plates/bumpers/competition-bumpers?icid=home-page-tout-default">Competition Plates</a> /
+<a class="ga-homepagePersonalization-default-bars-juniors" href="https://www.rogueeurope.eu/weightlifting-bars-plates/bumpers/steel-plates?icid=home-page-tout-default">Steel Plates</a>
+</div>
+</div>
+<a class="ga-homepagePersonalization-default-bars" href="https://www.rogueeurope.eu/weightlifting-bars-plates/bumpers?icid=home-page-tout-default">
+<div class="v-btn v-btn-red">Shop Now</div>
+</a>
+</div>
+</div>
+</div>
+<div id="homepage-card-six" class="card wide-card">
+<div class="inner">
+<div class="content">
+<div class="text-links">
+<div class="big-text">Benches</div>
+<div class="small-text">
+<a class="ga-homepagePersonalization-default-bars-womens" href="https://www.rogueeurope.eu/ab-2-adjustable-bench-eu?icid=home-page-tout-default">Adjustable</a> /
+<a class="ga-homepagePersonalization-default-bars-mens" href="https://www.rogueeurope.eu/rogue-bolt-together-utility-bench?icid=home-page-tout-default">Flat</a>
+</div>
+</div>
+<a class="ga-homepagePersonalization-default-bars" href="https://www.rogueeurope.eu/strength-equipment/strength-training/benches?icid=home-page-tout-default">
+<div class="v-btn v-btn-red">Shop Now</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="three-wide">
+<div id="homepage-card-seven" class="card">
+<div class="inner">
+<div class="content">
+<div class="text-links">
+<div class="big-text">Power Racks</div>
+</div>
+<a class="ga-homepagePersonalization-default-bars" href="https://www.rogueeurope.eu/rogue-rigs-racks/power-racks?icid=home-page-tout-default">
+<div class="v-btn v-btn-red">Shop Now</div>
+</a>
+</div>
+</div>
+</div>
+<div id="homepage-card-eight" class="card">
+<div class="inner">
+<div class="content">
+<div class="text-links">
+<div class="big-text">Rigs</div>
+</div>
+<a class="ga-homepagePersonalization-default-bars" href="https://www.rogueeurope.eu/rogue-rigs-racks/rigs?icid=home-page-tout-default">
+<div class="v-btn v-btn-red">Shop Now</div>
+</a>
+</div>
+</div>
+</div>
+<div id="homepage-card-nine" class="card">
+<div class="inner">
+<div class="content">
+<div class="text-links">
+<div class="big-text">Rig &amp; Rack Accessories</div>
+</div>
+<a class="ga-homepagePersonalization-default-bars" href="https://www.rogueeurope.eu/rogue-rigs-racks/accessories?icid=home-page-tout-default">
+<div class="v-btn v-btn-red">Shop Now</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<style>
+    .main-container {
+      margin-bottom: 0;
+    }
+  
+    .events-cards {
+      max-width: 1280px;
+      margin: 0 auto;
+    }
+    
+    .events-cards .events-cards-heading {
+      position: relative;
+      text-align: center;
+      margin-bottom: 15px;
+    }
+    
+    .events-cards .events-cards-heading h2 {
+      display: inline-block;
+      padding: 10px;
+      background-color: #FFF;
+      margin-bottom: 0;
+    }
+    
+    .events-cards .events-cards-heading:before {
+      border-bottom: 1px solid #000;
+      content: '';
+      display: block;
+      width: 100%;
+      position: absolute;
+      top: 50%;
+      z-index: -1;
+    }
+    
+    .events-cards .cards {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    .events-cards .cards .card {
+      flex-basis: 100%;
+      margin-bottom: 10px;
+    }
+    .events-cards .cards .card:last-child {
+      margin-bottom: 0;
+    }
+    .events-cards .cards .card .inner {
+      display: block;
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+      background-position: 50% 50%;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+    }
+    
+    .events-cards .cards .card .inner img {
+      width: 50%;
+      display: block;
+      padding: 3.5% 0;
+    }
+    
+    @media (min-width: 737px) {
+      .main-container {
+        margin-bottom: 20px;
+      }
+      .events-cards {
+        padding: 0 20px;
+      }
+      .events-cards .cards .card {
+        flex-basis: calc(33.3333% - 14px);
+        margin-left: 20px;
+        margin-bottom: 20px;
+      }
+      .events-cards .cards .card:last-child {
+        margin-bottom: 20px;
+      }
+      .events-cards .cards .card:first-child {
+        margin-left: 0;
+      }
+    }
+    
+    #events-card-one .inner {
+      background-image: url('https://assets.roguefitness.com/image/upload/w_700,q_auto,f_auto/v1582053498/homepage/events/rb-bg_zhjeui.png')
+    }
+    #events-card-two .inner {
+      background-image: url('https://assets.roguefitness.com/image/upload/w_700,q_auto,f_auto/v1582053498/homepage/events/inv-bg_gh1pgm.png')
+    }
+    #events-card-three .inner {
+      background-image: url('https://assets.roguefitness.com/image/upload/w_700,q_auto,f_auto/v1582053498/homepage/events/ig-bg_vtdak8.png')
+    }
+    </style>
+<div class="events-cards">
+<div class="events-cards-heading"><h2>Rogue Events</h2></div>
+<div class="cards">
+<div id="events-card-one" class="card record-breakers">
+<a class="inner" href="//www.roguefitness.com/record-breakers" target="_blank">
+<img src="https://assets.roguefitness.com/image/upload/w_350,q_auto,f_auto/v1582053497/homepage/events/rb-logo-2020_vvjeei.png" alt="" />
+</a>
+</div>
+<div id="events-card-two" class="card invitational">
+<a class="inner" href="//www.roguefitness.com/invitational" target="_blank">
+<img src="https://assets.roguefitness.com/image/upload/w_350,q_auto,f_auto/v1582053497/homepage/events/inv-logo-2020_v6pcor.png" alt="" />
+</a>
+</div>
+<div id="events-card-three" class="card iron-game">
+<a class="inner" href="//www.roguefitness.com/iron-game" target="_blank">
+<img src="https://assets.roguefitness.com/image/upload/w_350,q_auto,f_auto/v1582053497/homepage/events/ig-logo-2020_svwmrz.png" alt="" />
+</a>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="footer-container">
+<div class="desktop-footer">
+<div class="footer-columns">
+<div class="footer-col">
+<h4>About Us</h4>
+<ul>
+<li><a href="https://www.rogueeurope.eu/about-us" class="ga-footer-link">The Rogue Way</a></li>
+<li><a href="https://www.rogueeurope.eu/jobs" class="ga-footer-link">Jobs</a></li>
+<li><a href="https://www.roguefitness.com/theindex/ryourogue" class="ga-footer-link">#ryourogue</a></li>
+</ul>
+<h4>Shopping</h4>
+<ul>
+<li><a href="https://www.rogueeurope.eu/showroom" class="ga-footer-link">Rogue Showroom</a></li>
+<li><a href="https://www.rogueeurope.eu/gift-certificates-eu" class="ga-footer-link">Gift Cards</a></li>
+<li><a href="https://www.rogueeurope.eu/brands" class="ga-footer-link">Brands</a></li>
+<li><a href="https://www.rogueeurope.eu/giftregistry/search/index" class="ga-footer-link">Gear Registry</a></li>
+<li><a href="https://www.rogueeurope.eu/catalog/seo_sitemap/category" class="ga-footer-link">Sitemap</a></li>
+</ul>
+</div>
+<div class="footer-col">
+<h4>Customer Service</h4>
+<ul>
+<li><a href="https://www.rogueeurope.eu/custom-quotes" class="ga-footer-link">Custom Quotes</a></li>
+<li><a href="https://www.rogueeurope.eu/checkout-faq" class="ga-footer-link">Checkout FAQ</a></li>
+<li><a href="https://www.rogueeurope.eu/shippingtracker" class="ga-footer-link">Track Your Order</a></li>
+<li><a href="https://www.rogueeurope.eu/return-policies" class="ga-footer-link" class="ga-footer-link">Returns</a></li>
+<li><a href="https://www.rogueeurope.eu/shipping-promotions" class="ga-footer-link">Shipping</a></li>
+<li><a href="https://www.rogueeurope.eu/warranty" class="ga-footer-link">Warranty Information</a></li>
+<li><a href="https://roguefitness.wufoo.com/forms/the-suggestion-box/" target="_blank" class="ga-footer-link">Suggestion Box</a></li>
+<li><a href="https://roguefitness.wufoo.com/forms/rogue-europe-website-issue/" target="_blank" class="ga-footer-link">Report Website Issue</a></li>
+<li><a href="https://www.rogueeurope.eu/contact-us" class="ga-footer-link">Contact Us</a></li>
+</ul>
+</div>
+<div class="footer-col">
+<h4>Policies &amp; Notices</h4>
+<ul>
+<li><a href="https://www.rogueeurope.eu/privacy-policy" class="ga-footer-link">Privacy Policy</a></li>
+<li><a href="https://www.rogueeurope.eu/terms-of-use" class="ga-footer-link">Terms of Use</a></li>
+<li><a href="https://www.rogueeurope.eu/covid-19" class="ga-footer-link">Covid-19 Status</a></li>
+</ul>
+
+<h4>Other Websites</h4>
+<ul>
+<li><a href="https://www.rogueeurope.eu/athletes" class="ga-footer-link">Rogue Athletes</a></li>
+<li><a href="http://blog.roguefitness.com" target="_blank" class="ga-footer-link">The Rogue Blog</a></li>
+<li><a href="https://www.rogueeurope.eu/silvius-brabo-crossfit" class="ga-footer-link">The Rogue EU Gym</a></li>
+<li><a href="https://www.roguefitness.com/rogue-equipped-events/" class="ga-footer-link">Rogue Equipped Events</a></li>
+<li><a href="https://www.roguefitness.com/garage-gyms" class="ga-footer-link">Garage Gyms</a></li>
+<li><a href="https://www.roguefitness.com/theindex/" class="ga-footer-link">The Index</a></li>
+</ul>
+</div>
+<div class="footer-col stl">
+<h4>Contact Us</h4>
+<ul>
+<li><a href="tel:3580207710850" class="ga-footer-link">+358 (0)20 7710850</a></li>
+<li><a href="/cdn-cgi/l/email-protection#592d3c3834192b363e2c3c3c2c2b36293c773c2c" class="ga-footer-link"><span class="__cf_email__" data-cfemail="324657535f72405d5547575747405d42571c5747">[email&#160;protected]</span></a></li>
+</ul>
+<h4>Headquarters</h4>
+<ul>
+<li>Rogue Fitness Europe Oy</li>
+<li>Kuninkaanlahdenkatu 14</li>
+<li>28100 Pori, Finland</li>
+</ul>
+<h4>Distribution</h4>
+<ul>
+<li>Rogue Benelux BV</li>
+<li>Molenberglei 8</li>
+<li>Schelle - 2627, Belgium</li>
+</ul>
+</div>
+<div class="footer-col last">
+<div class="connect">
+<div class="connect-left">
+<h4>Connect</h4>
+<ul>
+<li><a href="https://www.facebook.com/roguefitnesseurope" target="_blank" class="facebook ga-footer-socialIcon"></a></li>
+<li><a href="http://twitter.com/RogueFitness/" target="_blank" class="twitter ga-footer-socialIcon"></a></li>
+<li><a href="http://www.youtube.com/user/roguefitness/" target="_blank" class="youtube ga-footer-socialIcon"></a></li>
+<li><a href="http://instagram.com/rogueeurope" target="_blank" class="instagram ga-footer-socialIcon"></a></li>
+</ul>
+</div>
+<div class="vertical-divide"></div>
+<div class="connect-right">
+<h4>App</h4>
+<ul>
+<li><a href="/rogue-app"><img class="app-icon" src="/media/wysiwyg/iphone.svg" /></a></li>
+</ul>
+</div>
+</div>
+<div class="signup">
+<h4 style="margin-bottom:0px;">Newsletter Sign Up</h4>
+<p style="font-size: 12px;">Sign up for our Newsletter with Rogue News and Product Releases.</p>
+
+<form id="etsubscribeform" action="//rogue-team.roguefitness.com/public/webform/process/" method="post">
+<input type="hidden" name="fid" value="9tf4k6rjp6blifq4phkl764zemk2q" />
+<input type="hidden" name="sid" value="ac971b6d39bfa2f00e04c8593cae00c2" />
+<input type="hidden" name="delid" value="" />
+<input type="hidden" name="subid" value="" />
+<input type="hidden" name="td" value="" />
+<input type="hidden" name="formtype" value="addcontact" />
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+var fieldMaps = {};
+</script>
+<div class="section" id="row_53558">
+<div class="container" id="column_64507" style="text-align: left;">
+<div class="email field_block">
+<div class="field">
+<input type="text" class="text field fb-email input-text validate-email" size="35" name="112958" value="" placeholder="Email" onfocus="document.querySelector('.signup .hidden-list-options').style.display = 'block';" />
+<div class="field_error"></div>
+</div>
+</div>
+<div class="hidden-list-options">
+<p style="font-size: 12px;">Choose your subscription preferences below. Sign up for both to get all our updates straight to your inbox.</p>
+<div class="input-checkbox list_block" id="list_838993" list_id="838993">
+<input type="checkbox" name="112960[838993]" value="true" id="general-subscription" />
+<label for="general-subscription">General Subscription</label> <span tooltip="We&#39;ll only update you once a month with Rogue News, product releases, and events.">What&#39s This?</span>
+</div>
+<div class="input-checkbox list_block" id="list_838992" list_id="838992">
+<input type="checkbox" name="112959[838992]" value="true" id="rapid-fire" />
+<label for="rapid-fire">Rapid Fire</label> <span tooltip="Get the heads up on every new product release. Rapid fire emails are sent frequently and contain the newest released products.">What&#39s This?</span>
+</div>
+<input type="hidden" name="112961[838991]" value="true" />
+<input class="button ga-footer-exactTargetSubmitButton" type="submit" value="Sign Up" />
+<p style="font-size:11px;">By signing up, you agree to Rogue's <a href="https://www.rogueeurope.eu/privacy-policy" class="ga-footer-link">Privacy Policy</a> and <a href="https://www.rogueeurope.eu/terms-of-use" class="ga-footer-link">Terms of Use</a></p>
+</div>
+</div>
+</div>
+</form>
+
+</div>
+</div>
+</div>
+<div class="bottom-content">
+<div class="footer-partners">
+<ul>
+<li><a href="http://www.bbb.org/centralohio/business-reviews/exercise-equipment-and-machines-sales/rogue-fitness-in-columbus-oh-70082363/" target="_blank" class="bbb ga-footer-partner"></a></li>
+
+<li>
+
+</li>
+</ul>
+</div>
+<p class="copyright">
+<img class="old-logo" src="/media/wysiwyg/roguefitness-logo.svg" />
+&copy; 2010-2020 Rogue Fitness. All Rights Reserved.
+</p>
+</div>
+</div>
+<div class="mobile-footer">
+<a href="https://www.rogueeurope.eu/shippingtracker" class="ga-footer-link">Track Your Order</a> &nbsp;|&nbsp;
+<a href="https://www.rogueeurope.eu/giftcard" class="ga-footer-link">Gift Cards</a><br>
+<a href="https://www.rogueeurope.eu/shipping-promotions" class="ga-footer-link">Shipping Deals</a> &nbsp;|&nbsp;
+<a href="https://www.rogueeurope.eu/contact-us" class="ga-footer-link">Contact Us</a> &nbsp;|&nbsp;
+<a href="https://www.rogueeurope.eu/customer/account/login" class="ga-footer-link">My Account</a><br>
+<a href="https://www.rogueeurope.eu/about-us" class="ga-footer-link">About Us</a> &nbsp;|&nbsp;
+<a href="https://www.rogueeurope.eu/return-policies" class="ga-footer-link">Return Policies</a> &nbsp;|&nbsp;
+<a href="https://www.rogueeurope.eu/covid-19" class="ga-footer-link">Covid-19 Status</a>
+
+<div class="siteswitcher-wrapper">
+<div class="mobile-footer-store-switcher" data-current-store-base-url="https://www.rogueeurope.eu/">
+<div class="store-switcher-footer-dropdown">
+<a href="https://www.roguefitness.com/" id="site-usa" title="USA" data-store-id="1" class="flag-usa  ga-footer-storeSwitcher">USA</a>
+<a href="https://www.roguecanada.ca/" id="site-canada" title="CAN" data-store-id="2" class="flag-canada  ga-footer-storeSwitcher">CAN</a>
+<a href="https://www.rogueapo.com/" id="site-apo" title="APO" data-store-id="4" class="flag-apo  ga-footer-storeSwitcher">APO</a>
+<a href="https://www.rogueeurope.eu/" id="site-europe" title="EUR" data-store-id="5" class="flag-europe locale-switcher ga-footer-storeSwitcher">EUR</a>
+<a href="https://www.rogueaustralia.com.au/" id="site-australia" title="AUS" data-store-id="18" class="flag-australia  ga-footer-storeSwitcher">AUS</a>
+<a href="https://www.roguesupplyco.com/" id="site-supply" title="Supply" data-store-id="19" class="flag-supply  ga-footer-storeSwitcher">Supply</a>
+</div>
+</div>
+<div class="mobile-footer-locale-switcher" data-store-id="5">
+<div class="locale-switcher-footer-dropdown">
+<a data-locale-code="nl" href="https://www.rogueeurope.eu/?locale=nl">Dutch</a>
+<a data-locale-code="en" href="https://www.rogueeurope.eu/?locale=en">English</a>
+<a data-locale-code="fr" href="https://www.rogueeurope.eu/?locale=fr">French</a>
+<a data-locale-code="de" href="https://www.rogueeurope.eu/?locale=de">German</a>
+<a data-locale-code="es" href="https://www.rogueeurope.eu/?locale=es">Spanish</a>
+</div>
+</div>
+<img class="old-logo" src="/media/wysiwyg/roguefitness-logo.svg" />
+<p>&copy; 2020 Rogue Fitness. All Rights Reserved.</p>
+</div>
+</div> <script type="text/javascript" src="https://www.rogueeurope.eu/skin/frontend/rg/2015/js/rogue-ui.min.js?10055f40" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/skin/frontend/rg/angie/commons.js?cfe13b30" site></script>
+<script type="text/javascript" src="https://www.rogueeurope.eu/skin/frontend/rg/angie/vue-export.js?38197940"></script>
+<script data-name="__br_tm" type="text/javascript">
+  var _bsw = _bsw || [];
+  _bsw.push(['_bswId', '7b03208cc9914ea8e231896ab3679d2eeb8243e002836805471e1b8f4bd24cb9']);
+  (function() {
+    var bsw = document.createElement('script'); bsw.type = 'text/javascript'; bsw.async = true;
+    bsw.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.bronto.com/c/a464r1sh9mmn35lfr8spww0w6vbovhk3tjb3fvx6wx6ug5x002/7b03208cc9914ea8e231896ab3679d2eeb8243e002836805471e1b8f4bd24cb9/s/b.min.js';
+    var t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(bsw, t);
+  })();
+</script>
+<script type="text/javascript">
+if (document.addEventListener) {
+  document.addEventListener('bronto:popup-submitted', function(e) {
+    new Ajax.Request('https://www.rogueeurope.eu/btnewsletter/index/submit', {
+      method: 'post',
+      parameters: { emailAddress: e.detail.email }
+    });
+  }, false);
+}
+</script>
+<script type="text/javascript" src="//p.bm23.com/bta.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    var bta = new __bta('96b5d246adaa33c0aedf26cad5f98b52');
+    //]]>
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.rogueeurope.eu",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.rogueeurope.eu/catalogsearch/result?q={search_term}",
+            "query-input": "required name=search_term"
+       }
+    }
+    </script>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.rogueeurope.eu",
+                    "name": "Rogue Fitness Europe Oy"                }
+            }
+                ]
+    }
+</script>
+<script type="text/javascript">
+                        window.initRogueCache(
+            '//www.rogueeurope.eu/roguecache',
+            'aHR0cHM6Ly93d3cucm9ndWVldXJvcGUuZXU,'
+                    );
+    </script>
+<script type="text/javascript">
+    window.reporting = new RogueReporting(
+        4,
+        "\/skin\/frontend\/enterprise\/default\/images\/px.gif",
+        0,
+        0    );
+</script> <script id="featured-template" type="text/template">
+        <div class="featured-deal" id="featured-item-#{id}">
+            <div class="img-container">
+                <img src="#{image}" alt="#{name}" />
+            </div>
+            <div class="featured-product-info-container">
+                <div class="featured-product-info">
+                    <div class="promo-time-remaining-outer-container">
+                        <div class="promo-time-remaining promo-time-container" style='display: none'  data-timeto="#{time_to}" data-timefrom="#{time_from}" data-qty-bar="#{show_qty_bar}" data-id="#{id}">Ending In <span></span></div>                        <div class="promo-quantity-remaining promo-time-container" style='display: none' data-default-state-qty="1" data-qty="#{qty}" data-init-qty="#{init_qty}" data-qty-bar="#{show_qty_bar}" data-qty-percentage="#{show_qty_percentage}" data-id="#{id}"><span></span> Left</div>                    </div>
+                    <div class="promo-status-bar-remaining promo-status-bar" style="display: none;"><div class="promo-status-bar-inner green" style="width:0"></div></div>
+                    <div class="prod-name">#{name}</div>
+                    <div id="BVRRInlineRating-#{sku}"></div>
+                    <div class="featured-price-box">
+                        <span class="price">#{new_price}</span>
+                        <span class="orig-price">#{old_price}</span>
+                    </div>
+                </div>
+                <div class="featured-shop-now">
+                    <a class="v-btn v-btn-red v-btn-full" href="#{href}">Shop Now</a>
+                </div>
+            </div>
+        </div>
+    </script>
+<script type="text/javascript">
+        var featuredHotDeals = new RogueFeaturedHotDealList(
+            10800,
+            'https://www.rogueeurope.eu/promo_controller.php?type=featured_info&website_id=4',
+            30        );
+    </script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"776f0c0f83","applicationID":"3461083","transactionName":"bwdbZ0ZTWBdRUkEIXlZNbEFdHV8KVFRNT0FQEg==","queueTime":0,"applicationTime":1,"atts":"Q0BYEQ5JSxk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

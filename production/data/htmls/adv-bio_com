@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<!--[if IE 8]> 	<html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<link rel="pingback" href="https://www.adv-bio.com/xmlrpc.php" />  
+   			<link rel="shortcut icon" href="https://www.adv-bio.com/wp-content/uploads/favicon.ico" /> 
+ 		
+		<!--[if lt IE 9]>
+		<script src="https://www.adv-bio.com/wp-content/themes/unik/js/html5.js"></script>
+		<link rel="stylesheet" href="https://www.adv-bio.com/wp-content/themes/unik/css/ie8.css" type="text/css" media="screen">
+	<![endif]-->
+			<title>Home - Advanced Biotech</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v13.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.adv-bio.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Advanced Biotech" />
+<meta property="og:url" content="https://www.adv-bio.com/" />
+<meta property="og:site_name" content="Advanced Biotech" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Home - Advanced Biotech" />
+<meta name="twitter:site" content="@advbio" />
+<meta name="twitter:image" content="http://www.adv-bio.com/wp-content/uploads/Home-page-1s.jpg" />
+<meta name="twitter:creator" content="@advbio" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.adv-bio.com/#organization","name":"Advanced Biotech","url":"https://www.adv-bio.com/","sameAs":["https://www.facebook.com/advbiotech","https://www.instagram.com/advbiotech/","https://www.linkedin.com/company/advanced-biotech","https://www.pinterest.com/advancedbiotech/","https://twitter.com/advbio"],"logo":{"@type":"ImageObject","@id":"https://www.adv-bio.com/#logo","inLanguage":"en-US","url":"https://www.adv-bio.com/wp-content/uploads/2015/04/logo.png","width":115,"height":93,"caption":"Advanced Biotech"},"image":{"@id":"https://www.adv-bio.com/#logo"}},{"@type":"WebSite","@id":"https://www.adv-bio.com/#website","url":"https://www.adv-bio.com/","name":"Advanced Biotech","inLanguage":"en-US","publisher":{"@id":"https://www.adv-bio.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.adv-bio.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://www.adv-bio.com/#primaryimage","inLanguage":"en-US","url":"http://www.adv-bio.com/wp-content/uploads/Home-page-1s.jpg"},{"@type":"WebPage","@id":"https://www.adv-bio.com/#webpage","url":"https://www.adv-bio.com/","name":"Home - Advanced Biotech","isPartOf":{"@id":"https://www.adv-bio.com/#website"},"inLanguage":"en-US","about":{"@id":"https://www.adv-bio.com/#organization"},"primaryImageOfPage":{"@id":"https://www.adv-bio.com/#primaryimage"},"datePublished":"2015-02-28T20:41:31+00:00","dateModified":"2019-12-04T20:43:43+00:00","potentialAction":[{"@type":"ReadAction","target":["https://www.adv-bio.com/"]}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Advanced Biotech &raquo; Feed" href="https://www.adv-bio.com/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.10.4';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-106503206-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-106503206-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.adv-bio.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=cb4573164b2efc6424742ca1cb3c95f6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.adv-bio.com/wp-includes/css/dist/block-library/style.min.css?ver=cb4573164b2efc6424742ca1cb3c95f6' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='plugin-styles-css'  href='https://www.adv-bio.com/wp-content/themes/unik/css/plugins.css?ver=cb4573164b2efc6424742ca1cb3c95f6' type='text/css' media='all' />
+<link rel='stylesheet' id='main-styles-css'  href='https://www.adv-bio.com/wp-content/themes/unik/style.css?ver=cb4573164b2efc6424742ca1cb3c95f6' type='text/css' media='all' />
+<link rel='stylesheet' id='dynamic-styles-css'  href='https://www.adv-bio.com/wp-content/themes/unik/css/dynamic-styles.php?ver=cb4573164b2efc6424742ca1cb3c95f6' type='text/css' media='all' />
+<link rel='stylesheet' id='unik-roboto-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C100%2C100italic%2C300%2C300italic%2C400italic%2C500%2C500italic%2C700%2C700italic&#038;ver=cb4573164b2efc6424742ca1cb3c95f6' type='text/css' media='all' />
+<link rel='stylesheet' id='unik-opensans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C700%2C600%2C300&#038;ver=cb4573164b2efc6424742ca1cb3c95f6' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://www.adv-bio.com/wp-content/tablepress-combined.min.css?ver=55' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-css'  href='https://use.fontawesome.com/releases/v5.12.1/css/all.css' type='text/css' media='all' integrity="sha384-v8BU367qNbs/aIZIxuivaU55N5GPF89WBerHoGA4QTcbUjYiLQtKdrfXnqAcXyTv" crossorigin="anonymous" />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://www.adv-bio.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='https://www.adv-bio.com/?sccss=1&#038;ver=cb4573164b2efc6424742ca1cb3c95f6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-v4shim-css'  href='https://use.fontawesome.com/releases/v5.12.1/css/v4-shims.css' type='text/css' media='all' integrity="sha384-C8a18+Gvny8XkjAdfto/vjAUdpGuPtl1Ix/K2BgKhFaVO6w4onVVHiEaN9h9XsvX" crossorigin="anonymous" />
+<style id='font-awesome-official-v4shim-inline-css' type='text/css'>
+@font-face {
+font-family: "FontAwesome";
+src: url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-brands-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-brands-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-brands-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-brands-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+src: url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-solid-900.eot"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-solid-900.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-solid-900.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-solid-900.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+src: url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-regular-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-regular-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-regular-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-regular-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.12.1/webfonts/fa-regular-400.svg#fontawesome") format("svg");
+unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+}
+</style>
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.adv-bio.com/wp-content/plugins/jetpack/css/jetpack.css?ver=8.3' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.adv-bio.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.adv-bio.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.10.4'></script>
+<script type='text/javascript' src='https://www.adv-bio.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.adv-bio.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.adv-bio.com/wp-content/themes/unik/js/bootstrap.js?ver=3.0.1'></script>
+<link rel='https://api.w.org/' href='https://www.adv-bio.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.adv-bio.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.adv-bio.com/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://wp.me/P6URCr-z' />
+<link rel="alternate" type="application/json+oembed" href="https://www.adv-bio.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.adv-bio.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.adv-bio.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.adv-bio.com%2F&#038;format=xml" />
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css">				/******************global color****************************/
+		/*backgrounds*/
+		header .main-menu li a,	.pager-line ul li,.blog-section .blog-post .post-gal .hover-post a,	footer .up-footer,
+		.tagcloud ul.wp-tag-cloud li a:hover, #contactFormWidget input[type="submit"], .social-box ul li a,
+		.horizontal-tabs-box .nav-tabs li.active a,	.comment-content a.comment-reply-link, .comment-form input[type="submit"],
+		.project-post .hover-box a,	ul.filter li a.active, ul.filter li a:hover ,.btn-default, .btn-default:hover, .team-post .right-part > a,.accord-title,
+		.vertical-tabs-box .nav-tabs li.active a, .testimonial-section .bx-wrapper .bx-pager.bx-default-pager a:hover,
+		.testimonial-section .bx-wrapper .bx-pager.bx-default-pager a.active, .unik-line-section, .dark .unik-line-section, .flex-direction-nav .flex-next,
+		.flex-direction-nav .flex-prev,	.features-post a, .services-section2 .services-post a, .services-section2 .services-post span,
+		.services-section .services-post .inner-services-post a, #contact-form button, .comment-form button, .single-portfolio .box-section.banner-section,
+		.services-section .services-post .inner-services-post a,#contact-form input[type="text"]:focus + span i, a.elemadded,
+		.comment-form input[type="text"]:focus + span i, .services-section3 .services-post:hover a,#banner, .single-post .box-section.banner-section,
+		#wp-calendar caption, .services-section3 .services-post .up-part:after, a.iconbox:hover, table th,.fblock3-short:hover  span, ul.feature-list li a,
+		.dark .vertical-tabs-box .nav-tabs li.active a, .dark .horizontal-tabs-box .nav-tabs li.active a, .services-section2 .services-post a:hover, .progress-bar,
+		.float-image-section .float-box a, .float-image-section .float-box a:hover, .pricing-section ul.pricing-table li:first-child, .pricing-section ul.pricing-table li a,
+		.unik-section ul.feature-list li a, ul.feature-list li a, .services-section .services-post .inner-services-post a:hover, .post-format, footer .footer-line a.go-top{
+			background-color:#336633;
+		}
+		.woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce #content input.button.alt, 
+		.woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce-page #respond input#submit.alt, 
+		.woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, 
+		.woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, 
+		.woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce #content div.product div.images img, 
+		.woocommerce div.product div.images img, .woocommerce-page #content div.product div.images img, .woocommerce-page div.product div.images img{
+			background:#336633 !important;
+		}
+		/*colors*/
+		.tagcloud ul.wp-tag-cloud li a,	.contact-info-box ul li i, .services-section3 .services-post:hover .up-part span i, .blog-section .blog-post .post-box ul.post-tags li a:hover,
+		.services-section3 .services-post:hover .up-part h2, span.icon-stat i, .features-post h4, .pow-section h1, .fontawesome-section ul.icon-list li i, .features-section3 h1,
+		.services-section2 .services-post a:hover,.services-section .services-post .inner-services-post span i, .skills-progress p,
+		.services-section .services-post .inner-services-post a:hover, a.iconbox i,.fblock3-short span i,.fblock3-short:hover h3{
+			color:#336633;
+		}
+		/*borders*/
+		.tagcloud ul.wp-tag-cloud li a,#contact-form input[type="text"]:focus + span i,.comment-form input[type="text"]:focus + span i,
+		.tagcloud ul.wp-tag-cloud li a,	ul.flickr-list li a, .testimonial-section .bx-wrapper .bx-pager.bx-default-pager a:hover,
+		.testimonial-section .bx-wrapper .bx-pager.bx-default-pager a.active,.services-section3 .services-post:hover .up-part span, .sticky,
+		.services-section2 .services-post a:hover, .services-section .services-post .inner-services-post a:hover, a.iconbox,.fblock3-short:hover  span{
+			border-color:#336633;
+		}
+		header .main-menu > li a:hover,	ul.main-menu li.active a,
+		ul.main-menu li.active a:after,		ul.main-menu li.current-menu-parent>a:after, header .main-menu > li > a:hover:after{
+			border-left-color:#336633;
+		}
+																														ul.main-menu li.active a, ul.main-menu li.current-menu-parent>a{
+			 color:#ebebeb !important;								}
+				ul.main-menu .drop-down li a{
+			color:#ffffff !important;					}
+								body, p, .blog-section.col1 .post-content, .single-post-content, .accord-content, .tab-content .tab-pane, .unik-section ul.feature-list li p, ul.feature-list li p,
+		.float-image-section .float-box p, .float-image-section .float-box, .features-section3 p, .accord-content p, .pow-section p, .float-image-section .cont-box p, .features-post p,
+		.vertical-tabs-box .tab-content .tab-pane p, .horizontal-tabs-box .tab-content .tab-pane p, .vertical-tabs-box .tab-content .tab-pane, .horizontal-tabs-box .tab-content .tab-pane{
+		
+																	}
+		header a.logo{
+																	}
+		header ul.main-menu li a{
+																	}
+		h1, .pow-section h1, .features-section3 h1{
+																	}
+		h2{
+																	}
+		h3{
+																	}
+		h4{
+																	}
+		h5{
+																	}
+		h6{
+																	}
+		.banner h1 span{
+																	}
+		.pager-line ul li a, .pager-line ul li{
+																	}
+		.pager-line ul li:before{
+														}
+		#sidebar .sidebar-section.white-box h2{
+																	}
+		footer .up-footer h2{
+																	}
+</style>
+<!-- Facebook Pixel Code -->
+<script type='text/javascript'>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+</script>
+<!-- End Facebook Pixel Code -->
+<script type='text/javascript'>
+  fbq('init', '524969074707198', [], {
+    "agent": "wordpress-5.3.2-2.0.1"
+});
+</script><script type='text/javascript'>
+  fbq('track', 'PageView', []);
+</script>
+<!-- Facebook Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none" alt="fbpx"
+src="https://www.facebook.com/tr?id=524969074707198&ev=PageView&noscript=1" />
+</noscript>
+<!-- End Facebook Pixel Code -->
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.adv-bio.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1425147672355{margin-bottom: 20px !important;}.vc_custom_1425147672355{margin-bottom: 20px !important;}.vc_custom_1425147664372{margin-bottom: 20px !important;}.vc_custom_1443122689675{margin-bottom: 0px !important;}.vc_custom_1443124205559{margin-bottom: 0px !important;}.vc_custom_1443116380533{margin-bottom: 0px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="home page-template page-template-homepage-template page-template-homepage-template-php page page-id-35 do-etfw wpb-js-composer js-comp-ver-5.4.7 vc_responsive" >
+	    <div id="container" class="container " >
+	
+	<div id="sidebar" class="">
+		<header class="sidebar-section">
+			<div class="header-logo">
+								 <a href="https://www.adv-bio.com" id="logo" class="logo">
+											<img src="https://www.adv-bio.com/wp-content/uploads/2015/04/ABT.png" alt="Advanced Biotech" id="logo-image" width="219" height="180" />
+									 </a>
+			</div>
+			<a class="elemadded responsive-link" href="#">Menu</a>
+			<div class="navbar-wrapper">
+				<div class="navbar-vertical">
+					<ul id="menu-main" class="main-menu"><li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-35 current_page_item menu-item-206 active"><a title="Home" href="https://www.adv-bio.com/"> <i class="fa fa-home"></i>Home<span></span></a></li>
+<li id="menu-item-610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-610"><a title="Product Search" href="https://www.adv-bio.com/search/"> <i class="fa fa-search"></i>Product Search<span></span></a></li>
+<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-360 drop"><a title="Product Categories" href="https://www.adv-bio.com/product-categories/"> <i class="fa fa-book"></i>Product Categories <span></span></a>
+<ul role="menu" class="drop-down">
+	<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a title="Natural Aromatics" href="https://www.adv-bio.com/natural-aromatics/">Natural Aromatics<span></span></a></li>
+	<li id="menu-item-285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a title="Natural Pyrazines" href="https://www.adv-bio.com/natural-pyrazines/">Natural Pyrazines<span></span></a></li>
+	<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a title="Synthetic Aromatics" href="https://www.adv-bio.com/synthetic-aromatics/">Synthetic Aromatics<span></span></a></li>
+	<li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a title="Thiazoles" href="https://www.adv-bio.com/thiazoles/">Thiazoles<span></span></a></li>
+	<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a title="Oleoresins" href="https://www.adv-bio.com/oleoresins/">Oleoresins<span></span></a></li>
+	<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a title="Heterocyclics, Pyrazines, &#038; Sulfur" href="https://www.adv-bio.com/heterocyclics-pyrazines-sulfur/">Heterocyclics, Pyrazines, &#038; Sulfur<span></span></a></li>
+	<li id="menu-item-311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311"><a title="Essential Oils &#038; Isolates" href="https://www.adv-bio.com/essential-oils-and-isolates/">Essential Oils &#038; Isolates<span></span></a></li>
+	<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a title="Absolutes" href="https://www.adv-bio.com/absolutes/">Absolutes<span></span></a></li>
+	<li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a title="Distillates" href="https://www.adv-bio.com/distillates/">Distillates<span></span></a></li>
+	<li id="menu-item-325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a title="Extracts" href="https://www.adv-bio.com/extracts/">Extracts<span></span></a></li>
+	<li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a title="Vanilla Extracts" href="https://www.adv-bio.com/vanilla-extracts/">Vanilla Extracts<span></span></a></li>
+	<li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a title="Koolada Cooling Agents" href="https://www.adv-bio.com/koolada-cooling-agents/">Koolada Cooling Agents<span></span></a></li>
+	<li id="menu-item-340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-340"><a title="EU Natural Products" href="https://www.adv-bio.com/eu-natural-products/">EU Natural Products<span></span></a></li>
+	<li id="menu-item-2974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2974"><a title="Organic Certified Products" href="https://www.adv-bio.com/organic-products/">Organic Certified Products<span></span></a></li>
+</ul>
+</li>
+<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a title="New Products" href="https://www.adv-bio.com/new-products/"> <i class="fa fa-flask"></i>New Products<span></span></a></li>
+<li id="menu-item-4035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4035"><a title="Upcoming Events" href="https://www.adv-bio.com/events/"> <i class="fa fa-calendar"></i>Upcoming Events<span></span></a></li>
+<li id="menu-item-609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-609"><a title="Product Sample Request" href="https://www.adv-bio.com/sample-request/"> <i class="fa fa-shopping-cart"></i>Product Sample Request<span></span></a></li>
+<li id="menu-item-7748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7748"><a title="Market Report" href="https://www.adv-bio.com/market-report/"> <i class="fa fa-chart-line"></i>Market Report<span></span></a></li>
+<li id="menu-item-8354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8354"><a title="Trend Forecast" href="https://www.adv-bio.com/trend-forecast/"> <i class="fa fa-tools"></i>Trend Forecast<span></span></a></li>
+<li id="menu-item-2935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2935"><a title="Blog" href="https://www.adv-bio.com/blog/"> <i class="fa fa-comment"></i>Blog<span></span></a></li>
+<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217"><a title="Contact Us" href="https://www.adv-bio.com/contact-us/"> <i class="fa fa-envelope"></i>Contact Us<span></span></a></li>
+</ul>				</div>
+			</div>
+			<div id="text-4" class="sidebar-section white-box widget_text"><h2>Product Search</h2>			<div class="textwidget"><form method="get" action="https://www.adv-bio.com/search-results" class="search-widget">
+<input type="search" placeholder="Search here..." name="q" />
+<button type="submit">
+<i class="fa fa-search"></i>
+</button>
+</form>
+<h5>Search by CAS, FEMA, Product Name or Product Number</h5></div>
+		</div><div id="text-3" class="sidebar-section white-box widget_text"><h2>Mailing List</h2>			<div class="textwidget"><center><a href="https://visitor.r20.constantcontact.com/manage/optin?v=001B5adRlY4IqYU0Fs4F9oRPhtlEorS-FKagFVDPlZmKBgP2j1BDSktn56oP_4P1JU5a-ZJm-f8DO0E5gPx2__aajsleQk8Xuiw28Xd-oMR3lQEHBNF2Dza2_6z93nIrVXT3xcKvp7ouOiGv1nM8KHt5dN6MRAo1sNRVc4A-LAX0Pg%3D" target="_blank" class="btn defaultsize btn-default   " style=" color:#ffffff !important; background-color:#336633 !important;" rel="noopener noreferrer"><i class="fa fa fa-envelope"></i>Sign up for Email Updates</a></center></div>
+		</div><div id="alc-social-widget-1" class="sidebar-section white-box widget_alc_social"><div class="social-box"><h2>Stay Connected</h2><ul class="social-icons"><li><a href="https://www.facebook.com/advbiotech" target="_blank"><i class="fa fa-facebook"></i></a>
+<li><a href="https://www.instagram.com/advbiotech" target="_blank"><i class="fa fa-instagram"></i></a>
+<li><a href="https://www.linkedin.com/company/advanced-biotech" target="_blank"><i class="fa fa-linkedin"></i></a>
+<li><a href="https://www.pinterest.com/advancedbiotech" target="_blank"><i class="fa fa-pinterest"></i></a>
+<li><a href="https://twitter.com/advbio" target="_blank"><i class="fa fa-twitter"></i></a></ul></div></div><div id="alc-blogposts-widget-1" class="sidebar-section white-box widget_alc_blogposts"><h2>Recent Posts</h2>		<div class="recent-post-box latest-post-widget">
+			<ul class="post-list">
+		          
+									<li>
+						<h5 class="media-heading"><a href="https://www.adv-bio.com/the-enduring-popularity-of-caramel/">The Enduring Popularity of Caramel</a></h5> 
+						<small>April 2, 2020</small>
+					</li>
+							          
+									<li>
+						<h5 class="media-heading"><a href="https://www.adv-bio.com/strawberry-flavor-applications/">Strawberry Flavor Applications</a></h5> 
+						<small>March 26, 2020</small>
+					</li>
+							          
+									<li>
+						<h5 class="media-heading"><a href="https://www.adv-bio.com/flavors-of-the-world-african-spices-food-flavor-and-cocktails/">Flavors of the World: African Spices &#8211; Food, Flavor, and Cocktails</a></h5> 
+						<small>March 24, 2020</small>
+					</li>
+										</ul>
+		</div>
+		        </div><div id="do-etfw-3" class="sidebar-section white-box widget-do-etfw">					<h2>Recent Tweets</h2>		
+		<a class="twitter-timeline" data-height="400" data-theme="light" data-link-color="#3b94d9" data-border-color="#f5f5f5" data-chrome="noheader nofooter noborders noscrollbar" href="https://twitter.com/advbio">Tweets by @advbio</a>
+</div><div id="custom_html-2" class="widget_text sidebar-section white-box widget_custom_html"><div class="textwidget custom-html-widget"><center><a href="https://prod.adv-bio.com/ProductDocs/AuditCertificate.pdf" target="_blank" rel="noopener noreferrer"><img src = "https://www.adv-bio.com/wp-content/uploads/BRC-Food-Certificated-Col.jpg" style="width:100px;" alt="BRC Logo"></a></center></div></div><div id="custom_html-3" class="widget_text sidebar-section white-box widget_custom_html"><div class="textwidget custom-html-widget"><center><a href="https://prod.adv-bio.com/ProductDocs/KosherCert.aspx" target="_blank" rel="noopener noreferrer"><img src = "https://www.adv-bio.com/wp-content/uploads/OU-logo.jpg" style="width:130px;" alt="OU Logo"></a></center></div></div><div id="custom_html-4" class="widget_text sidebar-section white-box widget_custom_html"><div class="textwidget custom-html-widget"><center><a href="https://prod.adv-bio.com/ProductDocs/HalalCertificate.pdf" target="_blank" rel="noopener noreferrer"><img src = "https://www.adv-bio.com/wp-content/uploads/ISACircleLogo.jpg" style="width:130px;" alt="ISA Logo"></a></center></div></div><div id="text-1" class="sidebar-section white-box widget_text"><h2>Contact Us</h2>			<div class="textwidget"><div class="contact-info-box  ">
+	<ul class="fa-ul "><li><i class="fa fa-home"></i> 10 Taft Road, Totowa, NJ 07512</li><li ><i class=" fa fa-phone"></i>973-339-6242 | Fax: 973-256-4101</li><li><i class="fa fa-envelope"></i>info@adv-bio.com</li></ul></div>
+</div>
+		</div>		</header>
+		
+	</div>
+	<div id="content">
+				
+<div class="page-section row">
+	    <div class="col-md-12">
+					<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="box-section  animation fadeInDown " style=" background-color:#ffffff !important;"><center><iframe src="https://player.vimeo.com/video/376856346?background=1" frameborder="0" width="820" height="462"></iframe></center></div></div></div></div></div>
+<div class="vc_row wpb_row vc_row-fluid vc_custom_1425147672355"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="box-section  animation fadeInUp float-image-section" style=""><h2 class="   " >Natural Flavor &amp; Fragrance Ingredients are Advanced Biotech's Goal</h2>
+	<div class="wpb_text_column wpb_content_element  vc_custom_1443122689675" >
+		<div class="wpb_wrapper">
+			<p><img class=" size-full wp-image-2927 alignright" src="https://www.adv-bio.com/wp-content/uploads/Home-page-1s.jpg" alt="Home page 1s" width="351" height="251" />At Advanced Biotech, where we understand that high quality Natural Flavor and Fragrance Ingredients are the key to great tasting products of all kinds. We know that in today&#8217;s highly competitive markets, you must have the best ingredients for your product to stand out. Without great flavor, smell, or taste, you can find yourself at a disadvantage with your competition. For that very reason, we strive to provide only the highest quality flavors and fragrance ingredients and are one of the leading suppliers of raw materials to the industry. From our Natural Flavoring substances to Essential Oils and Pyrazines, you will find the vast array of products that we produce are all held to the same high standards.</p>
+<p>&nbsp;</p>
+<p><img class=" size-full wp-image-2929 alignleft" src="https://www.adv-bio.com/wp-content/uploads/Home-page-2s.jpg" alt="Home page 2s" width="351" height="251" /></p>
+<p>Our approach to creating top quality products with the best flavor and fragrance ingredients is driven by our customers&#8217; desire for exceptional ingredients. Our products are created to meet rigorous standards that ensure the highest consistency in both strength and quality in everything we produce.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+		</div>
+	</div>
+</div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1425147672355"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="box-section  animation fadeInUp float-image-section" style=""><h2 class="   " >Advanced Biotech is a Leader in Natural Flavor and Fragrance Ingredients</h2>
+	<div class="wpb_text_column wpb_content_element  vc_custom_1443124205559" >
+		<div class="wpb_wrapper">
+			<p><img class=" size-full wp-image-2930 alignright" src="https://www.adv-bio.com/wp-content/uploads/Home-page-3s.jpg" alt="Home page 3s" width="351" height="251" />We want you to learn all about the different products that we offer. That is why we invite you to look through all our product categories to learn why we have some of the finest ingredients on the market today. If you would like to learn more about our products or have any questions, please feel free to <a href="http://www.adv-bio.com/contact-us/">contact us</a> and we will be happy to discuss any of our superior products with you.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+		</div>
+	</div>
+</div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1425147664372"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="box-section  animation bounceIn " style=" background-color:#ffffff !important;">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div style="text-align: center;">
+<h1 style="color: #2c5234;">Let&#8217;s Stay Connected</h1>
+<h2>Stay up-to-date with the all the goings on at ABT.<br />
+Follow us online and we&#8217;ll keep you in the loop.</h2>
+</div>
+
+		</div>
+	</div>
+<div  class="wpb_images_carousel wpb_content_element vc_clearfix">
+	<div class="wpb_wrapper">
+				<div id="vc_images-carousel-1-1586149151" data-ride="vc_carousel" data-wrap="false" style="width: 100%;" data-interval="0" data-auto-height="yes" data-mode="horizontal" data-partial="false" data-per-view="3" data-hide-on-end="true" class="vc_slide vc_images_carousel">
+						<!-- Wrapper for slides -->
+			<div class="vc_carousel-inner">
+				<div class="vc_carousel-slideline">
+					<div class="vc_carousel-slideline-inner">
+																				<div class="vc_item">
+								<div class="vc_inner">
+																			<a href="https://www.facebook.com/advbiotech" target="_blank">
+											<img width="410" height="288" src="https://www.adv-bio.com/wp-content/uploads/2015/02/FB21.png" class="attachment-full" alt="" srcset="https://www.adv-bio.com/wp-content/uploads/2015/02/FB21.png 410w, https://www.adv-bio.com/wp-content/uploads/2015/02/FB21-300x211.png 300w" sizes="(max-width: 410px) 100vw, 410px" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																			<a href="https://www.pinterest.com/advancedbiotech/" target="_blank">
+											<img width="410" height="288" src="https://www.adv-bio.com/wp-content/uploads/2015/02/pinterest1.png" class="attachment-full" alt="" srcset="https://www.adv-bio.com/wp-content/uploads/2015/02/pinterest1.png 410w, https://www.adv-bio.com/wp-content/uploads/2015/02/pinterest1-300x211.png 300w" sizes="(max-width: 410px) 100vw, 410px" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																			<a href="https://twitter.com/AdvBio" target="_blank">
+											<img width="410" height="288" src="https://www.adv-bio.com/wp-content/uploads/2015/02/tw1.png" class="attachment-full" alt="" srcset="https://www.adv-bio.com/wp-content/uploads/2015/02/tw1.png 410w, https://www.adv-bio.com/wp-content/uploads/2015/02/tw1-300x211.png 300w" sizes="(max-width: 410px) 100vw, 410px" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																			<a href="https://advbio.wordpress.com" target="_blank">
+																					</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																			<a href="https://www.facebook.com/advbiotech" target="_blank">
+																					</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																			<a href="https://www.pinterest.com/advancedbiotech/" target="_blank">
+																					</a>
+																	</div>
+							</div>
+											</div>
+				</div>
+			</div>
+					</div>
+	</div>
+</div>
+</div></div></div></div></div>
+<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="box-section  animation bounceIn " style="">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1443116380533" >
+		<div class="wpb_wrapper">
+			<p>
+<center><a href="https://www.pinterest.com/advancedbiotech/" data-pin-do="embedUser" data-pin-scale-height="400">Visit Advanced Biotech&#8217;s profile on Pinterest.</a><br />
+<!-- Please call pinit.js only once per page --><script src="//assets.pinterest.com/js/pinit.js" async="" type="text/javascript"></script></center></p>
+
+		</div>
+	</div>
+</div></div></div></div></div>
+        	
+	</div>
+	</div>             
+<footer>
+    <div class="up-footer">
+		<div class="row">
+                <div class="col-md-4"><div class=" widget footer-widgets"><h2>Menu</h2><div class="menu-footer-nav-2-container"><ul id="menu-footer-nav-2" class="menu"><li id="menu-item-4033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-35 current_page_item menu-item-4033"><a href="https://www.adv-bio.com/" aria-current="page">Home</a></li>
+<li id="menu-item-606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-606"><a href="https://www.adv-bio.com/search/">Product Search</a></li>
+<li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a href="https://www.adv-bio.com/new-products/">New Products</a></li>
+<li id="menu-item-4032" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4032"><a href="https://www.adv-bio.com/events/">Upcoming Events</a></li>
+<li id="menu-item-605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-605"><a href="https://www.adv-bio.com/sample-request/">Product Sample Request</a></li>
+<li id="menu-item-603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-603"><a href="https://www.adv-bio.com/contact-us/">Contact Us</a></li>
+</ul></div></div></div><div class="widget_text col-md-4"><div class="widget_text  widget footer-widgets"><h2>Resources</h2><div class="textwidget custom-html-widget"><a href="https://www.adv-bio.com/reports/ABT_2020_Flavor_Forecast.pdf" rel="noopener noreferrer" target="_blank">2020 Flavor Trend Forecast</a>
+<br>
+<a href="https://www.adv-bio.com/reports/ABT_Market_Report-Summer_2019.pdf" rel="noopener noreferrer" target="_blank">Summer 2019 Market Report</a></div></div></div><div class="col-md-4"><div class=" widget footer-widgets"><h2>Latest from the blog</h2>		<div class="recent-post-box latest-post-widget">
+			<ul class="post-list">
+		          
+									<li>
+						<h5 class="media-heading"><a href="https://www.adv-bio.com/the-enduring-popularity-of-caramel/">The Enduring Popularity of Caramel</a></h5> 
+						<small>April 2, 2020</small>
+					</li>
+							          
+									<li>
+						<h5 class="media-heading"><a href="https://www.adv-bio.com/strawberry-flavor-applications/">Strawberry Flavor Applications</a></h5> 
+						<small>March 26, 2020</small>
+					</li>
+							          
+									<li>
+						<h5 class="media-heading"><a href="https://www.adv-bio.com/flavors-of-the-world-african-spices-food-flavor-and-cocktails/">Flavors of the World: African Spices &#8211; Food, Flavor, and Cocktails</a></h5> 
+						<small>March 24, 2020</small>
+					</li>
+										</ul>
+		</div>
+		        </div></div>                        </div>
+    </div>	
+    <div class="footer-line">
+		<p>© 2020 Advanced Biotech |  10 Taft Road  |  Totowa, NJ 07512  |  Phone: (973)339-6242  |  Fax: (973)256-4101</p>
+		 		<a class="go-top" href="#"><i class="fa fa-angle-up"></i></a>
+		    </div>
+</footer>
+<!-- end of div id=content-->
+	
+</div> 
+<!--end container-->
+</div>
+<script type="text/javascript">
+_linkedin_partner_id = "1131666";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1131666&fmt=gif" />
+</noscript><link rel='stylesheet' id='vc_carousel_css-css'  href='https://www.adv-bio.com/wp-content/plugins/js_composer/assets/lib/vc_carousel/css/vc_carousel.min.css?ver=5.4.7' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.adv-bio.com/wp-content/themes/unik/js/plugins.js?ver=3.2'></script>
+<script type='text/javascript' src='https://www.adv-bio.com/wp-content/themes/unik/js/script.js?ver=3.2'></script>
+<script type='text/javascript' src='https://www.adv-bio.com/wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.adv-bio.com/wp-includes/js/wp-embed.min.js?ver=cb4573164b2efc6424742ca1cb3c95f6'></script>
+<script type='text/javascript' src='https://www.adv-bio.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.7'></script>
+<script type='text/javascript' src='https://www.adv-bio.com/wp-content/plugins/js_composer/assets/lib/vc_carousel/js/transition.min.js?ver=5.4.7'></script>
+<script type='text/javascript' src='https://www.adv-bio.com/wp-content/plugins/js_composer/assets/lib/vc_carousel/js/vc_carousel.min.js?ver=5.4.7'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202015.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.3',blog:'102210499',post:'35',tz:'-4',srv:'www.adv-bio.com'} ]);
+	_stq.push([ 'clickTrackerInit', '102210499', '35' ]);
+</script>
+</body>
+</html>

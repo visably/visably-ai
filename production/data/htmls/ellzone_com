@@ -1,0 +1,278 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="icon" type="image/ico" href="favicon.ico">
+
+<title>Spellzone - the online English spelling resource</title>
+<meta name="Description" content="The Spellzone resource is for students aged seven to adult in school, at work and at home. It is also suitable for students learning English as a foreign language and for those with dyslexia. The Spelling Ability Test provides all students with a baseline score and a personalised 'Course Pathway'. This includes teaching, tests and activities from the Spellzone Starter and Main Courses." />
+<meta name="Keywords" content="spelling, spelling rules, English, English spelling, improve spelling, help spelling, learn spelling, American spelling, spellcheck, spellchecker, spelling tests, spelling program, spelling bee, phonics, basic skills, adult literacy, homophones, home education, homeschooling, dyslexia, adult dyslexia, EFL, TEFL, ESL" />
+
+<link rel="stylesheet" href="stylesheets/index.css?ver=4.318" media="screen" type="text/css">
+<meta name="viewport" content="width=device-width">
+<link href="stylesheets/tablet.css?ver=4.318" rel="stylesheet" type="text/css" media="screen and (min-width: 681px) and (max-width: 980px) and (min-height: 421px)" />
+<link href="stylesheets/mobile.css?ver=4.318" rel="stylesheet" type="text/css" media="screen and (min-width: 0px) and (max-width: 680px), screen and (max-height: 420px)" />
+<link href="stylesheets/print.css?ver=4.318" rel="stylesheet" media="print" type="text/css">
+<script defer type="text/javascript" src="Scripts/general.js?ver=4.318"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3201149-18"></script>
+
+</head><body bgcolor="#009999" id="page1">
+<script type="text/javascript" src="Scripts/jquery-3.3.1.min.js"></script>
+<div id="top">
+<div id="topbar">
+<div id="menutop">
+<div id="login"><a href="login/login.cfm">Log in</a></div>
+<div id="accessibility-link"><a href="pages/help/javascript.cfm" onclick="showAccess()">Accessibility</a></div>
+</div>
+<div id="logo"><a href="https://www.spellzone.com/"><img src="images/spellzone-logo.jpg" alt="Spellzone - the online English spelling resource" class="logo" /></a></div>
+<div id="menu">
+<a href="index.cfm" id="nav1" class="notmobile">Home</a><a href="pages/contents.cfm" id="nav7"><span class="notmobile">Spelling </span>Course</a><a href="word_lists/index.cfm" id="nav9"><span class="notmobile">Word </span>Lists</a>
+<div id="notloginmenu"><a href="what-is-spellzone.cfm" id="what"><span class="notmobile nottablet">What is Spellzone?</span><span class="mobileandtablet">About</span></a><a href="pages/register.cfm" id="signup"><span class="notmobile">Prices & </span>Sign up</a></div>
+</div>
+</div></div>
+<div id="warningorangesubtop">
+<div id="warningtopbar">
+<div id="warningbarleft">
+<p style="padding:1px 0 6px 0px;">
+<strong>School closures:</strong> if you require assistance, including getting your students and staff working from home, please do not hesitate to <a href="https://www.spellzone.com/pages/contact.cfm?prefill=callback#email">contact us</a>.
+</p>
+</div>
+</div>
+</div>
+<div id="accessouter" style="display:none;"></div>
+<div id="homegreen">
+<div id="topimage">
+<div style="position:absolute;right:0px; top:450px; width:120px; height:90px; z-index:12;" title="Covers American English spelling"></div>
+<div id="maintitle" style="top:300px;">A simple and effective way to master English spelling. Ideal for school closures.</div>
+<div id="topmainimagecover"></div>
+<div id="topmainimage">
+<img src="images/home/home_page_main_altus.jpg" alt="Spellzone is an online American English spelling course with thousands of pages of teaching, tests, resources and games" border="0" style="padding: 0px 0px 0px 0px;" />
+</div>
+<div id="homestats">
+<style>
+.schoolclosuresbutton{border:#D74B00 2px solid; 
+border-radius: 10px; padding: 2px 1px 0px 1px;background-color:#E53; font-size:11.5px;margin: 0px 0px 10px 0px; height: 48px; font-size:16px; width:162px; display:block; relative;opacity:0.9;}
+a.schoolclosuresbutton{color:#FFF;}
+a.schoolclosuresbutton:hover{color:#DDD;}
+</style>
+<a href="blog/if_your_school_has_closed_or_is_planning_for_potential_closure_due_to_the_covid-19_virus_spellzone_is_here_to_help.htm" class="schoolclosuresbutton">COVID-19 virus -<br />
+we are here to help</a>
+<a href="pages/free-trial.cfm" class="statfreetrial">Free Trial</a>
+<div id="stat" title="The total number of course tests completed on Spellzone">
+<div id="stattop">
+Course tests completed
+</div>
+<div id="statbottom">4,280,263</div>
+</div>
+<div id="stat" title="The total number of word list activities completed on Spellzone">
+<div id="stattop">
+Word list activities completed
+</div>
+<div id="statbottom">4,634,284</div>
+</div>
+<div id="stat" title="The total number of word lists created on Spellzone">
+<div id="stattop">
+User created word lists
+</div>
+<div id="statbottom">1,044,022</div>
+</div>
+<div id="stat" title="Student logins within the last 24 hours">
+<div id="stattop">
+Student logins today
+</div>
+<div id="statbottom">1,032</div>
+</div>
+</div>
+<div id="homemaintext">
+<h1 style="padding: 15px 0px 15px 0px; font-size: 26px;">What is Spellzone?</h1>
+<p>Spellzone unlocks the mystery of American English spelling. Adapting to all abilities, it enables students, including SEND, SLD and ESL, to study independently on any platform in school, at home or on the go. Dynamic reporting tools provide teachers with time-saving monitoring and evaluation of all student activity and results.</p>
+</div>
+</div>
+<div id="homegreeninner">
+<h2 style="padding: 10px 0px 15px 0px; font-size: 26px;">How does Spellzone work?</h2>
+<div id="homewhat1">
+<h3>Spelling Ability Test</h3>
+<p>Assesses prior knowledge<br />
+Creates individual course pathways<br />
+Automatic re-testing</p>
+</div>
+<div id="homewhat2">
+<h3>Spelling Course</h3>
+<p>Based on phonic progression<br />
+Covers all English spelling rules<br />
+Multi-sensory activites and tests</p>
+</div>
+<div id="homewhat3">
+<h3>Word Lists</h3>
+<p>
+Course, curriculum and grade lists
+<br />
+1000s of pre-loaded lists or create your own<br />
+Use with activities, games and worksheets</p>
+</div>
+<div style="clear:both; text-align:right; padding: 0px 10px 15px 0px;"><a href="what-is-spellzone.cfm" style="color:#FFF;">Learn more >></a></div>
+</div>
+</div>
+<div id="container">
+<div id="homeslider">
+<h2 style="font-size:26px;">Who uses Spellzone?</h2>
+<style>
+.slick-list,.slick-slider,.slick-track{position:relative;display:block}.slick-loading .slick-slide,.slick-loading .slick-track{visibility:hidden}.slick-slider{box-sizing:border-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none;-khtml-user-select:none;-ms-touch-action:pan-y;touch-action:pan-y;-webkit-tap-highlight-color:transparent}.slick-list{overflow:hidden;margin:0;padding:0}.slick-list:focus{outline:0}.slick-list.dragging{cursor:pointer;cursor:hand}.slick-slider .slick-list,.slick-slider .slick-track{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);-o-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}.slick-track{top:0;left:0}.slick-track:after,.slick-track:before{display:table;content:''}.slick-track:after{clear:both}.slick-slide{display:none;float:left;height:100%;min-height:1px}[dir=rtl] .slick-slide{float:right}.slick-slide img{display:block}.slick-slide.slick-loading img{display:none}.slick-slide.dragging img{pointer-events:none}.slick-initialized .slick-slide{display:block}.slick-vertical .slick-slide{display:block;height:auto;border:1px solid transparent}.slick-arrow.slick-hidden{display:none}
+@charset 'UTF-8';.slick-dots li,.slick-dots li button{cursor:pointer;height:20px;width:20px}.slick-loading .slick-list{background:url(ajax-loader.gif) center center no-repeat #fff}.slick-dotted.slick-slider{margin-bottom:30px}.slick-dots{position:absolute;bottom:-25px;display:block;width:100%;padding:0;margin:0;list-style:none;text-align:center}.slick-dots li{position:relative;display:inline-block;margin:0 5px;padding:0}.slick-dots li button{font-size:0;line-height:0;display:block;padding:5px;color:transparent;border:0;outline:0;background:0 0}.slick-dots li button:focus,.slick-dots li button:hover{outline:0}.slick-dots li button:focus:before,.slick-dots li button:hover:before{opacity:1}.slick-dots li button:before{font-family:slick;font-size:6px;line-height:20px;position:absolute;top:0;left:0;width:20px;height:20px;content:'•';text-align:center;opacity:.25;color:#000;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.slick-dots li.slick-active button:before{opacity:.75;color:#000}
+</style>
+<section class="autoplay slider">
+<div>
+<img src="images/logos/achahoish-kilmartin.jpg" width="79" height="77" style="float:right;" title="Achahoish and Kilmartin Primary School" />
+<h3 style="float:left; padding-top:25px;">Spellzone engages students...</h3>
+<h3 style="font-size:140%; color:#099; clear:both;">"The children were able to get into the swing of it quickly and were happy to continue using it"</h3>
+<p class="small" style="float:right; padding-top:20px;"><em>Fiona Johnson, Shared Head, Achahoish and Kilmartin Primary School</em></p>
+</div>
+<div>
+<img src="images/logos/kings-leadership-academy.jpg" height="80" style="float:right; padding-bottom:6px;" title="King’s Leadership Academy" />
+<h3 style="float:left; padding-top:25px;">Spellzone saves time...</h3>
+<h3 style="font-size:140%; color:#099; clear:both;">"It is saving huge amounts of time as well as directly supporting learning"</h3>
+<p class="small" style="float:right; padding-top:20px;"><em>Alison Ridyard, Director of Literacy, King’s Leadership Academy</em></p>
+</div>
+<div>
+<img src="images/logos/Casterton-College-logo.png" height="80" style="float:right;" title="Casterton College" />
+<h3 style="float:left; padding-top:25px;">Spellzone provides evidence...</h3>
+<h3 style="font-size:140%; color:#099; clear:both;">"It makes viewing and evaluating student activity, engagement levels and results easy"</h3>
+<p class="small" style="float:right; padding-top:20px;"><em>Terrie Penrose-Smith, Teaching Assistant, Casterton College</em></p>
+</div>
+<div>
+<img src="images/logos/millthorpe_school_york.gif" height="80" style="float:right;" title="Millthorpe School" />
+<h3 style="float:left; padding-top:25px;">Spellzone makes a difference...</h3>
+<h3 style="font-size:140%; color:#099; clear:both;">"There’s no doubt that a 400% improvement represents a superb result"</h3>
+<p class="small" style="float:right; padding-top:20px;"><em>Mary Griffiths, Director of Inclusion, Millthorpe School</em></p>
+</div>
+</section>
+<div style="float:left;"><a href="teach-spelling.cfm" style="color:#606;">Information for teachers >></a></div>
+<div style="float:right;"><a href="learn-spelling.cfm" style="color:#F61;">Information for students >></a></div>
+</div>
+<script defer src="Scripts/slick/slick.min.js?one=2" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+$(document).ready( function () {
+$('.autoplay').slick({
+slidesToShow: 1,
+slidesToScroll: 1,
+autoplay: true,
+autoplaySpeed: 4000,
+dots: true,
+arrows: false,
+});
+});
+</script>
+<div id="homevideo">
+<iframe src="https://player.vimeo.com/video/316807817" class="homevideoframe" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div style="clear:both; float:right;"><a href="pages/comments.cfm">View case studies and reviews >></a></div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div id="homegreen">
+<div id="homegreeninner">
+<div id="homeblog">
+<h2>Spellzone Blog</h2>
+<div id="homeblogtop">
+<a href="blog/how_the_rhinoceros_got_its_name.htm">How the Rhinoceros Got its Name </a><br />
+<div class="small" style="text-align:right;">04/01/20</div>
+<hr />
+<a href="blog/spellzone_march_round-up.htm">Spellzone March Round-up</a><br />
+<div class="small" style="text-align:right;">03/31/20</div>
+<hr />
+<a href="blog/20_idioms_about_cleaning.htm">20 Idioms about Cleaning</a><br />
+<div class="small" style="text-align:right;">03/27/20</div>
+<div style="height:10px;"></div>
+</div>
+<div id="homeblogbottom"><a href="blog/index.cfm">View all blog posts >></a></div>
+</div>
+<div id="hometrialrobot"><img src="images/home/robot_home.png" height="260" /></div>
+<div id="hometrial">
+<h2>Try Spellzone for FREE</h2>
+<div id="hometrialbox"><h3>Access to ALL spelling resources!</h3>
+<h4>No obligation - No pre-payment - No risk</h4>
+<a href="register/trial-single.htm" class="hometrialboxes freetrialsingle" style="">Single students</a>
+<a href="register/trial-home.htm" class="hometrialboxes freetrialhome" style="">Home & Tutors</a>
+<a href="register/trial-site.htm" class="hometrialboxes freetrialsite" style="">Schools</a>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div id="container">
+<div style="padding: 20px 0px 20px 0px;">
+<div style="float:left; width: 180px; margin: 20px 0px 10px 10px;">
+<h3>Dictionary</h3>
+<form action="dictionary/index.cfm" method="post">
+<input name="checkID" type="hidden" value="c9a3d774-0c61-4" />
+<input name="def" type="text" style="width:160px; margin:0px 0px 10px 0px; " />
+<input name="Search" type="submit" value="Search" />
+</form>
+</div>
+<div style="float:left; margin: 20px 20px 0px 20px;">
+<h3>Connect with us: </h3>
+<p><a href="https://www.facebook.com/Spellzone" target="_blank" rel="nofollow noopener noreferrer"><img src="images/social-media/round-colour/Facebook.png" alt="Facebook" name="Facebook" width="33" height="32" border="0" align="absmiddle" id="Facebook" style="padding-right:5px;" /></a> <a href="https://twitter.com/spellzone" target="_blank" rel="nofollow noopener noreferrer"><img src="images/social-media/round-colour/Twitter.png" alt="Twitter" name="Twitter" width="33" height="33" border="0" align="absmiddle" id="Twitter" style="padding-right:5px;" /></a></p>
+</div>
+<div style="float:left; margin: 0px 0px 0px 0px;">
+<a href="https://educationalliancefinland.com/products/spellzone" target="_blank" rel="noopener noreferrer nofollow"><img src="images/logos/EAF_Certificate_Blue_2020.gif" width="140" height="133" alt="Education Alliance Finland" align="absmiddle" style="padding-right:10px;" /></a>
+<a href="https://www.besa.org.uk/supplier/spellzone/" target="_blank" rel="noopener noreferrer nofollow"><img src="images/logos/besa_logo.gif" width="140" height="63" alt="BESA British Educational Suppliers Association" id="besa" align="absmiddle" style="padding-right:10px;" /></a>
+<a href="http://www.nasen.org.uk/" target="_blank" rel="noopener noreferrer nofollow"><img src="images/logos/nasen.png" alt="nasen" name="nasen" width="100" height="46" border="0" align="absmiddle" id="nasen" style="padding-right:10px;" /></a>
+<a href="http://www.bdadyslexia.org.uk/" target="_blank" rel="noopener noreferrer nofollow"><img src="images/logos/BDAlogo.png" alt="British Dyslexia Association" name="BDA" width="165" height="75" border="0" align="absmiddle" id="BDA" style="padding-left:30px;" /></a>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+
+<div id="bottomgreen">
+<div id="testimonialsinner">
+<p>"Thank goodness for Spellzone during this remote learning phase. The site is easy for students to navigate independently and they're really enjoying the activities and spelling games. You get an awful lot for your money with Spellzone. Really reassuring is the very prompt response with helpdesk queries. I've very rarely needed the helpdesk, but when I have, the issue has been addressed and sorted within a very short time."</p>
+<strong style="float:left;">Sarah Taggart, Oasis Academy Lord's Hill</strong>
+<div style="clear:both;"></div>
+</div>
+<div id="bottomgreeninner">
+<div id="bgreen1"><h3>Curriculum...</h3>
+<hr />
+<ul>
+<li><a href="word_lists/graded-lists.cfm">Grade lists</a></li>
+<li><a href="pages/british-american.cfm">Covers American English spelling</a></li>
+<li><a href="word_lists/lists-curriculum.cfm">Curriculum word lists</a></li>
+</ul>
+</div>
+<div id="bgreen2"><h3>Resources...</h3>
+<hr />
+<ul>
+<li><a href="guide-to-spellzone.cfm">Spellzone guides</a></li>
+<li><a href="pages/resources.cfm">Spelling resources</a></li>
+<li><a href="dictionary/index.cfm">Dictionary</a></li>
+</ul>
+</div>
+<div id="bgreen3"><h3>Help...</h3>
+<hr />
+<ul>
+<li><a href="book/index.cfm">Book FREE training for your school</a></li>
+<li><a href="pages/teacher_notes.cfm">FAQs</a></li>
+<li><a href="pages/contact.cfm">Contact us</a></li>
+</ul>
+<p><a href="pages/help.cfm"><img src="images/buttons/help.png" alt="Help" width="110" height="31" border="0" /></a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div id="footer">
+<div id="footerinner">
+<div id="footer1">
+<p>&copy; Spellzone Limited 2020</p>
+</div>
+<div id="footer2">
+<p><a href="pages/policies/terms.cfm">Terms &amp; Conditions</a> | <a href="pages/policies/privacy-policy.cfm">Privacy Policy</a> | <a href="pages/policies/cookie-policy.cfm">Cookie Policy</a><br />
+<a href="pages/about_spellzone.cfm">About the Authors</a></p>
+</div>
+<div id="footer3">
+<p align="center"><br />
+<a href="translation/ar.cfm"><img src="images/flags/Arabic.gif" alt="Arabic" title="Arabic" width="16" height="11" border="0" /></a> <a href="translation/zh.cfm"><img src="images/flags/Chinese.gif" alt="Chinese" title="Chinese" width="16" height="11" border="0" /></a> <a href="translation/fr.cfm"><img src="images/flags/French.gif" alt="French" title="French" width="16" height="11" border="0" /></a> <a href="translation/de.cfm"><img src="images/flags/German.gif" alt="German" title="German" width="16" height="11" border="0" /></a> <a href="translation/hi.cfm"><img src="images/flags/Hindi.gif" alt="Hindi" title="Hindi" width="16" height="11" border="0" /></a> <a href="translation/pt.cfm"><img src="images/flags/Portuguese.gif" alt="Portuguese" title="Portuguese" width="16" height="11" border="0" /></a> <a href="translation/ru.cfm"><img src="images/flags/Russian.gif" alt="Russian" title="Russian" width="16" height="11" border="0" /></a> <a href="translation/es.cfm"><img src="images/flags/Spanish.gif" alt="Spanish" title="Spanish" width="16" height="11" border="0" /></a> <a href="translation/ur.cfm"><img src="images/flags/Urdu.gif" alt="Urdu" title="Urdu" width="16" height="11" border="0" /></a>
+</p>
+</div>
+</div>
+</div>
+</body>
+</html>

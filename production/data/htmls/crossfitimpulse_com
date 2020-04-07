@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+
+<!-- wp_header -->
+<title>CrossFit Impulse Homepage - CrossFit Impulse</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v13.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://crossfitimpulse.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="CrossFit Impulse Homepage - CrossFit Impulse" />
+<meta property="og:description" content="&nbsp; Announcing Virtual Gym! Click here to join for free. Unusual times call for maintaining your body&#8217;s health more than ever. Join us in the virtual gym to focus on fitness and accomplish your goals! Why Choose Us? Thick Toilet Paper Led by a Certified CrossFit Level 3 Trainer Level 2 Coaches Running the Show &hellip;" />
+<meta property="og:url" content="https://crossfitimpulse.com/" />
+<meta property="og:site_name" content="CrossFit Impulse" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://crossfitimpulse.com/#website","url":"https://crossfitimpulse.com/","name":"CrossFit Impulse","inLanguage":"en-US","description":"life. changing. fitness.","potentialAction":[{"@type":"SearchAction","target":"https://crossfitimpulse.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://crossfitimpulse.com/#primaryimage","inLanguage":"en-US","url":"http://crossfitimpulse.com/wp-content/uploads/2015/03/cfi2.jpg"},{"@type":"WebPage","@id":"https://crossfitimpulse.com/#webpage","url":"https://crossfitimpulse.com/","name":"CrossFit Impulse Homepage - CrossFit Impulse","isPartOf":{"@id":"https://crossfitimpulse.com/#website"},"inLanguage":"en-US","primaryImageOfPage":{"@id":"https://crossfitimpulse.com/#primaryimage"},"datePublished":"2015-03-31T19:31:11+00:00","dateModified":"2020-04-01T19:04:56+00:00","potentialAction":[{"@type":"ReadAction","target":["https://crossfitimpulse.com/"]}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CrossFit Impulse &raquo; Feed" href="https://crossfitimpulse.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CrossFit Impulse &raquo; Comments Feed" href="https://crossfitimpulse.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/crossfitimpulse.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='themify-common-css'  href='https://crossfitimpulse.com/wp-content/themes/themify-corporate/themify/css/themify.common.css?ver=5.3.2' type='text/css' media='all' />
+<meta name="themify-framework-css" content="themify-framework-css" id="themify-framework-css">
+<meta name="builder-styles-css" content="builder-styles-css" id="builder-styles-css">
+<link rel='stylesheet' id='wp-block-library-css'  href='https://crossfitimpulse.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-builder-style-css'  href='https://crossfitimpulse.com/wp-content/themes/themify-corporate/themify/themify-builder/css/themify-builder-style.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='gdm-gutenberg-block-backend-js-css'  href='https://crossfitimpulse.com/wp-content/plugins/google-drive-embedder/css/gdm-blocks.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://crossfitimpulse.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-style-css'  href='https://crossfitimpulse.com/wp-content/themes/themify-corporate/style.css?ver=1.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-media-queries-css'  href='https://crossfitimpulse.com/wp-content/themes/themify-corporate/media-queries.css?ver=1.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-skin-css'  href='https://crossfitimpulse.com/wp-content/themes/themify-corporate/skins/orange/style.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-builder-26665-generated-css'  href='https://crossfitimpulse.com/wp-content/uploads/themify-css/themify-builder-26665-generated.css?ver=1585767894' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-customize-css'  href='https://crossfitimpulse.com/wp-content/uploads/themify-customizer.css?ver=19.04.24.03.21.15' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7COpen+Sans%3A400%2C300%2C600%2C700%7CCopse&#038;subset=latin&#038;ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://crossfitimpulse.com/wp-content/plugins/jetpack/css/jetpack.css?ver=8.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://crossfitimpulse.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://crossfitimpulse.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://crossfitimpulse.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://crossfitimpulse.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://crossfitimpulse.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel='shortlink' href='https://wp.me/P1Kee3-6W5' />
+<link rel="alternate" type="application/json+oembed" href="https://crossfitimpulse.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcrossfitimpulse.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://crossfitimpulse.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcrossfitimpulse.com%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>
+
+
+
+<link href="https://crossfitimpulse.com/test/wp-content/uploads/2015/04/favicon.ico" rel="shortcut icon" /> 
+
+	<script type="text/javascript">
+		var tf_mobile_menu_trigger_point = 1200;
+	</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+  window.sugarwod_options = {
+    id: "pYlduEAUIv",
+    color: "#7f7f7f"
+}
+</script>
+
+<script src="//cdn.sugarwod.com/plugin/v1/sugarwod-plugin.js" async></script>
+</head>
+
+<body class="home page-template-default page page-id-26665 themify-fw-4-2-7 themify-corporate-1-8-2 skin-orange webkit not-ie full_width sidebar-none no-touch has-fixed-header fixed-header builder-parallax-scrolling-active">
+<script type="text/javascript">
+	function themifyMobileMenuTrigger(e) {
+		if( document.body.clientWidth > 0 && document.body.clientWidth <= tf_mobile_menu_trigger_point ) {
+			document.body.classList.add( 'mobile_menu_active' );
+		} else {
+			document.body.classList.remove( 'mobile_menu_active' );
+		}
+	}
+	themifyMobileMenuTrigger();
+	document.addEventListener( 'DOMContentLoaded', function () {
+		jQuery( window ).on('tfsmartresize.tf_mobile_menu', themifyMobileMenuTrigger );
+	}, false );
+</script>
+<div id="pagewrap" class="hfeed site">
+
+	<div id="headerwrap">
+
+		
+		<header id="header" class="pagewidth clearfix" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+
+        	
+			<div class="logo-wrap">
+				<div id="site-logo"><a href="https://crossfitimpulse.com" title="CrossFit Impulse"><img src="https://crossfitimpulse.com/wp-content/uploads/2015/09/CrossfitLogo_BlackText21-e1417995823454.png" alt="CrossFit Impulse" title="CrossFit Impulse" /></a></div>														<div id="site-description" class="site-description"><span>life. changing. fitness.</span></div>
+							</div>
+
+			<a id="menu-icon" href="#mobile-menu"><span class="menu-icon-inner"></span></a>
+			<div id="mobile-menu" class="sidemenu sidemenu-off">
+
+					<div class="social-widget">
+						
+											</div>
+					<!-- /.social-widget -->
+
+					<div id="searchform-wrap">
+											</div>
+					<!-- /searchform-wrap -->
+
+					<nav id="main-nav-wrap" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+						<ul id="main-nav" class="main-nav clearfix menu-name-main-menu"><li id="menu-item-27248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27248"><a href="tel:256-361-9348">256-361-9348</a></li>
+<li id="menu-item-26644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26644"><a href="https://crossfitimpulse.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-26635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-26635"><a href="https://crossfitimpulse.com/get-started/">Get Started!</a>
+<ul class="sub-menu">
+	<li id="menu-item-29435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29435"><a href="https://crossfitimpulse.com/why-choose-us/">Why Choose Us?</a></li>
+	<li id="menu-item-26640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26640"><a href="https://crossfitimpulse.com/free-intro/">Free Intro!</a></li>
+	<li id="menu-item-26636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26636"><a href="https://crossfitimpulse.com/fundamentals-2/">Fundamentals</a></li>
+	<li id="menu-item-26637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26637"><a href="https://crossfitimpulse.com/fast-track/">Fast Track</a></li>
+	<li id="menu-item-26638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26638"><a href="https://crossfitimpulse.com/group-classes/">Group Classes</a></li>
+	<li id="menu-item-26641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26641"><a href="https://crossfitimpulse.com/doctrine/">Doctrine</a></li>
+</ul>
+</li>
+<li id="menu-item-26642" class="sugarwod-toggle menu-item menu-item-type-custom menu-item-object-custom menu-item-26642"><a href="#">Training</a></li>
+<li id="menu-item-26634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26634"><a href="https://crossfitimpulse.com/schedule-2/">Schedule</a></li>
+<li id="menu-item-26648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-26648"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-26649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26649"><a href="https://crossfitimpulse.com/nutrition/">Nutrition</a></li>
+	<li id="menu-item-26686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26686"><a href="https://crossfitimpulse.com/coaches-profiles/">Coaches Profiles</a></li>
+	<li id="menu-item-29726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29726"><a href="https://crossfitimpulse.com/pet-policy/">Pet Policy</a></li>
+	<li id="menu-item-26890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26890"><a href="https://crossfitimpulse.com/search/">Search</a></li>
+	<li id="menu-item-26661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26661"><a href="https://crossfitimpulse.com/all-posts/">All Posts</a></li>
+</ul>
+</li>
+</ul>						<!-- /#main-nav -->
+					</nav>
+
+					<a id="menu-icon-close" href="#"></a>
+
+			</div>
+			<!-- /#mobile-menu -->
+
+			
+		</header>
+		<!-- /#header -->
+
+        
+	</div>
+	<!-- /#headerwrap -->
+
+	<div id="body" class="clearfix">
+
+		
+
+<!-- layout-container -->
+<div id="layout" class="pagewidth clearfix">
+
+		<!-- content -->
+	<div id="content" class="clearfix">
+    	
+		
+							<div id="page-26665" class="type-page">
+
+			<!-- page-title -->
+						<!-- /page-title -->
+
+			<div class="page-content entry-content">
+
+				
+				<p></p>
+<p>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBAgqFfLglJeG43h2Strir_MRL8Uwgw4Qg&amp;callback=initMap" type="text/javascript"></script><br>
+&nbsp;</p>
+
+<div id="themify_builder_content-26665" data-postid="26665" class="themify_builder_content themify_builder_content-26665 themify_builder">
+
+    
+		<!-- module_row -->
+		<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_26665_row module_row_26665-0" data-id="8fc212f">
+						<div class="row_inner col_align_top" >
+                                    <div  class="module_column tb-column col-full first tb_26665_column module_column_0 module_column_26665-0-0" data-id="804abf2" >
+                                                                <div class="tb-column-inner">
+                            
+
+    <!-- module image -->
+    <div  id="image-26665-0-0-0" class="module module-image image-26665-0-0-0  image-top  " data-id="62c95f9">
+        <!--insert-->
+        
+        <div class="image-wrap">
+                            <img src="https://crossfitimpulse.com/wp-content/uploads/2015/03/cfi2.jpg" class=" wp-post-image wp-image-27782" alt="cfi2" srcset="https://crossfitimpulse.com/wp-content/uploads/2015/03/cfi2.jpg 1678w, https://crossfitimpulse.com/wp-content/uploads/2015/03/cfi2-300x109.jpg 300w, https://crossfitimpulse.com/wp-content/uploads/2015/03/cfi2-768x280.jpg 768w, https://crossfitimpulse.com/wp-content/uploads/2015/03/cfi2-620x226.jpg 620w" sizes="(max-width: 1678px) 100vw, 1678px" />            
+                        </div>
+            <!-- /image-wrap -->
+        
+        
+            </div>
+    <!-- /module image -->
+
+
+
+<!-- module text -->
+<div  id="text-26665-0-0-1" class="module module-text text-26665-0-0-1  repeat  " data-id="5595eb7">
+    <!--insert-->
+    
+        <h2 style="text-align: center;">Announcing Virtual Gym!</h2>
+<h3 style="text-align: center;"><a href="https://crossfitimpulse.sites.zenplanner.com/enrollment.cfm?appointmentId=8D421AA1-628D-4440-8CF2-0E7AC3D3D180&#038;nuflo=1">Click here to join for free.</a></h3>
+<p>Unusual times call for maintaining your body&#8217;s health more than ever. Join us in the virtual gym to focus on fitness and accomplish your goals!</p>        </div>
+<!-- /module text -->
+
+
+
+<!-- module text -->
+<div  id="text-26665-0-0-2" class="module module-text text-26665-0-0-2  repeat  " data-id="db1be43">
+    <!--insert-->
+            <h3 class="module-title">Why Choose Us?</h3>    
+        <ul>
+<li><a href="/why-choose-us/#qualitysupplies">Thick Toilet Paper</a></li>
+<li><a href="/why-choose-us/#level3trainer">Led by a Certified CrossFit Level 3 Trainer</a></li>
+<li><a href="/why-choose-us/#level2coaches">Level 2 Coaches Running the Show</a></li>
+<li><a href="/why-choose-us/#cpraed">100% CPR/AED Certified</a></li>
+<li><a href="/why-choose-us/#notricks">No tricks. No gimmicks.</a></li>
+<li><a href="/why-choose-us/#clean">Clean!</a></li>
+<li><a href="/why-choose-us/#excellence">Experience and Excellence</a></li>
+<li><a href="/why-choose-us/#thepeople">The People!</a></li>
+</ul>
+<p style="text-align: center;"><a href="/why-choose-us/">Click here for details on why we think you should choose us.</a></p>
+        </div>
+<!-- /module text -->
+
+
+
+    <!-- module post -->
+    <div  id="post-26665-0-0-3" class="module module-post post-26665-0-0-3 " data-id="dc9c349">
+        <!--insert-->
+                <div class="builder-posts-wrap clearfix loops-wrapper  list-post">
+            
+
+<article id="post-30563" class="post clearfix post-30563 type-post status-publish format-standard hentry category-announcements has-post-title has-post-date no-post-category no-post-tag no-post-comment no-post-author ">
+	
+	
+			<div class="post-date-wrap">
+			<time datetime="2020-02-16" class="post-date entry-date updated">
+				<span class="day">16</span>
+				<span class="month">Feb</span>
+				<span class="year">2020</span>
+			</time>
+		</div>
+	
+	<div class="post-content">
+
+					<p class="post-meta entry-meta">
+
+				
+				
+				
+				
+			</p>
+		
+					 <h2 class="post-title entry-title"><a href="https://crossfitimpulse.com/big-nasti-2020-champions/">Big NASTI 2020 Champions</a> </h2>		
+		<div class="entry-content">
+
+			
+				<script type="text/javascript">
+                            if(!document.getElementById( "builder-styles" ) && document.getElementById( "builder-styles-css" ) ) document.getElementById( "builder-styles-css" ).insertAdjacentHTML( "beforebegin", "<link id='builder-styles' rel='stylesheet' href='https://crossfitimpulse.com/wp-content/themes/themify-corporate/themify/themify-builder/css/themify-builder-style.css?ver=4.2.7' type='text/css' />" );
+                        </script><div class="themify_builder_content themify_builder_content-30563 themify_builder in_the_loop not_editable_builder" data-postid="30563">
+
+    
+		<!-- module_row -->
+		<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_30563_row module_row_30563-0" data-id="b97c857">
+						<div class="row_inner col_align_top" >
+                                    <div  class="module_column tb-column col-full first tb_30563_column module_column_0 module_column_30563-0-0" data-id="2003c6c" >
+                                                                <div class="tb-column-inner">
+                            
+
+    <!-- module box -->
+    <div  id="box-30563-0-0-0" class="module module-box box-30563-0-0-0  " data-id="3800094">
+        <!--insert-->
+                <div class="module-box-content ui   repeat">
+                <p><img class="alignnone size-large wp-image-30564" src="https://crossfitimpulse.com/wp-content/uploads/2020/02/83313808_278873966407394_6087611513487491072_n-620x465.jpg" alt="" width="620" height="465" srcset="https://crossfitimpulse.com/wp-content/uploads/2020/02/83313808_278873966407394_6087611513487491072_n-620x465.jpg 620w, https://crossfitimpulse.com/wp-content/uploads/2020/02/83313808_278873966407394_6087611513487491072_n-300x225.jpg 300w, https://crossfitimpulse.com/wp-content/uploads/2020/02/83313808_278873966407394_6087611513487491072_n-768x576.jpg 768w, https://crossfitimpulse.com/wp-content/uploads/2020/02/83313808_278873966407394_6087611513487491072_n.jpg 960w" sizes="(max-width: 620px) 100vw, 620px" /></p><p>We are so proud to present to you the 2020 Big NASTI Champions!  </p><p>CrossFit Protocol hosted the 5th annual North Alabama Supertotal Team Invitational, or The Big NASTI, on January 25, 2020.<br /><br />This event combines Powerlifting and Olympic Weightlifting into one big team ladder event. Each gym/box provides one team of 10 athletes composed of five men and five women. </p><p>Each athlete only participates in one of the five lifts.  A Female and male do the snatch, a different female and male do the clean &#038; jerk, another female and male do the bench press, another female and male squat, and a final female and male deadlift. </p><p>The lifts are set up in a EMOM format with each lifter having one minute to complete their lift at the designated weight.</p><p>Our team trained hard for this event and fought for every pound in order to bring home the gold!</p>        </div>
+    </div>
+    <!-- /module box -->
+
+                        </div>
+                    		</div>
+		                                </div>
+                                <!-- /row_inner -->
+                        </div>
+                        <!-- /module_row -->
+		</div>
+			
+		</div><!-- /.entry-content -->
+
+		
+	</div>
+	<!-- /.post-content -->
+	
+</article>
+<!-- /.post -->
+        </div><!-- .builder-posts-wrap -->
+                    </div>
+    <!-- /module post -->
+    
+
+
+    <!-- module image -->
+    <div  id="image-26665-0-0-4" class="module module-image image-26665-0-0-4  image-top   auto_fullwidth" data-id="4b0e435">
+        <!--insert-->
+        
+        <div class="image-wrap">
+                            <img src="/wp-content/uploads/2017/08/18118432_1643843575656172_2130390768828743633_n-1-620x415.jpg" alt="CrossFit Impulse Homepage" />            
+                        </div>
+            <!-- /image-wrap -->
+        
+        
+            </div>
+    <!-- /module image -->
+
+
+
+<!-- module text -->
+<div  id="text-26665-0-0-5" class="module module-text text-26665-0-0-5    " data-id="2eb88dd">
+    <!--insert-->
+    
+        <h2>Testimonials</h2>        </div>
+<!-- /module text -->
+
+
+
+    <!-- module post -->
+    <div  id="testimonial-26665-0-0-6" class="module module-testimonial testimonial-26665-0-0-6 " data-id="c11fa69">
+        <!--insert-->
+                <div class="builder-posts-wrap clearfix loops-wrapper testimonial  grid2">
+            
+
+
+<article id="testimonial-26609" class="post clearfix testimonial-post post-26609 testimonial type-testimonial status-publish hentry testimonial-category-uncategorized no-post-title has-post-date no-post-category no-post-tag no-post-comment no-post-author ">
+	
+	<div class="testimonial-content">
+		<div class="entry-content">
+
+		
+					<p>&#8220;CFI&#8230;the only place where after a hard workout I come out with dirt all over my face and in my teeth.&#8221;</p>
+<p style="text-align: right;"><strong>Katie Stinson</strong></p>
+<div class="themify_builder_content themify_builder_content-26609 themify_builder in_the_loop not_editable_builder" data-postid="26609">
+
+    </div>		
+		</div>
+		<!-- /.entry-content -->
+
+			</div>
+	<!-- /.testimonial-content -->
+
+					<figure class="post-image">
+											</figure>
+		<!-- /.post-image -->
+			
+	
+	</article>
+<!-- /.testimonial-post -->
+
+
+
+
+<article id="testimonial-29546" class="post clearfix testimonial-post post-29546 testimonial type-testimonial status-publish hentry testimonial-category-uncategorized no-post-title has-post-date no-post-category no-post-tag no-post-comment no-post-author ">
+	
+	<div class="testimonial-content">
+		<div class="entry-content">
+
+		
+					<p>If you&#8217;re looking for a place to make gains safely while having fun, making friends, improving your athleticism, becoming a better person, looking forward to getting out of bed in the morning, using soft paper, and writing really long-winded reviews, this place is for you!</p>
+<p style="text-align: right;"><strong>Dwight Temple</strong></p>
+<div class="themify_builder_content themify_builder_content-29546 themify_builder in_the_loop not_editable_builder" data-postid="29546">
+
+    </div>		
+		</div>
+		<!-- /.entry-content -->
+
+			</div>
+	<!-- /.testimonial-content -->
+
+					<figure class="post-image">
+											</figure>
+		<!-- /.post-image -->
+			
+	
+	</article>
+<!-- /.testimonial-post -->
+
+        </div><!-- .builder-posts-wrap -->
+                    </div>
+    <!-- /module post -->
+
+
+
+
+    <!-- module video -->
+    <div  id="video-26665-0-0-7" class="module module-video video-26665-0-0-7 video-top   " data-id="57843f6">
+        <!--insert-->
+        
+        <div class="video-wrap">
+			<iframe title="Winter Promo 2016" width="1165" height="655" src="https://www.youtube.com/embed/5GaJDtMHYYM?feature=oembed&showinfo=0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        </div>
+        <!-- /video-wrap -->
+
+            </div>
+    <!-- /module video -->
+    
+
+
+<!-- module text -->
+<div  id="text-26665-0-0-8" class="module module-text text-26665-0-0-8    " data-id="411a4b0">
+    <!--insert-->
+    
+        <h2>Find us at</h2>
+<p><a href="https://www.google.com/maps/place/CrossFit+Impulse/@34.7498076,-86.7099042,17z/data=!4m5!1m2!3m1!2sCrossFit+Impulse!3m1!1s0x0000000000000000:0x6969f1e237cd850b" target="_blank">115 Castle Dr Madison, AL 35758</a> | <a href="tel:256-361-9348">256.361.9348</a></p>
+        </div>
+<!-- /module text -->
+
+
+<style type="text/css">.themify_builder .widget-26665-0-0-9.module-widget{background-repeat: repeat; background-position: left top; }
+</style>
+
+	<!-- module widget -->
+	<div  id="widget-26665-0-0-9" class="module module-widget widget-26665-0-0-9  repeat " data-id="0ad0837">
+		<!--insert-->
+		<div class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3278.2296425759505!2d-86.7099042!3d34.7498076!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x6969f1e237cd850b!2sCrossFit+Impulse!5e0!3m2!1sen!2sus!4v1556086704316!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div></div>	</div><!-- /module widget -->
+
+                        </div>
+                    		</div>
+		                                </div>
+                                <!-- /row_inner -->
+                        </div>
+                        <!-- /module_row -->
+		</div>
+
+				
+				
+				<!-- comments -->
+								<!-- /comments -->
+
+			</div>
+			<!-- /.post-content -->
+
+			</div><!-- /.type-page -->
+		
+
+		
+			</div>
+	<!-- /content -->
+	
+	
+</div>
+<!-- /layout-container -->
+
+
+	    </div>
+	<!-- /body -->
+
+	<div id="footerwrap">
+
+		<div id="footer-inner">
+
+						<footer id="footer" class="pagewidth" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+				
+				<div class="back-top clearfix">
+					<div class="arrow-up">
+						<a href="#header"></a>
+					</div>
+				</div>
+
+				<div class="footer-logo-wrapper clearfix">
+					<div id="footer-logo"><a href="https://crossfitimpulse.com" title="CrossFit Impulse"><span>CrossFit Impulse</span></a></div>					<!-- /footer-logo -->
+
+					<div class="footer-text clearfix">
+						<div class="one">&copy; <a href="https://crossfitimpulse.com">CrossFit Impulse</a> 2020</div>						<div class="two">Powered by <a href="https://wordpress.org">WordPress</a> &bull; <a href="https://themify.me">Themify WordPress Themes</a></div>					</div>
+					<!-- /footer-text -->
+				</div>
+				<!-- /.footer-logo-wrapper -->
+
+				
+				<div class="footer-nav-wrap clearfix">
+					<ul id="footer-nav" class="footer-nav menu-name-faq"><li id="menu-item-14042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14042"><a href="https://crossfitimpulse.com/what-is-fitness">What is Fitness?</a></li>
+<li id="menu-item-14051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14051"><a href="https://crossfitimpulse.com/why-fish-oil">Why Fish Oil?</a></li>
+<li id="menu-item-14046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14046"><a href="https://crossfitimpulse.com/how-often-should-i-train">How Often Should I CrossFit?</a></li>
+<li id="menu-item-24212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24212"><a href="https://crossfitimpulse.com/nutritional-first-steps">Basic Nutrition</a></li>
+<li id="menu-item-14056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14056"><a href="https://crossfitimpulse.com/crossfit-on-the-road">CrossFit on the Road</a></li>
+<li id="menu-item-14059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14059"><a href="https://crossfitimpulse.com/the-zone-diet-explained-edited">The Zone Diet Explained</a></li>
+<li id="menu-item-14063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14063"><a href="https://crossfitimpulse.com/why-grains-are-killing-you">Why Grains are Killing You</a></li>
+<li id="menu-item-22909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22909"><a href="https://crossfitimpulse.com/rhabdo-and-crossfit">Rhabdo and CrossFit</a></li>
+<li id="menu-item-23265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23265"><a href="https://crossfitimpulse.com/invest-in-fitness">Invest in Fitness</a></li>
+<li id="menu-item-23266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23266"><a href="https://crossfitimpulse.com/lies-damned-lies-and-muscle-tone">Lies, Damned Lies, and Muscle Tone</a></li>
+<li id="menu-item-23267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23267"><a href="https://crossfitimpulse.com/what-is-cholesterol">What is Cholesterol?</a></li>
+</ul>				</div>
+				<!-- /.footer-nav-wrap -->
+
+				
+	<div class="footer-widgets clearfix">
+
+								<div class="col3-1 first">
+				<div id="text-20" class="widget widget_text">			<div class="textwidget"><a href="http://journal.crossfit.com/2002/10/what-is-fitness-by-greg-glassm.tpl"><img src="https://crossfitimpulse.com/wp-content/uploads/2010/07/CFJ-200x100-3_21.jpg" align="center"></a></div>
+		</div><div id="text-4" class="widget widget_text">			<div class="textwidget"><a href="http://www.crossfitkids.com"><img src="http://media.crossfit.com/badges/CFK_logo_v_tag_color_lightbg.png" style="background-color: white" align="center"/></a></div>
+		</div>			</div>
+								<div class="col3-1 ">
+				<div id="text-21" class="widget widget_text">			<div class="textwidget"><p><a href="https://www.roguefitness.com/?a_aid=5b22cdb59b7c6"><img style="background-color: white;" src="https://crossfitimpulse.com/wp-content/uploads/2018/06/download.png" align="center" /></a></p>
+</div>
+		</div>			</div>
+								<div class="col3-1 ">
+							</div>
+		
+	</div>
+	<!-- /.footer-widgets -->
+
+
+							</footer>
+			<!-- /#footer -->
+			
+		</div>
+		<!-- /.footer-inner -->
+
+	</div>
+	<!-- /#footerwrap -->
+
+</div>
+<!-- /#pagewrap -->
+
+
+<!-- SCHEMA BEGIN --><script type="application/ld+json">[{"@context":"https:\/\/schema.org","@type":"WebPage","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/crossfitimpulse.com\/"},"headline":"CrossFit Impulse Homepage","datePublished":"2015-03-31T19:31:11-05:00","dateModified":"2015-03-31T19:31:11-05:00","description":"","commentCount":"0"},{"@context":"https:\/\/schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/crossfitimpulse.com\/big-nasti-2020-champions\/"},"headline":"Big NASTI 2020 Champions","datePublished":"2020-02-16T09:25:13-06:00","dateModified":"2020-02-16T09:25:13-06:00","author":{"@type":"Person","name":"Jessica Clark"},"publisher":{"@type":"Organization","name":"","logo":{"@type":"ImageObject","url":"","width":0,"height":0}},"description":"We are so proud to present to you the 2020 Big NASTI Champions!\u00a0\u00a0CrossFit Protocol hosted the 5th annual North Alabama Supertotal Team Invitational, or The Big NASTI, on January 25, 2020.This event combines Powerlifting and Olympic Weightlifting into one big team ladder event. Each gym\/box provides one team of 10 athletes composed of five men [&hellip;]","commentCount":"0"},{"@context":"https:\/\/schema.org","@type":"CreativeWork","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/crossfitimpulse.com\/testimonial\/katie-stinson\/"},"headline":"Katie Stinson","datePublished":"2015-04-30T03:26:30-05:00","dateModified":"2015-04-30T03:26:30-05:00","description":"&#8220;CFI&#8230;the only place where after a hard workout I come out with dirt all over my face and in my teeth.&#8221; Katie Stinson","commentCount":"0"},{"@context":"https:\/\/schema.org","@type":"CreativeWork","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/crossfitimpulse.com\/testimonial\/29546\/"},"headline":"Dwight Temple","datePublished":"2017-10-13T20:00:49-05:00","dateModified":"2017-10-13T20:00:49-05:00","description":"If you&#8217;re looking for a place to make gains safely while having fun, making friends, improving your athleticism, becoming a better person, looking forward to getting out of bed in the morning, using soft paper, and writing really long-winded reviews, this place is for you! Dwight Temple","commentCount":"0"}]</script><!-- /SCHEMA END --><!-- wp_footer -->
+	<div style="display:none">
+	</div>
+<link rel='stylesheet' id='themify-builder-30563-generated-css'  href='https://crossfitimpulse.com/wp-content/uploads/themify-css/themify-builder-30563-generated.css?ver=1581866712' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themify_vars = {"version":"4.2.7","url":"https:\/\/crossfitimpulse.com\/wp-content\/themes\/themify-corporate\/themify","map_key":null,"includesURL":"https:\/\/crossfitimpulse.com\/wp-includes\/","isCached":"on","minify":{"css":{"themify-icons":false,"themify.framework":false,"lightbox":false,"themify-builder-style":false},"js":{"backstretch.themify-version":false,"bigvideo":false,"themify.dropdown":false,"themify.builder.script":false,"themify.scroll-highlight":false,"themify-youtube-bg":false,"themify.parallaxit":false,"themify.ticks":false}}};
+var tbLocalScript = {"isAnimationActive":"1","isParallaxActive":"1","isParallaxScrollActive":"1","isStickyScrollActive":"1","animationInviewSelectors":[".module.wow",".module_row.wow",".builder-posts-wrap > .post.wow"],"backgroundSlider":{"autoplay":5000},"animationOffset":"100","videoPoster":"https:\/\/crossfitimpulse.com\/wp-content\/themes\/themify-corporate\/themify\/themify-builder\/img\/blank.png","backgroundVideoLoop":"yes","builder_url":"https:\/\/crossfitimpulse.com\/wp-content\/themes\/themify-corporate\/themify\/themify-builder","framework_url":"https:\/\/crossfitimpulse.com\/wp-content\/themes\/themify-corporate\/themify","version":"4.2.7","fullwidth_support":"1","fullwidth_container":"body","loadScrollHighlight":"1","addons":[],"breakpoints":{"tablet_landscape":[769,"1280"],"tablet":[681,"768"],"mobile":"680"},"ticks":{"tick":30,"ajaxurl":"https:\/\/crossfitimpulse.com\/wp-admin\/admin-ajax.php","postID":26665}};
+var themifyScript = {"lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":"","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":"","gallerySelector":".gallery-icon > a","lightboxGalleryOn":true},"lightboxContext":"body"};
+var tbScrollHighlight = {"fixedHeaderSelector":"#headerwrap.fixed-header","speed":"900","navigation":"#main-nav, .module-menu .ui.nav","scrollOffset":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='https://crossfitimpulse.com/wp-content/themes/themify-corporate/themify/js/main.js?ver=4.2.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/crossfitimpulse.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://crossfitimpulse.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202015'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LcJkYIUAAAAAIT2zj4tyWQdaJZj2UkfDgXNIyhF&#038;ver=3.0'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2020Apraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://crossfitimpulse.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.3.2'></script>
+<script type='text/javascript' defer="defer" src='https://crossfitimpulse.com/wp-content/themes/themify-corporate/js/excanvas.min.js?ver=5.3.2'></script>
+<script type='text/javascript' defer="defer" src='https://crossfitimpulse.com/wp-content/themes/themify-corporate/themify/js/themify.sidemenu.js?ver=1.8.2'></script>
+<script type='text/javascript' defer="defer" src='https://crossfitimpulse.com/wp-content/themes/themify-corporate/js/jquery.isotope.min.js?ver=1.8.2'></script>
+<script type='text/javascript' defer="defer" src='https://crossfitimpulse.com/wp-content/themes/themify-corporate/js/jquery.smartresize.min.js?ver=1.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themifyScript = {"lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":"","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":"","gallerySelector":".gallery-icon > a","lightboxGalleryOn":true},"lightboxContext":"#pagewrap","fixedHeader":"fixed-header","sticky_header":"","chart":{"trackColor":"#f2f2f2","scaleColor":false,"lineCap":"butt","rotate":0,"size":170,"lineWidth":22,"animate":2000}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='https://crossfitimpulse.com/wp-content/themes/themify-corporate/js/themify.script.js?ver=1.8.2'></script>
+<script type='text/javascript' src='https://crossfitimpulse.com/wp-includes/js/comment-reply.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://crossfitimpulse.com/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6LcJkYIUAAAAAIT2zj4tyWQdaJZj2UkfDgXNIyhF',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+<script type='text/javascript' src='https://stats.wp.com/e-202015.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.0',blog:'25794111',post:'26665',tz:'-5',srv:'crossfitimpulse.com'} ]);
+	_stq.push([ 'clickTrackerInit', '25794111', '26665' ]);
+</script>
+
+
+
+</body>
+</html>

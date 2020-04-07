@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="en-US" class="scheme_sportrock"><head><title>Sportrock Climbing Centers - Rock Climbing Gym</title><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="format-detection" content="telephone=no"><link rel="profile" href="https://gmpg.org/xfn/11"><link rel="pingback" href="https://sportrock.com/xmlrpc.php"><meta name="description" content="Sportrock offers world class rock climbing, bouldering, instruction, fitness, yoga, and youth programs at two climbing gym locations."><meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"><link rel="canonical" href="https://sportrock.com/"><meta property="og:locale" content="en_US"><meta property="og:type" content="website"><meta property="og:title" content="Sportrock Climbing Centers - Rock Climbing Gym"><meta property="og:description" content="Sportrock offers world class rock climbing, bouldering, instruction, fitness, yoga, and youth programs at two climbing gym locations."><meta property="og:url" content="https://sportrock.com/"><meta property="og:site_name" content="Sportrock Climbing Centers"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:description" content="Sportrock offers world class rock climbing, bouldering, instruction, fitness, yoga, and youth programs at two climbing gym locations."><meta name="twitter:title" content="Sportrock Climbing Centers - Rock Climbing Gym"><meta name="twitter:site" content="@srclimbing"><meta name="twitter:creator" content="@srclimbing"><link rel="dns-prefetch" href="//www.google.com"><link rel="dns-prefetch" href="//api.ns8.com"><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="dns-prefetch" href="//s.w.org"><link rel="alternate" type="application/rss+xml" title="Sportrock Climbing Centers &raquo; Feed" href="https://sportrock.com/feed/"><link rel="alternate" type="application/rss+xml" title="Sportrock Climbing Centers &raquo; Comments Feed" href="https://sportrock.com/comments/feed/"><link rel="alternate" type="application/rss+xml" title="Sportrock Climbing Centers &raquo; Sportrock Climbing Centers &ndash; Rock Climbing Gym Comments Feed" href="https://sportrock.com/sportrock-climbing-centers/feed/"><script type="text/javascript" data-cfasync="false">
+	var em_version         = '6.0.2';
+	var em_track_user      = true;
+	var em_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-72764532-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( em_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+window.ga = __gaTracker;		__gaTracker('create', 'UA-72764532-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+		__gaTracker( function() { window.ga = __gaTracker; } );
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + em_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+			window.ga = __gaTracker;		})();
+		}
+</script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sportrock.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style><link rel="stylesheet" id="fontawesome-css" href="https://www.sportrock.com/wp-content/plugins/mts-wp-notification-bar/public/css/font-awesome.min.css?ver=1.1.5" type="text/css" media="all"><link rel="stylesheet" id="mts-notification-bar-css" href="https://www.sportrock.com/wp-content/plugins/mts-wp-notification-bar/public/css/mts-notification-bar-public.css?ver=1.1.5" type="text/css" media="all"><link rel="stylesheet" id="wp-block-library-css" href="https://www.sportrock.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2" type="text/css" media="all"><link rel="stylesheet" id="wc-block-style-css" href="https://www.sportrock.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.5.14" type="text/css" media="all"><link rel="stylesheet" id="essential-grid-plugin-settings-css" href="https://www.sportrock.com/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=2.1.6.2" type="text/css" media="all"><link rel="stylesheet" id="tp-open-sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&amp;ver=5.3.2" type="text/css" media="all"><link rel="stylesheet" id="tp-raleway-css" href="https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&amp;ver=5.3.2" type="text/css" media="all"><link rel="stylesheet" id="tp-droid-serif-css" href="https://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&amp;ver=5.3.2" type="text/css" media="all"><link rel="stylesheet" id="tc-team-members-css" href="https://www.sportrock.com/wp-content/plugins/tc-team-members-pro/assets/css/tc-team.css?ver=5.3.2" type="text/css" media="all"><link rel="stylesheet" id="tc-font-awesome-css" href="https://www.sportrock.com/wp-content/plugins/tc-team-members-pro/vendors/font-awesome/css/font-awesome.css?ver=5.3.2" type="text/css" media="all"><link rel="stylesheet" id="popup-css" href="https://www.sportrock.com/wp-content/plugins/tc-team-members-pro/vendors/popup/magnific-popup.css?ver=5.3.2" type="text/css" media="all"><link rel="stylesheet" id="woocommerce-layout-css" href="https://www.sportrock.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.9.3" type="text/css" media="all"><link rel="stylesheet" id="woocommerce-smallscreen-css" href="https://www.sportrock.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.9.3" type="text/css" media="only screen and (max-width: 768px)"><link rel="stylesheet" id="woocommerce-general-css" href="https://www.sportrock.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.9.3" type="text/css" media="all"><style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style><link rel="stylesheet" id="wpsf_wpsf-css" href="https://www.sportrock.com/wp-content/plugins/wp-spam-fighter/css/wpsf.css?ver=0.5.1" type="text/css" media="all"><link rel="stylesheet" id="rockclimbing-font-google_fonts-style-css" href="https://fonts.googleapis.com/css?family=Titillium+Web:700%7CRoboto:300,300italic,400,400italic,700,700italic&amp;subset=latin,latin-ext" type="text/css" media="all"><link rel="stylesheet" id="rockclimbing-fontello-style-css" href="https://www.sportrock.com/wp-content/themes/rockclimbing-child/css/fontello/css/fontello.css" type="text/css" media="all"><link rel="stylesheet" id="rockclimbing-main-style-css" href="https://www.sportrock.com/wp-content/themes/rockclimbing-child/style.css" type="text/css" media="all"><link rel="stylesheet" id="rockclimbing-animation-style-css" href="https://www.sportrock.com/wp-content/themes/rockclimbing-child/fw/css/core.animation.css" type="text/css" media="all"><link rel="stylesheet" id="rockclimbing-shortcodes-style-css" href="https://www.sportrock.com/wp-content/themes/rockclimbing-child/shortcodes/theme.shortcodes.css" type="text/css" media="all"><link rel="stylesheet" id="rockclimbing-theme-style-css" href="https://www.sportrock.com/wp-content/themes/rockclimbing-child/css/theme.css" type="text/css" media="all"><link rel="stylesheet" id="rockclimbing-custom-style-css" href="https://www.sportrock.com/wp-content/themes/rockclimbing-child/fw/css/custom-style.css" type="text/css" media="all"><style id="rockclimbing-custom-style-inline-css" type="text/css">
+  .sidebar_outer_logo .logo_main,.top_panel_wrap .logo_main,.top_panel_wrap .logo_fixed{height:50px} .contacts_wrap .logo img{height:30px}
+</style><link rel="stylesheet" id="rockclimbing-responsive-style-css" href="https://www.sportrock.com/wp-content/themes/rockclimbing-child/css/responsive.css" type="text/css" media="all"><link rel="stylesheet" id="marvelous-style-css" href="https://www.sportrock.com/wp-content/plugins/wp-marvelous-hover-800/assets/css/marvelous-hover.css?ver=2.0.6" type="text/css" media=""><link rel="stylesheet" id="js_composer_front-css" href="//sportrock.com/wp-content/uploads/js_composer/js_composer_front_custom.css?ver=5.4.7" type="text/css" media="all"><link rel="stylesheet" id="js_composer_custom_css-css" href="//sportrock.com/wp-content/uploads/js_composer/custom.css?ver=5.4.7" type="text/css" media="all"><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">
+/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/sportrock.com","hash_tracking":"false"};
+/* ]]> */
+</script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js?ver=6.0.2"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/mts-wp-notification-bar/public/js/jquery.cookie.js?ver=1.1.5"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">
+/* <![CDATA[ */
+var mtsnb_data = {"ajaxurl":"https:\/\/sportrock.com\/wp-admin\/admin-ajax.php","cookies_expiry":"365"};
+/* ]]> */
+</script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/mts-wp-notification-bar/public/js/mts-notification-bar-public.js?ver=1.1.5"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/tc-team-members-pro/assets/js/main.js?ver=5.3.2"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/sportrock.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.9.3"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.google.com/recaptcha/api.js?ver=5.3.2"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.4.7"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/themes/rockclimbing-child/fw/js/photostack/modernizr.min.js"></script><link rel="https://api.w.org/" href="https://sportrock.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sportrock.com/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.sportrock.com/wp-includes/wlwmanifest.xml"><link rel="shortlink" href="https://sportrock.com/"><link rel="alternate" type="application/json+oembed" href="https://sportrock.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsportrock.com%2F"><link rel="alternate" type="text/xml+oembed" href="https://sportrock.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsportrock.com%2F&amp;format=xml"><noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+</script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">
+  fbq('init', '1708707479169439', [], {
+    "agent": "wordpress-5.3.2-1.8.0"
+});
+</script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">
+  fbq('track', 'PageView', []);
+</script><noscript>
+<img height="1" width="1" style="display:none" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym" src="https://www.facebook.com/tr?id=1708707479169439&amp;ev=PageView&amp;noscript=1"></noscript><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."><!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.sportrock.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><script type="application/ld+json" class="saswp-schema-markup-output">
+[{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"https:\/\/sportrock.com#website","headline":"Sportrock Climbing Centers","name":"Sportrock Climbing Centers","description":"Sportrock offers world class rock climbing, bouldering, instruction, fitness, yoga, and youth programs at two climbing gym locations.","url":"https:\/\/sportrock.com","potentialAction":{"@type":"SearchAction","target":"https:\/\/sportrock.com\/?s={search_term_string}","query-input":"required name=search_term_string"}},
+
+{"@context":"https:\/\/schema.org","@type":"Organization","@id":"https:\/\/sportrock.com#Organization","name":"Sportrock Climbing Centers","url":"http:\/\/sportrock.com","sameAs":[]}]
+</script><link rel="icon" href="https://www.sportrock.com/wp-content/uploads/2015/11/SR-favicon.png" sizes="32x32"><link rel="icon" href="https://www.sportrock.com/wp-content/uploads/2015/11/SR-favicon.png" sizes="192x192"><link rel="apple-touch-icon-precomposed" href="https://www.sportrock.com/wp-content/uploads/2015/11/SR-favicon.png"><meta name="msapplication-TileImage" content="https://www.sportrock.com/wp-content/uploads/2015/11/SR-favicon.png"><style type="text/css" id="wp-custom-css">
+			@media (max-width: 479px) {
+
+.tab-holder {
+display: block;
+}
+ 
+.classes-column {
+  float: none;
+  width: 100%;
+margin: 1%;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.column-img {
+  display: none;
+}
+}
+
+.woocommerce-notices-wrapper {
+	padding-top: 32px;
+}
+
+.woocommerce-product-gallery__image {
+	padding: 1%;
+}		</style><style type="text/css" data-type="vc_custom-css">.marvelous-tilter {
+    cursor:pointer !important;
+}
+.marvelous-tilter figcaption.marvelous-tilter__caption h3 {
+    font-weight: 700;
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1531350932170{margin-bottom: 32px !important;}.vc_custom_1531350663461{margin-top: 32px !important;}.vc_custom_1531350857870{margin-top: 32px !important;padding-top: 32px !important;padding-bottom: 32px !important;background-color: #eaeaea !important;}.vc_custom_1586015773173{padding-top: 10px !important;padding-right: 10px !important;padding-bottom: 10px !important;padding-left: 10px !important;}.vc_custom_1586015779900{padding-top: 10px !important;padding-right: 10px !important;padding-bottom: 10px !important;padding-left: 10px !important;}.vc_custom_1586015800768{padding-top: 10px !important;padding-right: 10px !important;padding-bottom: 10px !important;padding-left: 10px !important;}.vc_custom_1586015807181{padding-top: 10px !important;padding-right: 10px !important;padding-bottom: 10px !important;padding-left: 10px !important;}.vc_custom_1585955263872{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 15px !important;padding-right: 30px !important;padding-bottom: 15px !important;padding-left: 30px !important;background-color: #d8d8d8 !important;border-left-color: #ffffff !important;border-right-color: #ffffff !important;border-top-color: #ffffff !important;border-bottom-color: #ffffff !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head><body class="home page-template-default page page-id-7 theme-rockclimbing woocommerce-no-js rockclimbing_body body_style_wide body_filled article_style_stretch layout_single-standard template_single-standard scheme_sportrock top_panel_show top_panel_above sidebar_hide sidebar_outer_hide wpb-js-composer js-comp-ver-5.4.7 vc_responsive">
+<a id="toc_home" class="sc_anchor" title="Home" data-description="&lt;i&gt;Return to Home&lt;/i&gt; - &lt;br&gt;navigate to home page of the site" data-icon="icon-home" data-url="https://sportrock.com/" data-separator="yes"></a><a id="toc_top" class="sc_anchor" title="To Top" data-description="&lt;i&gt;Back to top&lt;/i&gt; - &lt;br&gt;scroll to top of the page" data-icon="icon-double-up" data-url="" data-separator="yes"></a>
+<div class="body_wrap">
+<div class="page_wrap">
+<div class="top_panel_fixed_wrap"></div>
+<header class="top_panel_wrap top_panel_style_6 scheme_sportrock"><div class="top_panel_wrap_inner top_panel_inner_style_6 top_panel_position_above">
+<div class="top_panel_middle">
+<div class="content_wrap">
+<div class="contact_logo">
+<div class="logo">
+<a href="https://sportrock.com/"><img src="https://www.sportrock.com/wp-content/uploads/2019/07/SR-new-logo-symbolonly.png" class="logo_main" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym" width="232" height="156"><img src="https://www.sportrock.com/wp-content/uploads/2019/07/SR-new-logo-symbolonly.png" class="logo_fixed" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym" width="232" height="156"></a>
+</div>
+</div>
+<div class="menu_main_wrap">
+<nav class="menu_main_nav_area"><ul id="menu_main" class="menu_main_nav"><li id="menu-item-5918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5918"><a href="/first-time/">Your Visit</a>
+<ul class="sub-menu"><li id="menu-item-5407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5407"><a href="https://sportrock.com/first-time/">First Time</a></li>
+<li id="menu-item-5558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5558"><a href="https://sportrock.com/participant-agreement/">Climbing Participant Agreement</a></li>
+<li id="menu-item-5715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5715"><a href="https://sportrock.com/rates-and-rentals/">Rates and Rentals</a></li>
+<li id="menu-item-5539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5539"><a href="https://sportrock.com/top-rope-and-lead-tests/">Top Rope and Lead Tests</a></li>
+<li id="menu-item-15331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15331"><a href="https://sportrock.com/faqs/">FAQs</a></li>
+</ul></li>
+<li id="menu-item-5580" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5580"><a href="/climbing-classes/">Programs</a>
+<ul class="sub-menu"><li id="menu-item-1000263400466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263400466"><a href="https://sportrock.com/classes/">Climbing Classes</a></li>
+<li id="menu-item-1000263395705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263395705"><a href="https://sportrock.com/sportrock-clinics-events/">Clinics &amp; Events</a></li>
+<li id="menu-item-5685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5685"><a href="https://sportrock.com/youth-programs/">Youth Programs</a></li>
+<li id="menu-item-1000263391308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263391308"><a href="https://sportrock.com/camps/">Camps</a></li>
+<li id="menu-item-5656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5656"><a href="https://sportrock.com/fitness-and-yoga/">Fitness and Yoga</a></li>
+<li id="menu-item-6432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6432"><a href="https://sportrock.com/private-instruction/">Private Instruction</a></li>
+<li id="menu-item-1000263398993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263398993"><a href="https://sportrock.com/sportrock-italy-trip/">Sportrock Italy Trip</a></li>
+</ul></li>
+<li id="menu-item-1000263393604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263393604"><a href="https://sportrock.com/group-events/">Parties</a></li>
+<li id="menu-item-1000263395666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1000263395666"><a href="https://sportrock.com/junior-team/">Junior Team</a>
+<ul class="sub-menu"><li id="menu-item-1000263399305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263399305"><a href="https://sportrock.com/the-sportrock-performance-institute/">The Sportrock Performance Institute</a></li>
+</ul></li>
+<li id="menu-item-1000263395635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1000263395635"><a href="https://sportrock.com/membership/">Membership</a>
+<ul class="sub-menu"><li id="menu-item-1000263398014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263398014"><a href="https://sportrock.com/membership-form/">Membership Change Form</a></li>
+</ul></li>
+<li id="menu-item-1000263394171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1000263394171"><a href="#">Calendar</a>
+<ul class="sub-menu"><li id="menu-item-1000263394169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394169"><a href="https://sportrock.com/alexandria-calendar/">Alexandria Calendar</a></li>
+<li id="menu-item-1000263394170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394170"><a href="https://sportrock.com/sterling-calendar/">Sterling Calendar</a></li>
+</ul></li>
+<li id="menu-item-1000263394770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1000263394770"><a href="#">About Us</a>
+<ul class="sub-menu"><li id="menu-item-1000263394771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394771"><a href="https://sportrock.com/who-we-are/">Who We Are</a></li>
+<li id="menu-item-1000263394772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394772"><a href="https://sportrock.com/leadership/">Our Leadership</a></li>
+<li id="menu-item-1000263394773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394773"><a href="https://sportrock.com/routesetters/">Our Routesetters</a></li>
+<li id="menu-item-1000263394774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394774"><a href="https://sportrock.com/gyms/">Our Gyms</a></li>
+<li id="menu-item-1000263394775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394775"><a href="https://sportrock.com/community/">Community Involvement</a></li>
+<li id="menu-item-1000263394777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394777"><a href="https://sportrock.com/join-our-team/">Join Our Team</a></li>
+</ul></li>
+<li id="menu-item-1000263394137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394137"><a href="https://sportrock.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-1000263394295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263394295"><a href="https://sportrock.com/blog/">Blog</a></li>
+<li id="menu-item-1000263399300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263399300"><a href="https://sportrock.com/?page_id=1000263396715">Sportrock Store</a></li>
+</ul></nav></div>
+</div>
+</div>
+</div>
+</header><div class="header_mobile">
+<div class="content_wrap">
+<div class="menu_button icon-menu"></div>
+<div class="logo">
+<a href="https://sportrock.com/"><img src="https://www.sportrock.com/wp-content/uploads/2019/07/SR-new-logo-symbolonly.png" class="logo_main" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym" width="232" height="156"></a>
+</div>
+</div>
+<div class="side_wrap">
+<div class="close">Close</div>
+<div class="panel_top">
+<nav class="menu_main_nav_area"><ul id="menu_mobile" class="menu_main_nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5918"><a href="/first-time/">Your Visit</a>
+<ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5407"><a href="https://sportrock.com/first-time/">First Time</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5558"><a href="https://sportrock.com/participant-agreement/">Climbing Participant Agreement</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5715"><a href="https://sportrock.com/rates-and-rentals/">Rates and Rentals</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5539"><a href="https://sportrock.com/top-rope-and-lead-tests/">Top Rope and Lead Tests</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15331"><a href="https://sportrock.com/faqs/">FAQs</a></li>
+</ul></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5580"><a href="/climbing-classes/">Programs</a>
+<ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263400466"><a href="https://sportrock.com/classes/">Climbing Classes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263395705"><a href="https://sportrock.com/sportrock-clinics-events/">Clinics &amp; Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5685"><a href="https://sportrock.com/youth-programs/">Youth Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263391308"><a href="https://sportrock.com/camps/">Camps</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5656"><a href="https://sportrock.com/fitness-and-yoga/">Fitness and Yoga</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6432"><a href="https://sportrock.com/private-instruction/">Private Instruction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263398993"><a href="https://sportrock.com/sportrock-italy-trip/">Sportrock Italy Trip</a></li>
+</ul></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263393604"><a href="https://sportrock.com/group-events/">Parties</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1000263395666"><a href="https://sportrock.com/junior-team/">Junior Team</a>
+<ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263399305"><a href="https://sportrock.com/the-sportrock-performance-institute/">The Sportrock Performance Institute</a></li>
+</ul></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1000263395635"><a href="https://sportrock.com/membership/">Membership</a>
+<ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263398014"><a href="https://sportrock.com/membership-form/">Membership Change Form</a></li>
+</ul></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1000263394171"><a href="#">Calendar</a>
+<ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394169"><a href="https://sportrock.com/alexandria-calendar/">Alexandria Calendar</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394170"><a href="https://sportrock.com/sterling-calendar/">Sterling Calendar</a></li>
+</ul></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1000263394770"><a href="#">About Us</a>
+<ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394771"><a href="https://sportrock.com/who-we-are/">Who We Are</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394772"><a href="https://sportrock.com/leadership/">Our Leadership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394773"><a href="https://sportrock.com/routesetters/">Our Routesetters</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394774"><a href="https://sportrock.com/gyms/">Our Gyms</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394775"><a href="https://sportrock.com/community/">Community Involvement</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394777"><a href="https://sportrock.com/join-our-team/">Join Our Team</a></li>
+</ul></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000263394137"><a href="https://sportrock.com/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263394295"><a href="https://sportrock.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000263399300"><a href="https://sportrock.com/?page_id=1000263396715">Sportrock Store</a></li>
+</ul></nav><div class="search_wrap search_style_regular search_state_fixed search_ajax">
+<div class="search_form_wrap">
+<form role="search" method="get" class="search_form" action="https://sportrock.com/">
+<button type="submit" class="search_submit icon-search" title="Start search"></button>
+<input type="text" class="search_field" placeholder="Search" value="" name="s"></form>
+</div><div class="search_results widget_area scheme_original"><a class="search_results_close icon-cancel"></a><div class="search_results_content"></div></div></div> </div>
+<div class="panel_bottom">
+</div>
+</div>
+<div class="mask"></div>
+</div>
+<div class="page_content_wrap page_paddings_no">
+<div class="content_wrap"><div class="content"><article class=" post_item post_item_single post_featured_default post_format_standard post-7 page type-page status-publish hentry"><section class="post_content" itemprop="articleBody"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1586015773173">
+<figure class="wpb_wrapper vc_figure"><a href="https://sportrock.com/livestream/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="2084" height="834" src="https://www.sportrock.com/wp-content/uploads/2020/04/livestream-web-btn3-01.jpg" class="vc_single_image-img attachment-full" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym" srcset="https://www.sportrock.com/wp-content/uploads/2020/04/livestream-web-btn3-01.jpg 2084w, https://www.sportrock.com/wp-content/uploads/2020/04/livestream-web-btn3-01-300x120.jpg 300w, https://www.sportrock.com/wp-content/uploads/2020/04/livestream-web-btn3-01-1024x410.jpg 1024w, https://www.sportrock.com/wp-content/uploads/2020/04/livestream-web-btn3-01-277x111.jpg 277w, https://www.sportrock.com/wp-content/uploads/2020/04/livestream-web-btn3-01-1536x615.jpg 1536w, https://www.sportrock.com/wp-content/uploads/2020/04/livestream-web-btn3-01-2048x820.jpg 2048w, https://www.sportrock.com/wp-content/uploads/2020/04/livestream-web-btn3-01-600x240.jpg 600w" sizes="(max-width: 2084px) 100vw, 2084px"></a>
+</figure></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1586015779900">
+<figure class="wpb_wrapper vc_figure"><a href="https://www.charityauctionstoday.com/auctions/Sportrock-Auction-11142?fbclid=IwAR30yq8edLUpAs9VmQhqgGSmvsoJvhWOHo523K23U3t6FrVDJs8FW686pJc" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="2084" height="834" src="https://www.sportrock.com/wp-content/uploads/2020/04/auction-web-btn2-01.jpg" class="vc_single_image-img attachment-full" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym" srcset="https://www.sportrock.com/wp-content/uploads/2020/04/auction-web-btn2-01.jpg 2084w, https://www.sportrock.com/wp-content/uploads/2020/04/auction-web-btn2-01-300x120.jpg 300w, https://www.sportrock.com/wp-content/uploads/2020/04/auction-web-btn2-01-1024x410.jpg 1024w, https://www.sportrock.com/wp-content/uploads/2020/04/auction-web-btn2-01-277x111.jpg 277w, https://www.sportrock.com/wp-content/uploads/2020/04/auction-web-btn2-01-1536x615.jpg 1536w, https://www.sportrock.com/wp-content/uploads/2020/04/auction-web-btn2-01-2048x820.jpg 2048w, https://www.sportrock.com/wp-content/uploads/2020/04/auction-web-btn2-01-600x240.jpg 600w" sizes="(max-width: 2084px) 100vw, 2084px"></a>
+</figure></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1586015800768">
+<figure class="wpb_wrapper vc_figure"><a href="https://sportrock.com/classes/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="2084" height="834" src="https://www.sportrock.com/wp-content/uploads/2020/04/presale-web-btn2-01.jpg" class="vc_single_image-img attachment-full" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym" srcset="https://www.sportrock.com/wp-content/uploads/2020/04/presale-web-btn2-01.jpg 2084w, https://www.sportrock.com/wp-content/uploads/2020/04/presale-web-btn2-01-300x120.jpg 300w, https://www.sportrock.com/wp-content/uploads/2020/04/presale-web-btn2-01-1024x410.jpg 1024w, https://www.sportrock.com/wp-content/uploads/2020/04/presale-web-btn2-01-277x111.jpg 277w, https://www.sportrock.com/wp-content/uploads/2020/04/presale-web-btn2-01-1536x615.jpg 1536w, https://www.sportrock.com/wp-content/uploads/2020/04/presale-web-btn2-01-2048x820.jpg 2048w, https://www.sportrock.com/wp-content/uploads/2020/04/presale-web-btn2-01-600x240.jpg 600w" sizes="(max-width: 2084px) 100vw, 2084px"></a>
+</figure></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1586015807181">
+<figure class="wpb_wrapper vc_figure"><a href="https://sportrock-store.square.site/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="2084" height="834" src="https://www.sportrock.com/wp-content/uploads/2020/04/store-web-btn2-01.jpg" class="vc_single_image-img attachment-full" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym" srcset="https://www.sportrock.com/wp-content/uploads/2020/04/store-web-btn2-01.jpg 2084w, https://www.sportrock.com/wp-content/uploads/2020/04/store-web-btn2-01-300x120.jpg 300w, https://www.sportrock.com/wp-content/uploads/2020/04/store-web-btn2-01-1024x410.jpg 1024w, https://www.sportrock.com/wp-content/uploads/2020/04/store-web-btn2-01-277x111.jpg 277w, https://www.sportrock.com/wp-content/uploads/2020/04/store-web-btn2-01-1536x615.jpg 1536w, https://www.sportrock.com/wp-content/uploads/2020/04/store-web-btn2-01-2048x820.jpg 2048w, https://www.sportrock.com/wp-content/uploads/2020/04/store-web-btn2-01-600x240.jpg 600w" sizes="(max-width: 2084px) 100vw, 2084px"></a>
+</figure></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   vc_box_border_grey"><img width="3338" height="989" src="https://www.sportrock.com/wp-content/uploads/2020/03/corona-poster-01.png" class="vc_single_image-img attachment-full" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym" srcset="https://www.sportrock.com/wp-content/uploads/2020/03/corona-poster-01.png 3338w, https://www.sportrock.com/wp-content/uploads/2020/03/corona-poster-01-300x89.png 300w, https://www.sportrock.com/wp-content/uploads/2020/03/corona-poster-01-1024x303.png 1024w, https://www.sportrock.com/wp-content/uploads/2020/03/corona-poster-01-347x103.png 347w, https://www.sportrock.com/wp-content/uploads/2020/03/corona-poster-01-1536x455.png 1536w, https://www.sportrock.com/wp-content/uploads/2020/03/corona-poster-01-2048x607.png 2048w, https://www.sportrock.com/wp-content/uploads/2020/03/corona-poster-01-600x178.png 600w" sizes="(max-width: 3338px) 100vw, 3338px"></div>
+</figure></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1531350932170"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+<div class="wpb_text_column wpb_content_element  vc_custom_1585955263872">
+<div class="wpb_wrapper">
+<div>
+<p>We want to begin by thanking all of you for the supportive emails, Instagram tags, comments, and DM&rsquo;s that we&rsquo;ve received over the past few weeks. Knowing that we&rsquo;re part of such an amazing community is what keeps us going, and it&rsquo;s truly hard to put our appreciation into words.</p>
+<p>As you may be aware, Governor Northam issued an Executive Order this week that, among other measures, extended the closure of all gyms in Virginia until April 24th. This means that Sportrock will remain closed until at least that date. As always, we will continue to confer with experts and seek guidance from federal and local authorities and will communicate any further information regarding our status as soon as we have it. In the meantime, we need your help. The Climbing Wall Association (CWA), an organization for climbing gym owners and operators, has written a letter to Congress requesting the inclusion of climbing gyms in emergency stimulus funding. Please consider&nbsp;<a href="https://www.change.org/p/steve-mnuchin-include-climbing-gyms-in-emergency-stimulus-funding?recruiter=444793&amp;recruited_by_id=e6e71a40-c87f-012f-32ae-4040496dcccb&amp;utm_source=share_petition&amp;utm_medium=copylink&amp;utm_campaign=petition_dashboard" target="_blank" rel="noopener noreferrer">signing the petition to show your support of climbing gyms and of Sportrock.</a></p>
+<p>While our doors remained closed, we are trying to launch as many new ways to stay connected as we can. It&rsquo;s been amazing to see everyone who has joined us for online yoga and fitness classes, and we are looking to increase those offerings in the coming days and weeks. <a href="https://www.charityauctionstoday.com/auctions/Sportrock-Auction-11142">We will be auctioning off lessons with our Directors</a> &ndash; both future lessons once we re-open, and video lessons to keep you active during the shutdown! We&rsquo;ve also added lots of&nbsp;<a href="https://sportrock-store.square.site/" target="_blank" rel="noopener noreferrer">Sportrock gear to our online store</a>, which will be shipped directly to you (with strong sanitary precautions during packaging). Show your support and look fashionable!&nbsp;Finally, we are offering the opportunity to pre-purchase classes at a discount.&nbsp;<a href="https://sportrock.com/classes/" target="_blank" rel="noopener noreferrer">Go to the Classes Page to register or for more info</a><a href="/cdn-cgi/l/email-protection#5f32303333261f2c2f302d2b2d303c34713c3032602c2a3d353a3c2b620f2d3a720f2a2d3c373e2c3631387a6d6f1c333e2c2c3a2c7a6d6f16312e2a362d26" target="_blank" rel="noopener noreferrer">.</a></p>
+<p><u><strong>For Recurring Members:</strong></u><br>
+Your support is what makes it possible for a small, locally-owned business like Sportrock to keep its doors open. We are incredibly grateful for all the messages of support we&rsquo;ve received and also recognize the extreme financial hardship this crisis places on many of you. As such, we are offering 3 options for how you would like to proceed with your membership.</p>
+<p>If you read our last two updates, nothing has changed: all accounts will be frozen on April 1st, unless you have already contacted us to request otherwise. If you prefer to change the option you chose, or make any other changes to your Sportrock account, you must email&nbsp;<a href="/cdn-cgi/l/email-protection#2d4048404f485f5e45445d6d5e5d425f595f424e46034e4240" target="_blank" rel="noopener noreferrer"><span class="__cf_email__" data-cfemail="35585058575047465d5c457546455a4741475a565e1b565a58">[email&#160;protected]</span></a>&nbsp;before midnight on March 31, 2020. Please read below for a full list of membership options.</p>
+<p>1) We have waived all freeze fees, so your membership will be frozen and a pro-rated credit for the time we are closed will be applied to your Sportrock account. Upon re-opening, your membership will automatically be reactivated unless you request otherwise.&nbsp;<strong>If you do not contact us, we will automatically choose Option 1</strong>.</p>
+<p>2) You may also choose to receive that same pro-rated amount as a credit towards a future class, outdoor trip, or another program &ndash; this will help support Sportrock while ensuring you get full value. Please email&nbsp;<a href="/cdn-cgi/l/email-protection#204d454d424552534849506053504f5254524f434b0e434f4d1f5355424a4543541d6f5054494f4e05121012" target="_blank" rel="noopener noreferrer"><span class="__cf_email__" data-cfemail="2c4149414e495e5f44455c6c5f5c435e585e434f47024f4341">[email&#160;protected]</span></a>&nbsp;to choose Option 2.</p>
+<p>3) In a gesture of incredible kindness and in support of a small business, some members have already offered to continue to pay dues even without climbing at Sportrock. We have no expectation that anyone would choose this option, and recognize it is not possible for many, but based on numerous emails offering to do so, we are giving members this choice. We&rsquo;re truly humbled by your generosity and support. All funds received in this way will be directly used to support employment for staff most affected by the closure. Please email&nbsp;<a href="/cdn-cgi/l/email-protection#375a525a555245445f5e477744475845434558545c1954585a084442555d5254430a7847435e585912050704" target="_blank" rel="noopener noreferrer"><span class="__cf_email__" data-cfemail="69040c040b0c1b1a010019291a19061b1d1b060a02470a0604">[email&#160;protected]</span></a>&nbsp;to choose Option 3.</p>
+<p><u><strong>For Prepaid Members:</strong></u><br>
+We will extend the expiration date of all Prepaid memberships to credit you for the days we are closed. No action is required for Prepaid members.</p>
+<p><u><strong>For Classes and Programs:</strong></u><br>
+If you were signed up for a cancelled class, you should have already received an email concerning your booking. If you have any further questions, please&nbsp;<a href="/cdn-cgi/l/email-protection#bcd5d2dad3fccfccd3cec8ced3dfd792dfd3d1" target="_blank" rel="noopener noreferrer">email us.</a></p>
+<p><u><strong>For Junior Team:</strong></u><br>
+Junior Team is postponed indefinitely to align with our updated gym closure. We will be extending the season by two weeks into the summer to account for missed practices in March. As long as we are able, we will be running remote practices for the S2, S3, and S4 Teams. If you have any further questions, please&nbsp;<a href="/cdn-cgi/l/email-protection#fc96999a9abc8f8c938e888e939f97d29f9391" target="_blank" rel="noopener noreferrer">email us.</a></p>
+<p>In good health,<br>
+Your Sportrock Team</p>
+</div>
+</div>
+</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1531350663461"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h1 style="visibility: hidden;">Sportrock Climbing Centers</h1>
+<h4 style="text-align: center;">Plan Your Visit</h4>
+</div>
+</div>
+<div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+<a data-effect="1" href="/participant-agreement/" class="marvelous-tilter marvelous-tilter--1 noHover  no-overlay marvelous-smooth">
+<figure class="marvelous-tilter__figure"><img class="marvelous-tilter__image" src="https://www.sportrock.com/wp-content/uploads/2018/06/signthewaiver300x415.jpg" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym"><div class="marvelous-tilter__deco marvelous-tilter__deco--shine"><div></div></div>
+<div class="marvelous-tilter__deco marvelous-tilter__deco--overlay" style="background-image: linear-gradient(45deg, #0a0a0a, #000000);opacity: .2"></div>
+<figcaption class="marvelous-tilter__caption"><h3 class="marvelous-tilter__title" style="color: #ffffff">SIGN THE PARTICIPANT AGREEMENT FORM</h3>
+<p class="marvelous-tilter__description" style="color: #ffffff"></p>
+</figcaption><svg class="marvelous-tilter__deco marvelous-tilter__deco--lines" viewbox="0 0 300 415" style="stroke: #ffffff"><path d="M20.5,20.5h260v375h-260V20.5z"></path></svg></figure></a>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+<a data-effect="1" href="/faqs/" class="marvelous-tilter marvelous-tilter--1 noHover  no-overlay marvelous-smooth">
+<figure class="marvelous-tilter__figure"><img class="marvelous-tilter__image" src="https://www.sportrock.com/wp-content/uploads/2018/06/readthefaqs-300x415.png" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym"><div class="marvelous-tilter__deco marvelous-tilter__deco--shine"><div></div></div>
+<div class="marvelous-tilter__deco marvelous-tilter__deco--overlay" style="background-image: linear-gradient(45deg, #0a0a0a, #0a0a0a);opacity: .2"></div>
+<figcaption class="marvelous-tilter__caption"><h3 class="marvelous-tilter__title" style="color: #ffffff">READ THE FAQs</h3>
+<p class="marvelous-tilter__description" style="color: #ffffff"></p>
+</figcaption><svg class="marvelous-tilter__deco marvelous-tilter__deco--lines" viewbox="0 0 300 415" style="stroke: #ffffff"><path d="M20.5,20.5h260v375h-260V20.5z"></path></svg></figure></a>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+<a data-effect="1" href="/contact-us/" class="marvelous-tilter marvelous-tilter--1 noHover  no-overlay marvelous-smooth">
+<figure class="marvelous-tilter__figure"><img class="marvelous-tilter__image" src="https://www.sportrock.com/wp-content/uploads/2018/08/checklocationshours-300x415.jpg" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym"><div class="marvelous-tilter__deco marvelous-tilter__deco--shine"><div></div></div>
+<div class="marvelous-tilter__deco marvelous-tilter__deco--overlay" style="background-image: linear-gradient(45deg, #0a0a0a, #0a0a0a);opacity: .2"></div>
+<figcaption class="marvelous-tilter__caption"><h3 class="marvelous-tilter__title" style="color: #ffffff">CHECK LOCATIONS + HOURS</h3>
+<p class="marvelous-tilter__description" style="color: #ffffff"></p>
+</figcaption><svg class="marvelous-tilter__deco marvelous-tilter__deco--lines" viewbox="0 0 300 415" style="stroke: #ffffff"><path d="M20.5,20.5h260v375h-260V20.5z"></path></svg></figure></a>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h4 style="text-align: center;">Alexandria</h4>
+</div>
+</div>
+<a href="/contact-us/" class="sc_button sc_button_square sc_button_style_border sc_button_size_medium aligncenter location_button " style="color:#00d8d8;border-color:#00d8d8;">DIRECTIONS TO US</a>
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p style="text-align: center;">M, T, W, TH, F 6AM-11PM<br>
+SATURDAY 10AM-9PM | SUNDAY 11AM-9PM<br>
+MEMBERS ONLY HOURS &ndash; SUNDAY 8AM-11AM</p>
+</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h4 style="text-align: center;">Sterling</h4>
+</div>
+</div>
+<a href="/contact-us/" class="sc_button sc_button_square sc_button_style_border sc_button_size_medium aligncenter location_button " style="color:#00d8d8;border-color:#00d8d8;">DIRECTIONS TO US</a>
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p style="text-align: center;">M, W, F 6AM-11PM | T, TH 10AM-11PM<br>
+SATURDAY | SUNDAY 12PM-8PM<br>
+MEMBERS ONLY HOURS &ndash; SUNDAY 10AM-12PM</p>
+</div>
+</div>
+</div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1531350857870"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h4 style="text-align: center;">We are a rock climbing gym built by climbers, for climbers.</h4>
+</div>
+</div>
+<div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p style="text-align: center;">Did you know Sportrock is one of the founding rock climbing gyms in the country?</p>
+<p style="text-align: center;">We are proud of the distinction and grateful to still be around almost 25 years after opening the FIRST commercial climbing gym in the DC metro area!</p>
+</div>
+</div>
+<a href="https://sportrock.com/first-time/" class="sc_button sc_button_square sc_button_style_border sc_button_size_medium aligncenter getstarted_button " style="width:100%;color:#ee362a;border-color:#ee362a;">GET STARTED</a></div></div></div></div><div class="vc_row-full-width"></div></section></article><section class="related_wrap related_wrap_empty"></section></div> </div> 
+</div> 
+<footer class="footer_wrap widget_area scheme_sportrock isset_image" style="background-image: url(https://www.sportrock.com/wp-content/uploads/2018/05/footer-bg.jpg);"><div class="footer_wrap_inner widget_area_inner">
+<div class="content_wrap">
+<div class="columns_wrap"><aside id="custom_html-3" class="widget_text widget_number_1 column-1_4 widget widget_custom_html"><div class="textwidget custom-html-widget"><center><img src="https://www.sportrock.com/wp-content/uploads/2019/07/SR-new-logo-white.png" style="width:250px; height:auto; margin-top:10px;" alt="rock climbing gym, Sportrock Climbing Centers &amp;#8211; Rock Climbing Gym"><p style="padding-top:10px;">
+&copy; 2017 Sportrock.<br>ALL RIGHTS RESERVED.<br>
+Powered by <a href="https://harnessconsulting.com/" target="_blank" rel="noopener noreferrer">HARNESS</a></p></center></div></aside><aside id="custom_html-5" class="widget_text widget_number_2 column-1_4 widget widget_custom_html"><div class="textwidget custom-html-widget"><h5 class="widget_title">Visit Us</h5>
+<p>
+<a href="https://goo.gl/maps/XacdaLCXAMT2" target="_blank" rel="noopener noreferrer">
+5308 Eisenhower Ave.<br>
+Alexandria, VA 22304
+</a>
+</p>
+<p>
+<a href="https://goo.gl/maps/yypUJsDdztm" target="_blank" rel="noopener noreferrer">
+45935 Maries Rd.<br>
+Sterling, VA 20166
+</a>
+</p>
+<h5 class="widget_title">Stay Updated</h5>
+<p>
+<a href="https://sportrock.com/emails/" target="_blank" rel="noopener noreferrer">
+Sign up for our Newsletter
+</a>
+</p></div></aside><aside id="custom_html-7" class="widget_text widget_number_3 column-1_4 widget widget_custom_html"><div class="textwidget custom-html-widget"><h5 class="widget_title">IMPORTANT INFO</h5>
+<ul><li><a href="/participant-agreement/" target="_blank" rel="noopener noreferrer">Participant Agreement</a></li>
+<li><a href="/contact-us/" target="_blank" rel="noopener noreferrer">Hours + Directions</a></li>
+<li><a href="/gyms/" target="_blank" rel="noopener noreferrer">Our Facilities</a></li>
+<li><a href="/facility-rules/" target="_blank" rel="noopener noreferrer">Facility Rules</a></li>
+<li><a href="/policies/" target="_blank" rel="noopener noreferrer">Cancellation Policies</a></li>
+<li><a href="/join-our-team/" target="_blank" rel="noopener noreferrer">Employment</a></li>
+</ul></div></aside><aside id="custom_html-9" class="widget_text widget_number_4 column-1_4 widget widget_custom_html"><div class="textwidget custom-html-widget"><h5 class="widget_title">Call Us</h5>
+<ul><li>Alexandria <a href="tel:703-212-7625">703-212-7625</a></li>
+<li>Sterling <a href="tel:703-212-7625">703-212-7625</a></li>
+</ul><h5 class="widget_title">Follow Us</h5>
+<ul class="footer_social_icons"><li><a href="https://www.facebook.com/srclimbing" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a></li>
+<li><a href="https://instagram.com/sportrock" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UCImfk0-jM6MD-SqhSUqNL6g/featured" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube-square"></i></a></li>
+<li><a href="https://vimeo.com/user67748839" target="_blank" rel="noopener noreferrer"><i class="fab fa-vimeo-square"></i></a></li>
+</ul></div></aside></div> 
+</div> 
+</div> 
+</footer></div> 
+</div> 
+<div class="mtsnb mtsnb-shown mtsnb-top mtsnb-fixed" id="mtsnb-1000263407593" data-mtsnb-id="1000263407593" style="background-color:#ff0000;color:#ffffff;" data-bar-animation="" data-bar-content-animation="">
+<style type="text/css">
+				.mtsnb { position: fixed; }
+				.mtsnb .mtsnb-container { width: 1080px; font-size: 15px; font-weight: bold; line-height: 1.4}
+				.mtsnb a { color: #ffffff;}
+				.mtsnb a:hover { color: #ffffff;}
+				.mtsnb .mtsnb-button { color: #ffffff!important; background-color: #ff0000;}
+			</style><div class="mtsnb-container-outer">
+<div class="mtsnb-container mtsnb-clearfix" style="padding-top: 10px; padding-bottom: 10px;">
+<div class="mtsnb-button-type mtsnb-content" data-mtsnb-variation="none"><span class="mtsnb-text">Coronavirus (COVID-19) Update Effective Friday, 3/27/20: Sportrock Climbing Centers are CLOSED until further notice.</span><a href="https://sportrock.com/" class="mtsnb-link">Click for more Information</a></div> </div>
+<a href="#" class="mtsnb-hide" style="background-color:#ff0000;color:#ffffff;"><i class="fa fa-minus-square"></i></a>
+</div>
+</div>
+<div id="popup_login" class="popup_wrap popup_login bg_tint_light">
+<a href="#" class="popup_close"></a>
+<div class="form_wrap">
+<div class="form_left">
+<form action="https://sportrock.com/wp-login.php" method="post" name="login_form" class="popup_form login_form">
+<input type="hidden" name="redirect_to" value="https://sportrock.com/"><div class="popup_form_field login_field iconed_field icon-user"><input type="text" id="log" name="log" value="" placeholder="Login or Email"></div>
+<div class="popup_form_field password_field iconed_field icon-lock"><input type="password" id="password" name="pwd" value="" placeholder="Password"></div>
+<div class="popup_form_field remember_field">
+<a href="https://sportrock.com/my-account/lost-password/" class="forgot_password">Forgot password?</a>
+<input type="checkbox" value="forever" id="rememberme" name="rememberme"><label for="rememberme">Remember me</label>
+</div>
+<div class="popup_form_field submit_field"><input type="submit" class="submit_button" value="Login"></div>
+</form>
+</div>
+<div class="form_right">
+<div class="login_socials_title">You can login using your social profile</div>
+<div class="login_socials_list">
+<div class="sc_socials sc_socials_type_icons sc_socials_shape_round sc_socials_size_tiny"><div class="sc_socials_item"><a href="#" target="_blank" class="social_icons social_facebook"><span class="icon-facebook"></span></a></div><div class="sc_socials_item"><a href="#" target="_blank" class="social_icons social_twitter"><span class="icon-twitter"></span></a></div><div class="sc_socials_item"><a href="#" target="_blank" class="social_icons social_gplus"><span class="icon-gplus"></span></a></div></div> </div>
+<div class="login_socials_problem"><a href="#">Problem with login?</a></div>
+<div class="result message_block"></div>
+</div>
+</div> 
+</div> 
+<a href="#" class="scroll_to_top icon-up" title="Scroll to top"></a><div class="custom_html_section"></div><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">if (typeof ROCKCLIMBING_STORAGE == 'undefined') var ROCKCLIMBING_STORAGE = {};ROCKCLIMBING_STORAGE["strings"] = {ajax_error: 			"Invalid server answer",bookmark_add: 		"Add the bookmark",bookmark_added:		"Current page has been successfully added to the bookmarks. You can see it in the right panel on the tab &#039;Bookmarks&#039;",bookmark_del: 		"Delete this bookmark",bookmark_title:		"Enter bookmark title",bookmark_exists:		"Current page already exists in the bookmarks list",search_error:		"Error occurs in AJAX search! Please, type your query and press search icon for the traditional search way.",email_confirm:		"On the e-mail address &quot;%s&quot; we sent a confirmation email. Please, open it and click on the link.",reviews_vote:		"Thanks for your vote! New average rating is:",reviews_error:		"Error saving your vote! Please, try again later.",error_like:			"Error saving your like! Please, try again later.",error_global:		"Global error text",name_empty:			"The name can&#039;t be empty",name_long:			"Too long name",email_empty:			"Too short (or empty) email address",email_long:			"Too long email address",email_not_valid:		"Invalid email address",subject_empty:		"The subject can&#039;t be empty",subject_long:		"Too long subject",text_empty:			"The message text can&#039;t be empty",text_long:			"Too long message text",send_complete:		"Send message complete!",send_error:			"Transmit failed!",login_empty:			"The Login field can&#039;t be empty",login_long:			"Too long login field",login_success:		"Login success! The page will be reloaded in 3 sec.",login_failed:		"Login failed!",password_empty:		"The password can&#039;t be empty and shorter then 4 characters",password_long:		"Too long password",password_not_equal:	"The passwords in both fields are not equal",registration_success:"Registration success! Please log in!",registration_failed:	"Registration failed!",geocode_error:		"Geocode was not successful for the following reason:",googlemap_not_avail:	"Google map API not available!",editor_save_success:	"Post content saved!",editor_save_error:	"Error saving post data!",editor_delete_post:	"You really want to delete the current post?",editor_delete_post_header:"Delete post",editor_delete_success:	"Post deleted!",editor_delete_error:		"Error deleting post!",editor_caption_cancel:	"Cancel",editor_caption_close:	"Close"};</script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">if (typeof ROCKCLIMBING_STORAGE == 'undefined') var ROCKCLIMBING_STORAGE = {};ROCKCLIMBING_STORAGE['ajax_url']			 = 'https://sportrock.com/wp-admin/admin-ajax.php';ROCKCLIMBING_STORAGE['ajax_nonce']		 = '9ad46a8052';ROCKCLIMBING_STORAGE['site_url']			= 'https://sportrock.com';ROCKCLIMBING_STORAGE['vc_edit_mode']		= false;ROCKCLIMBING_STORAGE['theme_font']		= 'Titillium Web';ROCKCLIMBING_STORAGE['theme_color']		= '#39342d';ROCKCLIMBING_STORAGE['theme_bg_color']	= '#ffffff';ROCKCLIMBING_STORAGE['slider_height']	= 100;ROCKCLIMBING_STORAGE['system_message']	= {message: '',status: '',header: ''};ROCKCLIMBING_STORAGE['user_logged_in']	= false;ROCKCLIMBING_STORAGE['toc_menu']		= 'hide';ROCKCLIMBING_STORAGE['toc_menu_home']	= false;ROCKCLIMBING_STORAGE['toc_menu_top']	= false;ROCKCLIMBING_STORAGE['menu_fixed']		= true;ROCKCLIMBING_STORAGE['menu_mobile']	= 1024;ROCKCLIMBING_STORAGE['menu_slider']     = true;ROCKCLIMBING_STORAGE['menu_cache']	= false;ROCKCLIMBING_STORAGE['demo_time']		= 0;ROCKCLIMBING_STORAGE['media_elements_enabled'] = false;ROCKCLIMBING_STORAGE['ajax_search_enabled'] 	= true;ROCKCLIMBING_STORAGE['ajax_search_min_length']	= 3;ROCKCLIMBING_STORAGE['ajax_search_delay']		= 200;ROCKCLIMBING_STORAGE['css_animation']      = true;ROCKCLIMBING_STORAGE['menu_animation_in']  = 'bounceIn';ROCKCLIMBING_STORAGE['menu_animation_out'] = 'fadeOutDown';ROCKCLIMBING_STORAGE['popup_engine']	= 'magnific';ROCKCLIMBING_STORAGE['email_mask']		= '^([a-zA-Z0-9_\-]+\.)*[a-zA-Z0-9_\-]+@[a-z0-9_\-]+(\.[a-z0-9_\-]+)*\.[a-z]{2,6}$';ROCKCLIMBING_STORAGE['contacts_maxlength']	= 1000;ROCKCLIMBING_STORAGE['comments_maxlength']	= 1000;ROCKCLIMBING_STORAGE['remember_visitors_settings']	= false;ROCKCLIMBING_STORAGE['admin_mode']			= false;ROCKCLIMBING_STORAGE['isotope_resize_delta']	= 0.3;ROCKCLIMBING_STORAGE['error_message_box']	= null;ROCKCLIMBING_STORAGE['viewmore_busy']		= false;ROCKCLIMBING_STORAGE['video_resize_inited']	= false;ROCKCLIMBING_STORAGE['top_panel_height']		= 0;</script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">if (typeof ROCKCLIMBING_STORAGE == 'undefined') var ROCKCLIMBING_STORAGE = {};if (ROCKCLIMBING_STORAGE['theme_font']=='') ROCKCLIMBING_STORAGE['theme_font'] = 'Titillium Web';ROCKCLIMBING_STORAGE['theme_color'] = '#39342d';ROCKCLIMBING_STORAGE['theme_bg_color'] = '#ffffff';</script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script><link property="stylesheet" rel="stylesheet" id="rockclimbing-messages-style-css" href="https://www.sportrock.com/wp-content/themes/rockclimbing-child/fw/js/core.messages/core.messages.min.css" type="text/css" media="all"><link property="stylesheet" rel="stylesheet" id="rockclimbing-magnific-style-css" href="https://www.sportrock.com/wp-content/themes/rockclimbing-child/fw/js/magnific/magnific-popup.min.css" type="text/css" media="all"><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/tc-team-members-pro/vendors/popup/jquery.magnific-popup.js?ver=1"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.9.3"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_a9140dd76a79333b153460f732462f2c","fragment_name":"wc_fragments_a9140dd76a79333b153460f732462f2c","request_timeout":"5000"};
+/* ]]> */
+</script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.9.3"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/wp-spam-fighter/javascript/wp-spamfighter.js?ver=0.5.1"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript">
+/* <![CDATA[ */
+var yoast_wcseo_local_translations = {"select2":"disabled"};
+/* ]]> */
+</script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/wpseo-local/js/dist/wp-seo-local-checkout-1270.js?ver=12.7"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/themes/rockclimbing-child/fw/js/superfish.js"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/themes/rockclimbing-child/fw/js/jquery.slidemenu.js"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/themes/rockclimbing-child/fw/js/core.utils.js"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/themes/rockclimbing-child/fw/js/core.init.js"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/themes/rockclimbing-child/js/theme.init.js"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/themes/rockclimbing-child/fw/js/social/social-share.js"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://api.ns8.com/v1/analytics/script/25081856?timing=1&amp;name=ns8csp"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-includes/js/wp-embed.min.js?ver=5.3.2"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://use.fontawesome.com/releases/v5.1.0/js/v4-shims.js?ver=5.3.2"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://use.fontawesome.com/releases/v5.1.0/js/all.js?ver=5.3.2"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/themes/rockclimbing-child/shortcodes/theme.shortcodes.js"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/themes/rockclimbing-child/fw/js/core.messages/core.messages.js"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.7"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/wp-marvelous-hover-800/assets/js/waypoints.min.js?ver=2.0.6"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/plugins/wp-marvelous-hover-800/assets/js/marvelous-hover.js?ver=2.0.6"></script><script type="0ba2d53b0d2b18daa65f20b3-text/javascript" src="https://www.sportrock.com/wp-content/themes/rockclimbing-child/fw/js/magnific/jquery.magnific-popup.min.js?ver=5.3.2"></script><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="0ba2d53b0d2b18daa65f20b3-|49" defer=""></script></body></html>

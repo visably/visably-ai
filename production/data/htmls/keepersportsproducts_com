@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://keepersportsproducts.com/xmlrpc.php">
+
+<title>Home - Keeper Sports Products</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://keepersportsproducts.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Keeper Sports Products" />
+<meta property="og:description" content="[product-catalogue id=&#8217;2&#8242;] [product-catalogue id=&#8217;3&#8242;]" />
+<meta property="og:url" content="https://keepersportsproducts.com/" />
+<meta property="og:site_name" content="Keeper Sports Products" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="[product-catalogue id=&#8217;2&#8242;] [product-catalogue id=&#8217;3&#8242;]" />
+<meta name="twitter:title" content="Home - Keeper Sports Products" />
+<meta name="google-site-verification" content="8Y2olr9mB-w6gbEdV_lzn5PAvdEHBUt_k0ITOf-fiHw" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://keepersportsproducts.com/#organization","name":"Keeper Sports Products","url":"https://keepersportsproducts.com/","sameAs":["https://www.facebook.com/californiaboardcompany/","https://www.instagram.com/californiaboardcompany/","https://www.youtube.com/channel/UCBwUj1IIBRg2OAY4nuKBCeg"],"logo":{"@type":"ImageObject","@id":"https://keepersportsproducts.com/#logo","url":"https://keepersportsproducts.com/wp-content/uploads/2017/05/Untitled-1-1.jpg","width":1500,"height":1500,"caption":"Keeper Sports Products"},"image":{"@id":"https://keepersportsproducts.com/#logo"}},{"@type":"WebSite","@id":"https://keepersportsproducts.com/#website","url":"https://keepersportsproducts.com/","name":"Keeper Sports Products","publisher":{"@id":"https://keepersportsproducts.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://keepersportsproducts.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://keepersportsproducts.com/#webpage","url":"https://keepersportsproducts.com/","inLanguage":"en-US","name":"Home - Keeper Sports Products","isPartOf":{"@id":"https://keepersportsproducts.com/#website"},"about":{"@id":"https://keepersportsproducts.com/#organization"},"datePublished":"2017-03-01T16:18:43+00:00","dateModified":"2017-03-02T16:21:33+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//assets.juicer.io' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Keeper Sports Products &raquo; Feed" href="https://keepersportsproducts.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Keeper Sports Products &raquo; Comments Feed" href="https://keepersportsproducts.com/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.10.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-88279644-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-88279644-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/keepersportsproducts.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='juicerstyle-css'  href='//assets.juicer.io/embed.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://keepersportsproducts.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsl-styles-css'  href='https://keepersportsproducts.com/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.2.23' type='text/css' media='all' />
+<link rel='stylesheet' id='screenr-fonts-css'  href='https://fonts.googleapis.com/css?family=Open%2BSans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic%7CMontserrat%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://keepersportsproducts.com/wp-content/themes/screenr/assets/css/font-awesome.min.css?ver=4.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://keepersportsproducts.com/wp-content/themes/screenr/assets/css/bootstrap.min.css?ver=4.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='screenr-style-css'  href='https://keepersportsproducts.com/wp-content/themes/screenr/style.css?ver=5.2.5' type='text/css' media='all' />
+<style id='screenr-style-inline-css' type='text/css'>
+		.nav-menu > li > a,
+		.no-scroll .sticky-header.transparent .nav-menu > li > a,
+		.sticky-header.transparent .nav-menu > li > a {
+			color: #dddddd;
+		}
+
+					.nav-menu > li > a:hover,
+		.nav-menu > li.current-menu-item > a,
+		.no-scroll .sticky-header.transparent .nav-menu > li.current-menu-item > a,
+		.sticky-header.transparent .nav-menu > li.current-menu-item > a {
+			color: #0a0a0a;
+			-webkit-transition: all 0.5s ease-in-out;
+			-moz-transition: all 0.5s ease-in-out;
+			-o-transition: all 0.5s ease-in-out;
+			transition: all 0.5s ease-in-out;
+		}
+		.sticky-header.transparent .nav-menu > li:hover > a::after, .sticky-header.transparent .nav-menu > li.current-menu-item > a::after {
+			border-bottom-color: #0a0a0a;
+		}
+					.sticky-header.transparent .nav-menu > li:hover > a::after,
+		.sticky-header.transparent .nav-menu > li.current-menu-item > a::after {
+			border-bottom-color: #0a0a0a;
+		}
+					@media screen and (min-width: 1140px) {
+			.nav-menu > li:last-child > a {
+				padding-right: 17px;
+			}
+
+			.nav-menu > li > a:hover,
+			.nav-menu > li.current-menu-item > a {
+				background: #df2e1b;
+				-webkit-transition: all 0.5s ease-in-out;
+				-moz-transition: all 0.5s ease-in-out;
+				-o-transition: all 0.5s ease-in-out;
+				transition: all 0.5s ease-in-out;
+			}
+		}
+				#nav-toggle span,
+	#nav-toggle span::before,
+	#nav-toggle span::after,
+	#nav-toggle.nav-is-visible span::before,
+	#nav-toggle.nav-is-visible span::after,
+
+	.transparent #nav-toggle span,
+	.transparent #nav-toggle span::before,
+	.transparent #nav-toggle span::after,
+	.transparent #nav-toggle.nav-is-visible span::before,
+	.transparent #nav-toggle.nav-is-visible span::after
+	{
+		background-color: #0a0a0a;
+	}
+
+			.swiper-slider .swiper-slide .overlay {
+		background-color: #000000;
+		opacity: 0.16;
+	}
+			#page-header-cover.swiper-slider.no-image .swiper-slide .overlay {
+		background-color: #000000;
+		opacity: 1;
+	}
+	
+	
+	
+	
+	
+	
+	
+			input[type="reset"], input[type="submit"], input[type="submit"],
+		.btn-theme-primary,
+		.btn-theme-primary-outline:hover,
+		.features-content .features__item,
+		.nav-links a:hover,
+		.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce button.button.alt
+		{
+			background-color: #df2e1b;
+		}
+		textarea:focus,
+		input[type="date"]:focus,
+		input[type="datetime"]:focus,
+		input[type="datetime-local"]:focus,
+		input[type="email"]:focus,
+		input[type="month"]:focus,
+		input[type="number"]:focus,
+		input[type="password"]:focus,
+		input[type="search"]:focus,
+		input[type="tel"]:focus,
+		input[type="text"]:focus,
+		input[type="time"]:focus,
+		input[type="url"]:focus,
+		input[type="week"]:focus {
+			border-color: #df2e1b;
+		}
+
+		a,
+		.screen-reader-text:hover,
+		.screen-reader-text:active,
+		.screen-reader-text:focus,
+		.header-social a,
+		.nav-menu li.current-menu-item > a,
+		.nav-menu a:hover,
+		.nav-menu ul li a:hover,
+		.nav-menu li.onepress-current-item > a,
+		.nav-menu ul li.current-menu-item > a,
+		.nav-menu > li a.menu-actived,
+		.nav-menu.nav-menu-mobile li.nav-current-item > a,
+		.site-footer a,
+		.site-footer .btt a:hover,
+		.highlight,
+		.entry-meta a:hover,
+		.entry-meta i,
+		.sticky .entry-title:after,
+		#comments .comment .comment-wrapper .comment-meta .comment-time:hover, #comments .comment .comment-wrapper .comment-meta .comment-reply-link:hover, #comments .comment .comment-wrapper .comment-meta .comment-edit-link:hover,
+		.sidebar .widget a:hover,
+		.services-content .service-card-icon i,
+		.contact-details i,
+		.contact-details a .contact-detail-value:hover, .contact-details .contact-detail-value:hover,
+		.btn-theme-primary-outline
+		{
+			color: #df2e1b;
+		}
+
+		.entry-content blockquote {
+			border-left: 3px solid #df2e1b;
+		}
+
+		.btn-theme-primary-outline, .btn-theme-primary-outline:hover {
+			border-color: #df2e1b;
+		}
+		.section-news .entry-grid-elements {
+			border-top-color: #df2e1b;
+		}
+			.gallery-carousel .g-item{
+		padding: 0px 2px;
+	}
+	.gallery-carousel {
+		margin-left: -2px;
+		margin-right: -2px;
+	}
+	.gallery-grid .g-item, .gallery-masonry .g-item .inner {
+		padding: 2px;
+	}
+	.gallery-grid, .gallery-masonry {
+		margin: -2px;
+	}
+	
+        .portfolio-content .portfolio-close:hover::before, .portfolio-content .portfolio-close:hover::after,
+        .portfolio-controls .previous:hover .icon:before, .portfolio-controls .previous:hover .icon:after,
+        .portfolio-controls .previous:hover .icon span,
+        .portfolio-controls .next:hover .icon:before, .portfolio-controls .next:hover .icon:after,
+        .portfolio-controls .next:hover .icon span,
+        .portfolio-controls .back-to-list:hover .btl span {
+            background-color: #df2e1b;
+        }
+        .portfolio-controls a:hover,
+        .team-member .team-member-img .team-social-wrapper .team-member-social a:hover i.fa-stack-1x {
+            color: #df2e1b;
+        }
+        .card-theme-primary {
+            background-color: #df2e1b;
+            border-color: #df2e1b;
+        }
+        .pricing__item:hover {
+            border-top-color: #df2e1b;
+        }
+    
+ .parallax-portfolios .parallax-mirror::before{background-color: ; } 
+  .section-contact{ background-color: rgba(255,255,255,1); } 
+ 
+</style>
+<link rel='stylesheet' id='screenr-gallery-lightgallery-css'  href='https://keepersportsproducts.com/wp-content/themes/screenr/assets/css/lightgallery.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://keepersportsproducts.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='screenr-plus-style-css'  href='https://keepersportsproducts.com/wp-content/plugins/screenr-plus/screenr-plus.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css'  href='https://keepersportsproducts.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.1.1' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript'>
+/* <![CDATA[ */
+var Screenr_Plus = {"ajax_url":"https:\/\/keepersportsproducts.com\/wp-admin\/admin-ajax.php","browser_warning":" Your browser does not support the video tag. I suggest you upgrade your browser."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//assets.juicer.io/embed-no-jquery.js?ver=5.2.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/keepersportsproducts.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.10.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/keepersportsproducts.com\/wp-admin\/admin-ajax.php","security":"3dc2363516","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/keepersportsproducts.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/keepersportsproducts.com\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"13.1.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.1.1'></script>
+<link rel='https://api.w.org/' href='https://keepersportsproducts.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://keepersportsproducts.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://keepersportsproducts.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.5" />
+<link rel='shortlink' href='https://keepersportsproducts.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://keepersportsproducts.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkeepersportsproducts.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://keepersportsproducts.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkeepersportsproducts.com%2F&#038;format=xml" />
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '852259721906721');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=852259721906721&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//keepersportsproducts.com/?wordfence_lh=1&hid=B2D01F79A78BA8A11D1BF46A91D0D6C4');
+</script><link rel="icon" href="https://keepersportsproducts.com/wp-content/uploads/2017/05/cropped-Untitled-1-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://keepersportsproducts.com/wp-content/uploads/2017/05/cropped-Untitled-1-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://keepersportsproducts.com/wp-content/uploads/2017/05/cropped-Untitled-1-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://keepersportsproducts.com/wp-content/uploads/2017/05/cropped-Untitled-1-1-270x270.jpg" />
+</head>
+
+<body data-rsssl=1 class="home page-template page-template-template-frontpage page-template-template-frontpage-php page page-id-7 wp-custom-logo no-site-title no-site-tagline header-layout-fixed">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+    	<header id="masthead" class="site-header sticky-header transparent" role="banner">
+		<div class="container">
+			    <div class="site-branding">
+        <a href="https://keepersportsproducts.com/" class="custom-logo-link  no-t-logo" rel="home" itemprop="url"><img width="135" height="55" src="https://keepersportsproducts.com/wp-content/uploads/2017/03/cropped-cropped-Untitled-2.png" class="custom-logo" alt="Keeper Sports Products" itemprop="logo" /></a>    </div><!-- .site-branding -->
+    
+			<div class="header-right-wrapper">
+				<a href="#" id="nav-toggle">Menu<span></span></a>
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					<ul class="nav-menu">
+						<li id="menu-item-1062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1062"><a href="https://keepersportsproducts.com/brands/">BRANDS</a>
+<ul class="sub-menu">
+	<li id="menu-item-1677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1677"><a href="https://www.californiaboardcompany.com/">California Board Company</a></li>
+	<li id="menu-item-1678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1678"><a href="http://www.scottburkesurf.com/">Scott Burke Surf</a></li>
+	<li id="menu-item-1094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1094"><a href="https://keepersportsproducts.com/california-boat-company/">California Boat Company</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1095"><a href="https://keepersportsproducts.com/california-boat-company-inflatables/">California Boat Company Inflatables</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1081"><a href="https://keepersportsproducts.com/chill-lake-pool/">Chill Lake &#038; Pool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1082"><a href="https://keepersportsproducts.com/chill-lake-pool-kickboards/">Chill Lake &#038; Pool Kickboards</a></li>
+		<li id="menu-item-1083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1083"><a href="https://keepersportsproducts.com/chill-lake-pool-water-floats/">Chill Lake &#038; Pool Water Floats</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1096" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-1096"><a href="https://keepersportsproducts.com/" aria-current="page">RETAILER EXCLUSIVE&#8217;S</a>
+<ul class="sub-menu">
+	<li id="menu-item-1656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1656"><a href="https://keepersportsproducts.com/academy-sports-exclusive-sup/">Academy Sports Exclusive SUP</a></li>
+	<li id="menu-item-1406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1406"><a href="https://keepersportsproducts.com/big-5-sporting-goods-exclusive-sup/">Big 5 Sporting Goods Exclusive SUP</a></li>
+	<li id="menu-item-1080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1080"><a href="https://keepersportsproducts.com/bjs-wholesale-club-exclusive-sup/">BJ&#8217;s Wholesale Club Exclusive SUP</a></li>
+	<li id="menu-item-1646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1646"><a href="https://keepersportsproducts.com/costco-exclusive-sup/">Costco Exclusive SUP</a></li>
+	<li id="menu-item-1074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1074"><a href="https://keepersportsproducts.com/samss-club-exclusive-sup/">Sam&#8217;s Club Exclusive SUP</a></li>
+</ul>
+</li>
+<li id="menu-item-1097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1097"><a href="https://www.keepersportsstore.com/">SHOP</a></li>
+<li id="menu-item-1101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1101"><a href="https://keepersportsproducts.com/category/news/">NEWS</a></li>
+<li id="menu-item-1535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1535"><a href="https://keepersportsproducts.com/reviews/">REVIEWS</a></li>
+<li id="menu-item-1091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1091"><a href="https://keepersportsproducts.com/social-media/">SOCIAL MEDIA</a></li>
+<li id="menu-item-1152" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-1152"><a href="https://keepersportsproducts.com/" aria-current="page">CONTACT US</a>
+<ul class="sub-menu">
+	<li id="menu-item-1153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1153"><a href="https://keepersportsproducts.com/contact-us-parts/">Contact Us For Parts</a></li>
+	<li id="menu-item-1156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="https://keepersportsproducts.com/contact-us-for-information/">Contact Us For Information</a></li>
+</ul>
+</li>
+<li id="menu-item-1098" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-1098"><a href="https://keepersportsproducts.com/" aria-current="page">MORE</a>
+<ul class="sub-menu">
+	<li id="menu-item-1174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1174"><a href="https://keepersportsproducts.com/catalogs/">Catalogs</a></li>
+	<li id="menu-item-1073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1073"><a href="https://keepersportsproducts.com/f-a-q/">F.A.Q.</a></li>
+	<li id="menu-item-1235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235"><a href="https://www.youtube.com/channel/UCBwUj1IIBRg2OAY4nuKBCeg">Videos &#038; Tutorials</a></li>
+	<li id="menu-item-1362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1362"><a href="https://keepersportsproducts.com/warranty/">Warranty</a></li>
+	<li id="menu-item-1099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1099"><a href="https://keepersportsproducts.com/about/">About</a></li>
+</ul>
+</li>
+					</ul>
+				</nav>
+				<!-- #site-navigation -->
+			</div>
+
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+		<main id="main" class="site-main" role="main">
+                        <section id="hero" class="section-slider screenr-section swiper-slider full-screen fixed" >
+        <div class="swiper-container" data-autoplay="7000">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide slide-align-center slide_content slide_content_layout_1" style="background-image: url('https://keepersportsproducts.com/wp-content/uploads/2019/09/KSP-Header.jpg')"><div class="swiper-slide-intro"><div class="swiper-intro-inner"><h1><strong>THE<br />
+HOME OF<br />
+ CALIFORNIA BOARD COMPANY<br />
+AND<br />
+SCOTT BURKE BOARDS</strong></h1>
+<p>If it&#8217;s made by us&#8230;.it&#8217;s a Keeper!</p>
+<p><a class="btn btn-lg btn-theme-primary" href="#features">Click to Scroll</a></p>
+</div></div><div class="overlay"></div></div>
+<div class="swiper-slide slide-align-center slide_content slide_content_layout_1" style="background-image: url('https://keepersportsproducts.com/wp-content/uploads/2019/09/KSP-Header-2.jpg')"><div class="swiper-slide-intro"><div class="swiper-intro-inner"><h1><strong>THE<br />
+HOME OF<br />
+ CALIFORNIA BOARD COMPANY<br />
+AND<br />
+SCOTT BURKE BOARDS</strong></h1>
+<p>If it&#8217;s made by us&#8230;.it&#8217;s a Keeper!</p>
+<p><a class="btn btn-lg btn-theme-primary" href="#features">Click to Scroll</a></p>
+</div></div><div class="overlay"></div></div>        </div>
+                    <div class="swiper-button-prev"><i class="fa fa-angle-left"></i>
+
+                <div class="slide-count"><span class="slide-current">1</span> <span class="sep"></span> <span class="slide-total">3</span></div>
+            </div>
+            <div class="swiper-button-next"><i class="fa fa-angle-right"></i>
+
+                <div class="slide-count"><span class="slide-current">1</span> <span class="sep"></span> <span class="slide-total">3</span></div>
+            </div>
+                <div class="btn-next-section"></div>
+    </div>
+            </section>
+    <section id="features" class="section-features section-padding screenr-section section-padding-empty">
+    </section>
+<section id="section-cta"  class="section-cta section-padding section-inverse screenr-section">
+        
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-9 cta-heading">
+                <h2>BUY DIRECT FROM THE KEEPER SPORTS STORE</h2>
+            </div>
+            <div class="col-md-12 col-lg-3 cta-button-area">
+                <a href="https://www.keepersportsstore.com/" class="btn btn-lg btn-theme-primary-outline">SHOP NOW</a>
+            </div>
+        </div>
+    </div>
+
+        </section>
+<section id="news" class="section-news section-padding section-padding-lg">
+    <div class="container">
+                    <div class="section-title-area">
+                <div class="section-subtitle">whats new</div>                <h2 class="section-title">company news</h2>                            </div>
+                <div class="section-content section-news-content">
+            <div class="row">
+                <div class="content-grid" id="section-news-posts" data-layout="3">
+                                                                        		<article id="post-1584" class="col-md-6 col-lg-4 post-1584 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+							<div class="entry-thumb">
+					<a href="https://keepersportsproducts.com/2018/10/15/updates-from-scott-burke-team-rider-keali-hedrick/">
+						<img width="350" height="200" src="https://keepersportsproducts.com/wp-content/uploads/2018/10/KealiTamarack06_2018-09-350x200.jpg" class="attachment-screenr-blog-grid-small size-screenr-blog-grid-small wp-post-image" alt="" />					</a>
+				</div>
+						<div class="entry-grid-elements">
+				<div class="entry-grid-cate"><a href="https://keepersportsproducts.com/category/news/">News</a></div>				<header class="entry-header">
+					<div class="entry-grid-title"><a href="https://keepersportsproducts.com/2018/10/15/updates-from-scott-burke-team-rider-keali-hedrick/" rel="bookmark">Updates from Scott Burke Team Rider Keali Hedrick</a></div>				</header><!-- .entry-header -->
+				<div class="entry-excerpt">
+					<p>Hi there! I apologize for the limited number of reports that I have&#8230;</p>
+				</div><!-- .entry-content -->
+				<div class="entry-grid-more">
+					<a href="https://keepersportsproducts.com/2018/10/15/updates-from-scott-burke-team-rider-keali-hedrick/" title="Updates from Scott Burke Team Rider Keali Hedrick">Read On <i aria-hidden="true" class="fa fa-arrow-circle-o-right"></i></a>
+				</div>
+			</div>
+		</article><!-- #post-## -->
+		                                                    		<article id="post-1578" class="col-md-6 col-lg-4 post-1578 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+							<div class="entry-thumb">
+					<a href="https://keepersportsproducts.com/2018/09/11/checking-in-on-scott-burke-boards-team-rider-keali-hedrick/">
+						<img width="350" height="200" src="https://keepersportsproducts.com/wp-content/uploads/2018/09/KH04-350x200.jpg" class="attachment-screenr-blog-grid-small size-screenr-blog-grid-small wp-post-image" alt="" />					</a>
+				</div>
+						<div class="entry-grid-elements">
+				<div class="entry-grid-cate"><a href="https://keepersportsproducts.com/category/news/">News</a></div>				<header class="entry-header">
+					<div class="entry-grid-title"><a href="https://keepersportsproducts.com/2018/09/11/checking-in-on-scott-burke-boards-team-rider-keali-hedrick/" rel="bookmark">Checking in on Scott Burke Boards Team Rider Keali Hedrick</a></div>				</header><!-- .entry-header -->
+				<div class="entry-excerpt">
+					<p>I hope you’re having a great Summer! Since a big swell decided to&#8230;</p>
+				</div><!-- .entry-content -->
+				<div class="entry-grid-more">
+					<a href="https://keepersportsproducts.com/2018/09/11/checking-in-on-scott-burke-boards-team-rider-keali-hedrick/" title="Checking in on Scott Burke Boards Team Rider Keali Hedrick">Read On <i aria-hidden="true" class="fa fa-arrow-circle-o-right"></i></a>
+				</div>
+			</div>
+		</article><!-- #post-## -->
+		                                                    		<article id="post-1516" class="col-md-6 col-lg-4 post-1516 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+							<div class="entry-thumb">
+					<a href="https://keepersportsproducts.com/2018/06/18/meet-team-rider-kai-williams/">
+						<img width="350" height="200" src="https://keepersportsproducts.com/wp-content/uploads/2018/05/Kai-Williams-1-350x200.jpg" class="attachment-screenr-blog-grid-small size-screenr-blog-grid-small wp-post-image" alt="" />					</a>
+				</div>
+						<div class="entry-grid-elements">
+				<div class="entry-grid-cate"><a href="https://keepersportsproducts.com/category/news/">News</a></div>				<header class="entry-header">
+					<div class="entry-grid-title"><a href="https://keepersportsproducts.com/2018/06/18/meet-team-rider-kai-williams/" rel="bookmark">Meet team Rider Kai Williams</a></div>				</header><!-- .entry-header -->
+				<div class="entry-excerpt">
+					<p>Hello, my name is Kai Williams, I’m twelve years old, and I’m from&#8230;</p>
+				</div><!-- .entry-content -->
+				<div class="entry-grid-more">
+					<a href="https://keepersportsproducts.com/2018/06/18/meet-team-rider-kai-williams/" title="Meet team Rider Kai Williams">Read On <i aria-hidden="true" class="fa fa-arrow-circle-o-right"></i></a>
+				</div>
+			</div>
+		</article><!-- #post-## -->
+		                                                            </div>
+                <div class="clear"></div>
+                                <div class="content-grid-loadmore  blt-ajax">
+                    <a href="#" class="btn btn-theme-primary-outline">Load More News<i aria-hidden="true" class="fa fa-angle-double-down"></i></a>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+    <div class="parallax-videolightbox section-parallax">
+        	<div class="parallax-bg"><img alt="" src="https://keepersportsproducts.com/wp-content/uploads/2018/04/DSC_0402.jpg" /> </div>
+	        <section id="video" class="section-videolightbox section-padding section-padding-larger section-inverse onepage-section">
+        <div class="container">
+                        <h2 class="videolightbox__heading">TAKE A TRIP INTO THE LIFESTYLE</h2>
+                        <div class="videolightbox__icon videolightbox-popup">
+                <a href="https://www.youtube.com/watch?v=PzB008W718Q" data-scr="https://www.youtube.com/watch?v=PzB008W718Q" class="popup-video">
+                    <span class="video_icon"><i class="fa fa-play"></i></span>
+                </a>
+            </div>
+
+        </div>
+    </section>
+            </div>
+                    <section id="sid1496173079815"  class="section-sid1496173079815 onepage-section section-meta section-padding">
+                                <div class="container">
+                                                                        <div class="section-title-area">
+                                                                                                    <h2 class="section-title">Our Story</h2>                                                                                            </div>
+                                                                <div class="section-content-area custom-section-content"><p style="text-align: center"><em>In September of 2008, four friends got together for 2 nights of dinner and conversation.&nbsp; We had known each other for about 10 years by that time.&nbsp; We kicked around the idea of going into business for ourselves during those nights, and in December of that same year, Keeper Sports Products, LLC was born!</em></p>
+<p style="text-align: center"><em>Mark had started a shortened career in retail out of college in 1980 on Nantucket Island.&nbsp; Scott began shaping bodyboards in Southern California while attending college in 1981.&nbsp; The bodyboard company whom Scott was working for in 1986, was bought by a company in Hyannis, Massachusetts.&nbsp; Mark joined that company in 1987.&nbsp; One on the west coast, the other on the east coast, we joined forces with Charlie and Michael 21 years later.</em></p>
+<p style="text-align: center"><em>Mark worked out of his home for the first 7 years while Scott opened our first office in Oceanside in 2009.&nbsp; Mark handled the sales and marketing while Scott designed our product line from bodyboards to surf and SUP boards to winter snow </em>sleds,<em> while running the operations side.&nbsp; Charlie and Michael handled the prototypes, testing, packaging and ultimately all of the production.</em></p>
+<p style="text-align: center"><em>We hired our first assistant in 2011.&nbsp; As the years grew, our family grew.&nbsp; </em><em> Dugie and Chuckie, long time industry veterans and good friends, were among the first to join us.&nbsp; Our rep base grew with long time buddies like Stretch, KB, Sully, Jamie, Pete &amp; Paul, the Walrus and Giff and </em>Schifty<em> and most recently, Kyle.&nbsp; Each one of them instrumental in getting us from “there” to “here”.</em></p>
+<p style="text-align: center"><em>Along the way, we </em>picked-up<em> the brilliant G-Man, who’s designs and artwork are now world renowned.&nbsp; Willy mentored us in business throughout while John balanced the legal side until we could branch out. It may be the four partners getting the handshakes at the shows, but we know it’s Helen, Mary, Tyler, Amber, Eddy, Chelsea and Ryan that keep our ship floating and moving forward – along with the rest of our team.</em></p>
+<p style="text-align: center"><em>We pride ourselves in making a quality product that our many loyal retail customers can buy for a fair price and extend that value to the most important people of all . . . our extended family . . . our consumers.&nbsp; We are equally proud to present to you our new website, authored by Tyler but assisted by many and ask that you share it and our story with your family and friends.</em></p>
+<p style="text-align: center"><em>Warmest Regards,</em></p>
+<p style="text-align: center"><em>Mark, Scott, Charlie and Michael</em></p>
+<p style="text-align: center"><em><strong>If it’s made by us . . . it’s a Keeper!</strong></em></p>
+<p style="text-align: center"><img class="aligncenter size-thumbnail wp-image-968" src="https://localhost:8888/wp-content/uploads/2017/05/Keeper-Built-Logo-150x150.png" alt="" width="150" height="150" srcset="https://keepersportsproducts.com/wp-content/uploads/2017/05/Keeper-Built-Logo-150x150.png 150w, https://keepersportsproducts.com/wp-content/uploads/2017/05/Keeper-Built-Logo-300x300.png 300w, https://keepersportsproducts.com/wp-content/uploads/2017/05/Keeper-Built-Logo.png 500w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+</div>
+                </div>
+                            </section>
+                            <section id="Team Riders"             class="section-team section-padding-lg section-meta screenr-section section-inverse">
+                            <div class="container">
+
+                                    <div class="container">
+                        <div class="section-title-area">
+                                                        <h2 class="section-title">Team Riders</h2>                                                    </div>
+                    </div>
+                                </div>
+
+            <div class="container">
+                <div class="row">
+                    <div class="team-member-wrapper team-layout-2">
+                                                        <div class="member-item col-sm-12 col-md-6 col-lg-6">
+                                    <div class="team-member">
+                                        <div class="team-member-img">
+                                            <img src="https://keepersportsproducts.com/wp-content/uploads/2018/03/Keali_Terramar_PostSesh-340x220.jpg" alt="">
+                                            
+    <div class="team-social-wrapper">
+        <div class="team-member-social">
+
+                                                                        <!--
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-globe fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-google-plus fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i></span></a>
+            -->
+        </div>
+    </div>
+
+                                            </div>
+                                        <h4 class="team-member-name">
+                                            <a href="https://www.instagram.com/keali_hedrick/">                                                Keali Hedrick                                            </a>                                        </h4>
+                                        <div class="team-member-position">Scott Burke Team Rider</div>
+                                        <div class="team-member-description">
+                                            <p></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="member-item col-sm-12 col-md-6 col-lg-6">
+                                    <div class="team-member">
+                                        <div class="team-member-img">
+                                            <img src="https://keepersportsproducts.com/wp-content/uploads/2018/04/Headstand-340x220.jpg" alt="">
+                                            
+    <div class="team-social-wrapper">
+        <div class="team-member-social">
+
+                                                                        <!--
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-globe fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-google-plus fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i></span></a>
+            -->
+        </div>
+    </div>
+
+                                            </div>
+                                        <h4 class="team-member-name">
+                                            <a href="https://www.instagram.com/jack_v_dub/">                                                Jack Van Wagoner                                            </a>                                        </h4>
+                                        <div class="team-member-position">Scott Burke Team Rider</div>
+                                        <div class="team-member-description">
+                                            <p></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="member-item col-sm-12 col-md-6 col-lg-6">
+                                    <div class="team-member">
+                                        <div class="team-member-img">
+                                            <img src="https://keepersportsproducts.com/wp-content/uploads/2018/04/9-baja-6-340x220.jpg" alt="">
+                                            
+    <div class="team-social-wrapper">
+        <div class="team-member-social">
+
+                                                                        <!--
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-globe fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-google-plus fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i></span></a>
+            -->
+        </div>
+    </div>
+
+                                            </div>
+                                        <h4 class="team-member-name">
+                                            <a href="https://www.instagram.com/senor_pez760/">                                                Fisher Geary                                            </a>                                        </h4>
+                                        <div class="team-member-position">Scott Burke Team Rider</div>
+                                        <div class="team-member-description">
+                                            <p></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="member-item col-sm-12 col-md-6 col-lg-6">
+                                    <div class="team-member">
+                                        <div class="team-member-img">
+                                            <img src="https://keepersportsproducts.com/wp-content/uploads/2018/04/IMG_9111-340x220.jpg" alt="">
+                                            
+    <div class="team-social-wrapper">
+        <div class="team-member-social">
+
+                                                                        <!--
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-globe fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-google-plus fa-stack-1x"></i></span></a>
+            <a href="#"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i></span></a>
+            -->
+        </div>
+    </div>
+
+                                            </div>
+                                        <h4 class="team-member-name">
+                                            <a href="https://www.instagram.com/cosbyh54/">                                                Hana Cosby                                            </a>                                        </h4>
+                                        <div class="team-member-position">Scott Burke Team Rider</div>
+                                        <div class="team-member-description">
+                                            <p></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                </div>
+            </div>
+                        </section>
+                        <section id="testimonials" class="screenr-testimonials section-testimonials section-padding section-padding-lg">
+    
+            <div class="container">
+            <div class="section-title-area">
+                                <h2 class="section-title">Testimonials</h2>                            </div>
+        </div>
+        
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                                <div class="card-deck-wrapper">
+                    <div class="card-deck wow slideInUp"><div class="card card-inverse card-theme-primary"><div class="card-block"><div class="tes_author"><img src="https://keepersportsproducts.com/wp-content/uploads/2017/05/Quest1-768x488.jpg" alt="" /><cite class="tes__name">ISUPworld.com<div>"The new Scott Burke inflatable SUP is awesome. It’s a winner right out of the box."</div></cite> </div><h5 class="card-title">Burke 11’ Quest Inflatable SUP Review</h5><p class="card-text">"The new Scott Burke inflatable SUP is awesome. It’s a winner right out of the box.
+I love the colors and look of this board. The PVC material on top is made to look like wood and the green and black traction pad looks really sharp in contrast.
+The shape and design make it very versatile for all different types of water and the size makes it easy for anyone to use from small to large, beginner to advanced.
+It is not the fastest board out there but it glides nicely, tracks well and is really easy to paddle.
+The 11’ Quest was an instant favorite with my team as far as all-round board designs go."
+<a href="http://www.isupworld.com/burke-11-quest-review/" target="_blank">CLICK TO READ THE FULL REVIEW</a></p> </div> </div>
+	<div class="card card-inverse card-theme-primary"><div class="card-block"><div class="tes_author"><img src="https://keepersportsproducts.com/wp-content/uploads/2017/05/Photo-for-CBC-Brand-Gallery.jpg" alt="" /><cite class="tes__name">Dick&#039;s Sporting Goods Customer Review<div>"Lovin' this board."</div></cite> </div><h5 class="card-title">CBC Foam 10&#039;6 Stand Up Paddle Board Rewiew</h5><p class="card-text">"Love this board. I'm a beginner. This is a great board for my family, twin 5 year olds, 17 year old and wife. Entire top is soft. Great construction. Well made. Easy to carry. Old school wood "look" is awesome. Very stable...moves nicely through the water. Nothing poor quality about this board. I'd love to try the fishing one."
+<a href="https://www.dickssportinggoods.com/p/california-board-company-foam-106-stand-up-paddle-board-16cbducbcclssc106pss/16cbducbcclssc106pss" target="_blank">CLICK TO READ MORE REVIEWS</a>
+</p> </div> </div>
+	<div class="card card-inverse card-theme-primary"><div class="card-block"><div class="tes_author"><img src="https://keepersportsproducts.com/wp-content/uploads/2017/05/9quest11.jpg" alt="" /><cite class="tes__name">ISUPworld.com<div>"A smaller sized board can be a lot of fun to use and this Burke 9’ Quest ISUP is exactly that… fun!"</div></cite> </div><h5 class="card-title">Burke 9’ Quest Inflatable SUP Review</h5><p class="card-text">"A smaller sized board can be a lot of fun to use and this Burke 9’ Quest ISUP is exactly that… fun!
+This board feels very responsive, it turns quickly and takes very little effort to get moving.
+We found that it plowed through chop and wind with ease and although it won’t keep up with a longer and more streamlined touring SUP, it definitely did not feel sluggish.
+The lightweight keeps it very portable and convenient to take anywhere.
+Although the 9’ Quest can in fact hold quite a bit of weight it is also small enough that it can easily be paddled by a smaller person or a child as well."
+<a href="http://www.isupworld.com/burke-9-quest-review/" target="_blank">CLICK TO READ THE FULL REVIEW</a></p> </div> </div></div><div class="card-deck wow slideInUp"><div class="card card-inverse card-theme-primary"><div class="card-block"><div class="tes_author"><img src="https://keepersportsproducts.com/wp-content/uploads/2017/07/thewetlife_logo_boarder_retina.png" alt="" /><cite class="tes__name">The Wet Life<div>The foam construction also means that the board is lightweight, weighing only 25 lbs, which is excellent for easy maneuverability.</div></cite> </div><h5 class="card-title">CBC 10&#039;6&quot; Stand Up Paddle Board Review</h5><p class="card-text">If you are new to paddle boarding you may have had some serious sticker shock.  Paddle boards average in price around $1000 and can reach prices in the many thousands of dollars.  No way can a beginner be expected to fork over that kind of money, especially if they aren’t even sure about the sport yet.
+
+Fortunately, you may have found a board on Amazon or Dicks Sporting Goods from a company called California Board Company that is half the cost of most boards, but at such a steep discount can the board be any good?  Is this thing going to sink like a rock when I launch it in the water?  Will this board crack in half if I strap it too tight to the roof of my car?  Even with a cheap board like the, California Board Company 10 six, we need answers.
+<a href="http://thewetlife.com/cbc-california-board-company-sup-review/" target="_blank">CLICK TO READ THE FULL REVIEW</a></p> </div> </div></div>                </div>
+
+
+            </div>
+        </div>
+    </div>
+            </section>
+    <section id="clients" class="section-clients section-padding section-padding-lg screenr-section section-inverse">
+    <div class="container">
+                <div class="section-title-area">
+            <div class="section-subtitle">what we&#039;ve been featured on</div>                                </div>
+                            <div class="section-client-content">
+                <div class="clients-wrapper client-5-cols">
+                                            <div class="client-col" title="Standup Journal">
+                            <a title="Standup Journal"  href="http://standupjournal.com/gear/standup-paddleboards/whats-sup-foam-boards/">                            <img src="https://keepersportsproducts.com/wp-content/uploads/2017/05/Standupjournal.jpg" alt="Standup Journal">
+                            </a>                        </div>
+                                                <div class="client-col" title="SUP the Mag">
+                            <a title="SUP the Mag"  href="http://www.supthemag.com/news/industry-news/keeper-sports-products-signs-pro-surfer-jazmine-dean/#bsvo7jRJ3RYR7jpv.97">                            <img src="https://keepersportsproducts.com/wp-content/uploads/2017/05/SUP-the-mag.jpg" alt="SUP the Mag">
+                            </a>                        </div>
+                                                <div class="client-col" title="Paddling.com">
+                            <a title="Paddling.com"  href="https://paddling.com/learn/tips-for-river-sup/">                            <img src="https://keepersportsproducts.com/wp-content/uploads/2017/05/Paddling.jpg" alt="Paddling.com">
+                            </a>                        </div>
+                                                <div class="client-col" title="ISUPworld">
+                            <a title="ISUPworld"  href="http://www.isupworld.com/keeper-sports-signs-jazmine-dean/">                            <img src="https://keepersportsproducts.com/wp-content/uploads/2017/05/ISUPWORLD.jpg" alt="ISUPworld">
+                            </a>                        </div>
+                                                <div class="client-col" title="Bloomberg Buisnessweek">
+                            <a title="Bloomberg Buisnessweek"  href="https://www.bloomberg.com/news/articles/2017-04-05/stand-up-paddleboarding-aka-surfing-for-the-lazy">                            <img src="https://keepersportsproducts.com/wp-content/uploads/2017/05/Untitled-1.jpg" alt="Bloomberg Buisnessweek">
+                            </a>                        </div>
+                                        </div><!-- /.clients-wrapper -->
+            </div>
+                </div>
+</section>
+            <section id="sid1529352565676"  class="section-sid1529352565676 onepage-section section-meta section-padding">
+                                <div class="container">
+                                                                        <div class="section-title-area">
+                                                                                                    <h2 class="section-title">Proudly supporting</h2>                                                                                            </div>
+                                                                <div class="section-content-area custom-section-content"><h2 style="text-align: center"></h2>
+<p><img class="aligncenter size-full wp-image-1544" src="https://keepersportsproducts.com/wp-content/uploads/2018/06/Viking-Surf-Camps.jpg" alt="" width="309" height="315" srcset="https://keepersportsproducts.com/wp-content/uploads/2018/06/Viking-Surf-Camps.jpg 309w, https://keepersportsproducts.com/wp-content/uploads/2018/06/Viking-Surf-Camps-294x300.jpg 294w" sizes="(max-width: 309px) 100vw, 309px" /></p>
+<p style="text-align: center">Visit their Instagram page!</p>
+<p style="text-align: center"><a href="https://www.instagram.com/vikingsurfcamp/">https://www.instagram.com/vikingsurfcamp/</a></p>
+<p></p>
+</div>
+                </div>
+                            </section>
+            		</main><!-- #main -->
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+					<div class="footer-widgets section-padding ">
+				<div class="container">
+					<div class="row">
+														<div id="footer-1" class="col-md-6 col-sm-12 footer-column widget-area sidebar" role="complementary">
+									<aside id="text-4" class="widget widget_text"><h3 class="widget-title">Company</h3>			<div class="textwidget"><p>KEEPER SPORTS PRODUCTS<br />760-295-9600<br />info@keepersportsproducts.com</p>
+<p><strong>Address</strong><br />1203 Activity Drive<br /> Suite 200<br />Vista, Ca. 92081</p>
+<p><strong>Hours</strong><br />Monday&mdash;Friday: 9:00AM&ndash;5:00PM</p>
+</div>
+		</aside>								</div>
+																<div id="footer-2" class="col-md-6 col-sm-12 footer-column widget-area sidebar" role="complementary">
+									<aside id="search-4" class="widget widget_search"><h3 class="widget-title">Search</h3><form role="search" method="get" class="search-form" action="https://keepersportsproducts.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="text-5" class="widget widget_text"><h3 class="widget-title">Keeper Sports Products, llc</h3>			<div class="textwidget"></div>
+		</aside><aside id="wpforms-widget-3" class="widget wpforms-widget"><h3 class="widget-title">Newsletter Sign-Up</h3><div class="wpforms-container wpforms-container-full" id="wpforms-1288"><form id="wpforms-form-1288" class="wpforms-validate wpforms-form" data-formid="1288" method="post" enctype="multipart/form-data" action="/"><div class="wpforms-head-container"></div><div class="wpforms-field-container"><div id="wpforms-1288-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><label class="wpforms-field-label" for="wpforms-1288-field_0">Name <span class="wpforms-required-label">*</span></label><div class="wpforms-field-row wpforms-field-large"><div class="wpforms-field-row-block wpforms-first wpforms-one-half"><input type="text" id="wpforms-1288-field_0" class="wpforms-field-name-first wpforms-field-required" name="wpforms[fields][0][first]" required><label for="wpforms-1288-field_0" class="wpforms-field-sublabel after ">First</label></div><div class="wpforms-field-row-block wpforms-one-half"><input type="text" id="wpforms-1288-field_0-last" class="wpforms-field-name-last wpforms-field-required" name="wpforms[fields][0][last]" required><label for="wpforms-1288-field_0-last" class="wpforms-field-sublabel after ">Last</label></div></div></div><div id="wpforms-1288-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label" for="wpforms-1288-field_1">Email <span class="wpforms-required-label">*</span></label><input type="email" id="wpforms-1288-field_1" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][1]" required></div><div id="wpforms-1288-field_3-container" class="wpforms-field wpforms-field-mailchimp" data-field-id="3"><ul id="wpforms-1288-field_3" class=""><li class="choice-0 depth-1"><input type="checkbox" id="wpforms-1288-field_3_0" name="wpforms[fields][3]" value="1"  ><label class="wpforms-field-label-inline" for="wpforms-1288-field_3_0">Sign-up to our newsletter?</label></li></ul></div></div><div class="wpforms-field wpforms-field-hp"><label for="wpforms-1288-field-hp" class="wpforms-field-label">Name</label><input type="text" name="wpforms[hp]" id="wpforms-1288-field-hp" class="wpforms-field-medium"></div><div class="wpforms-submit-container" ><input type="hidden" name="wpforms[id]" value="1288"><input type="hidden" name="wpforms[author]" value="1"><input type="hidden" name="wpforms[post_id]" value="7"><button type="submit" name="wpforms[submit]" class="wpforms-submit " id="wpforms-submit-1288" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Submit">Submit</button></div></form></div>  <!-- .wpforms-container --></aside>								</div>
+													</div>
+				</div>
+			</div>
+		
+                <div id="footer-site-info" class="site-info">
+            <div class="container">
+                <div class="site-copyright">
+                    Copyright &copy; 2020 Keeper Sports Products. All Rights Reserved.                                    </div><!-- .site-copyright -->
+                <div class="theme-info screen-reader-text">
+                    <a href="https://www.famethemes.com/themes/screenr">Screenr parallax theme</a> by FameThemes                </div>
+            </div>
+        </div><!-- .site-info -->
+            
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<link rel='stylesheet' id='wpforms-full-css'  href='https://keepersportsproducts.com/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.css?ver=1.5.4.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-content/themes/screenr/assets/js/plugins.js?ver=4.0.0'></script>
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-content/themes/screenr/assets/js/bootstrap.min.js?ver=4.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Screenr = {"ajax_url":"https:\/\/keepersportsproducts.com\/wp-admin\/admin-ajax.php","full_screen_slider":"1","header_layout":"transparent","slider_parallax":"1","is_home_front_page":"1","autoplay":"7000","speed":"700","effect":"slide","gallery_enable":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-content/themes/screenr/assets/js/theme.js?ver=20120206'></script>
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-content/plugins/screenr-plus/assets/js/screenr-plus.js?ver=1.0.5'></script>
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.1.1'></script>
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-includes/js/wp-embed.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.0'></script>
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2'></script>
+<script type='text/javascript' src='https://keepersportsproducts.com/wp-content/plugins/wpforms-lite/assets/js/wpforms.js?ver=1.5.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpforms_settings = {"val_required":"This field is required.","val_url":"Please enter a valid URL.","val_email":"Please enter a valid email address.","val_email_suggestion":"Did you mean {suggestion}?","val_email_suggestion_title":"Click to accept this suggestion.","val_number":"Please enter a valid number.","val_confirm":"Field values do not match.","val_fileextension":"File type is not allowed.","val_filesize":"File exceeds max size allowed.","val_time12h":"Please enter time in 12-hour AM\/PM format (eg 8:45 AM).","val_time24h":"Please enter time in 24-hour format (eg 22:45).","val_requiredpayment":"Payment is required.","val_creditcard":"Please enter a valid credit card number.","val_smart_phone":"Please enter a valid phone number.","val_post_max_size":"The total size of the selected files {totalSize} Mb exceeds the allowed limit {maxSize} Mb.","val_checklimit":"You have exceeded the number of allowed selections: {#}.","post_max_size":"67108864","uuid_cookie":"","locale":"en","wpforms_plugin_url":"https:\/\/keepersportsproducts.com\/wp-content\/plugins\/wpforms-lite\/","gdpr":"","ajaxurl":"https:\/\/keepersportsproducts.com\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":[]}
+/* ]]> */
+</script>
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.552 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-04-06 04:42:24 -->
+
+<!-- Dynamic Super Cache -->

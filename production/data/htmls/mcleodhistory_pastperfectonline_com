@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+   <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+       ga('create', 'UA-84695581-1', 'auto', 'clientTracker');
+    ga('clientTracker.send', 'pageview');
+
+
+    </script>
+
+
+      <title>McLeod County Historical Society : Online Collections</title>
+    <meta name="viewport" content="width=device-width"/>
+    
+      <link href="https://s3.amazonaws.com/pastperfectonline/sitecontent/reset.css" media="screen" rel="stylesheet" />
+      <link href="https://s3.amazonaws.com/pastperfectonline/sitecontent/text.css" media="screen" rel="stylesheet" />
+      <link href="/assets/jquery-ui.min.css?body=1" media="screen" rel="stylesheet" />
+      
+      <link href="https://s3.amazonaws.com/pastperfectonline/sitecontent/960.css" media="screen" rel="stylesheet" />
+      <link href="https://s3.amazonaws.com/pastperfectonline/sitecontent/pastperfect_rounded.css" media="screen" rel="stylesheet" />
+      <link href="https://s3.amazonaws.com/pastperfectonline/sitecontent/pastperfect_print.css" media="print" rel="stylesheet" />
+    
+      
+
+    <link href="/assets/jquery.fancybox.css?body=1" media="screen" rel="stylesheet" />
+
+    
+
+    <script src="/assets/jquery.js?body=1"></script>
+    <script src="/assets/jquery-ui.min.js?body=1"></script>
+    <script src="/assets/jquery.fancybox.js?body=1"></script>
+    <script src="/assets/pastperfect.js?body=1"></script>
+
+    <link href='https://fonts.googleapis.com/css?family=IM+Fell+English' rel='stylesheet' type='text/css'>
+
+<meta name="google-site-verification" content="Mrs2Li1H2dpkeKsIdNGrzOPpbaQLLNOXc9VsK29x0K0" />
+
+<meta name="msvalidate.01" content="F52D94122EDBA3DBFD8C1E1EA934F0FE" />
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="7ENKyDaa7vq83GJbyHkL2mVRSX2nKyA53/KSmvFVbk4=" name="csrf-token" />
+
+    <style>
+      body {
+background-color: #dfd1ab;
+}
+
+.header  {
+background-color: #dfd1ab;
+text-align: center;
+}
+
+footer {
+background-color: #dfd1ab;
+text-align: center;
+color:#382208;
+font-family: IM Fell English, serif;
+font-size: 13px;
+}
+
+.topNav {
+margin-top: 0px;
+margin-bottom: 0px;
+background-color: #dfd1ab;
+border-bottom: 8px solid #2d5884;
+}
+
+.topNav li {
+margin-left: 0px;
+margin-top: 4px;
+margin-bottom: 0px;
+background-color: #dfd1ab;
+text-transform: uppercase;
+font-family: IM Fell English, serif;
+font-size: 16px;
+}
+
+.topNav a {
+padding: 5px 5px;
+background-color:#dfd1ab;
+border-color:#dfd1ab;
+border-radius:3px;  
+color:#382208;
+border-bottom: 8px solid #dfd1ab;
+text-decoration: none;
+}
+
+.topNav a:hover {
+background-color:#dfd1ab;
+border-color:#dfd1ab;
+color:#382208;
+border-bottom: 8px solid #fad44a;
+text-decoration: none;
+}
+
+.leftNav a {
+background-color:#5b5b5b;
+border-color:#5b5b5b;
+border-radius:3px;   
+color:#bbbbbb;
+}
+
+.leftNav a:hover {
+background-color:#478afa;
+border: 2px solid#478afa;
+color:#000000;
+}
+
+.topSearchArea input[type=submit] {
+background-color:#dfd1ab;
+border: 3px solid#dfd1ab;
+color:#382208;
+}
+  
+.topSearchArea input[type=submit]:hover {
+background-color:#dfd1ab;
+border: 3px solid#fad44a;
+color:#382208;
+}
+
+.advancedSearchArea input[type=submit] {
+background-color:#dfd1ab;
+border: 3px solid#dfd1ab;
+color:#382208;
+}
+
+.advancedSearchArea input[type=submit]:hover {
+background-color:#dfd1ab;
+border: 3px solid#fad44a;
+color:#382208;
+}
+
+.indvResultDetails a {
+color:#382208;
+}
+
+.indvResultDetails a:hover {
+color:#2d5884;
+}
+
+.indvImage:hover {
+border: solid 2px #fad44a;
+}
+
+.largeImage:hover {
+border: solid 2px #fad44a;
+}
+
+.highlightedWord {
+color:#2d5884;
+font-weight: bold;
+}
+
+.searchResultTitle Number {
+color:#2d5884;
+}
+
+a {
+color:#134175;
+text-decoration: none;
+}
+
+a:hover {
+color:#134175;
+text-decoration: underline;
+}
+
+@media screen and (min-width: 640px) {
+.smallScreen {
+display:none;
+}
+}
+
+@media screen and (max-width: 640px) {
+.fullScreen {
+display:none;
+}
+}
+
+    </style>
+
+  </head>
+<body>
+
+
+<div class="skipnav"> <a href="#maincontent">Skip to content</a></div>
+
+<div class="container_12">
+    <header>
+      <div class="grid_12 header">    
+        <div class="fullScreen">
+<a href="http://www.mcleodhistory.org/" target="_blank"><img src="	https://s3.amazonaws.com/pastperfectonline/museumlogos/logos/298/original/McLeodBannerFinal.png?1441215627" alt="Museum logo"></a></div>
+
+
+<div class="smallScreen">
+<a href="http://www.mcleodhistory.org/" target="_blank"><img src="https://s3.amazonaws.com/pastperfectonline/museumlogos/images/521/original/McLeodLogo.png?1441215799" alt="Museum logo"></a>
+</div>
+      </div>
+    </header>
+  
+
+  <div class="grid_12 topNav">
+    <nav>
+      <ul>
+          <li id="navCustom">
+              <a class="button" href="http://www.mcleodhistory.org/">McLeod County Museum Home</a>
+
+          </li>
+
+        <li id="navLanding">
+          <a class="button" href="/">Search Tips</a>
+        </li>
+        <li id="navKeyword">
+          <a class="button" href="/search">Keyword Search</a>
+        </li>
+
+        <li id="navAdvanced">
+          <a class="button" href="/advancedsearch">Advanced Search</a>
+        </li>
+        <li id="navRandom">
+          <a class="button" href="/randomimages">Random Images</a>
+        </li>
+
+            <li id="navArchives">
+              <a class="button" href="/archive">Archives</a>
+            </li>
+            <li id="navPhotos">
+              <a class="button" href="/photo">Photos</a>
+            </li>
+            <li id="navObjects">
+              <a class="button" href="/webobject">Objects</a>
+            </li>
+      </ul>
+    </nav>
+  </div>
+ 
+  <div class="grid_12 systemBackgroundColor" id="maincontent" >
+    <h1>Welcome to our Online Collections Database!</h1>
+
+<h3>Tips for Searching</h3>
+
+<h4>Keyword Search</h4>
+<p>The <b>Keyword Search</b> button allows you to perform a general search across multiple fields for any catalog records online.  Keyword searches use OR as the default connector between words (e.g. a search for <i>Hanley Ranch</i> will return records associated with <i>Hanley</i> OR <i>Ranch</i>).  If you want to find records where both keywords are found, type in AND between the two words. To search for a specific phrase, be sure to put the phrase within quotes (e.g. "Rocky Pine Ranch").  You can also use the asterisk (&#42;) as a wildcard (e.g. a search for <i>histor&#42;</i> would come up with records containing <i>history</i>, <i>histories</i>, <i>historical</i>, etc.).  Searches are not case sensitive.</p>
+
+<h4>Advanced Search</h4>
+<p>The <b>Advanced Search</b> button can help you be more specific with your search.  You can search for a word or phrase within a particular search category or use multiple categories to further narrow down your search results.  For example, searching <i>White</i> in the People field will bring up any records associated with a member of the <i>White</i> family, without having to sift through black &amp; <i>white</i> photographs.  You can also search People and Creator records through Advanced Search.  Phrase searching with quotes and use of wildcards (&#42;) are available in Advanced Search.</p>
+
+<h4>Random Images</h4>
+<p>The <b>Random Images</b> button is a great way to just browse the collection.  Each Random Images page displays a random assortment of images from the records online.  If something piques your interest, click the thumbnail to view a larger version of the image.</p> 
+
+<h4>Catalog Searches (Archives / Photos / Libraries / Objects)</h4>
+<p>The catalog buttons can also help narrow down your search, by only searching with a selected catalog.  If you only want to search for Photos, click the <b>Photos</b> button and type in your keyword(s) or phrase.  You can also browse records within that catalog without performing a search.  Phrase searching, wildcards (&#42;) as well as AND/OR statements are available when performing catalog searches.</p>
+
+  </div>
+    <div class="grid_12 footer">    
+      <footer>
+        &#169;  2016 McLeod County Historical Society<br>
+380 School Road NW &#124; Hutchinson, MN 55350 &#124; Ph: (320) 587-2109 &#124; <a href="mailto:info@mcleodhistory.org">info@mcleodhistory.org</a>
+      </footer>
+    </div>
+</div>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html class="no-js seed-csp4" lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Landscaper CT | Landscape Design CT | Landscaping Services Connecticut</title>
+		<meta name="description" content="Since 1996, Midstate Excavation &amp; Landscaping LLC has been providing Connecticut with premium Landscape Design services. A+ BBB Accredited - Call Today!">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		
+		<!-- Bootstrap and default Style -->
+<link rel="stylesheet" href="https://www.landscaperct.com/wp-content/plugins/coming-soon/themes/default/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://www.landscaperct.com/wp-content/plugins/coming-soon/themes/default/style.css">
+<style type="text/css">
+/* calculated styles */
+
+	/* Background Style */
+    html{
+		        	background: #154628;
+		    }
+    .seed-csp4 body{
+							background: transparent;
+				}
+	
+		#seed-csp4-content{
+    	max-width: 700px;
+	}
+	
+	
+    /* Text Styles */
+    	    .seed-csp4 body{
+	        font-family: Times,Times New Roman, serif	    }
+
+	    .seed-csp4 h1, .seed-csp4 h2, .seed-csp4 h3, .seed-csp4 h4, .seed-csp4 h5, .seed-csp4 h6{
+	        font-family: Times,Times New Roman, serif	    }
+    
+    		.seed-csp4 body{
+			color:#ffffff;
+		}
+    
+            
+
+    		.seed-csp4 h1, .seed-csp4 h2, .seed-csp4 h3, .seed-csp4 h4, .seed-csp4 h5, .seed-csp4 h6{
+			color:#444444;
+		}
+    
+
+    		.seed-csp4 a, .seed-csp4 a:visited, .seed-csp4 a:hover, .seed-csp4 a:active, .seed-csp4 a:focus{
+			color:#27a2f4;
+		}
+
+
+    
+    
+    
+    </style>
+<!-- JS -->
+<script src="https://www.landscaperct.com/wp-includes/js/jquery/jquery.js"></script>
+<script src="https://www.landscaperct.com/wp-content/plugins/coming-soon/themes/default/bootstrap/js/bootstrap.min.js"></script>
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35128988-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+		
+	</head>
+<body data-rsssl=1>
+<div id="seed-csp4-page">
+		<div id="seed-csp4-content">
+			
+			
+			<div id="seed-csp4-description"><p style="text-align: center;"><img class=" wp-image-11 aligncenter" src="https://www.landscaperct.com/wp-content/uploads/2015/05/Midstate-Landscaper-CT-Mobile.jpg" alt="Midstate Landscaper CT" width="575" height="215" /></p>
+<hr style="border-top: dotted 1px;" />
+<p style="text-align: center;"><span style="font-size: 18pt;"><em>Midstate Excavation and Landscaping LLC has partnered with <span style="text-decoration: underline;"><a href="https://www.newcitybuildersllc.com/?utm_source=midstate&amp;utm_medium=referral&amp;utm_campaign=midstate_website">Newcity Builders</a></span> , Connecticut’s leading foundation repair company. Thank you for your loyal support over the years!</em></span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 18pt;"><em>Should you need to contact us or would like to inquire about foundation replacement, please contact us <span style="text-decoration: underline;"><a href="https://www.newcitybuildersllc.com/contact-us/?utm_source=midstate&amp;utm_medium=referral&amp;utm_campaign=midstate_website">here</a></span> or at (860) 919-5619.</em></span></p>
+<p style="text-align: center;"><strong><span style="font-size: 18pt;"><em>&#8211;  Thank you!  &#8211;</em></span></strong></p>
+<hr style="border-top: dotted 1px;" />
+</div>
+		</div><!-- / #seed-csp4-content -->
+
+
+
+</div>
+</body>
+</html>
+
+<!-- Coming Soon Page and Maintenance Mode by SeedProd. Learn more: http://www.seedprod.com -->

@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<title>Wallace Electronic Sales - Electronic * Electromechanical Components, Systems &amp; Assemblies</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,user-scalable=no">
+
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://wes-inc.com/xmlrpc.php">
+
+<!--[if lt IE 9]>
+	<script src="http://wes-inc.com/wp-content/themes/WCM010005/js/html5.js"></script>
+<![endif]-->
+<link rel="shortcut icon" type="image/png" href="/wp-content/uploads/2019/06/favicon.png" /><style>
+</style>
+<title>Wallace Electronic Sales - Electronic * Electromechanical Components, Systems &amp; Assemblies</title>
+<!--[if lt IE 9]>
+		<![endif]-->
+
+<!-- This site is optimized with the Yoast SEO plugin v13.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Wallace Electronic Sales - Electronic * Electromechanical Components, Systems &amp; Assemblies - Providing sales and marketing services to the Southeastern electronics marketplace."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="http://wes-inc.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Wallace Electronic Sales - Electronic * Electromechanical Components, Systems &amp; Assemblies" />
+<meta property="og:description" content="Wallace Electronic Sales - Electronic * Electromechanical Components, Systems &amp; Assemblies - Providing sales and marketing services to the Southeastern electronics marketplace." />
+<meta property="og:url" content="http://wes-inc.com/" />
+<meta property="og:site_name" content="Wallace Electronic Sales" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Wallace Electronic Sales - Electronic * Electromechanical Components, Systems &amp; Assemblies - Providing sales and marketing services to the Southeastern electronics marketplace." />
+<meta name="twitter:title" content="Wallace Electronic Sales - Electronic * Electromechanical Components, Systems &amp; Assemblies" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://wes-inc.com/#organization","name":"Wallace Electronic Sales","url":"http://wes-inc.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"http://wes-inc.com/#logo","inLanguage":"en-US","url":"http://wes-inc.com/wp-content/uploads/2019/06/Logo.jpg","width":300,"height":105,"caption":"Wallace Electronic Sales"},"image":{"@id":"http://wes-inc.com/#logo"}},{"@type":"WebSite","@id":"http://wes-inc.com/#website","url":"http://wes-inc.com/","name":"Wallace Electronic Sales","inLanguage":"en-US","description":"Wallace Electronic Sales","publisher":{"@id":"http://wes-inc.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://wes-inc.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://wes-inc.com/#webpage","url":"http://wes-inc.com/","name":"Wallace Electronic Sales - Electronic * Electromechanical Components, Systems &amp; Assemblies","isPartOf":{"@id":"http://wes-inc.com/#website"},"inLanguage":"en-US","about":{"@id":"http://wes-inc.com/#organization"},"datePublished":"2014-05-15T05:46:31+00:00","dateModified":"2020-01-07T17:24:30+00:00","description":"Wallace Electronic Sales - Electronic * Electromechanical Components, Systems & Assemblies - Providing sales and marketing services to the Southeastern electronics marketplace."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Wallace Electronic Sales &raquo; Feed" href="http://wes-inc.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Wallace Electronic Sales &raquo; Comments Feed" href="http://wes-inc.com/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.10.4';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-141500065-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-141500065-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/wes-inc.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='opensans-user-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C500%2C600%2C700&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='Oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald%3A300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='css_isotope-css'  href='http://wes-inc.com/wp-content/themes/WCM010005/css/isotop-port.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css'  href='http://wes-inc.com/wp-content/themes/WCM010005/css/megnor/custom.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.carousel-css'  href='http://wes-inc.com/wp-content/themes/WCM010005/css/megnor/owl.carousel.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='shadowbox-css'  href='http://wes-inc.com/wp-content/themes/WCM010005/css/megnor/shadowbox.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcode_style-css'  href='http://wes-inc.com/wp-content/themes/WCM010005/css/megnor/shortcode_style.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='animate_min-css'  href='http://wes-inc.com/wp-content/themes/WCM010005/css/megnor/animate.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='tm-css-flexslider-css'  href='http://wes-inc.com/wp-content/themes/WCM010005/css/megnor/tm_flexslider.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox-css'  href='http://wes-inc.com/wp-content/themes/WCM010005/css/megnor/lightbox.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://wes-inc.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://wes-inc.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-panels-front-css'  href='http://wes-inc.com/wp-content/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.10.14' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://wes-inc.com/wp-content/themes/WCM010005/style.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='templatemela-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='font_awesome-css'  href='http://wes-inc.com/wp-content/themes/WCM010005/fonts/css/font-awesome.css?ver=2.09' type='text/css' media='all' />
+<link rel='stylesheet' id='templatemela-style-css'  href='http://wes-inc.com/wp-content/themes/WCM010005-child/style.css?ver=2014-02-01' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"http:\/\/wes-inc.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.10.4'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://wes-inc.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wes-inc.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wes-inc.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.5" />
+<link rel='shortlink' href='http://wes-inc.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://wes-inc.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwes-inc.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://wes-inc.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwes-inc.com%2F&#038;format=xml" />
+<meta name="generator" content="http://wes-inc.com/wp-content/themes/WCM010005-child/style.css - " />		<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+	<style type="text/css">
+		h1 {	
+		font-family:'Oswald', Arial, Helvetica, sans-serif;
+	}	
+		
+		h1 {	
+		color:#333038;	
+	}	
+			
+		h2 {	
+		font-family:'Oswald', Arial, Helvetica, sans-serif;
+	}	
+		
+		h2 {	
+		color:#333038;	
+	}	
+	
+		h3 {	
+		font-family:'Oswald', Arial, Helvetica, sans-serif;
+	}	
+		
+		h3 { color:#333038;}
+		
+		h4 {	
+		font-family:'Oswald', Arial, Helvetica, sans-serif;
+	}	
+		
+	
+		h4 {	
+		color:#333038;	
+	}	
+		
+		h5 {	
+		font-family:'Oswald', Arial, Helvetica, sans-serif;
+	}	
+		
+		h5 {	
+		color:#333038;	
+	}	
+		
+		h6 {	
+		font-family:'Oswald', Arial, Helvetica, sans-serif;
+	}	
+		
+		h6 {	
+		color:#333038;	
+	}	
+		
+		.home-service h3.widget-title {	
+		font-family:'Oswald', Arial, Helvetica, sans-serif;
+	}	
+		
+		
+	
+	a {
+		color:#BABABA;
+	}
+	a:hover {
+		color:#E67A32;
+	}
+	.footer a, .site-footer a, .site-footer, .site-footer .follow-us a i{
+		color:#888888; 
+	}
+	.footer a:hover, .footer .footer-links li a:hover, .site-footer a:hover, .site-footer .follow-us a:hover i{
+		color:#666666;		 
+	}
+	
+		h3 {	
+		font-family:'Oswald', Arial, Helvetica, sans-serif;	
+	}	
+		
+	
+		.site-footer {	
+		font-family:'Open Sans', Arial, Helvetica, sans-serif;	
+	}	
+		
+
+	
+	.navbar, .navbar-mobile {
+		background-color:# ;
+	}
+	.topbar-outer{ background-color:#F9FAFA ;}
+	
+	body {
+		background-color:#FFFFFF ;
+				background-image: url("http://wes-inc.com/wp-content/themes/WCM010005/images/megnor/colorpicker/pattern/body-bg.png");
+		background-position:top left ;
+		background-repeat:repeat;
+		background-attachment:scroll;
+					
+		color:#888888;
+	} 
+	.topbar-main, .topbar-main-other, .topbar-outer .fa { color:#888888; }
+	.topbar-main a, .topbar-main-other a, .topbar-social .content a .fa{ color:#888888; }
+	.topbar-main a:hover, .topbar-main-other a:hover, .topbar-social .content a:hover .fa{ color:#666666; }
+	.header .site-header-main {
+		background-color:#;
+			}
+	.site-footer {
+		background-color:#FFFFFF;
+	}  
+		
+	/* Start Theme Common Color */
+	
+	.widget button,
+	.widget input[type="button"],
+	.widget input[type="reset"],
+	.widget input[type="submit"], 
+	a.button,
+	button,
+	.contributor-posts-link,
+	input[type="button"],
+	input[type="reset"],
+	input[type="submit"],
+	.button_content_inner a,
+	.woocommerce #content input.button, 
+	.woocommerce #respond input#submit, 
+	.woocommerce a.button, 
+	.woocommerce button.button, 
+	.woocommerce input.button, 
+	.woocommerce-page #content input.button, 
+	.woocommerce-page #respond input#submit, 
+	.woocommerce-page a.button, 
+	.woocommerce-page button.button, 
+	.woocommerce-page input.button,	
+	#searchsubmit,
+	.options li a {
+		background-color: #4B80B2;
+	}
+	
+	.widget input[type="button"]:hover,
+	.widget input[type="button"]:focus,
+	.widget input[type="reset"]:hover,
+	.widget input[type="reset"]:focus,
+	.widget input[type="submit"]:hover,
+	.widget input[type="submit"]:focus,
+	a.button:hover,
+	a.button:focus,
+	button:hover,
+	button:focus,
+	.contributor-posts-link:hover,
+	input[type="button"]:hover,
+	input[type="button"]:focus,
+	input[type="reset"]:hover,
+	input[type="reset"]:focus,
+	input[type="submit"]:hover,
+	input[type="submit"]:focus,
+	.calloutarea_button a.button:hover,
+	.calloutarea_button a.button:focus,
+	.button_content_inner a:hover,
+	.button_content_inner a:focus,
+	.woocommerce #content input.button:hover, 
+	.woocommerce #respond input#submit:hover, 
+	.woocommerce a.button:hover, 
+	.woocommerce button.button:hover, 
+	.woocommerce input.button:hover, 
+	.woocommerce-page #content input.button:hover, 
+	.woocommerce-page #respond input#submit:hover, 
+	.woocommerce-page a.button:hover, 
+	.woocommerce-page button.button:hover, 
+	.woocommerce-page input.button:hover,
+	.woocommerce #content input.button.disabled,
+	.woocommerce #content input.button:disabled,
+	.woocommerce #respond input#submit.disabled,
+	.woocommerce #respond input#submit:disabled,
+	.woocommerce a.button.disabled,
+	.woocommerce a.button:disabled,
+	.woocommerce button.button.disabled,
+	.woocommerce button.button:disabled,
+	.woocommerce input.button.disabled,
+	.woocommerce input.button:disabled,
+	.woocommerce-page #content input.button.disabled,
+	.woocommerce-page #content input.button:disabled,
+	.woocommerce-page #respond input#submit.disabled,
+	.woocommerce-page #respond input#submit:disabled,
+	.woocommerce-page a.button.disabled,
+	.woocommerce-page a.button:disabled,
+	.woocommerce-page button.button.disabled,
+	.woocommerce-page button.button:disabled,
+	.woocommerce-page input.button.disabled,
+	.woocommerce-page input.button:disabled,
+	#searchsubmit:hover,
+	.options li a.selected,
+	.options li a:hover{
+		background-color: #366897;
+	}	
+	/* End Theme Common Color*/
+		body {	
+		font-family: 'Open Sans', Arial, Helvetica, sans-serif;	
+	}	
+			
+</style>
+                <style type="text/css" media="all"
+                       id="siteorigin-panels-layouts-head">/* Layout 2704 */ #pgc-2704-0-0 , #pgc-2704-0-1 { width:50%;width:calc(50% - ( 0.5 * 30px ) ) } #pl-2704 #panel-2704-0-0-0 , #pl-2704 #panel-2704-0-1-0 , #pl-2704 #panel-2704-1-0-0 {  } #pg-2704-0 , #pl-2704 .so-panel { margin-bottom:30px } #pgc-2704-1-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-2704 .so-panel:last-child { margin-bottom:0px } #pg-2704-0.panel-no-style, #pg-2704-0.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } @media (max-width:780px){ #pg-2704-0.panel-no-style, #pg-2704-0.panel-has-style > .panel-row-style , #pg-2704-1.panel-no-style, #pg-2704-1.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-2704-0 > .panel-grid-cell , #pg-2704-0 > .panel-row-style > .panel-grid-cell , #pg-2704-1 > .panel-grid-cell , #pg-2704-1 > .panel-row-style > .panel-grid-cell { width:100%;margin-right:0 } #pgc-2704-0-0 { margin-bottom:30px } #pl-2704 .panel-grid-cell { padding:0 } #pl-2704 .panel-grid .panel-grid-cell-empty { display:none } #pl-2704 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style></head>
+<body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-2704 siteorigin-panels siteorigin-panels-before-js siteorigin-panels-home masthead-fixed grid shop-left-sidebar">
+<div id="page" class="hfeed site">
+<!-- Header -->
+<header id="masthead" class="site-header">
+
+  <div class="topbar-outer">
+    <div class="topbar-main">
+			<div class="header-menu-links">
+												<ul id="menu-top-menu" class="header-menu"><li id="menu-item-4133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4133"><a href="http://wes-inc.com/page-b/"><a href="tel:336.996.2742">336.996.2742</a></a></li>
+<li id="menu-item-4427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4427"><a href="https://www.linkedin.com/company/wallace-electronic-sales/">LinkedIn</a></li>
+</ul>								</div>
+			<div class="header_right">
+			 
+			 
+										
+								
+			</div>
+		
+	</div>
+	</div>
+  
+
+<div class="site-header-main">
+
+  <div class="header-main-inner">
+   
+	 	  <div class="header-logo">
+			  			  <a href="http://wes-inc.com/" title="Wallace Electronic Sales" rel="home">
+			  <img alt="Wallace Electronic Sales" src="/wp-content/uploads/2019/06/LogoCropped.jpg" />			  </a>
+			  			  		
+        </div>
+        
+	
+<div class="site-top">
+                  <!-- Search -->
+          <div class="header-menu">
+           <nav id="primary-navigation" class="site-navigation primary-navigation">
+				<h3 class="menu-toggle">Menu</h3>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+				<div class="mega-menu">
+				  <div class="menu-wes-electronics-container"><ul id="menu-wes-electronics" class="mega"><li id="menu-item-4221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4221"><a href="http://wes-inc.com/services-2/">ABOUT US</a>
+<ul class="sub-menu">
+	<li id="menu-item-4223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4223"><a href="http://wes-inc.com/services-2/history-of-wes/">History</a></li>
+	<li id="menu-item-4222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4222"><a href="http://wes-inc.com/services-2/mission/">Mission</a></li>
+</ul>
+</li>
+<li id="menu-item-4220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4220"><a href="http://wes-inc.com/markets/">MARKETS</a></li>
+<li id="menu-item-4219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4219"><a href="http://wes-inc.com/geography/">GEOGRAPHY</a></li>
+<li id="menu-item-4423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4423"><a href="http://wes-inc.com/products/manufacturers/">MANUFACTURERS</a>
+<ul class="sub-menu">
+	<li id="menu-item-4218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4218"><a href="http://wes-inc.com/products/oem-products/">OEM Line Card</a></li>
+</ul>
+</li>
+<li id="menu-item-4216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4216"><a href="http://wes-inc.com/associations/">ASSOCIATIONS</a>
+<ul class="sub-menu">
+	<li id="menu-item-4426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4426"><a href="http://wes-inc.com/associations/awards/">Awards</a></li>
+</ul>
+</li>
+<li id="menu-item-4265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4265"><a href="/blog-2/">LATEST NEWS</a></li>
+<li id="menu-item-4214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4214"><a href="http://wes-inc.com/contact/wes-people/">PEOPLE</a>
+<ul class="sub-menu">
+	<li id="menu-item-4213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4213"><a href="http://wes-inc.com/contact/">Contact Us</a></li>
+</ul>
+</li>
+</ul></div>				</div>
+			</nav> 			
+          </div>
+                </div>
+  <!--</div>-->
+  </div>
+  <!-- End header-main -->
+</div>
+<!-- End site-main -->
+</header>
+<!-- #masthead -->
+<!-- Center -->
+<div id="main" class="site-main extra">
+<div class="main_inner">
+<!-- Start main slider -->
+	
+<script>
+jQuery(window).load(function(){
+	"use strict";
+  jQuery('.flexslider').flexslider({
+	animation: "slide",
+	slideshow: true,
+	slideshowSpeed: 7000,
+	animationDuration: 600,
+	directionNav: true,
+	controlNav: true,
+	keyboardNav: true,
+	mousewheel: false
+  });
+});
+</script>
+
+<div class="home-slider slider-loading">
+		<div class="flexslider">
+		<ul class="slides">	
+				
+			<li>	
+								<div class="main_background_image">
+														<a href="/services-2/" title="/services-2/ " target="_blank"><img src="/wp-content/uploads/2019/06/Slider2a.jpg" alt=""></a>
+														<div class="slider_area_inner">
+						<div class="slider_area_inner_container">
+															<h2 class="slider-title">Wallace Electronic Sales</h2>
+																					<div class="slider-button-container">
+															<a href="/services-2/" title="About Us -&gt;" class="button">About Us -&gt;</a>
+								
+							</div>	
+						</div>			
+					</div>
+				</div>
+			</li>
+				
+			<li>	
+								<div class="main_background_image">
+														<a href="/products/oem-products/" title="/products/oem-products/ " target="_blank"><img src="/wp-content/uploads/2019/06/Slider1a.jpg" alt=""></a>
+														<div class="slider_area_inner">
+						<div class="slider_area_inner_container">
+															<h2 class="slider-title">Wallace Electronic Sales OEM Line Card </h2>
+																					<div class="slider-button-container">
+															<a href="/products/oem-products/" title="Line Card -&gt;" class="button">Line Card -&gt;</a>
+								
+							</div>	
+						</div>			
+					</div>
+				</div>
+			</li>
+				
+			<li>	
+								<div class="main_background_image">
+														<a href="/wp-content/uploads/2019/06/Wallace-Electronic-Sales-Resume-2019.pdf" title="/wp-content/uploads/2019/06/Wallace-Electronic-Sales-Resume-2019.pdf " target="_blank"><img src="/wp-content/uploads/2019/06/Slider3a.jpg" alt=""></a>
+														<div class="slider_area_inner">
+						<div class="slider_area_inner_container">
+															<h2 class="slider-title">Wallace Electronic Sales Resume</h2>
+																					<div class="slider-button-container">
+															<a href="/wp-content/uploads/2019/06/Wallace-Electronic-Sales-Resume-2019.pdf" title="Resume -&gt;" class="button">Resume -&gt;</a>
+								
+							</div>	
+						</div>			
+					</div>
+				</div>
+			</li>
+				
+			<li>	
+								<div class="main_background_image">
+														<a href="/geography/" title="/geography/ " target="_blank"><img src="/wp-content/uploads/2019/06/USA-Map-Stretched-B.jpg" alt=""></a>
+														<div class="slider_area_inner">
+						<div class="slider_area_inner_container">
+																					<div class="slider-button-container">
+								
+							</div>	
+						</div>			
+					</div>
+				</div>
+			</li>
+					</ul>	
+	</div>
+</div>
+<!-- End main slider -->
+
+		<div class="main-content-inner-full">
+	<div id="main-content" class="main-content home-page full-width wide-page">
+    <div id="primary" class="content-area">
+    <div id="content" class="site-content" role="main">
+      <article id="post-2704" class="post-2704 page type-page status-publish hentry">
+    
+  <div class="entry-content">
+    <div id="pl-2704"  class="panel-layout" ><div id="pg-2704-0"  class="panel-grid panel-no-style" ><div id="pgc-2704-0-0"  class="panel-grid-cell" ><div id="panel-2704-0-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="0" ><div class="textwidget custom-html-widget"><table width="100%" height="155">
+	<tr>
+		<td width="100%" background="/wp-content/uploads/2019/06/Tab-Left-1.png">
+			<br><a href="/products/manufacturers/"><h1>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; MANUFACTURERS</h1></a>
+	</td>
+	</tr>
+</table></div></div></div><div id="pgc-2704-0-1"  class="panel-grid-cell" ><div id="panel-2704-0-1-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="1" ><div class="textwidget custom-html-widget"><table width="100%" height="155">
+	<tr>
+		<td width="100%" background="/wp-content/uploads/2020/01/Product-of-the-Month.jpg">
+			<br><a href="/blog-2/"><h1>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  FEATURE</h1><br>
+			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;<strong>of the MONTH</strong></a>
+	</td>
+	</tr>
+</table></div></div></div></div><div id="pg-2704-1"  class="panel-grid panel-no-style" ><div id="pgc-2704-1-0"  class="panel-grid-cell" ><div id="panel-2704-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" ><h3 class="widget-title">Services / News</h3><div class="textwidget"><p><div class="main-container  blog" style="padding:0;margin:0;overflow: hidden;);"><div class="inner-container"><div class="one_half"><div class="one_half_inner content_inner left " style="margin:0;width:90%;"><div class="shortcode-title "><h1 class="simple-type small-title">WES SERVICES</h1></div><div id="container" class="testimonials-container style-2"><div id="1_testimonial_carousel" class="testimonial-carousel"><div class="item last-item"><div class="product-block"><div class="single-testimonial" ><div class="testimonial-content-outer"><div class="testmonial-image"><a href=#><img src="http://wes-inc.com/wp-content/uploads/2019/06/TerritoryB-1-114x113_left.jpg" title="Territory Knowledge" alt="Territory Knowledge"></a><div class="testmonial-text"><div class="testimonial-title">Territory Knowledge</div><div class="testimonial-position" >       </div></div></div><div class="testimonial-content"><div class="testimonial-top" style="background-color:#;"><blockquote><q>With over 75 years of experience in the electronics industry in the southeast, Wallace has developed strong customer relationships and maintained stability throughout varying market conditions over the years.</q></blockquote></div></div></div></div></div></div><div class="item last-item"><div class="product-block"><div class="single-testimonial" ><div class="testimonial-content-outer"><div class="testmonial-image"><a href=#><img src="http://wes-inc.com/wp-content/uploads/2019/06/ProductsA-114x113_left.jpg" title="Products Represented" alt="Products Represented"></a><div class="testmonial-text"><div class="testimonial-title">Products Represented</div><div class="testimonial-position" >  </div></div></div><div class="testimonial-content"><div class="testimonial-top" style="background-color:#;"><blockquote><q>Our linecard consists of electronic / electromechanical components, systems and assemblies.</q></blockquote></div></div></div></div></div></div><div class="item last-item"><div class="product-block"><div class="single-testimonial" ><div class="testimonial-content-outer"><div class="testmonial-image"><a href=#><img src="http://wes-inc.com/wp-content/uploads/2019/06/DemandA-114x113_left.jpg" title="Demand Creation" alt="Demand Creation"></a><div class="testmonial-text"><div class="testimonial-title">Demand Creation</div><div class="testimonial-position" >  </div></div></div><div class="testimonial-content"><div class="testimonial-top" style="background-color:#;"><blockquote><q>Wallace generates demand across multiple markets and industries, through partner relationships with both principals and distributors.</q></blockquote></div></div></div></div></div></div><div class="item last-item"><div class="product-block"><div class="single-testimonial" ><div class="testimonial-content-outer"><div class="testmonial-image"><a href=#><img src="http://wes-inc.com/wp-content/uploads/2019/06/CustomerA-114x113_left.jpg" title="Customer Service" alt="Customer Service"></a><div class="testmonial-text"><div class="testimonial-title">Customer Service</div><div class="testimonial-position" >     </div></div></div><div class="testimonial-content"><div class="testimonial-top" style="background-color:#;"><blockquote><q>Wallace provides superior customer service, both at the field sales level as well as inside sales.  We strive to engage our entire team in making the customer&#8217;s experience positive with Wallace.</q></blockquote></div></div></div></div></div></div><div class="item last-item"><div class="product-block"><div class="single-testimonial" ><div class="testimonial-content-outer"><div class="testmonial-image"><a href=#><img src="http://wes-inc.com/wp-content/uploads/2019/06/TechnologyA-114x113_left.jpg" title="Technology" alt="Technology"></a><div class="testmonial-text"><div class="testimonial-title">Technology</div><div class="testimonial-position" >  </div></div></div><div class="testimonial-content"><div class="testimonial-top" style="background-color:#;"><blockquote><q>Wallace makes use of state of the art platforms to facilitate communication, provide sales tools and manage opportunities.</q></blockquote></div></div></div></div></div></div></div></div></div></div><div class="one_half"><div class="one_half_inner content_inner left " style="margin:0;width:100%;"><div class="shortcode-title "><h1 class="small-type small-title" style="margin:0; color:#666666;">WES Latest News</h1></div><div id="blog-posts-products" class="blog-posts-content posts-content"><ul id="1_blog_carousel" class="slider blog-carousel"><li class="item container  last"><div class="container-inner"><div class="blog-inner"><div class="post-image"><img src="http://wes-inc.com/wp-content/uploads/2019/07/stek-290x156_t.jpg" title="S-Tek Inc. Display Technology" alt="S-Tek Inc. Display Technology"><div class="block_hover"><div class="links"><a href="http://wes-inc.com/wp-content/uploads/2019/07/stek.jpg" class="icon mustang-gallery"><i class="fa fa-search"></i></a></div></div><div class="post-image-hover"></div><a href="http://wes-inc.com/wp-content/uploads/2019/07/stek.jpg" data-lightbox="example-set"></a></div><div class="blog-meta-inner"><div class="post-title"><a href="http://wes-inc.com/s-tek-inc-display-technology/" title="S-Tek Inc. Display Technology">S-Tek Inc. Display Technology</a></div><div class="post-date">By&nbsp;Emmett Ellis&nbsp;on&nbsp;Jul 2,2019</div><div class="post-description">Proud to Rep such a great company hashtag#stekinc &#8220;Whether you’re designing a complicated multi-interface or something a little more simple,&nbsp;...</div></div></div></div></li><li class="item container  last"><div class="container-inner"><div class="blog-inner"><div class="post-image"><img src="http://wes-inc.com/wp-content/uploads/2019/07/Overmolding-290x156_t.jpg" title="WHAT IS OVERMOLDING, AND WHY IS IT IMPORTANT?" alt="WHAT IS OVERMOLDING, AND WHY IS IT IMPORTANT?"><div class="block_hover"><div class="links"><a href="http://wes-inc.com/wp-content/uploads/2019/07/Overmolding.jpg" class="icon mustang-gallery"><i class="fa fa-search"></i></a></div></div><div class="post-image-hover"></div><a href="http://wes-inc.com/wp-content/uploads/2019/07/Overmolding.jpg" data-lightbox="example-set"></a></div><div class="blog-meta-inner"><div class="post-title"><a href="http://wes-inc.com/what-is-overmolding-and-why-is-it-important/" title="WHAT IS OVERMOLDING, AND WHY IS IT IMPORTANT?">WHAT IS OVERMOLDING, AND WHY IS IT IMPORTANT?</a></div><div class="post-date">By&nbsp;Emmett Ellis&nbsp;on&nbsp;Jul 2,2019</div><div class="post-description">Simply put, overmolding is an injection molding process in which two or more materials are used to combine the wire&nbsp;...</div></div></div></div></li><li class="item container  last"><div class="container-inner"><div class="blog-inner"><div class="post-image"><img src="http://wes-inc.com/wp-content/uploads/2019/06/Schaffner_Campaign2_Factory-Automation_cover-290x156_t.png" title="Minimizing EMI in Complex Electronic Systems" alt="Minimizing EMI in Complex Electronic Systems"><div class="block_hover"><div class="links"><a href="http://wes-inc.com/wp-content/uploads/2019/06/Schaffner_Campaign2_Factory-Automation_cover.png" class="icon mustang-gallery"><i class="fa fa-search"></i></a></div></div><div class="post-image-hover"></div><a href="http://wes-inc.com/wp-content/uploads/2019/06/Schaffner_Campaign2_Factory-Automation_cover.png" data-lightbox="example-set"></a></div><div class="blog-meta-inner"><div class="post-title"><a href="http://wes-inc.com/wes-latest-news-2/" title="Minimizing EMI in Complex Electronic Systems">Minimizing EMI in Complex Electronic Systems</a></div><div class="post-date">By&nbsp;Emmett Ellis&nbsp;on&nbsp;Jun 4,2019</div><div class="post-description">The increasing use of complex electronic systems in factories has optimized operations and output&#8230;but these systems are much more susceptible&nbsp;...</div></div></div></div></li><li class="item container  last"><div class="container-inner"><div class="blog-inner"><div class="post-image"><img src="http://wes-inc.com/wp-content/uploads/2019/06/Blue_Solo_38999_-_071814-001-290x156_t.jpg" title="Customizable EMI Filter" alt="Customizable EMI Filter"><div class="block_hover"><div class="links"><a href="http://wes-inc.com/wp-content/uploads/2019/06/Blue_Solo_38999_-_071814-001.jpg" class="icon mustang-gallery"><i class="fa fa-search"></i></a></div></div><div class="post-image-hover"></div><a href="http://wes-inc.com/wp-content/uploads/2019/06/Blue_Solo_38999_-_071814-001.jpg" data-lightbox="example-set"></a></div><div class="blog-meta-inner"><div class="post-title"><a href="http://wes-inc.com/wes-latest-news-3/" title="Customizable EMI Filter">Customizable EMI Filter</a></div><div class="post-date">By&nbsp;Emmett Ellis&nbsp;on&nbsp;Jun 4,2019</div><div class="post-description">Check out this video to watch how this customizable EMI filter insert can mitigate several common EMI and ESD issues&nbsp;...</div></div></div></div></li></ul></div></div></div></div></div></p>
+</div></div></div></div></div>    <div class="inner-container">
+	    </div>
+    <!-- .inner-container -->
+  </div>
+  <!-- .entry-content -->
+</article>
+<!-- #post-## -->
+          </div>
+    <!-- #content -->
+  </div>
+  <!-- #primary -->
+  
+<div id="secondary">
+      <div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+    <aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="search-form" action="http://wes-inc.com/" >
+    <div><label class="screen-reader-text" for="s">Search for:</label>
+    <input class="search-field" type="text" value="" name="s" id="s" />
+    <input class="search-submit" type="submit" id="searchsubmit" value="Go" />
+    </div>
+    </form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h1 class="widget-title">Recent Posts</h1>		<ul>
+											<li>
+					<a href="http://wes-inc.com/s-tek-inc-display-technology/">S-Tek Inc. Display Technology</a>
+									</li>
+											<li>
+					<a href="http://wes-inc.com/what-is-overmolding-and-why-is-it-important/">WHAT IS OVERMOLDING, AND WHY IS IT IMPORTANT?</a>
+									</li>
+											<li>
+					<a href="http://wes-inc.com/wes-latest-news-2/">Minimizing EMI in Complex Electronic Systems</a>
+									</li>
+											<li>
+					<a href="http://wes-inc.com/wes-latest-news-3/">Customizable EMI Filter</a>
+									</li>
+					</ul>
+		</aside><aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">Archives</h1>		<ul>
+				<li><a href='http://wes-inc.com/2019/07/'>July 2019</a></li>
+	<li><a href='http://wes-inc.com/2019/06/'>June 2019</a></li>
+		</ul>
+			</aside>  </div>
+  <!-- #primary-sidebar -->
+  </div>
+<!-- #secondary -->
+</div>
+<!-- #main-content -->
+</div>
+<!-- .main-content-inner -->
+</div>
+<!-- .main_inner -->
+</div>
+<!-- #main -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+  <div class="footer_inner">
+        <div id="footer-widget-area">
+    <div id="first" class="first-widget footer-widget">
+    <aside id="footercontactuswidget-1" class="widget widgets-footercontact"><h3 class="widget-title">Get in Touch</h3> 
+		<ul>
+			<li>
+		<div class="contact_wrapper">
+			<div class="address">
+				<i class="fa fa-map-marker"></i>	
+					<div class="address_content">
+									
+							<div class="contact_title">
+								Wallace Electronic Sales							</div>
+																			<div class="contact_address">935 East Mountain Street, Suite K
+Kernersville NC 27284</div>
+							
+					</div>
+			</div>
+			<div class="phone">
+				<i class="fa fa-mobile"></i>
+									<div class="contact_phone">336.996.2742</div>
+					
+			</div>
+		<div class="email">
+			<i class="fa fa-envelope "></i>
+							<div class="contact_email"><a href="					mailto:info@wes-inc.com" target="_blank">
+					info@wes-inc.com</a>
+				</div>
+					</div>
+		</div>
+			</li>
+		</ul>
+		</aside>  </div>
+  <!-- #first .widget-area -->
+      <div id="second" class="second-widget footer-widget">
+    <aside id="staticlinkswidget-1" class="widget widgets-static-links"><h3 class="widget-title">Information</h3> 
+		<ul>
+			<li>
+		<div class="static-links-list">
+						<span><a href="/services-2/">
+				Services</a></span>
+				
+						<span><a href="/markets/">
+				Markets</a></span>
+				
+						<span><a href="/geography/">
+				Geography</a></span>
+				
+						<span><a href="/products/">
+				Products</a></span>
+									<span><a href="/associations/">
+				Associations</a></span>
+					</div>
+			</li>
+		</ul>
+		</aside>  </div>
+  <!-- #second .widget-area -->
+      <div id="third" class="third-widget footer-widget">
+    <aside id="search-3" class="widget widget_search"><h3 class="widget-title">Search WES</h3><form role="search" method="get" id="searchform" class="search-form" action="http://wes-inc.com/" >
+    <div><label class="screen-reader-text" for="s">Search for:</label>
+    <input class="search-field" type="text" value="" name="s" id="s" />
+    <input class="search-submit" type="submit" id="searchsubmit" value="Go" />
+    </div>
+    </form></aside>  </div>
+  <!-- #third .widget-area -->
+      <div id="fourth" class="fourth-widget footer-widget">
+    <aside id="text-2" class="widget widget_text"><h3 class="widget-title">Follow Wallace</h3>			<div class="textwidget"></div>
+		</aside><aside id="followmewidget-1" class="widget widgets-follow-us"><h3 class="widget-title"></h3><ul>
+	<li>
+<div id="follow_us" class="follow-us">	
+			
+			<a href="https://www.linkedin.com/company/wallace-electronic-sales/" title="Linkedin" class="linkedin icon"><i class="fa fa-linkedin"></i></a>
+				
+			</div>
+	</li>
+</ul>
+</aside>  </div>
+  <!-- #fourth .widget-area -->
+       
+</div>  </div>
+  <!--. Footer inner -->	
+      <!-- .site-info -->
+    <!-- .footer-bottom -->
+</footer>
+<div class="footer-bottom">
+  	<div class="footer-bottom-inner">
+		      <div class="site-info">   &copy; 2020 <a href="https://www.richswebdesign.com/" title="Wallace Electronic Sales" target="_blank" rel="home">
+        
+		  Designed by RWD</a>
+        		</div>
+		
+      </div>
+	  </div>
+<!-- #colophon -->
+</div>
+<!-- #page -->
+<div class="backtotop"><a style="display: none;" id="to_top" href="#"></a></div>
+<link rel='stylesheet' id='responsive-css'  href='http://wes-inc.com/wp-content/themes/WCM010005-child/responsive.css?ver=5.2.5' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/wes-inc.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6Ldf-c0UAAAAAFkmKtLbSpH6juH1HZ_pJy-F-wgm&#038;ver=3.0'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/functions.js?ver=2014-02-01'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/navigation.js?ver=1.0'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/jquery.jqtransform.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/jquery.jqtransform.script.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/jquery.custom.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/jquery.isotope.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/megnor.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/carousel.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/jquery.inview.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/jquery.easypiechart.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/custom.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/owl.carousel.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/jquery.formalize.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/respond.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/jquery.validate.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/shadowbox.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/jquery.flexslider.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/waypoints.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/jquery.megamenu.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/easyResponsiveTabs.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/jquery.treeview.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/jquery.bxslider.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/megnor/lightbox-2.6.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/themes/WCM010005/js/html5.js?ver=5.2.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var newsletter = {"messages":{"email_error":"Email address is not correct","name_error":"Name is required","surname_error":"Last name is required","profile_error":"A mandatory field is not filled in","privacy_error":"You must accept the privacy policy"},"profile_max":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://wes-inc.com/wp-content/plugins/newsletter/subscription/validate.js?ver=6.5.2'></script>
+<script type='text/javascript' src='http://wes-inc.com/wp-includes/js/wp-embed.min.js?ver=5.2.5'></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6Ldf-c0UAAAAAFkmKtLbSpH6juH1HZ_pJy-F-wgm',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+<script type="text/javascript">document.body.className = document.body.className.replace("siteorigin-panels-before-js","");</script></body></html>

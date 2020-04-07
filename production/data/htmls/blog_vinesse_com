@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<!--[if !IE]>      <html class="no-js non-ie" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]>	   <html class="no-js ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]>	   <html class="no-js ie8" lang="en-US"> <![endif]-->
+<!--[if IE 9 ]>	   <html class="no-js ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<title>VinesseToday -</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://blog.vinesse.com/xmlrpc.php" />
+
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Lato:r:latin,latin-ext","Lato:r,i,b,bi:latin,latin-ext"]}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://blog.vinesse.com/wp-content/mu-plugins/wpcomsh/vendor/automattic/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active .site-name{font-family:"Lato",sans-serif;font-style:normal;font-weight:400}.wf-active body{font-family:"Lato",sans-serif}.wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6, .wf-active .widget-title, .wf-active .widget-title-home h3{font-family:"Lato",sans-serif;font-style:normal;font-weight:400}.wf-active blockquote p{font-family:"Lato",sans-serif;font-style:normal;font-weight:400}.wf-active #featured h1.featured-title{font-family:"Lato",sans-serif;font-style:normal;font-weight:400}.wf-active .top-widget .widget-title{font-family:"Lato",sans-serif;font-style:normal;font-weight:400}@media screen and (max-width: 980px){.wf-active .featured-title{font-family:"Lato",sans-serif;font-style:normal;font-weight:400}}@media screen and (max-width: 980px){.wf-active .featured-title{font-family:"Lato",sans-serif;font-style:normal;font-weight:400}}@media screen and (max-width: 980px){.wf-active .featured-title{font-family:"Lato",sans-serif;font-style:normal;font-weight:400}}</style>
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><meta property="og:title" content="VinesseToday"/>
+<meta property="og:description" content=""/>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="VinesseToday"/>
+<meta name="twitter:description" content=""/>
+
+<!-- This site is optimized with the Yoast SEO plugin v13.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://blog.vinesse.com/" />
+<link rel="next" href="https://blog.vinesse.com/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://blog.vinesse.com/" />
+<meta property="og:site_name" content="VinesseToday" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@VinesseWines" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://blog.vinesse.com/#organization","name":"Vinesse","url":"https://blog.vinesse.com/","sameAs":["https://www.facebook.com/VinesseWines/","https://www.linkedin.com/company/vinesse/","https://twitter.com/VinesseWines"],"logo":{"@type":"ImageObject","@id":"https://blog.vinesse.com/#logo","inLanguage":"en-US","url":"https://i0.wp.com/blog.vinesse.com/wp-content/uploads/2018/10/b5a5902a-3716-4dd3-ba9d-b856fcedb917.png?fit=300%2C300&ssl=1","width":"300","height":"300","caption":"Vinesse"},"image":{"@id":"https://blog.vinesse.com/#logo"}},{"@type":"WebSite","@id":"https://blog.vinesse.com/#website","url":"https://blog.vinesse.com/","name":"VinesseToday","inLanguage":"en-US","publisher":{"@id":"https://blog.vinesse.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://blog.vinesse.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"CollectionPage","@id":"https://blog.vinesse.com/#webpage","url":"https://blog.vinesse.com/","name":"VinesseToday -","isPartOf":{"@id":"https://blog.vinesse.com/#website"},"inLanguage":"en-US","about":{"@id":"https://blog.vinesse.com/#organization"}}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="VinesseToday &raquo; Feed" href="https://blog.vinesse.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="VinesseToday &raquo; Comments Feed" href="https://blog.vinesse.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blog.vinesse.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://blog.vinesse.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='wpcom-text-widget-styles-css'  href='https://blog.vinesse.com/wp-content/mu-plugins/wpcomsh/vendor/automattic/text-media-widget-styles/css/widget-text.css?ver=20170607' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://blog.vinesse.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://blog.vinesse.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-style-css'  href='https://blog.vinesse.com/wp-content/themes/responsive/style.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://blog.vinesse.com/wp-content/plugins/jetpack/css/jetpack.css?ver=8.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://blog.vinesse.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uaWnSettings = {"prompt":{"enabled":false,"prompt_views":1,"prompt_again_views":1}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/urban-airship-web-push-notifications/assets/js/notification.js?ver=1.3.4'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/jetpack/_inc/build/tiled-gallery/tiled-gallery/tiled-gallery.min.js?ver=5.4'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/themes/responsive/js/responsive-modernizr.js?ver=2.6.1'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/jetpack/_inc/build/postmessage.min.js?ver=8.3'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/jetpack/_inc/build/jquery.jetpack-resize.min.js?ver=8.3'></script>
+<link rel='https://api.w.org/' href='https://blog.vinesse.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.vinesse.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog.vinesse.com/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://wp.me/3kb8r' />
+<style type="text/css" id="tve_global_variables">:root{}</style>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var dataLayer_content = {"pagePostType":"frontpage"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WGKLMK3');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>	<style type="text/css">
+			.site-title {
+			color: #333;
+		}
+		.site-description {
+			color: #afafaf;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<!-- There is no amphtml version available for this URL. --><link rel="icon" href="https://s0.wp.com/i/webclip.png" sizes="32x32" />
+<link rel="icon" href="https://s0.wp.com/i/webclip.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://s0.wp.com/i/webclip.png" />
+<meta name="msapplication-TileImage" content="https://s0.wp.com/i/webclip.png" />
+			<link rel="stylesheet" type="text/css" id="wp-custom-css" href="https://blog.vinesse.com/?custom-css=ba0441a07e" />
+		</head>
+
+<body class="home blog custom-background">
+
+<div id="container" class="hfeed">
+
+	<div id="header">
+
+		<ul id="menu-main-menu" class="top-menu"><li id="menu-item-175958902" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-175958902"><a href="/" aria-current="page">Home</a></li>
+<li id="menu-item-175958959" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-175958959"><a href="http://www.vinesse.com">Shop Vinesse.com</a></li>
+</ul>
+	
+		<div id="logo">
+							<span class="site-name site-title"><a href="https://blog.vinesse.com/" title="VinesseToday" rel="home">VinesseToday</a></span>
+			<span class="site-description"></span>
+		</div>
+
+	
+	
+			<nav role="navigation" class="site-navigation main-navigation">
+			<h1 class="assistive-text">Menu</h1>
+			<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+			<ul class="menu">
+<li class="current_page_item"><a href="https://blog.vinesse.com/">Home</a></li><li class="page_item page-item-175965930"><a href="https://blog.vinesse.com/ask-the-wine-expert/">ask-the-wine-expert</a></li>
+<li class="page_item page-item-175965853"><a href="https://blog.vinesse.com/promo/">promo</a></li>
+<li class="page_item page-item-175965897"><a href="https://blog.vinesse.com/wine-quiz/">wine-quiz</a></li>
+</ul>
+		</nav><!-- .site-navigation .main-navigation -->
+	
+	
+	</div><!-- end of #header -->
+
+	<div id="wrapper" class="clearfix">
+		<div id="content-blog" class="grid col-620">
+
+
+	
+		
+			<div id="post-175966381" class="post-175966381 post type-post status-publish format-standard has-post-thumbnail hentry category-foodandwinepairingsrecipes tag-red-wine-with-fish tag-chardonnay tag-pinot-noir tag-salmon-with-chive-sauce">
+				<h1 class="post-title"><a href="https://blog.vinesse.com/2020/04/02/salmon-the-right-sauce-adds-to-wine-versatility/" rel="bookmark">Salmon: The Right Sauce Adds to Wine Versatility</a></h1>
+
+				<div class="post-meta">
+				<span class="meta-prep meta-prep-author posted">Posted on </span><a href="https://blog.vinesse.com/2020/04/02/salmon-the-right-sauce-adds-to-wine-versatility/" title="11:30 am" rel="bookmark"><span class="timestamp">April 2, 2020</span></a><span class="byline"> by </span><span class="author vcard"><a class="url fn n" href="https://blog.vinesse.com/author/amandacameron123/" title="View all posts by Robert Johnson">Robert Johnson</a></span>
+											<span class="comments-link">
+							<span class="mdash">&mdash;</span>
+							<a href="https://blog.vinesse.com/2020/04/02/salmon-the-right-sauce-adds-to-wine-versatility/#respond">Leave a comment</a>						</span>
+									</div><!-- end of .post-meta -->
+
+				<div class="post-entry">
+											<a href="https://blog.vinesse.com/2020/04/02/salmon-the-right-sauce-adds-to-wine-versatility/" title="Salmon: The Right Sauce Adds to Wine Versatility" >
+							<img width="500" height="335" src="https://blog.vinesse.com/wp-content/uploads/2020/03/david-b-townsend-fV3zTanbO80-unsplash.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/david-b-townsend-fV3zTanbO80-unsplash.jpg?w=500&amp;ssl=1 500w, https://i0.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/david-b-townsend-fV3zTanbO80-unsplash.jpg?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/david-b-townsend-fV3zTanbO80-unsplash.jpg?resize=149%2C100&amp;ssl=1 149w" sizes="(max-width: 500px) 100vw, 500px" data-attachment-id="175966383" data-permalink="https://blog.vinesse.com/2020/04/02/salmon-the-right-sauce-adds-to-wine-versatility/david-b-townsend-fv3ztanbo80-unsplash/" data-orig-file="https://i0.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/david-b-townsend-fV3zTanbO80-unsplash.jpg?fit=500%2C335&amp;ssl=1" data-orig-size="500,335" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="david-b-townsend-fV3zTanbO80-unsplash" data-image-description="" data-medium-file="https://i0.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/david-b-townsend-fV3zTanbO80-unsplash.jpg?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/david-b-townsend-fV3zTanbO80-unsplash.jpg?fit=500%2C335&amp;ssl=1" />						</a>
+					
+					<p>A delicious salmon recipe, a perfect pairing partner with red wine.  Fish and red wine?! Yes, please.</p>
+<div class="read-more"><a href="https://blog.vinesse.com/2020/04/02/salmon-the-right-sauce-adds-to-wine-versatility/">Read more &#8250;</a></div>
+<p><!-- end of .read-more --></p>
+
+									</div><!-- end of .post-entry -->
+
+				<div class="post-data">
+					Tagged with: <a href="https://blog.vinesse.com/tag/red-wine-with-fish/" rel="tag">“Red Wine With Fish</a>, <a href="https://blog.vinesse.com/tag/chardonnay/" rel="tag">Chardonnay</a>, <a href="https://blog.vinesse.com/tag/pinot-noir/" rel="tag">Pinot Noir</a>, <a href="https://blog.vinesse.com/tag/salmon-with-chive-sauce/" rel="tag">Salmon With Chive Sauce</a><br />					Posted in <a href="https://blog.vinesse.com/category/foodandwinepairings%2frecipes/" rel="category tag">Food and Wine Pairings/Recipes</a>				</div><!-- end of .post-data -->
+
+							</div><!-- end of #post-175966381 -->
+	
+		
+			<div id="post-175966378" class="post-175966378 post type-post status-publish format-standard has-post-thumbnail hentry category-foodandwinepairingsrecipes category-wineandhealth tag-chile-peppers tag-gewurztraminer tag-malbec tag-moscato tag-new-mexico-green-chile-cheeseburger-trail tag-riesling">
+				<h1 class="post-title"><a href="https://blog.vinesse.com/2020/03/31/taking-on-the-wine-and-green-chile-challenge/" rel="bookmark">Taking on the Wine and Green Chile Challenge</a></h1>
+
+				<div class="post-meta">
+				<span class="meta-prep meta-prep-author posted">Posted on </span><a href="https://blog.vinesse.com/2020/03/31/taking-on-the-wine-and-green-chile-challenge/" title="11:30 am" rel="bookmark"><span class="timestamp">March 31, 2020</span></a><span class="byline"> by </span><span class="author vcard"><a class="url fn n" href="https://blog.vinesse.com/author/amandacameron123/" title="View all posts by Robert Johnson">Robert Johnson</a></span>
+											<span class="comments-link">
+							<span class="mdash">&mdash;</span>
+							<a href="https://blog.vinesse.com/2020/03/31/taking-on-the-wine-and-green-chile-challenge/#respond">Leave a comment</a>						</span>
+									</div><!-- end of .post-meta -->
+
+				<div class="post-entry">
+											<a href="https://blog.vinesse.com/2020/03/31/taking-on-the-wine-and-green-chile-challenge/" title="Taking on the Wine and Green Chile Challenge" >
+							<img width="500" height="333" src="https://blog.vinesse.com/wp-content/uploads/2020/03/jeppe-vadgaard-PnFgNgCkBXY-unsplash.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/jeppe-vadgaard-PnFgNgCkBXY-unsplash.jpg?w=500&amp;ssl=1 500w, https://i1.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/jeppe-vadgaard-PnFgNgCkBXY-unsplash.jpg?resize=300%2C200&amp;ssl=1 300w, https://i1.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/jeppe-vadgaard-PnFgNgCkBXY-unsplash.jpg?resize=150%2C100&amp;ssl=1 150w" sizes="(max-width: 500px) 100vw, 500px" data-attachment-id="175966379" data-permalink="https://blog.vinesse.com/2020/03/31/taking-on-the-wine-and-green-chile-challenge/jeppe-vadgaard-pnfgngckbxy-unsplash/" data-orig-file="https://i1.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/jeppe-vadgaard-PnFgNgCkBXY-unsplash.jpg?fit=500%2C333&amp;ssl=1" data-orig-size="500,333" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="jeppe-vadgaard-PnFgNgCkBXY-unsplash" data-image-description="" data-medium-file="https://i1.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/jeppe-vadgaard-PnFgNgCkBXY-unsplash.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i1.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/jeppe-vadgaard-PnFgNgCkBXY-unsplash.jpg?fit=500%2C333&amp;ssl=1" />						</a>
+					
+					<p>The Green Chile Challenge and wine pairings.</p>
+<div class="read-more"><a href="https://blog.vinesse.com/2020/03/31/taking-on-the-wine-and-green-chile-challenge/">Read more &#8250;</a></div>
+<p><!-- end of .read-more --></p>
+
+									</div><!-- end of .post-entry -->
+
+				<div class="post-data">
+					Tagged with: <a href="https://blog.vinesse.com/tag/chile-peppers/" rel="tag">chile peppers</a>, <a href="https://blog.vinesse.com/tag/gewurztraminer/" rel="tag">Gewurztraminer</a>, <a href="https://blog.vinesse.com/tag/malbec/" rel="tag">Malbec</a>, <a href="https://blog.vinesse.com/tag/moscato/" rel="tag">Moscato</a>, <a href="https://blog.vinesse.com/tag/new-mexico-green-chile-cheeseburger-trail/" rel="tag">New Mexico Green Chile Cheeseburger Trail</a>, <a href="https://blog.vinesse.com/tag/riesling/" rel="tag">Riesling</a><br />					Posted in <a href="https://blog.vinesse.com/category/foodandwinepairings%2frecipes/" rel="category tag">Food and Wine Pairings/Recipes</a>, <a href="https://blog.vinesse.com/category/wineandhealth/" rel="category tag">Wine and Health</a>				</div><!-- end of .post-data -->
+
+							</div><!-- end of #post-175966378 -->
+	
+		
+			<div id="post-175966374" class="post-175966374 post type-post status-publish format-standard has-post-thumbnail hentry category-wineintheglass tag-merlot tag-sideways">
+				<h1 class="post-title"><a href="https://blog.vinesse.com/2020/03/26/so-many-reasons-to-love-merlot-sorry-miles/" rel="bookmark">So Many Reasons to Love Merlot (Sorry, Miles)</a></h1>
+
+				<div class="post-meta">
+				<span class="meta-prep meta-prep-author posted">Posted on </span><a href="https://blog.vinesse.com/2020/03/26/so-many-reasons-to-love-merlot-sorry-miles/" title="11:00 am" rel="bookmark"><span class="timestamp">March 26, 2020</span></a><span class="byline"> by </span><span class="author vcard"><a class="url fn n" href="https://blog.vinesse.com/author/amandacameron123/" title="View all posts by Robert Johnson">Robert Johnson</a></span>
+											<span class="comments-link">
+							<span class="mdash">&mdash;</span>
+							<a href="https://blog.vinesse.com/2020/03/26/so-many-reasons-to-love-merlot-sorry-miles/#respond">Leave a comment</a>						</span>
+									</div><!-- end of .post-meta -->
+
+				<div class="post-entry">
+											<a href="https://blog.vinesse.com/2020/03/26/so-many-reasons-to-love-merlot-sorry-miles/" title="So Many Reasons to Love Merlot (Sorry, Miles)" >
+							<img width="500" height="333" src="https://blog.vinesse.com/wp-content/uploads/2020/03/Smoother-Than-Silk-Merlots.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/Smoother-Than-Silk-Merlots.jpeg?w=500&amp;ssl=1 500w, https://i1.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/Smoother-Than-Silk-Merlots.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i1.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/Smoother-Than-Silk-Merlots.jpeg?resize=150%2C100&amp;ssl=1 150w" sizes="(max-width: 500px) 100vw, 500px" data-attachment-id="175966376" data-permalink="https://blog.vinesse.com/2020/03/26/so-many-reasons-to-love-merlot-sorry-miles/smoother-than-silk-merlots/" data-orig-file="https://i1.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/Smoother-Than-Silk-Merlots.jpeg?fit=500%2C333&amp;ssl=1" data-orig-size="500,333" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Smoother-Than-Silk-Merlots" data-image-description="" data-medium-file="https://i1.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/Smoother-Than-Silk-Merlots.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i1.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/Smoother-Than-Silk-Merlots.jpeg?fit=500%2C333&amp;ssl=1" />						</a>
+					
+					<p>Why you should love Merlot; one of our favorite varietals.</p>
+<div class="read-more"><a href="https://blog.vinesse.com/2020/03/26/so-many-reasons-to-love-merlot-sorry-miles/">Read more &#8250;</a></div>
+<p><!-- end of .read-more --></p>
+
+									</div><!-- end of .post-entry -->
+
+				<div class="post-data">
+					Tagged with: <a href="https://blog.vinesse.com/tag/merlot/" rel="tag">Merlot</a>, <a href="https://blog.vinesse.com/tag/sideways/" rel="tag">Sideways</a><br />					Posted in <a href="https://blog.vinesse.com/category/wineintheglass/" rel="category tag">Wine in the Glass</a>				</div><!-- end of .post-data -->
+
+							</div><!-- end of #post-175966374 -->
+	
+		
+			<div id="post-175966353" class="post-175966353 post type-post status-publish format-standard has-post-thumbnail hentry category-foodandwinepairingsrecipes category-winebuzz tag-thegreatamericantakeout tag-applebees tag-bjs-restaurants-and-brewhouse tag-california-pizza-kitchen tag-chevys-fresh-mex tag-ihop">
+				<h1 class="post-title"><a href="https://blog.vinesse.com/2020/03/24/wines-to-serve-with-your-favorite-delivery-food/" rel="bookmark">Wines to Serve With Your Favorite Delivery Food</a></h1>
+
+				<div class="post-meta">
+				<span class="meta-prep meta-prep-author posted">Posted on </span><a href="https://blog.vinesse.com/2020/03/24/wines-to-serve-with-your-favorite-delivery-food/" title="11:00 am" rel="bookmark"><span class="timestamp">March 24, 2020</span></a><span class="byline"> by </span><span class="author vcard"><a class="url fn n" href="https://blog.vinesse.com/author/amandacameron123/" title="View all posts by Robert Johnson">Robert Johnson</a></span>
+											<span class="comments-link">
+							<span class="mdash">&mdash;</span>
+							<a href="https://blog.vinesse.com/2020/03/24/wines-to-serve-with-your-favorite-delivery-food/#respond">Leave a comment</a>						</span>
+									</div><!-- end of .post-meta -->
+
+				<div class="post-entry">
+											<a href="https://blog.vinesse.com/2020/03/24/wines-to-serve-with-your-favorite-delivery-food/" title="Wines to Serve With Your Favorite Delivery Food" >
+							<img width="500" height="333" src="https://blog.vinesse.com/wp-content/uploads/2020/03/white-led-take-out-signage-hanging-891393.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/white-led-take-out-signage-hanging-891393.jpg?w=500&amp;ssl=1 500w, https://i2.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/white-led-take-out-signage-hanging-891393.jpg?resize=300%2C200&amp;ssl=1 300w, https://i2.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/white-led-take-out-signage-hanging-891393.jpg?resize=150%2C100&amp;ssl=1 150w" sizes="(max-width: 500px) 100vw, 500px" data-attachment-id="175966355" data-permalink="https://blog.vinesse.com/2020/03/24/wines-to-serve-with-your-favorite-delivery-food/white-led-take-out-signage-hanging-891393/" data-orig-file="https://i2.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/white-led-take-out-signage-hanging-891393.jpg?fit=500%2C333&amp;ssl=1" data-orig-size="500,333" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="white-led-take-out-signage-hanging-891393" data-image-description="" data-medium-file="https://i2.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/white-led-take-out-signage-hanging-891393.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i2.wp.com/blog.vinesse.com/wp-content/uploads/2020/03/white-led-take-out-signage-hanging-891393.jpg?fit=500%2C333&amp;ssl=1" />						</a>
+					
+					<p>The Great American Takeout, and some wine pairing suggestions.</p>
+<div class="read-more"><a href="https://blog.vinesse.com/2020/03/24/wines-to-serve-with-your-favorite-delivery-food/">Read more &#8250;</a></div>
+<p><!-- end of .read-more --></p>
+
+									</div><!-- end of .post-entry -->
+
+				<div class="post-data">
+					Tagged with: <a href="https://blog.vinesse.com/tag/thegreatamericantakeout/" rel="tag">#TheGreatAmericanTakeout</a>, <a href="https://blog.vinesse.com/tag/applebees/" rel="tag">Applebee's</a>, <a href="https://blog.vinesse.com/tag/bjs-restaurants-and-brewhouse/" rel="tag">BJ's Restaurants and Brewhouse</a>, <a href="https://blog.vinesse.com/tag/california-pizza-kitchen/" rel="tag">California Pizza Kitchen</a>, <a href="https://blog.vinesse.com/tag/chevys-fresh-mex/" rel="tag">Chevys Fresh Mex</a>, <a href="https://blog.vinesse.com/tag/ihop/" rel="tag">IHOP</a><br />					Posted in <a href="https://blog.vinesse.com/category/foodandwinepairings%2frecipes/" rel="category tag">Food and Wine Pairings/Recipes</a>, <a href="https://blog.vinesse.com/category/winebuzz/" rel="category tag">Wine Buzz</a>				</div><!-- end of .post-data -->
+
+							</div><!-- end of #post-175966353 -->
+	
+				<div class="navigation">
+			<div class="previous"><a href="https://blog.vinesse.com/page/2/" >&#8249; Older posts</a></div>
+			<div class="next"></div>
+		</div><!-- end of .navigation -->
+		
+
+		</div><!-- end of #content -->
+
+
+		<div id="widgets" class="grid col-300 fit">
+		
+			<div id="search-3" class="widget-wrapper widget_search">
+	<form method="get" id="searchform" action="https://blog.vinesse.com/">
+		<input type="text" class="field" name="s" id="s" placeholder="search here &hellip;" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Go"  />
+	</form></div><div id="categories-3" class="widget-wrapper widget_categories"><div class="widget-title">Categories</div>		<ul>
+				<li class="cat-item cat-item-157540624"><a href="https://blog.vinesse.com/category/editor%27sjournal/">Editor&#039;s Journal</a>
+</li>
+	<li class="cat-item cat-item-157540602"><a href="https://blog.vinesse.com/category/foodandwinepairings%2frecipes/">Food and Wine Pairings/Recipes</a>
+</li>
+	<li class="cat-item cat-item-141673620"><a href="https://blog.vinesse.com/category/inthecellar/">In the Cellar</a>
+</li>
+	<li class="cat-item cat-item-157540619"><a href="https://blog.vinesse.com/category/ourwinetravellog/">Our Wine Travel Log</a>
+</li>
+	<li class="cat-item cat-item-157540620"><a href="https://blog.vinesse.com/category/thewinebusiness/">The Wine Business</a>
+</li>
+	<li class="cat-item cat-item-157540625"><a href="https://blog.vinesse.com/category/vinessestyle/">Vinesse Style</a>
+</li>
+	<li class="cat-item cat-item-157540610"><a href="https://blog.vinesse.com/category/wineandhealth/">Wine and Health</a>
+</li>
+	<li class="cat-item cat-item-157540633"><a href="https://blog.vinesse.com/category/wineandtheenvironment/">Wine and the Environment</a>
+</li>
+	<li class="cat-item cat-item-68098722"><a href="https://blog.vinesse.com/category/winebuzz/">Wine Buzz</a>
+</li>
+	<li class="cat-item cat-item-163190996"><a href="https://blog.vinesse.com/category/cellar_notes/">Wine Cellar Notes</a>
+</li>
+	<li class="cat-item cat-item-157540636"><a href="https://blog.vinesse.com/category/winefaq/">Wine FAQ</a>
+</li>
+	<li class="cat-item cat-item-157540618"><a href="https://blog.vinesse.com/category/wineintheglass/">Wine in the Glass</a>
+</li>
+	<li class="cat-item cat-item-157540630"><a href="https://blog.vinesse.com/category/wineregionprofiles/">Wine Region Profiles</a>
+</li>
+	<li class="cat-item cat-item-55384793"><a href="https://blog.vinesse.com/category/winetips/">Wine Tips</a>
+</li>
+	<li class="cat-item cat-item-163191000"><a href="https://blog.vinesse.com/category/he_said_she_said/">Wine Wit</a>
+</li>
+	<li class="cat-item cat-item-157540632"><a href="https://blog.vinesse.com/category/wineriesofdistinction/">Wineries of Distinction</a>
+</li>
+		</ul>
+			</div><div id="text-6" class="widget-wrapper widget_text">			<div class="textwidget"><div class="widget-title">Subscribe</div>	
+            
+            <div id="vinrss"><a href="http://feeds.feedburner.com/VinesseToday">Subscribe via RSS</a></div></div>
+		</div><div id="text-7" class="widget-wrapper widget_text">			<div class="textwidget"> <div class="center"><img src="https://i0.wp.com/www2.vinesse.com/images/blog/cyber-logo.png?w=605" style="margin:0 0 10px;" data-recalc-dims="1" /></div>
+<a href="http://www.vinesse.com/index.cfm?t=ccBenefits.cfm&amp;src=uk">Members-only Wine sampler specials</a> delivered straight to your inbox via our Cyber Circle newsletter.
+</p>
+<div id="Cybersignup"><a href="http://www.vinesse.com/newsletter/cyber-circle/">Sign Up</a></div></div>
+		</div><div id="archives-3" class="widget-wrapper widget_archive"><div class="widget-title">Archives</div>		<label class="screen-reader-text" for="archives-dropdown-3">Archives</label>
+		<select id="archives-dropdown-3" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='https://blog.vinesse.com/2020/04/'> April 2020 </option>
+	<option value='https://blog.vinesse.com/2020/03/'> March 2020 </option>
+	<option value='https://blog.vinesse.com/2020/02/'> February 2020 </option>
+	<option value='https://blog.vinesse.com/2020/01/'> January 2020 </option>
+	<option value='https://blog.vinesse.com/2019/12/'> December 2019 </option>
+	<option value='https://blog.vinesse.com/2019/11/'> November 2019 </option>
+	<option value='https://blog.vinesse.com/2019/10/'> October 2019 </option>
+	<option value='https://blog.vinesse.com/2019/09/'> September 2019 </option>
+	<option value='https://blog.vinesse.com/2019/08/'> August 2019 </option>
+	<option value='https://blog.vinesse.com/2019/07/'> July 2019 </option>
+	<option value='https://blog.vinesse.com/2019/06/'> June 2019 </option>
+	<option value='https://blog.vinesse.com/2019/05/'> May 2019 </option>
+	<option value='https://blog.vinesse.com/2019/04/'> April 2019 </option>
+	<option value='https://blog.vinesse.com/2019/03/'> March 2019 </option>
+	<option value='https://blog.vinesse.com/2019/02/'> February 2019 </option>
+	<option value='https://blog.vinesse.com/2019/01/'> January 2019 </option>
+	<option value='https://blog.vinesse.com/2018/12/'> December 2018 </option>
+	<option value='https://blog.vinesse.com/2018/11/'> November 2018 </option>
+	<option value='https://blog.vinesse.com/2018/10/'> October 2018 </option>
+	<option value='https://blog.vinesse.com/2018/09/'> September 2018 </option>
+	<option value='https://blog.vinesse.com/2018/08/'> August 2018 </option>
+	<option value='https://blog.vinesse.com/2018/07/'> July 2018 </option>
+	<option value='https://blog.vinesse.com/2018/06/'> June 2018 </option>
+	<option value='https://blog.vinesse.com/2018/05/'> May 2018 </option>
+	<option value='https://blog.vinesse.com/2018/04/'> April 2018 </option>
+	<option value='https://blog.vinesse.com/2018/03/'> March 2018 </option>
+	<option value='https://blog.vinesse.com/2018/02/'> February 2018 </option>
+	<option value='https://blog.vinesse.com/2018/01/'> January 2018 </option>
+	<option value='https://blog.vinesse.com/2017/12/'> December 2017 </option>
+	<option value='https://blog.vinesse.com/2017/11/'> November 2017 </option>
+	<option value='https://blog.vinesse.com/2017/10/'> October 2017 </option>
+	<option value='https://blog.vinesse.com/2017/09/'> September 2017 </option>
+	<option value='https://blog.vinesse.com/2017/08/'> August 2017 </option>
+	<option value='https://blog.vinesse.com/2017/07/'> July 2017 </option>
+	<option value='https://blog.vinesse.com/2017/06/'> June 2017 </option>
+	<option value='https://blog.vinesse.com/2017/05/'> May 2017 </option>
+	<option value='https://blog.vinesse.com/2017/04/'> April 2017 </option>
+	<option value='https://blog.vinesse.com/2017/03/'> March 2017 </option>
+	<option value='https://blog.vinesse.com/2017/02/'> February 2017 </option>
+	<option value='https://blog.vinesse.com/2017/01/'> January 2017 </option>
+	<option value='https://blog.vinesse.com/2016/12/'> December 2016 </option>
+	<option value='https://blog.vinesse.com/2016/11/'> November 2016 </option>
+	<option value='https://blog.vinesse.com/2016/10/'> October 2016 </option>
+	<option value='https://blog.vinesse.com/2016/09/'> September 2016 </option>
+	<option value='https://blog.vinesse.com/2016/08/'> August 2016 </option>
+	<option value='https://blog.vinesse.com/2016/07/'> July 2016 </option>
+	<option value='https://blog.vinesse.com/2016/06/'> June 2016 </option>
+	<option value='https://blog.vinesse.com/2016/05/'> May 2016 </option>
+	<option value='https://blog.vinesse.com/2016/04/'> April 2016 </option>
+	<option value='https://blog.vinesse.com/2016/03/'> March 2016 </option>
+	<option value='https://blog.vinesse.com/2016/02/'> February 2016 </option>
+	<option value='https://blog.vinesse.com/2016/01/'> January 2016 </option>
+	<option value='https://blog.vinesse.com/2015/12/'> December 2015 </option>
+	<option value='https://blog.vinesse.com/2015/11/'> November 2015 </option>
+	<option value='https://blog.vinesse.com/2015/10/'> October 2015 </option>
+	<option value='https://blog.vinesse.com/2015/09/'> September 2015 </option>
+	<option value='https://blog.vinesse.com/2015/08/'> August 2015 </option>
+	<option value='https://blog.vinesse.com/2015/07/'> July 2015 </option>
+	<option value='https://blog.vinesse.com/2015/06/'> June 2015 </option>
+	<option value='https://blog.vinesse.com/2015/05/'> May 2015 </option>
+	<option value='https://blog.vinesse.com/2015/04/'> April 2015 </option>
+	<option value='https://blog.vinesse.com/2015/03/'> March 2015 </option>
+	<option value='https://blog.vinesse.com/2015/02/'> February 2015 </option>
+	<option value='https://blog.vinesse.com/2015/01/'> January 2015 </option>
+	<option value='https://blog.vinesse.com/2014/12/'> December 2014 </option>
+	<option value='https://blog.vinesse.com/2014/11/'> November 2014 </option>
+	<option value='https://blog.vinesse.com/2014/10/'> October 2014 </option>
+	<option value='https://blog.vinesse.com/2014/09/'> September 2014 </option>
+	<option value='https://blog.vinesse.com/2014/08/'> August 2014 </option>
+	<option value='https://blog.vinesse.com/2014/07/'> July 2014 </option>
+	<option value='https://blog.vinesse.com/2014/06/'> June 2014 </option>
+	<option value='https://blog.vinesse.com/2014/05/'> May 2014 </option>
+	<option value='https://blog.vinesse.com/2014/04/'> April 2014 </option>
+	<option value='https://blog.vinesse.com/2014/03/'> March 2014 </option>
+	<option value='https://blog.vinesse.com/2014/02/'> February 2014 </option>
+	<option value='https://blog.vinesse.com/2014/01/'> January 2014 </option>
+	<option value='https://blog.vinesse.com/2013/12/'> December 2013 </option>
+	<option value='https://blog.vinesse.com/2013/11/'> November 2013 </option>
+	<option value='https://blog.vinesse.com/2013/10/'> October 2013 </option>
+	<option value='https://blog.vinesse.com/2013/09/'> September 2013 </option>
+	<option value='https://blog.vinesse.com/2013/08/'> August 2013 </option>
+	<option value='https://blog.vinesse.com/2013/07/'> July 2013 </option>
+	<option value='https://blog.vinesse.com/2013/06/'> June 2013 </option>
+	<option value='https://blog.vinesse.com/2013/05/'> May 2013 </option>
+	<option value='https://blog.vinesse.com/2013/04/'> April 2013 </option>
+	<option value='https://blog.vinesse.com/2013/03/'> March 2013 </option>
+	<option value='https://blog.vinesse.com/2013/02/'> February 2013 </option>
+	<option value='https://blog.vinesse.com/2013/01/'> January 2013 </option>
+	<option value='https://blog.vinesse.com/2012/12/'> December 2012 </option>
+	<option value='https://blog.vinesse.com/2012/11/'> November 2012 </option>
+	<option value='https://blog.vinesse.com/2012/10/'> October 2012 </option>
+	<option value='https://blog.vinesse.com/2012/09/'> September 2012 </option>
+	<option value='https://blog.vinesse.com/2012/08/'> August 2012 </option>
+	<option value='https://blog.vinesse.com/2012/07/'> July 2012 </option>
+	<option value='https://blog.vinesse.com/2012/06/'> June 2012 </option>
+	<option value='https://blog.vinesse.com/2012/05/'> May 2012 </option>
+	<option value='https://blog.vinesse.com/2012/04/'> April 2012 </option>
+	<option value='https://blog.vinesse.com/2012/03/'> March 2012 </option>
+	<option value='https://blog.vinesse.com/2012/02/'> February 2012 </option>
+	<option value='https://blog.vinesse.com/2012/01/'> January 2012 </option>
+	<option value='https://blog.vinesse.com/2011/12/'> December 2011 </option>
+	<option value='https://blog.vinesse.com/2011/11/'> November 2011 </option>
+	<option value='https://blog.vinesse.com/2011/10/'> October 2011 </option>
+	<option value='https://blog.vinesse.com/2011/09/'> September 2011 </option>
+	<option value='https://blog.vinesse.com/2011/08/'> August 2011 </option>
+	<option value='https://blog.vinesse.com/2011/07/'> July 2011 </option>
+	<option value='https://blog.vinesse.com/2011/06/'> June 2011 </option>
+	<option value='https://blog.vinesse.com/2011/05/'> May 2011 </option>
+	<option value='https://blog.vinesse.com/2011/04/'> April 2011 </option>
+	<option value='https://blog.vinesse.com/2011/03/'> March 2011 </option>
+	<option value='https://blog.vinesse.com/2011/02/'> February 2011 </option>
+	<option value='https://blog.vinesse.com/2011/01/'> January 2011 </option>
+	<option value='https://blog.vinesse.com/2010/12/'> December 2010 </option>
+	<option value='https://blog.vinesse.com/2010/11/'> November 2010 </option>
+	<option value='https://blog.vinesse.com/2010/10/'> October 2010 </option>
+	<option value='https://blog.vinesse.com/2010/09/'> September 2010 </option>
+	<option value='https://blog.vinesse.com/2010/08/'> August 2010 </option>
+	<option value='https://blog.vinesse.com/2010/07/'> July 2010 </option>
+	<option value='https://blog.vinesse.com/2010/06/'> June 2010 </option>
+	<option value='https://blog.vinesse.com/2010/05/'> May 2010 </option>
+	<option value='https://blog.vinesse.com/2010/04/'> April 2010 </option>
+	<option value='https://blog.vinesse.com/2010/03/'> March 2010 </option>
+	<option value='https://blog.vinesse.com/2010/02/'> February 2010 </option>
+	<option value='https://blog.vinesse.com/2010/01/'> January 2010 </option>
+	<option value='https://blog.vinesse.com/2009/12/'> December 2009 </option>
+	<option value='https://blog.vinesse.com/2009/11/'> November 2009 </option>
+	<option value='https://blog.vinesse.com/2009/10/'> October 2009 </option>
+	<option value='https://blog.vinesse.com/2009/09/'> September 2009 </option>
+	<option value='https://blog.vinesse.com/2009/08/'> August 2009 </option>
+	<option value='https://blog.vinesse.com/2009/07/'> July 2009 </option>
+	<option value='https://blog.vinesse.com/2009/06/'> June 2009 </option>
+	<option value='https://blog.vinesse.com/2009/05/'> May 2009 </option>
+	<option value='https://blog.vinesse.com/2009/04/'> April 2009 </option>
+	<option value='https://blog.vinesse.com/2009/03/'> March 2009 </option>
+	<option value='https://blog.vinesse.com/2009/02/'> February 2009 </option>
+	<option value='https://blog.vinesse.com/2009/01/'> January 2009 </option>
+	<option value='https://blog.vinesse.com/2008/12/'> December 2008 </option>
+	<option value='https://blog.vinesse.com/2008/11/'> November 2008 </option>
+	<option value='https://blog.vinesse.com/2008/10/'> October 2008 </option>
+	<option value='https://blog.vinesse.com/2008/09/'> September 2008 </option>
+	<option value='https://blog.vinesse.com/2008/08/'> August 2008 </option>
+	<option value='https://blog.vinesse.com/2008/07/'> July 2008 </option>
+	<option value='https://blog.vinesse.com/2008/06/'> June 2008 </option>
+	<option value='https://blog.vinesse.com/2008/05/'> May 2008 </option>
+	<option value='https://blog.vinesse.com/2008/04/'> April 2008 </option>
+	<option value='https://blog.vinesse.com/2008/03/'> March 2008 </option>
+	<option value='https://blog.vinesse.com/2008/02/'> February 2008 </option>
+	<option value='https://blog.vinesse.com/2008/01/'> January 2008 </option>
+	<option value='https://blog.vinesse.com/2007/12/'> December 2007 </option>
+	<option value='https://blog.vinesse.com/2007/11/'> November 2007 </option>
+	<option value='https://blog.vinesse.com/2007/10/'> October 2007 </option>
+	<option value='https://blog.vinesse.com/2007/09/'> September 2007 </option>
+	<option value='https://blog.vinesse.com/2007/08/'> August 2007 </option>
+	<option value='https://blog.vinesse.com/2007/07/'> July 2007 </option>
+	<option value='https://blog.vinesse.com/2007/06/'> June 2007 </option>
+	<option value='https://blog.vinesse.com/2007/05/'> May 2007 </option>
+
+		</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-3" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+
+		</div><div id="meta-3" class="widget-wrapper widget_meta"><div class="widget-title">Account</div>			<ul>
+						<li><a rel="nofollow" href="https://blog.vinesse.com/wp-login.php">Log in</a></li>
+			<li><a href="https://blog.vinesse.com/feed/">Entries feed</a></li>
+			<li><a href="https://blog.vinesse.com/comments/feed/">Comments feed</a></li>
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>			</ul>
+			</div>
+		</div><!-- end of #widgets -->
+	</div><!-- end of #wrapper -->
+
+</div><!-- end of #container -->
+
+<div id="footer" class="clearfix">
+
+	<div id="footer-wrapper">
+
+		<div class="grid col-940">
+
+		<div class="grid col-540">
+				</div><!-- end of col-540 -->
+
+		
+		<div class="grid col-380 fit">
+			<ul class="social-icons">
+
+				<li class="twitter-icon"><a href="http://twitter.com/vinessewines"><img src="https://blog.vinesse.com/wp-content/themes/responsive/icons/twitter-icon.png" width="24" height="24" alt="Twitter"></a></li><li class="facebook-icon"><a href="http://www.facebook.com/VinesseWines"><img src="https://blog.vinesse.com/wp-content/themes/responsive/icons/facebook-icon.png" width="24" height="24" alt="Facebook"></a></li>
+			</ul><!-- end of .social-icons -->
+		</div><!-- end of col-380 fit -->
+		
+		</div><!-- end of col-940 -->
+		
+	
+	<div id="colophon-widget" class="grid col-940">
+					<div id="text-8" class="colophon-widget widget-wrapper widget_text">			<div class="textwidget"><div id="aboutvinesse"><h3>About Vinesse</h3>
+<p>Vinesse specializes in helping wine lovers discover interesting wines. By sharing limited-production gems that generally don’t appear on the shelves of local stores, Vinesse has grown to become one of the largest and most respected wine club companies in the U.S.</p>
+
+<p>From our base in Southern California, Vinesse cultivates relationships with some of the most respected winemakers in the world. These relationships are critical to supplying each of our ten wine clubs with exceptional wines from amazing boutique wineries.</p>
+
+<p>In addition to sharing exceptional wine gems with our dedicated circle of members, Vinesse also offers wine collections, wine accessories and individual wine sales to wine lovers across the U.S.</p></div>
+
+<ul class="vin-social-icons">
+
+				<li class="twitter-icon"><a href="http://twitter.com/vinessewines"><img src="https://i2.wp.com/www2.vinesse.com/images/blog/twitter_new.png?resize=24%2C24" width="24" height="24" alt="Twitter" data-recalc-dims="1"></a></li><li class="facebook-icon"><a href="http://www.facebook.com/VinesseWines"><img src="https://i2.wp.com/www2.vinesse.com/images/blog/facebook_icon.png?resize=24%2C24" width="24" height="24" alt="Facebook" data-recalc-dims="1"></a></li>
+			</ul>
+
+<div id="vinfootermessage">This blog is intended for people 21 years of age and over. Please drink responsibly.</div></div>
+		</div>	</div><!-- end of #colophon-widget -->
+		<div class="grid col-300 copyright">
+			&copy; 2020 <a href="https://blog.vinesse.com/" title="VinesseToday">VinesseToday</a>
+		</div><!-- end of .copyright -->
+
+		<div class="grid col-300 scroll-top"><a href="#scroll-top" title="scroll to top">&uarr;</a></div>
+
+		<div class="grid col-300 fit powered">
+						<a href="https://wordpress.com/?ref=footer_custom_powered">Powered by WordPress.com</a>.
+			
+					</div><!-- end .powered -->
+
+	</div><!-- end #footer-wrapper -->
+
+</div><!-- end #footer -->
+
+		<script type="text/javascript">
+		//<![CDATA[
+		var infiniteScroll = JSON.parse( decodeURIComponent( '%7B%22settings%22%3A%7B%22id%22%3A%22content-blog%22%2C%22ajaxurl%22%3A%22https%3A%5C%2F%5C%2Fblog.vinesse.com%5C%2F%3Finfinity%3Dscrolling%22%2C%22type%22%3A%22click%22%2C%22wrapper%22%3Atrue%2C%22wrapper_class%22%3A%22infinite-wrap%22%2C%22footer%22%3A%22wrapper%22%2C%22click_handle%22%3A%221%22%2C%22text%22%3A%22Older%20posts%22%2C%22totop%22%3A%22Scroll%20back%20to%20top%22%2C%22currentday%22%3A%2224.03.20%22%2C%22order%22%3A%22DESC%22%2C%22scripts%22%3A%5B%5D%2C%22styles%22%3A%5B%5D%2C%22google_analytics%22%3Afalse%2C%22offset%22%3A1%2C%22history%22%3A%7B%22host%22%3A%22blog.vinesse.com%22%2C%22path%22%3A%22%5C%2Fpage%5C%2F%25d%5C%2F%22%2C%22use_trailing_slashes%22%3Atrue%2C%22parameters%22%3A%22%22%7D%2C%22query_args%22%3A%7B%22error%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A0%2C%22post_parent%22%3A%22%22%2C%22subpost%22%3A%22%22%2C%22subpost_id%22%3A%22%22%2C%22attachment%22%3A%22%22%2C%22attachment_id%22%3A0%2C%22name%22%3A%22%22%2C%22pagename%22%3A%22%22%2C%22page_id%22%3A0%2C%22second%22%3A%22%22%2C%22minute%22%3A%22%22%2C%22hour%22%3A%22%22%2C%22day%22%3A0%2C%22monthnum%22%3A0%2C%22year%22%3A0%2C%22w%22%3A0%2C%22category_name%22%3A%22%22%2C%22tag%22%3A%22%22%2C%22cat%22%3A%22%22%2C%22tag_id%22%3A%22%22%2C%22author%22%3A%22%22%2C%22author_name%22%3A%22%22%2C%22feed%22%3A%22%22%2C%22tb%22%3A%22%22%2C%22paged%22%3A0%2C%22meta_key%22%3A%22%22%2C%22meta_value%22%3A%22%22%2C%22preview%22%3A%22%22%2C%22s%22%3A%22%22%2C%22sentence%22%3A%22%22%2C%22title%22%3A%22%22%2C%22fields%22%3A%22%22%2C%22menu_order%22%3A%22%22%2C%22embed%22%3A%22%22%2C%22category__in%22%3A%5B%5D%2C%22category__not_in%22%3A%5B%5D%2C%22category__and%22%3A%5B%5D%2C%22post__in%22%3A%5B%5D%2C%22post__not_in%22%3A%5B%5D%2C%22post_name__in%22%3A%5B%5D%2C%22tag__in%22%3A%5B%5D%2C%22tag__not_in%22%3A%5B%5D%2C%22tag__and%22%3A%5B%5D%2C%22tag_slug__in%22%3A%5B%5D%2C%22tag_slug__and%22%3A%5B%5D%2C%22post_parent__in%22%3A%5B%5D%2C%22post_parent__not_in%22%3A%5B%5D%2C%22author__in%22%3A%5B%5D%2C%22author__not_in%22%3A%5B%5D%2C%22posts_per_page%22%3A4%2C%22ignore_sticky_posts%22%3Afalse%2C%22suppress_filters%22%3Afalse%2C%22cache_results%22%3Afalse%2C%22update_post_term_cache%22%3Atrue%2C%22lazy_load_term_meta%22%3Atrue%2C%22update_post_meta_cache%22%3Atrue%2C%22post_type%22%3A%22%22%2C%22nopaging%22%3Afalse%2C%22comments_per_page%22%3A%2250%22%2C%22no_found_rows%22%3Afalse%2C%22order%22%3A%22DESC%22%7D%2C%22query_before%22%3A%222020-04-05%2021%3A59%3A10%22%2C%22last_post_date%22%3A%222020-03-24%2011%3A00%3A45%22%2C%22body_class%22%3A%22infinite-scroll%22%2C%22stats%22%3A%22blog%3D49138375%26host%3Dblog.vinesse.com%26v%3Dext%26j%3D1%3A8.3%26x_pagetype%3Dinfinite-click-jetpack%22%7D%7D' ) );
+		//]]>
+		</script>
+		<!--  -->
+<script type="text/javascript">
+!function(n,t,c,e,u){function r(n){try{f=n(u)}catch(n){return h=n,void i(p,n)}i(s,f)}function i(n,t){for(var c=0;c<n.length;c++)d(n[c],t);
+}function o(n,t){return n&&(f?d(n,f):s.push(n)),t&&(h?d(t,h):p.push(t)),l}function a(n){return o(!1,n)}function d(t,c){
+n.setTimeout(function(){t(c)},0)}var f,h,s=[],p=[],l={then:o,catch:a,_setup:r};n[e]=l;var v=t.createElement("script");
+v.src=c,v.async=!0,v.id="_uasdk",v.rel=e,t.head.appendChild(v)}(window,document,'https://aswpsdkus.com/notify/v1/ua-sdk.min.js',
+	'UA', {
+		appKey: 'UqtTD6w9T22P4aM3mw-bnA',
+		token: 'MTpVcXRURDZ3OVQyMlA0YU0zbXctYm5BOk1rSHBTWUpyaWN3YlYwdWpianA0aW1RcHozMUlUblJPcDZEUGgwR19GUGc',
+								vapidPublicKey: 'BKIu9ProunMttXYk3SWS-xEfZZ4aYkEgGAVmnKocmXlZiGSoMgtww_BJ9YE7qnOT127URutfevi0DSxgsF7OsWc='
+	});
+</script>
+		
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGKLMK3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!-- Jetpack Google Analytics -->
+			<script type='text/javascript'>
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-3263866-1']);
+_gaq.push(['_trackPageview']);
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/jetpack/_inc/build/infinite-scroll/infinity.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/blog.vinesse.com\/wp-admin\/admin-ajax.php","nonce":"4ef1ab504a","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/blog.vinesse.com\/wp-login.php?redirect_to=https%3A%2F%2Fblog.vinesse.com%2F2020%2F04%2F02%2Fsalmon-the-right-sauce-adds-to-wine-versatility%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20190102'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.4'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2020Apraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.4'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/themes/responsive/js/responsive-scripts.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/themes/responsive/js/small-menu.js?ver=20120206'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"https:\/\/blog.vinesse.com\/wp-admin\/admin-ajax.php","force_ajax_send":"","is_crawler":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/thrive-visual-editor/thrive-dashboard/js/dist/frontend.min.js?ver=2.2.2.1'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-content/plugins/jetpack/_inc/build/likes/queuehandler.min.js?ver=8.3'></script>
+<script type='text/javascript' src='https://blog.vinesse.com/wp-includes/js/wp-embed.min.js?ver=5.4'></script>
+<script type="text/javascript">var tcb_post_lists=JSON.parse('[]');</script><script type="text/javascript">
+			jQuery.extend( infiniteScroll.settings.scripts, ["jquery-core","jquery-migrate","jquery","ua-wn","gtm4wp-form-move-tracker","spin","jquery.spin","tiled-gallery","responsive-modernizr","postmessage","jetpack_resize","the-neverending-homepage","jetpack-photon","jetpack-carousel","mediaelement-core","mediaelement-migrate","mediaelement","wp-mediaelement","grofiles-cards","wpgroho","responsive-scripts","responsive-small-menu","tve-dash-frontend","jetpack_likes_queuehandler","wp-embed"] );
+			jQuery.extend( infiniteScroll.settings.styles, ["the-neverending-homepage","wp-block-library","wpcom-text-widget-styles","jetpack_likes","jetpack-carousel","tiled-gallery","mediaelement","wp-mediaelement","responsive-style","jetpack_css"] );
+		</script><script type='text/javascript' src='https://stats.wp.com/e-202015.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.3',blog:'49138375',post:'0',tz:'-7',srv:'blog.vinesse.com'} ]);
+	_stq.push([ 'clickTrackerInit', '49138375', '0' ]);
+</script>
+</body>
+</html>
+<!--
+	generated in 0.186 seconds
+	63647 bytes batcached for 300 seconds
+-->

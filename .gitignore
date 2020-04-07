@@ -1,7 +1,6 @@
 out/*
 data/htmls/*
 source/__pycache__
-production/data/*
 production/model/*
 
 !data/htmls/.gitkeep

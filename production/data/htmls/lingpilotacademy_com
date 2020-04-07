@@ -1,0 +1,1156 @@
+<!DOCTYPE html>
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" class="no-js">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+		<meta name="theme-color" content="1"/>	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	        <script type="text/javascript">
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                var originalAddEventListener = EventTarget.prototype.addEventListener,
+                    oldWidth = window.innerWidth;
+
+                EventTarget.prototype.addEventListener = function (eventName, eventHandler, useCapture) {
+                    if (eventName === "resize") {
+                        originalAddEventListener.call(this, eventName, function (event) {
+                            if (oldWidth === window.innerWidth) {
+                                return;
+                            }
+                            else if (oldWidth !== window.innerWidth) {
+                                oldWidth = window.innerWidth;
+                            }
+                            if (eventHandler.handleEvent) {
+                                eventHandler.handleEvent.call(this, event);
+                            }
+                            else {
+                                eventHandler.call(this, event);
+                            };
+                        }, useCapture);
+                    }
+                    else {
+                        originalAddEventListener.call(this, eventName, eventHandler, useCapture);
+                    };
+                };
+            };
+        </script>
+		<title>Become a Professional Pilot - Sling Pilot Academy - Airline Flight Training</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v13.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Become an airline pilot with Sling Pilot Academy. We train pilots in fun, modern, sexy airplanes with glass cockpits. Start your flight training now."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.slingpilotacademy.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Become a Professional Pilot - Sling Pilot Academy - Airline Flight Training" />
+<meta property="og:description" content="Become an airline pilot with Sling Pilot Academy. We train pilots in fun, modern, sexy airplanes with glass cockpits. Start your flight training now." />
+<meta property="og:url" content="https://www.slingpilotacademy.com/" />
+<meta property="og:site_name" content="Sling Pilot Academy" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Become an airline pilot with Sling Pilot Academy. We train pilots in fun, modern, sexy airplanes with glass cockpits. Start your flight training now." />
+<meta name="twitter:title" content="Become a Professional Pilot - Sling Pilot Academy - Airline Flight Training" />
+<meta name="twitter:image" content="https://www.slingpilotacademy.com/wp-content/uploads/2019/08/Anthony-Jimenez-2019-Winner-e1565135943332-250x300.jpeg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.slingpilotacademy.com/#website","url":"https://www.slingpilotacademy.com/","name":"Sling Pilot Academy","inLanguage":"en-US","description":"Become a Professional Pilot","potentialAction":[{"@type":"SearchAction","target":"https://www.slingpilotacademy.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://www.slingpilotacademy.com/#primaryimage","inLanguage":"en-US","url":"https://www.slingpilotacademy.com/wp-content/uploads/2019/08/Anthony-Jimenez-2019-Winner-e1565135943332-250x300.jpeg"},{"@type":"WebPage","@id":"https://www.slingpilotacademy.com/#webpage","url":"https://www.slingpilotacademy.com/","name":"Become a Professional Pilot - Sling Pilot Academy - Airline Flight Training","isPartOf":{"@id":"https://www.slingpilotacademy.com/#website"},"inLanguage":"en-US","primaryImageOfPage":{"@id":"https://www.slingpilotacademy.com/#primaryimage"},"datePublished":"2018-11-06T00:03:44+00:00","dateModified":"2020-03-27T00:23:16+00:00","description":"Become an airline pilot with Sling Pilot Academy. We train pilots in fun, modern, sexy airplanes with glass cockpits. Start your flight training now.","potentialAction":[{"@type":"ReadAction","target":["https://www.slingpilotacademy.com/"]}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Sling Pilot Academy &raquo; Feed" href="https://www.slingpilotacademy.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sling Pilot Academy &raquo; Comments Feed" href="https://www.slingpilotacademy.com/comments/feed/" />
+<!-- This site uses the Google Analytics by ExactMetrics plugin v6.0.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var em_version         = '6.0.2';
+	var em_track_user      = true;
+	var em_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-131327567-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( em_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+window.ga = __gaTracker;		__gaTracker('create', 'UA-131327567-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+		__gaTracker( function() { window.ga = __gaTracker; } );
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + em_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+			window.ga = __gaTracker;		})();
+		}
+</script>
+<!-- / Google Analytics by ExactMetrics -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.slingpilotacademy.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style type="text/css" media="all">
+.wpautoterms-footer{background-color:#ffffff;text-align:center;}
+.wpautoterms-footer a{color:#000000;font-family:Arial, sans-serif;font-size:14px;}
+.wpautoterms-footer .separator{color:#cccccc;font-family:Arial, sans-serif;font-size:14px;}</style>
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/css/sb-instagram-2-2.min.css?ver=2.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.slingpilotacademy.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://www.slingpilotacademy.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='DFS-block-frontend-style-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/dropbox-folder-share/src/css/front.css?ver=1585174469' type='text/css' media='all' />
+<link rel='stylesheet' id='wpautoterms_css-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/auto-terms-of-service-and-privacy-policy/css/wpautoterms.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='go-pricing-styles-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css?ver=3.3.17' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.7' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='frontend.css-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/wp-display-files/assets/css/frontend.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-Defaults-css'  href='https://www.slingpilotacademy.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://www.slingpilotacademy.com/wp-content/tablepress-combined.min.css?ver=3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wb-elementor-before-after-slider-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/before-after-image-comparison-slider-for-elementor//assets/css/twentytwenty.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='uael-frontend-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/ultimate-elementor/assets/min-css/uael-frontend.min.css?ver=1.23.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://www.slingpilotacademy.com/wp-content/uploads/elementor/css/global.css?ver=1585175027' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-web-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto:400,500,600,700|Work+Sans:400,600,700|Roboto+Condensed:400,600,700' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-main-css'  href='https://www.slingpilotacademy.com/wp-content/themes/dt-the7/css/main.min.css?ver=8.1.0' type='text/css' media='all' />
+<style id='dt-main-inline-css' type='text/css'>
+body #load {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 9901;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transition: all .35s ease-out;
+  transition: all .35s ease-out;
+}
+.load-wrap {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.load-wrap > svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+#load {
+  background-color: #ffffff;
+}
+.uil-default rect:not(.bk) {
+  fill: rgba(51,51,51,0.3);
+}
+.uil-ring > path {
+  fill: rgba(51,51,51,0.3);
+}
+.ring-loader .circle {
+  fill: rgba(51,51,51,0.3);
+}
+.ring-loader .moving-circle {
+  fill: #333333;
+}
+.uil-hourglass .glass {
+  stroke: #333333;
+}
+.uil-hourglass .sand {
+  fill: rgba(51,51,51,0.3);
+}
+.spinner-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg width='75px' height='75px' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='xMidYMid' class='uil-default'%3E%3Crect x='0' y='0' width='100' height='100' fill='none' class='bk'%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(0 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(30 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.08333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(60 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.16666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(90 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.25s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(120 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.3333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(150 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.4166666666666667s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(180 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(210 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5833333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(240 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.6666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(270 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.75s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(300 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.8333333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(330 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.9166666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3C/svg%3E");
+}
+.ring-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='rgba%2851%2C51%2C51%2C0.3%29'%3E   %3Cpath opacity='.25' d='M16 0 A16 16 0 0 0 16 32 A16 16 0 0 0 16 0 M16 4 A12 12 0 0 1 16 28 A12 12 0 0 1 16 4'/%3E   %3Cpath d='M16 0 A16 16 0 0 1 32 16 L28 16 A12 12 0 0 0 16 4z'%3E     %3CanimateTransform attributeName='transform' type='rotate' from='0 16 16' to='360 16 16' dur='0.8s' repeatCount='indefinite' /%3E   %3C/path%3E %3C/svg%3E");
+}
+.hourglass-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='rgba%2851%2C51%2C51%2C0.3%29'%3E   %3Cpath transform='translate(2)' d='M0 12 V20 H4 V12z'%3E      %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(8)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.2' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(14)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.4' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(20)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.6' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(26)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.8' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E %3C/svg%3E");
+}
+
+</style>
+<link rel='stylesheet' id='the7-font-css'  href='https://www.slingpilotacademy.com/wp-content/themes/dt-the7/fonts/icomoon-the7-font/icomoon-the7-font.min.css?ver=8.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-awesome-fonts-css'  href='https://www.slingpilotacademy.com/wp-content/themes/dt-the7/fonts/FontAwesome/css/all.min.css?ver=8.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-awesome-fonts-back-css'  href='https://www.slingpilotacademy.com/wp-content/themes/dt-the7/fonts/FontAwesome/back-compat.min.css?ver=8.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-fontello-css'  href='https://www.slingpilotacademy.com/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=8.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='the7pt-static-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/dt-the7-core/assets/css/post-type.min.css?ver=8.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='zcffront-jquery-ui-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/zoho-crm-forms/assets/css/jquery-ui.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='zcffront-end-styles-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/zoho-crm-forms/assets/css/frontendstyles.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-custom-css'  href='https://www.slingpilotacademy.com/wp-content/uploads/the7-css/custom.css?ver=20b49426ec7f' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-media-css'  href='https://www.slingpilotacademy.com/wp-content/uploads/the7-css/media.css?ver=20b49426ec7f' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-mega-menu-css'  href='https://www.slingpilotacademy.com/wp-content/uploads/the7-css/mega-menu.css?ver=20b49426ec7f' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-elements-albums-portfolio-css'  href='https://www.slingpilotacademy.com/wp-content/uploads/the7-css/the7-elements-albums-portfolio.css?ver=20b49426ec7f' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-elements-css'  href='https://www.slingpilotacademy.com/wp-content/uploads/the7-css/post-type-dynamic.css?ver=20b49426ec7f' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://www.slingpilotacademy.com/wp-content/themes/dt-the7/style.css?ver=8.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tmmp-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/team-members-pro/inc/css/tmm_style.min.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css'  href='https://www.slingpilotacademy.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.2.3' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uael_script = {"post_loader":"https:\/\/www.slingpilotacademy.com\/wp-content\/plugins\/ultimate-elementor\/assets\/img\/post-loader.gif","url":"https:\/\/www.slingpilotacademy.com\/wp-admin\/admin-ajax.php","search_str":"Search:","table_not_found_str":"No matching records found","table_length_string":"Show _MENU_ Entries","uael_particles_url":"https:\/\/www.slingpilotacademy.com\/wp-content\/plugins\/ultimate-elementor\/assets\/min-js\/uael-particles.min.js","particles_url":"https:\/\/www.slingpilotacademy.com\/wp-content\/plugins\/ultimate-elementor\/assets\/lib\/particles\/particles.min.js"};
+var uael = {"ajax_url":"https:\/\/www.slingpilotacademy.com\/wp-admin\/admin-ajax.php"};
+var uaelRegistration = {"invalid_mail":"Enter valid Email!","pass_unmatch":"The specified password do not match!","required":"This Field is required!","form_nonce":"ce8a37d8f1","incorrect_password":"Error: The Password you have entered is incorrect.","invalid_username":"Unknown username. Check again or try your email address.","invalid_email":"Unknown email address. Check again or try your username."};
+var slide_in = {"demo_dir":"https:\/\/www.slingpilotacademy.com\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+window.scope_array = [];
+								window.backend = 0;
+								jQuery.cachedScript = function( url, options ) {
+									// Allow user to set any option except for dataType, cache, and url.
+									options = jQuery.extend( options || {}, {
+										dataType: "script",
+										cache: true,
+										url: url
+									});
+									// Return the jqXHR object so we can chain callbacks.
+									return jQuery.ajax( options );
+								};
+							    jQuery( window ).on( "elementor/frontend/init", function() {
+									elementorFrontend.hooks.addAction( "frontend/element_ready/global", function( $scope, $ ){
+										if ( "undefined" == typeof $scope ) {
+												return;
+										}
+										if ( $scope.hasClass( "uael-particle-yes" ) ) {
+											window.scope_array.push( $scope );
+											$scope.find(".uael-particle-wrapper").addClass("js-is-enabled");
+										}else{
+											return;
+										}
+										if(elementorFrontend.isEditMode() && $scope.find(".uael-particle-wrapper").hasClass("js-is-enabled") && window.backend == 0 ){		
+											var uael_url = uael_script.uael_particles_url;
+											
+											jQuery.cachedScript( uael_url );
+											window.backend = 1;
+										}else if(elementorFrontend.isEditMode()){
+											var uael_url = uael_script.uael_particles_url;
+											jQuery.cachedScript( uael_url ).done(function(){
+												var flag = true;
+											});
+										}
+									});
+								});
+								jQuery(document).ready(function(){
+									if ( jQuery.find( ".uael-particle-yes" ).length < 1 ) {
+										return;
+									}
+									var uael_url = uael_script.uael_particles_url;
+									jQuery.cachedScript = function( url, options ) {
+										// Allow user to set any option except for dataType, cache, and url.
+										options = jQuery.extend( options || {}, {
+											dataType: "script",
+											cache: true,
+											url: url
+										});
+										// Return the jqXHR object so we can chain callbacks.
+										return jQuery.ajax( options );
+									};
+									jQuery.cachedScript( uael_url );
+								});	
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.10.0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.10.0'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.10.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/www.slingpilotacademy.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js?ver=6.0.2'></script>
+<script type='text/javascript'>
+var oldGS=window.GreenSockGlobals,oldGSQueue=window._gsQueue,oldGSDefine=window._gsDefine;window._gsDefine=null;delete(window._gsDefine);var gwGS=window.GreenSockGlobals={};
+</script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.11.2/TweenMax.min.js'></script>
+<script type='text/javascript'>
+try{window.GreenSockGlobals=null;window._gsQueue=null;window._gsDefine=null;delete(window.GreenSockGlobals);delete(window._gsQueue);delete(window._gsDefine);window.GreenSockGlobals=oldGS;window._gsQueue=oldGSQueue;window._gsDefine=oldGSDefine;}catch(e){}
+</script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.7'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/zoho-crm-forms/assets/js/moment-with-locales.js?ver=1.7.0.9'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.9.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dtLocal = {"themeUrl":"https:\/\/www.slingpilotacademy.com\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"369","ajaxurl":"https:\/\/www.slingpilotacademy.com\/wp-admin\/admin-ajax.php","REST":{"baseUrl":"https:\/\/www.slingpilotacademy.com\/wp-json\/the7\/v1","endpoints":{"sendMail":"\/send-mail"}},"contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy.","fillTheCaptchaError":"Please, fill the captcha."},"captchaSiteKey":"","ajaxNonce":"468df9654b","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"gradient","color":"#c60b18"},"desktopHeader":{"height":100},"floatingHeader":{"showAfter":150,"showMenu":true,"height":60,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"https:\/\/www.slingpilotacademy.com\/wp-content\/uploads\/2018\/11\/Sling-Pilot-Academy-Logo-2-100.png\" srcset=\"https:\/\/www.slingpilotacademy.com\/wp-content\/uploads\/2018\/11\/Sling-Pilot-Academy-Logo-2-100.png 100w, https:\/\/www.slingpilotacademy.com\/wp-content\/uploads\/2018\/11\/Sling-Pilot-Academy-Logo-2-180.png 180w\" width=\"100\" height=\"38\"   sizes=\"100px\" alt=\"Sling Pilot Academy\" \/>","url":"https:\/\/www.slingpilotacademy.com\/"}},"topLine":{"floatingTopLine":{"logo":{"showLogo":false,"html":""}}},"mobileHeader":{"firstSwitchPoint":980,"secondSwitchPoint":600,"firstSwitchPointHeight":60,"secondSwitchPointHeight":60},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/www.slingpilotacademy.com\/wp-content\/uploads\/2018\/11\/Sling-Pilot-Academy-Logo-2-100.png\" srcset=\"https:\/\/www.slingpilotacademy.com\/wp-content\/uploads\/2018\/11\/Sling-Pilot-Academy-Logo-2-100.png 100w, https:\/\/www.slingpilotacademy.com\/wp-content\/uploads\/2018\/11\/Sling-Pilot-Academy-Logo-2-180.png 180w\" width=\"100\" height=\"38\"   sizes=\"100px\" alt=\"Sling Pilot Academy\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/www.slingpilotacademy.com\/wp-content\/uploads\/2018\/11\/Sling-Pilot-Academy-Logo-2-100.png\" srcset=\"https:\/\/www.slingpilotacademy.com\/wp-content\/uploads\/2018\/11\/Sling-Pilot-Academy-Logo-2-100.png 100w, https:\/\/www.slingpilotacademy.com\/wp-content\/uploads\/2018\/11\/Sling-Pilot-Academy-Logo-2-180.png 180w\" width=\"100\" height=\"38\"   sizes=\"100px\" alt=\"Sling Pilot Academy\" \/>"}},"content":{"textColor":"#85868c","headerColor":"#333333"},"sidebar":{"switchPoint":990},"boxedWidth":"1340px","stripes":{"stripe1":{"textColor":"#787d85","headerColor":"#3b3f4a"},"stripe2":{"textColor":"#8b9199","headerColor":"#ffffff"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}},"VCMobileScreenWidth":"768"};
+var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp"},"overlayOpacity":"85"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=8.1.0'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/team-members-pro/inc/js/tmm.min.js?ver=5.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/www.slingpilotacademy.com\/wp-admin\/admin-ajax.php","security":"b64b40a665","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/www.slingpilotacademy.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/www.slingpilotacademy.com\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\"]","epdovol":"1","version":"13.2.3","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.2.3'></script>
+<meta name="generator" content="Powered by LayerSlider 6.10.0 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel='https://api.w.org/' href='https://www.slingpilotacademy.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.slingpilotacademy.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.slingpilotacademy.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4" />
+<link rel='shortlink' href='https://www.slingpilotacademy.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.slingpilotacademy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.slingpilotacademy.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.slingpilotacademy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.slingpilotacademy.com%2F&#038;format=xml" />
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P5FHRDM');</script>    <style type="text/css" media="screen">
+      div.printfriendly a, div.printfriendly a:link, div.printfriendly a:hover, div.printfriendly a:visited, div.printfriendly a:focus {
+        text-decoration: none;
+        border: none;
+        -webkit-box-shadow:none!important;
+        box-shadow:none!important;
+      }
+    </style>
+           <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 12px 12px 12px 12px;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            font-size: 14px;
+            color: #292929;
+          }
+        </style>
+		<link rel="stylesheet" href="https://www.slingpilotacademy.com/wp-content/plugins/printfriendly/printfriendly.css" media="screen" />
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+
+<!-- Facebook Pixel Code -->
+<script type='text/javascript'>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+</script>
+<!-- End Facebook Pixel Code -->
+<script type='text/javascript'>
+  fbq('init', '400569797154156', [], {
+    "agent": "wordpress-5.4-2.0.1"
+});
+</script><script type='text/javascript'>
+  fbq('track', 'PageView', []);
+</script>
+<!-- Facebook Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none" alt="fbpx"
+src="https://www.facebook.com/tr?id=400569797154156&ev=PageView&noscript=1" />
+</noscript>
+<!-- End Facebook Pixel Code -->
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.1.7 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) { 
+	var load = document.getElementById("load");
+	if(!load.classList.contains('loader-removed')){
+		var removeLoading = setTimeout(function() {
+			load.className += " loader-removed";
+		}, 300);
+	}
+});
+</script>
+		<link rel="icon" href="https://www.slingpilotacademy.com/wp-content/uploads/2019/05/Roundel.png" type="image/png" sizes="16x16"/><link rel="icon" href="https://www.slingpilotacademy.com/wp-content/uploads/2019/05/Roundel.png" type="image/png" sizes="32x32"/><script type="text/javascript">function setREVStartSize(e){			
+			try {								
+				var pw = document.getElementById(e.c).parentNode.offsetWidth,
+					newh;
+				pw = pw===0 || isNaN(pw) ? window.innerWidth : pw;
+				e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+				e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+				e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+				e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+				e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+				e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+				e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+				if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+					newh = Math.max(e.mh,window.innerHeight);				
+				else{					
+					e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+					for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+					e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+					e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+					for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+										
+					var nl = new Array(e.rl.length),
+						ix = 0,						
+						sl;					
+					e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+					e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+					e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+					e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+					for (var i in e.rl) nl[i] = e.rl[i]<window.innerWidth ? 0 : e.rl[i];
+					sl = nl[0];									
+					for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+					var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+
+					newh =  (e.type==="carousel" && e.justify==="true" ? e.gh[ix] : (e.gh[ix] * m)) + (e.tabh + e.thumbh);
+				}			
+				
+				if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+				document.getElementById(e.c).height = newh;
+				window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+			} catch(e){
+				console.log("Failure at Presize of Slider:" + e)
+			}					   
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			#fancy-header { min-height: 350px !important; }		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="home page-template-default page page-id-369 wp-embed-responsive the7-core-ver-2.2.8 cooltimeline-body slideshow-on dt-responsive-on accent-gradient srcset-enabled btn-flat custom-btn-color custom-btn-hover-color footer-overlap phantom-fade phantom-shadow-decoration phantom-custom-logo-on sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style dt-fa-compatibility the7-ver-8.1.0 wpb-js-composer js-comp-ver-6.1 vc_responsive elementor-default elementor-kit-1067 elementor-page elementor-page-369">
+<!-- The7 8.1.0 -->
+<div id="load" class="spinner-loader">
+	<div class="load-wrap"></div>
+</div>
+<div id="page" >
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<div class="masthead inline-header right widgets full-height dividers shadow-decoration small-mobile-menu-icon dt-parent-menu-clickable show-device-logo show-mobile-logo"  role="banner">
+
+	<div class="top-bar top-bar-line-hide">
+	<div class="top-bar-bg" ></div>
+	<div class="left-widgets mini-widgets"><span class="mini-contacts phone show-on-desktop in-menu-first-switch in-menu-second-switch"><i class=" the7-mw-icon-phone-bold"></i>+1-424-250-0648</span><span class="mini-contacts address show-on-desktop in-top-bar-left hide-on-second-switch"><i class=" the7-mw-icon-address-bold"></i>3401 Airport Dr, Torrance, CA 90505, USA</span></div><div class="right-widgets mini-widgets"><div class="mini-nav show-on-desktop near-logo-first-switch in-menu-second-switch list-type-menu list-type-menu-first-switch list-type-menu-second-switch"><ul id="top-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409 first"><a href='https://www.slingpilotacademy.com/financing/' data-level='1'><span class="menu-item-text"><span class="menu-text">Financing</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410"><a href='https://www.slingpilotacademy.com/our-team/' data-level='1'><span class="menu-item-text"><span class="menu-text">Our Team</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href='https://www.slingpilotacademy.com/contact-us/' data-level='1'><span class="menu-item-text"><span class="menu-text">Contact Us</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-830"><a href='https://www.slingpilotacademy.com/press/' data-level='1'><span class="menu-item-text"><span class="menu-text">Press</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href='https://www.slingpilotacademy.com/student-schedule/' data-level='1'><span class="menu-item-text"><span class="menu-text">Student Schedule</span></span></a></li> </ul><div class="menu-select"><span class="customSelect1"><span class="customSelectInner"><i class=" the7-mw-icon-dropdown-menu-bold"></i>Micro 1</span></span></div></div><div class="mini-search show-on-desktop near-logo-first-switch near-logo-second-switch popup-search custom-icon"><form class="searchform mini-widget-searchform" role="search" method="get" action="https://www.slingpilotacademy.com/">
+
+	<div class="screen-reader-text">Search:</div>
+			<a href="#go" class="submit"><i class=" mw-icon the7-mw-icon-search-bold"></i><span>Search</span></a>
+		<div class="popup-search-wrap">
+			<input type="text" class="field searchform-s" name="s" value="" placeholder="Type and hit enter …"/>
+
+			<a href="#go" class="search-icon"><i class="the7-mw-icon-search-bold"></i></a>
+		</div>
+			<input type="submit" class="assistive-text searchsubmit" value="Go!"/>
+</form>
+</div><div class="soc-ico show-on-desktop in-menu-first-switch in-menu-second-switch disabled-bg accent-border border-on hover-accent-bg hover-disabled-border  hover-border-off"><a title="Facebook" href="https://www.facebook.com/slingpilotacademy/" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook</span></a><a title="Instagram" href="https://www.instagram.com/slingpilotacademy/" target="_blank" class="instagram"><span class="soc-font-icon"></span><span class="screen-reader-text">Instagram</span></a><a title="YouTube" href="https://www.youtube.com/channel/UC5bTQetJDGkMBfwaN1ALI5g" target="_blank" class="you-tube"><span class="soc-font-icon"></span><span class="screen-reader-text">YouTube</span></a><a title="Twitter" href="https://twitter.com/SlingPilot" target="_blank" class="twitter"><span class="soc-font-icon"></span><span class="screen-reader-text">Twitter</span></a></div></div></div>
+
+	<header class="header-bar">
+
+		<div class="branding">
+	<div id="site-title" class="assistive-text">Sling Pilot Academy</div>
+	<div id="site-description" class="assistive-text">Become a Professional Pilot</div>
+	<a class="" href="https://www.slingpilotacademy.com/"><img class=" preload-me" src="https://www.slingpilotacademy.com/wp-content/uploads/2018/11/Sling-Pilot-Academy-Logo-2-180.png" srcset="https://www.slingpilotacademy.com/wp-content/uploads/2018/11/Sling-Pilot-Academy-Logo-2-180.png 180w, https://www.slingpilotacademy.com/wp-content/uploads/2018/11/Sling-Pilot-Academy-Logo-2-100.png 100w" width="180" height="69"   sizes="180px" alt="Sling Pilot Academy" /><img class="mobile-logo preload-me" src="https://www.slingpilotacademy.com/wp-content/uploads/2018/11/Sling-Pilot-Academy-Logo-2-100.png" srcset="https://www.slingpilotacademy.com/wp-content/uploads/2018/11/Sling-Pilot-Academy-Logo-2-100.png 100w, https://www.slingpilotacademy.com/wp-content/uploads/2018/11/Sling-Pilot-Academy-Logo-2-180.png 180w" width="100" height="38"   sizes="100px" alt="Sling Pilot Academy" /></a></div>
+
+		<ul id="primary-menu" class="main-nav underline-decoration from-centre-line gradient-hover outside-item-remove-margin" role="navigation"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-394 first has-children"><a href='https://www.slingpilotacademy.com/airline-pilot-career/' data-level='1'><span class="menu-item-text"><span class="menu-text">Airline Pilot Career</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1190 first"><a href='https://www.slingpilotacademy.com/accelerated-multi-engine-ratings/' data-level='2'><span class="menu-item-text"><span class="menu-text">Commercial Multi-Engine Add-Ons</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-807 has-children"><a href='#' data-level='1'><span class="menu-item-text"><span class="menu-text">Professional Pilot Course</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-790 first"><a href='https://www.slingpilotacademy.com/professional-pilot-course/' data-level='2'><span class="menu-item-text"><span class="menu-text">Accelerated Airline Pilot Course</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href='https://www.slingpilotacademy.com/sling-pilot-academy-vs-a-4-year-school/' data-level='2'><span class="menu-item-text"><span class="menu-text">Sling Pilot Academy vs. 4 Year School</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href='https://www.slingpilotacademy.com/testimonials/' data-level='2'><span class="menu-item-text"><span class="menu-text">Testimonials</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-907"><a href='https://www.slingpilotacademy.com/prerequisites/' data-level='2'><span class="menu-item-text"><span class="menu-text">Prerequisites</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-904"><a href='https://www.slingpilotacademy.com/first-steps/' data-level='2'><span class="menu-item-text"><span class="menu-text">First Steps</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710"><a href='https://www.slingpilotacademy.com/next-inductions/' data-level='2'><span class="menu-item-text"><span class="menu-text">Next Inductions</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-808 has-children"><a href='#' data-level='1'><span class="menu-item-text"><span class="menu-text">About Us</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392 first"><a href='https://www.slingpilotacademy.com/our-aircraft/' data-level='2'><span class="menu-item-text"><span class="menu-text">Our Aircraft</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a href='https://www.slingpilotacademy.com/our-location/' data-level='2'><span class="menu-item-text"><span class="menu-text">Our Location</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-677"><a href='https://www.slingpilotacademy.com/past-students/' data-level='2'><span class="menu-item-text"><span class="menu-text">Past Students</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1019"><a href='https://www.slingpilotacademy.com/mission-statement/' data-level='2'><span class="menu-item-text"><span class="menu-text">Mission Statement</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-806 has-children"><a href='#' data-level='1'><span class="menu-item-text"><span class="menu-text">Enrollments</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-805 first"><a href='https://www.slingpilotacademy.com/enroll-now/' data-level='2'><span class="menu-item-text"><span class="menu-text">Enroll Now</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href='https://www.slingpilotacademy.com/requirements/' data-level='2'><span class="menu-item-text"><span class="menu-text">Enrollee Requirements</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-804"><a href='https://www.slingpilotacademy.com/scholarship/' data-level='2'><span class="menu-item-text"><span class="menu-text">Scholarship</span></span></a></li> </ul></li> </ul>
+		
+	</header>
+
+</div>
+<div class='dt-close-mobile-menu-icon'><span></span></div>
+<div class='dt-mobile-header'>
+	<ul id="mobile-menu" class="mobile-main-nav" role="navigation">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-394 first has-children"><a href='https://www.slingpilotacademy.com/airline-pilot-career/' data-level='1'><span class="menu-item-text"><span class="menu-text">Airline Pilot Career</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1190 first"><a href='https://www.slingpilotacademy.com/accelerated-multi-engine-ratings/' data-level='2'><span class="menu-item-text"><span class="menu-text">Commercial Multi-Engine Add-Ons</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-807 has-children"><a href='#' data-level='1'><span class="menu-item-text"><span class="menu-text">Professional Pilot Course</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-790 first"><a href='https://www.slingpilotacademy.com/professional-pilot-course/' data-level='2'><span class="menu-item-text"><span class="menu-text">Accelerated Airline Pilot Course</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href='https://www.slingpilotacademy.com/sling-pilot-academy-vs-a-4-year-school/' data-level='2'><span class="menu-item-text"><span class="menu-text">Sling Pilot Academy vs. 4 Year School</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href='https://www.slingpilotacademy.com/testimonials/' data-level='2'><span class="menu-item-text"><span class="menu-text">Testimonials</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-907"><a href='https://www.slingpilotacademy.com/prerequisites/' data-level='2'><span class="menu-item-text"><span class="menu-text">Prerequisites</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-904"><a href='https://www.slingpilotacademy.com/first-steps/' data-level='2'><span class="menu-item-text"><span class="menu-text">First Steps</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710"><a href='https://www.slingpilotacademy.com/next-inductions/' data-level='2'><span class="menu-item-text"><span class="menu-text">Next Inductions</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-808 has-children"><a href='#' data-level='1'><span class="menu-item-text"><span class="menu-text">About Us</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392 first"><a href='https://www.slingpilotacademy.com/our-aircraft/' data-level='2'><span class="menu-item-text"><span class="menu-text">Our Aircraft</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a href='https://www.slingpilotacademy.com/our-location/' data-level='2'><span class="menu-item-text"><span class="menu-text">Our Location</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-677"><a href='https://www.slingpilotacademy.com/past-students/' data-level='2'><span class="menu-item-text"><span class="menu-text">Past Students</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1019"><a href='https://www.slingpilotacademy.com/mission-statement/' data-level='2'><span class="menu-item-text"><span class="menu-text">Mission Statement</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-806 has-children"><a href='#' data-level='1'><span class="menu-item-text"><span class="menu-text">Enrollments</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-805 first"><a href='https://www.slingpilotacademy.com/enroll-now/' data-level='2'><span class="menu-item-text"><span class="menu-text">Enroll Now</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href='https://www.slingpilotacademy.com/requirements/' data-level='2'><span class="menu-item-text"><span class="menu-text">Enrollee Requirements</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-804"><a href='https://www.slingpilotacademy.com/scholarship/' data-level='2'><span class="menu-item-text"><span class="menu-text">Scholarship</span></span></a></li> </ul></li> 	</ul>
+	<div class='mobile-mini-widgets-in-menu'></div>
+</div>
+<div class="page-inner">
+<div id="main-slideshow">
+			<!-- START Sling 2 Flying REVOLUTION SLIDER 6.1.7 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_2_1_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+				<rs-module id="rev_slider_2_1" style="display:none;" data-version="6.1.7">
+					<rs-slides>
+						<rs-slide data-key="rs-6" data-title="Slide" data-thumb="//www.slingpilotacademy.com/wp-content/uploads/2019/01/Photo-Jan-18-12-20-31-PM-100x50.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+							<img src="//www.slingpilotacademy.com/wp-content/uploads/2019/01/Photo-Jan-18-12-20-31-PM.jpg" title="Become a Professional Pilot" data-parallax="8" data-panzoom="d:10000;ss:100;se:110;" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-2-slide-6-layer-1" 
+								data-type="text"
+								data-color="#ffffff"
+								data-rsp_ch="on"
+								data-xy="x:106px;y:543px;"
+								data-text="s:40;l:22;a:inherit;"
+								data-dim="w:681px;"
+								data-actions='o:click;a:simplelink;target:_self;url:https://www.slingpilotacademy.com/scholarship/;'
+								data-frame_0="tp:600;"
+								data-frame_1="tp:600;st:0;"
+								data-frame_999="o:0;tp:600;st:w;sR:4700;"
+								style="z-index:5;font-family:Roboto;"
+							>Click here to Apply for our $20,000 Scholarship 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide data-key="rs-25" data-title="Slide" data-thumb="//www.airplanefactory.com/dev/wp-content/uploads/2017/06/IMG_1525.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+							<img src="//www.airplanefactory.com/dev/wp-content/uploads/2017/06/IMG_1525.jpg" title="Become a Professional Pilot" data-parallax="8" data-panzoom="d:10000;ss:100;se:110;" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+						<rs-slide data-key="rs-7" data-title="Slide" data-thumb="//www.airplanefactory.com/dev/wp-content/uploads/2017/06/Downtownbacklit1.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+							<img src="//www.airplanefactory.com/dev/wp-content/uploads/2017/06/Downtownbacklit1.jpg" title="Become a Professional Pilot" data-parallax="8" data-panzoom="d:10000;ss:100;se:110;" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+						<rs-slide data-key="rs-8" data-title="Slide" data-thumb="//www.airplanefactory.com/dev/wp-content/uploads/2017/06/slingbank.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+							<img src="//www.airplanefactory.com/dev/wp-content/uploads/2017/06/slingbank.jpg" title="Become a Professional Pilot" data-parallax="8" data-panzoom="d:10000;ss:100;se:110;" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+						<rs-slide data-key="rs-9" data-title="Slide" data-thumb="//www.airplanefactory.com/dev/wp-content/uploads/2017/06/IMG_0990.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+							<img src="//www.airplanefactory.com/dev/wp-content/uploads/2017/06/IMG_0990.jpg" title="Become a Professional Pilot" data-parallax="8" data-panzoom="d:10000;ss:100;se:110;" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+						<rs-slide data-key="rs-10" data-title="Slide" data-thumb="//www.airplanefactory.com/dev/wp-content/uploads/2017/06/spier.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+							<img src="//www.airplanefactory.com/dev/wp-content/uploads/2017/06/spier.jpg" title="Become a Professional Pilot" data-parallax="8" data-panzoom="d:10000;ss:100;se:110;" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+						<rs-slide data-key="rs-11" data-title="Slide" data-thumb="//www.airplanefactory.com/dev/wp-content/uploads/2017/06/IMG_1855.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+							<img src="//www.airplanefactory.com/dev/wp-content/uploads/2017/06/IMG_1855.jpg" title="Become a Professional Pilot" data-parallax="8" data-panzoom="d:10000;ss:100;se:110;" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+						<rs-slide data-key="rs-12" data-title="Slide" data-thumb="//www.airplanefactory.com/dev/wp-content/uploads/2017/07/SlingGround1.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+							<img src="//www.airplanefactory.com/dev/wp-content/uploads/2017/07/SlingGround1.jpg" title="Become a Professional Pilot" data-parallax="8" data-panzoom="d:10000;ss:100;se:110;" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+					</rs-slides>
+					<rs-progress class="rs-bottom" style="visibility: hidden !important;"></rs-progress>
+				</rs-module>
+				<script type="text/javascript">
+					setREVStartSize({c: 'rev_slider_2_1',rl:[1240,1024,778,480],el:[],gw:[1240],gh:[600],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
+					var	revapi2,
+						tpj;
+					jQuery(function() {
+						tpj = jQuery;
+						if(tpj("#rev_slider_2_1").revolution == undefined){
+							revslider_showDoubleJqueryError("#rev_slider_2_1");
+						}else{
+							revapi2 = tpj("#rev_slider_2_1").show().revolution({
+								jsFileLocation:"//www.slingpilotacademy.com/wp-content/plugins/revslider/public/assets/js/",
+								sliderLayout:"fullwidth",
+								duration:5000,
+								visibilityLevels:"1240,1024,778,480",
+								gridwidth:1240,
+								gridheight:600,
+								spinner:"spinner1",
+								responsiveLevels:"1240,1024,778,480",
+								disableProgressBar:"on",
+								navigation: {
+									mouseScrollNavigation:false,
+									onHoverStop:false,
+									touch: {
+										touchenabled:true
+									},
+									arrows: {
+										enable:true,
+										style:"uranus",
+										hide_onleave:true,
+										left: {
+
+										},
+										right: {
+
+										}
+									}
+								},
+								parallax: {
+									levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,55],
+									type:"mouse"
+								},
+								scrolleffect: {
+									set:true,
+									fade:true,
+									slide:true,
+									multiplicator:1.3,
+									multiplicator_layers:1.3,
+									disable_onmobile:true
+								},
+								fallbacks: {
+									allowHTML5AutoPlayOnAndroid:true
+								},
+							});
+						}
+						
+					});
+				</script>
+				<script>
+					var htmlDivCss = ' #rev_slider_2_1_wrapper rs-loader.spinner1{ background-color: #FFFFFF !important; } '
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				</script>
+				<script>
+					var htmlDivCss = unescape("%23rev_slider_2_1_wrapper%20.uranus.tparrows%20%7B%0A%20%20width%3A50px%3B%0A%20%20height%3A50px%3B%0A%20%20background%3Argba%28255%2C255%2C255%2C0%29%3B%0A%20%7D%0A%20%23rev_slider_2_1_wrapper%20.uranus.tparrows%3Abefore%20%7B%0A%20width%3A50px%3B%0A%20height%3A50px%3B%0A%20line-height%3A50px%3B%0A%20font-size%3A40px%3B%0A%20transition%3Aall%200.3s%3B%0A-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%20%23rev_slider_2_1_wrapper%20.uranus.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20%20opacity%3A0.75%3B%0A%20%20%7D%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				</script>
+				<script>
+					var htmlDivCss = unescape("%0A%0A%0A%0A%0A%0A%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div>
+
+<div id="main" class="sidebar-none sidebar-divider-vertical"  >
+
+	
+	<div class="main-gradient"></div>
+	<div class="wf-wrap" >
+	<div class="wf-container-main">
+
+	
+
+
+	<div id="content" class="content" role="main">
+
+		<div class="pf-content"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center;"><strong>Welcome to the home of Sling Pilot Academy. Become an Airline Pilot.<br />
+</strong></h2>
+<h3 style="text-align: center;"><strong>Your flight training is going to be as exciting as your future career as an Airline Pilot.</strong></h3>
+<p>&nbsp;</p>
+<p>It has never been a better time to become an airline pilot. There is a severe worldwide pilot shortage and airlines are giving out huge signing bonuses. It has become a great career again.</p>
+<p>We will help you get your Private, Commercial and Instrument Ratings in modern, fun airplanes. You don&#8217;t need to take your training in a 40-yr old airplane &#8211; you can start in a <a href="https://www.slingpilotacademy.com/our-aircraft/">brand new airplane</a> with a glass cockpit. And <a href="https://www.slingpilotacademy.com/our-location/">learn to fly near the beach</a> in one of the most coveted parts of the world &#8211; Torrance Airport in Los Angeles. Become an airline pilot &#8211; start your flight training now!</p>
+<p><strong>Start here to read about our <a href="https://www.slingpilotacademy.com/professional-pilot-course/">Accelerated Airline Pilot Course here</a>.</strong></p>
+<p><strong>Existing Commercial ASEL Pilot looking to add a Multi-Engine Rating? Click here for our <a href="https://www.slingpilotacademy.com/accelerated-multi-engine-ratings/">Accelerated Multi-Engine Add-On Courses</a>.</strong></p>
+<p>&nbsp;</p>
+<h2 style="text-align: center;"><a href="https://www.slingpilotacademy.com/scholarship/">Click here to apply for our $20,000 Scholarship</a></h2>
+<p style="text-align: center;">Winner will be selected August 6, 2020</p>
+<p style="text-align: center;"><strong>2019 Scholarship Winner has been selected! Congratulations Anthony Jimenez of California</strong></p>
+<p style="text-align: center;"><img class="aligncenter wp-image-963 size-medium" src="https://www.slingpilotacademy.com/wp-content/uploads/2019/08/Anthony-Jimenez-2019-Winner-e1565135943332-250x300.jpeg" alt="" width="250" height="300" srcset="https://www.slingpilotacademy.com/wp-content/uploads/2019/08/Anthony-Jimenez-2019-Winner-e1565135943332-250x300.jpeg 250w, https://www.slingpilotacademy.com/wp-content/uploads/2019/08/Anthony-Jimenez-2019-Winner-e1565135943332-768x921.jpeg 768w, https://www.slingpilotacademy.com/wp-content/uploads/2019/08/Anthony-Jimenez-2019-Winner-e1565135943332-854x1024.jpeg 854w, https://www.slingpilotacademy.com/wp-content/uploads/2019/08/Anthony-Jimenez-2019-Winner-e1565135943332.jpeg 1783w" sizes="(max-width: 250px) 100vw, 250px" /></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center;"><strong>Who We Are&#8230;</strong></h2>
+<div class="epyt-video-wrapper"><iframe  id="_ytid_67466"  width="1200" height="675"  data-origwidth="1200" data-origheight="675"  data-relstop="1"  src="https://www.youtube.com/embed/AE3tU5LKHtg?enablejsapi=1&autoplay=0&cc_load_policy=0&iv_load_policy=1&loop=0&modestbranding=0&rel=0&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&" class="__youtube_prefs__ no-lazyload" title="YouTube player"  allow="autoplay; encrypted-media" allowfullscreen data-no-lazy="1" data-skipgform_ajax_framebjll=""></iframe></div>
+
+		</div>
+	</div>
+</div></div></div></div>
+<span class="cp-load-after-post"></span></div>
+	</div><!-- #content -->
+
+	
+
+
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+
+	
+	</div><!-- #main -->
+
+	</div>
+
+	
+	<!-- !Footer -->
+	<footer id="footer" class="footer solid-bg">
+
+		
+			<div class="wf-wrap">
+				<div class="wf-container-footer">
+					<div class="wf-container">
+						<section id="presscore-contact-info-widget-2" class="widget widget_presscore-contact-info-widget wf-cell wf-1-4"><div class="widget-title">Located at KTOA Airport</div><div class="widget-info">3401 Airport Dr
+Torrance, CA 90505, USA
+
++1-424-250-0648</div><div class="soc-ico"><p class="assistive-text">Find us on:</p><a title="Facebook" href="https://www.facebook.com/slingpilotacademy" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook</span></a><a title="Twitter" href="https://twitter.com/SlingPilot" target="_blank" class="twitter"><span class="soc-font-icon"></span><span class="screen-reader-text">Twitter</span></a><a title="YouTube" href="https://www.youtube.com/channel/UC5bTQetJDGkMBfwaN1ALI5g" target="_blank" class="you-tube"><span class="soc-font-icon"></span><span class="screen-reader-text">YouTube</span></a><a title="Instagram" href="https://www.instagram.com/slingpilotacademy" target="_blank" class="instagram"><span class="soc-font-icon"></span><span class="screen-reader-text">Instagram</span></a><a title="Yelp" href="https://www.yelp.com/biz/sling-pilot-academy-torrance" target="_blank" class="yelp"><span class="soc-font-icon"></span><span class="screen-reader-text">Yelp</span></a></div></section><section id="text-2" class="widget widget_text wf-cell wf-1-4"><div class="widget-title">Instagram</div>			<div class="textwidget">
+<div id="sb_instagram" class="sbi sbi_col_4  sbi_width_resp sbi_fixed_height" style="padding-bottom: 10px;width: 300px;height: 300px;" data-feedid="sbi_slingpilotacademy#16" data-res="auto" data-cols="4" data-num="16" data-shortcode-atts="{}" >
+	
+    <div id="sbi_images" style="padding: 5px;">
+		<div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17867948596673729" data-date="1585065097">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B-Hz_EXBKlE/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/90430774_203389537657568_7066917426553758479_n.jpg?_nc_cat=108&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQnJp1a06a_R8sbvB9JwaWerLAJQjFV7hGDXovLotn21pJpduohEfGAfPp8wYQLlP3U&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=339b3cd3f858be3e53a3accf74f2f276&#038;oe=5EAEAC34" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/90430774_203389537657568_7066917426553758479_n.jpg?_nc_cat=108&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQnJp1a06a_R8sbvB9JwaWerLAJQjFV7hGDXovLotn21pJpduohEfGAfPp8wYQLlP3U&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=339b3cd3f858be3e53a3accf74f2f276&amp;oe=5EAEAC34&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B-Hz_EXBKlE\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B-Hz_EXBKlE\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/90430774_203389537657568_7066917426553758479_n.jpg?_nc_cat=108&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQnJp1a06a_R8sbvB9JwaWerLAJQjFV7hGDXovLotn21pJpduohEfGAfPp8wYQLlP3U&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=339b3cd3f858be3e53a3accf74f2f276&amp;oe=5EAEAC34&quot;}">
+            <span class="sbi-screenreader">Morning shadows... .
+.
+#slingpilotacademy #pilot #</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Morning shadows... .
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17846385146006901" data-date="1584222768">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B9utXu-hmQu/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/89823362_2624928740948822_4152359488074287247_n.jpg?_nc_cat=106&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQnZOM4sASV4SKxgsfow0fe9dXzH_KT-CnvZEKHA_bxgahZTyFvciO_8sF8xLAdNs6E&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=15d02becc70d666dd93fad86f26b2750&#038;oe=5EAE2671" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/89823362_2624928740948822_4152359488074287247_n.jpg?_nc_cat=106&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQnZOM4sASV4SKxgsfow0fe9dXzH_KT-CnvZEKHA_bxgahZTyFvciO_8sF8xLAdNs6E&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=15d02becc70d666dd93fad86f26b2750&amp;oe=5EAE2671&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B9utXu-hmQu\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B9utXu-hmQu\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/89823362_2624928740948822_4152359488074287247_n.jpg?_nc_cat=106&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQnZOM4sASV4SKxgsfow0fe9dXzH_KT-CnvZEKHA_bxgahZTyFvciO_8sF8xLAdNs6E&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=15d02becc70d666dd93fad86f26b2750&amp;oe=5EAE2671&quot;}">
+            <span class="sbi-screenreader">Congrats to Ty Keel for a first solo on a rainy da</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Congrats to Ty Keel for a first solo on a rainy day! .
+.
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17876441737566516" data-date="1583722674">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B9fzZ4XhcH5/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/84134812_190820328892560_2465825446583911476_n.jpg?_nc_cat=103&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQk-PCPinVKNL22HrkIDcJvxFywENSIrGQ_bfwxwlCaWco6W9unUZmp-RCLsZ12mEfI&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=404c0ac1f9ff34b2ea85fc02338912f5&#038;oe=5EAEF974" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/84134812_190820328892560_2465825446583911476_n.jpg?_nc_cat=103&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQk-PCPinVKNL22HrkIDcJvxFywENSIrGQ_bfwxwlCaWco6W9unUZmp-RCLsZ12mEfI&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=404c0ac1f9ff34b2ea85fc02338912f5&amp;oe=5EAEF974&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B9fzZ4XhcH5\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B9fzZ4XhcH5\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/www.instagram.com\/p\/B9fzZ4XhcH5\/media?size=l&quot;}">
+            <span class="sbi-screenreader">9 Slings and 2 Tecnam Twins = a lot of movements e</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="9 Slings and 2 Tecnam Twins = a lot of movements every day .
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17857998142770910" data-date="1583682383">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B9emqvQBQeJ/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/87413011_2805145066242351_6760264166252190911_n.jpg?_nc_cat=105&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQm0_xYjw64cmh_Kg0OtuyQA3bwEwd0BO76H2MWuzsG1FswBzA1q8Q8zZ-HhdRV6w8I&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=529b8cbbab8b82797a993539ae4ebf28&#038;oe=5EB1C23D" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/87413011_2805145066242351_6760264166252190911_n.jpg?_nc_cat=105&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQm0_xYjw64cmh_Kg0OtuyQA3bwEwd0BO76H2MWuzsG1FswBzA1q8Q8zZ-HhdRV6w8I&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=529b8cbbab8b82797a993539ae4ebf28&amp;oe=5EB1C23D&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B9emqvQBQeJ\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B9emqvQBQeJ\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/87413011_2805145066242351_6760264166252190911_n.jpg?_nc_cat=105&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQm0_xYjw64cmh_Kg0OtuyQA3bwEwd0BO76H2MWuzsG1FswBzA1q8Q8zZ-HhdRV6w8I&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=529b8cbbab8b82797a993539ae4ebf28&amp;oe=5EB1C23D&quot;}">
+            <span class="sbi-screenreader">Daily ground school at Sling Pilot Academy .
+.
+#sl</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Daily ground school at Sling Pilot Academy .
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17845862488975649" data-date="1582585810">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B897HweBcmS/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/87333864_2593126224251534_1320387287102387351_n.jpg?_nc_cat=107&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQkLFTogwIO0NqiTzdnNNiH6csefVvwQG4daLZTuhaoAdU6lSfpewg4ORWMwnACGYkM&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=345dafa69639bdd9eb88dc0ca43061c8&#038;oe=5EB00F82" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/87333864_2593126224251534_1320387287102387351_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQkLFTogwIO0NqiTzdnNNiH6csefVvwQG4daLZTuhaoAdU6lSfpewg4ORWMwnACGYkM&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=345dafa69639bdd9eb88dc0ca43061c8&amp;oe=5EB00F82&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B897HweBcmS\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B897HweBcmS\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/87333864_2593126224251534_1320387287102387351_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQkLFTogwIO0NqiTzdnNNiH6csefVvwQG4daLZTuhaoAdU6lSfpewg4ORWMwnACGYkM&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=345dafa69639bdd9eb88dc0ca43061c8&amp;oe=5EB00F82&quot;}">
+            <span class="sbi-screenreader">Congratulations to Sling Pilot Academy CFI and CFI</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Congratulations to Sling Pilot Academy CFI and CFII on passing his Multi Commercial checkride. .
+#checkrideweek #checkrideoftheday
+.
+.
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17932478704354958" data-date="1582577151">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B89qfDeh4Nv/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/87751110_156730075794582_6412528772406676840_n.jpg?_nc_cat=109&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQl5gi8n8VKoHpSRyQq5P6TDebNg84FC_gJtrdwVkvoI5PcdC-HzdmUyMKQ_mXoFn10&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=ef93925e6e7e45cd96373cfaaac62d42&#038;oe=5EAF5EF7" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/87751110_156730075794582_6412528772406676840_n.jpg?_nc_cat=109&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQl5gi8n8VKoHpSRyQq5P6TDebNg84FC_gJtrdwVkvoI5PcdC-HzdmUyMKQ_mXoFn10&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=ef93925e6e7e45cd96373cfaaac62d42&amp;oe=5EAF5EF7&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B89qfDeh4Nv\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B89qfDeh4Nv\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/www.instagram.com\/p\/B89qfDeh4Nv\/media?size=l&quot;}">
+            <span class="sbi-screenreader">Congratulations to Matthew Toddun for passing his </span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Congratulations to Matthew Toddun for passing his Instrument Checkride today! .
+#checkrideweek #checkrideoftheday
+.
+.
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17939101546337003" data-date="1582560697">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B89LOGiBsPF/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/84329875_130944715113627_7265000736586513359_n.jpg?_nc_cat=100&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQlrklH_kE7m7PRWSxoXkoziJ6hO9iOH9YgUQlev5TDZvAxCndsPaeWl_6857DVEcj8&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=90e996efd59724499bb783bb0f667e5d&#038;oe=5EB07184" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/84329875_130944715113627_7265000736586513359_n.jpg?_nc_cat=100&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQlrklH_kE7m7PRWSxoXkoziJ6hO9iOH9YgUQlev5TDZvAxCndsPaeWl_6857DVEcj8&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=90e996efd59724499bb783bb0f667e5d&amp;oe=5EB07184&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B89LOGiBsPF\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B89LOGiBsPF\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/84329875_130944715113627_7265000736586513359_n.jpg?_nc_cat=100&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQlrklH_kE7m7PRWSxoXkoziJ6hO9iOH9YgUQlev5TDZvAxCndsPaeWl_6857DVEcj8&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=90e996efd59724499bb783bb0f667e5d&amp;oe=5EB07184&quot;}">
+            <span class="sbi-screenreader">Congratulations to Hyun Do Park on passing his Ins</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Congratulations to Hyun Do Park on passing his Instrument checkride! .
+.
+#checkrideweek #checkrideoftheday
+.
+.
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18130010338028209" data-date="1582429313">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B85QoFPBSAe/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/85206045_1463902990435077_9087110386480687008_n.jpg?_nc_cat=110&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQmoUB0Vsqtl_Wo9OndhpPfsqdPxRLN-k0L2atWoBIuT1L_LhS0Z5zuOuOPwawh-snY&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=4a9995ba45331c6528b59b31931854fd&#038;oe=5EAF7FB7" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/85206045_1463902990435077_9087110386480687008_n.jpg?_nc_cat=110&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQmoUB0Vsqtl_Wo9OndhpPfsqdPxRLN-k0L2atWoBIuT1L_LhS0Z5zuOuOPwawh-snY&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=4a9995ba45331c6528b59b31931854fd&amp;oe=5EAF7FB7&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B85QoFPBSAe\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B85QoFPBSAe\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/85206045_1463902990435077_9087110386480687008_n.jpg?_nc_cat=110&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQmoUB0Vsqtl_Wo9OndhpPfsqdPxRLN-k0L2atWoBIuT1L_LhS0Z5zuOuOPwawh-snY&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=4a9995ba45331c6528b59b31931854fd&amp;oe=5EAF7FB7&quot;}">
+            <span class="sbi-screenreader">Congratulations to Victor Ponte on becoming an MEI</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Congratulations to Victor Ponte on becoming an MEI today! Great job Vic! .
+.
+#checkrideweek #checkrideoftheday
+.
+.
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18089272318179700" data-date="1582415890">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B843BiTBMT_/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/83025865_552282088964681_3951159200993985416_n.jpg?_nc_cat=111&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQl7pjghEPmEiQuYMkaFRdu3OYvQrOAh_HI-P44l3REPprFDDLRQR5Pf5fApAvQozXE&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=172b128a9d4c20a8b75835daf44f3023&#038;oe=5EAE50A7" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/83025865_552282088964681_3951159200993985416_n.jpg?_nc_cat=111&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQl7pjghEPmEiQuYMkaFRdu3OYvQrOAh_HI-P44l3REPprFDDLRQR5Pf5fApAvQozXE&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=172b128a9d4c20a8b75835daf44f3023&amp;oe=5EAE50A7&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B843BiTBMT_\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B843BiTBMT_\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/83025865_552282088964681_3951159200993985416_n.jpg?_nc_cat=111&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQl7pjghEPmEiQuYMkaFRdu3OYvQrOAh_HI-P44l3REPprFDDLRQR5Pf5fApAvQozXE&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=172b128a9d4c20a8b75835daf44f3023&amp;oe=5EAE50A7&quot;}">
+            <span class="sbi-screenreader">Congratulations to the worlds newest Instrument Ra</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Congratulations to the worlds newest Instrument Rated pilot - Drew Dacus! .
+.
+#checkrideweek #checkrideoftheday
+.
+.
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17864277277678173" data-date="1582350850">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B826-C7hcHn/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/85215356_280309989614046_7914615142886448632_n.jpg?_nc_cat=107&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQkh8bibOeDgL8NXvimIDuOBZf8RjB-U5CtmqDWh4RYqZJFzHzX-XczGsgRspESc7wc&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=2916ed05460f3bbda310edcb092298f4&#038;oe=5EB0DF2B" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/85215356_280309989614046_7914615142886448632_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQkh8bibOeDgL8NXvimIDuOBZf8RjB-U5CtmqDWh4RYqZJFzHzX-XczGsgRspESc7wc&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=2916ed05460f3bbda310edcb092298f4&amp;oe=5EB0DF2B&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B826-C7hcHn\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B826-C7hcHn\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/85215356_280309989614046_7914615142886448632_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQkh8bibOeDgL8NXvimIDuOBZf8RjB-U5CtmqDWh4RYqZJFzHzX-XczGsgRspESc7wc&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=2916ed05460f3bbda310edcb092298f4&amp;oe=5EB0DF2B&quot;}">
+            <span class="sbi-screenreader">Congratulations to our very own Tex Hagoski on bec</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Congratulations to our very own Tex Hagoski on becoming a Multi Engine Instructor! .
+.
+#checkrideweek #checkrideoftheday
+.
+.
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17848229809902248" data-date="1582350687">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B826qODh_sV/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/87242380_237172980629397_198095082467186192_n.jpg?_nc_cat=101&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQlzN9MJ0zS1FR71qA5ys8Qu1qWfXk1RESHR4oFvCJs2LoeNKvWN6klzk54PsZD6u6E&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=46550b2ef1c91ce3234ca2cf6c476968&#038;oe=5EAF96A7" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/87242380_237172980629397_198095082467186192_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQlzN9MJ0zS1FR71qA5ys8Qu1qWfXk1RESHR4oFvCJs2LoeNKvWN6klzk54PsZD6u6E&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=46550b2ef1c91ce3234ca2cf6c476968&amp;oe=5EAF96A7&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B826qODh_sV\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B826qODh_sV\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/87242380_237172980629397_198095082467186192_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQlzN9MJ0zS1FR71qA5ys8Qu1qWfXk1RESHR4oFvCJs2LoeNKvWN6klzk54PsZD6u6E&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=46550b2ef1c91ce3234ca2cf6c476968&amp;oe=5EAF96A7&quot;}">
+            <span class="sbi-screenreader">Congratulations to our CFI JC Chang on passing his</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Congratulations to our CFI JC Chang on passing his CFII checkride. Double Eye. .
+.
+#checkrideweek #checkrideoftheday
+.
+.
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18105890296110494" data-date="1582236083">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B8zgEZ5BKu9/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/85244383_136217674290765_7952385393779489103_n.jpg?_nc_cat=107&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQmHO7b2BhRd_ILbK2kafJwPP7ctQ4PUviu9kup2J9Vc-IIVKXs6cBcTAwd_rn4HH8g&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=cb4546d0b4d4ec46caff26a47b7eae21&#038;oe=5EB034C0" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/85244383_136217674290765_7952385393779489103_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQmHO7b2BhRd_ILbK2kafJwPP7ctQ4PUviu9kup2J9Vc-IIVKXs6cBcTAwd_rn4HH8g&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=cb4546d0b4d4ec46caff26a47b7eae21&amp;oe=5EB034C0&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B8zgEZ5BKu9\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B8zgEZ5BKu9\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/85244383_136217674290765_7952385393779489103_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQmHO7b2BhRd_ILbK2kafJwPP7ctQ4PUviu9kup2J9Vc-IIVKXs6cBcTAwd_rn4HH8g&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=cb4546d0b4d4ec46caff26a47b7eae21&amp;oe=5EB034C0&quot;}">
+            <span class="sbi-screenreader">Congratulations to Trevor Wiles on passing his Ins</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Congratulations to Trevor Wiles on passing his Instrument checkride! .
+
+#checkrideweek #checkrideoftheday
+.
+.
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17871004717595477" data-date="1582161846">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B8xSeVTBOlt/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/84856643_196316125078609_417213548864931898_n.jpg?_nc_cat=102&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQllEy7R06gIiKBHq6WNOwua-7V7pfUFiDElT4_AtZL5XU8FhT4Qjs2quK4Rgu2M1ro&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=0a833f8c97bead279ba70f163f6181be&#038;oe=5EAED551" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/84856643_196316125078609_417213548864931898_n.jpg?_nc_cat=102&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQllEy7R06gIiKBHq6WNOwua-7V7pfUFiDElT4_AtZL5XU8FhT4Qjs2quK4Rgu2M1ro&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=0a833f8c97bead279ba70f163f6181be&amp;oe=5EAED551&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B8xSeVTBOlt\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B8xSeVTBOlt\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/84856643_196316125078609_417213548864931898_n.jpg?_nc_cat=102&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQllEy7R06gIiKBHq6WNOwua-7V7pfUFiDElT4_AtZL5XU8FhT4Qjs2quK4Rgu2M1ro&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=0a833f8c97bead279ba70f163f6181be&amp;oe=5EAED551&quot;}">
+            <span class="sbi-screenreader">Congratulations to our newest Multi Engine Instruc</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Congratulations to our newest Multi Engine Instructor Will Stubbs! Well done Will! .
+#checkrideweek #checkrideoftheday
+.
+.
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17945002531321528" data-date="1581999238">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B8scUpHhnMu/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/84535989_2578928132425356_3863823763311534662_n.jpg?_nc_cat=101&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQkcH8JOZPa_9WVyU2Eahe16sn3RLEQJI3WF52tK6k4DpgttHcLChYXAfvSAIhxxACM&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=268e2015dbb3285eff06f716150841bd&#038;oe=5EAE3ABB" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/84535989_2578928132425356_3863823763311534662_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQkcH8JOZPa_9WVyU2Eahe16sn3RLEQJI3WF52tK6k4DpgttHcLChYXAfvSAIhxxACM&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=268e2015dbb3285eff06f716150841bd&amp;oe=5EAE3ABB&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B8scUpHhnMu\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B8scUpHhnMu\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/84535989_2578928132425356_3863823763311534662_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQkcH8JOZPa_9WVyU2Eahe16sn3RLEQJI3WF52tK6k4DpgttHcLChYXAfvSAIhxxACM&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=268e2015dbb3285eff06f716150841bd&amp;oe=5EAE3ABB&quot;}">
+            <span class="sbi-screenreader">Daily Private and Instrument Ground School at Slin</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Daily Private and Instrument Ground School at Sling Pilot Academy .
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18049721578217950" data-date="1581992562">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B8sPgbghJZL/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/85218544_624344015027099_1668575336358189653_n.jpg?_nc_cat=102&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQkao4KZjwYzrDbtcBuU_fWKF7-wQRcuNmBKp_w1eH7XcwTaUTF5sFFylN3MCv5OVMY&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=824b257a7f413310d1d1517edf077875&#038;oe=5EB047E2" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/85218544_624344015027099_1668575336358189653_n.jpg?_nc_cat=102&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQkao4KZjwYzrDbtcBuU_fWKF7-wQRcuNmBKp_w1eH7XcwTaUTF5sFFylN3MCv5OVMY&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=824b257a7f413310d1d1517edf077875&amp;oe=5EB047E2&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B8sPgbghJZL\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B8sPgbghJZL\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/www.instagram.com\/p\/B8sPgbghJZL\/media?size=l&quot;}">
+            <span class="sbi-screenreader">Average evening ops</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Average evening ops">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17862167188699682" data-date="1581977401">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B8ryrDtBDK3/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/85085144_692010361571791_743033306241231044_n.jpg?_nc_cat=101&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQk1_8at8SMishcFcFFHxYcWd6co2TjRxNYXC0R6tVCBR2EXGXFoQ9sy-MMH4by6-aA&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=4fce1f51ac0295e8e943e946bba651a2&#038;oe=5EB0E38A" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/85085144_692010361571791_743033306241231044_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQk1_8at8SMishcFcFFHxYcWd6co2TjRxNYXC0R6tVCBR2EXGXFoQ9sy-MMH4by6-aA&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=4fce1f51ac0295e8e943e946bba651a2&amp;oe=5EB0E38A&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B8ryrDtBDK3\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B8ryrDtBDK3\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/85085144_692010361571791_743033306241231044_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQk1_8at8SMishcFcFFHxYcWd6co2TjRxNYXC0R6tVCBR2EXGXFoQ9sy-MMH4by6-aA&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=4fce1f51ac0295e8e943e946bba651a2&amp;oe=5EB0E38A&quot;}">
+            <span class="sbi-screenreader">Congratulations to Dylan Smith on passing his Comm</span>
+            	                    <img src="https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Congratulations to Dylan Smith on passing his Commercial Pilot checkride! .
+.
+#checkrideweek #checkrideoftheday
+.
+.
+.
+#slingpilotacademy #pilot #pilotlife #pilotshortage #airlinepilot #pilotlifestyle #pilottraining #slinglsa #tafsling #learntofly #sling #flighttraining #aviation #aircraft #airplane #avgeek #avporn #flying #flywithaopa #eaa #whyifly #commercialpilot #multiengine #aviationnerd #airline #airlines #instapilot">
+        </a>
+    </div>
+</div>    </div>
+
+	<div id="sbi_load">
+
+	
+	
+</div>
+	    <span class="sbi_resized_image_data" data-feed-id="sbi_slingpilotacademy#16" data-resized="{&quot;17867948596673729&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17846385146006901&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17876441737566516&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17857998142770910&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17845862488975649&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17932478704354958&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17939101546337003&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18130010338028209&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18089272318179700&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17864277277678173&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17848229809902248&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18105890296110494&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17871004717595477&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17945002531321528&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18049721578217950&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17862167188699682&quot;:{&quot;id&quot;:&quot;error&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}}}">
+	</span>
+	</div>
+
+
+</div>
+		</section><section id="custom_html-3" class="widget_text widget widget_custom_html wf-cell wf-1-4"><div class="textwidget custom-html-widget"><meta content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><script type="text/javascript" src="https://zca.maillist-manage.com/js/optin.min.js" onload="setupSF('sf832d4b985af8b5219ec29dfa0f6b06fb280a44214293713e','ZCFORMVIEW',false,'light')"></script><script type="text/javascript">function runOnFormSubmit_sf832d4b985af8b5219ec29dfa0f6b06fb280a44214293713e(th){/*Before submit, if you want to trigger your event, "include your code here"*/};</script><style>#customForm p{display:inline;}#sf832d4b985af8b5219ec29dfa0f6b06fb280a44214293713e #customForm *{-webkit-box-sizing: border-box !important;-moz-box-sizing: border-box !important;box-sizing: border-box !important;word-break:break-word;overflow-wrap: break-word;}/*** RESPONSIVE START */@media only screen and (max-width: 200px){#sf832d4b985af8b5219ec29dfa0f6b06fb280a44214293713e [name='SIGNUP_BODY']{width:100% !important;min-width:100% !important;margin: 0px auto !important;padding:0px !important}}/*Major Mobiles*/@media screen and (min-width: 320px) and (max-width: 580px) and (orientation : portrait){#sf832d4b985af8b5219ec29dfa0f6b06fb280a44214293713e [name='SIGNUP_BODY']{max-width:300px !important;margin: 0px auto !important;padding:0px !important;}}/* iPads*/@media only screen and (min-device-width : 768px) and (max-device-width : 1024px){#sf832d4b985af8b5219ec29dfa0f6b06fb280a44214293713e [name='SIGNUP_BODY']{max-width:500px !important;margin: 0px auto !important;}}@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape){#sf832d4b985af8b5219ec29dfa0f6b06fb280a44214293713e [name='SIGNUP_BODY']{max-width:700px !important;margin: 0px auto !important;}}@media screen and (min-width: 475px) and (max-width: 980px) and (orientation : landscape){#sf832d4b985af8b5219ec29dfa0f6b06fb280a44214293713e [name='SIGNUP_BODY']{max-width:400px !important;margin: 0px auto !important;padding:0px !important;}}/*** RESPONSIVE END */@font-face {font-family: "Open Sans";font-style: normal;font-weight: 400; src: url("https://webfonts.zohostatic.com/opensans/font.woff") format("woff");}@font-face {font-family: "Open Sans";font-style: normal;font-weight: 600; src: url("https://webfonts.zohostatic.com/opensanssemibold/font.woff") format("woff");}@font-face {font-family: "Open Sans";font-style: normal;font-weight: 300; src: url("https://webfonts.zohostatic.com/opensanslight/font.woff") format("woff");}@font-face {font-family: "Open Sans";font-style: normal;font-weight: 700; src: url("https://webfonts.zohostatic.com/opensansbold/font.woff") format("woff");}</style><div id="sf832d4b985af8b5219ec29dfa0f6b06fb280a44214293713e" data-type="signupform"><div id="customForm"><input type="hidden" id="signupFormType" value="QuickForm_Vertical"><div><table class="quick_form_1_css" name="SIGNUP_BODY" id="SIGNUP_BODY" style="background-color: rgb(102, 102, 102); color: rgb(68, 68, 68); border: 1px solid rgb(102, 102, 102); margin: 0px auto; bottom: 2px; width: 250px; font-size: 11px; font-family: Arial; padding: 0px; text-align: center;" width="250" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td style="" valign="top" align="center"><div style="background-color: rgb(67, 67, 67); color: rgb(217, 217, 217); font-weight: bold; padding: 15px; font-size: 14px; border-width: 1px; border-style: none; font-family: Open Sans; border-color: rgb(67, 67, 67); text-align: center;" id="SIGNUP_HEADING" name="SIGNUP_HEADING" changeid="SIGNUP_MSG" changetype="SIGNUP_HEADER">Join Our Newsletter</div><div><div style="position:relative;"><div id="Zc_SignupSuccess" style="display:none;position:absolute;margin-left:4%;width:90%;background-color: white; padding: 3px; border: 3px solid rgb(194, 225, 154);  margin-top: 10px;margin-bottom:10px;word-break:break-all"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="10%"><img class="successicon" src="https://zca.maillist-manage.com/images/challangeiconenable.jpg" align="absmiddle"></td><td><span id="signupSuccessMsg" style="color: rgb(73, 140, 132); font-family: sans-serif; font-size: 14px;word-break:break-word">&nbsp;&nbsp;Thank you for Signing Up</span></td></tr></tbody></table></div></div><form method="POST" id="zcampaignOptinForm" style="margin:0px;" action="https://zca.maillist-manage.com/campaigns/weboptin.zc" target="_zcSignup"><div style="display:none;background-color:#FFEBE8;padding:10px 10px; color:#d20000; font-size:11px; margin:10px;border:solid 1px #ffd9d3; margin-top:20px;" id="errorMsgDiv">&nbsp;&nbsp;Please correct the marked field(s) below.</div><div style="padding-left:15px; padding-right:15px;padding-bottom:15px; padding-top:15px;"><input name="CONTACT_EMAIL" changetype="CONTACT_EMAIL" changeitem="SIGNUP_FORM_FIELD" type="email" required="true" id="CONTACT_EMAIL" style="width: 100%; color: rgb(67, 67, 67); background-color: rgb(217, 217, 217); border: 1px solid rgb(67, 67, 67); text-indent: 5px; height: 30px; text-align: center; box-sizing: border-box; border-radius: 0px; font-family: Open Sans; font-size: 15px; padding: 1px;" placeholder="Email"><span style="display:none" id="dt_CONTACT_EMAIL">1,true,6,Subscriber Email,2</span></div><div style="padding-left:15px; padding-right:15px;padding-bottom:15px; padding-top:15px;"><input name="LASTNAME" changetype="LASTNAME" changeitem="SIGNUP_FORM_FIELD" type="text" id="LASTNAME" style="width: 100%; color: rgb(67, 67, 67); background-color: rgb(217, 217, 217); border: 1px solid rgb(67, 67, 67); text-indent: 5px; height: 30px; text-align: center; box-sizing: border-box; border-radius: 0px; font-family: Open Sans; font-size: 15px; padding: 1px;" placeholder="Name"><span style="display:none" id="dt_LASTNAME">1,false,1,Last Name,2</span></div><div style="padding-left:15px; padding-right:15px;padding-bottom:15px;padding-top:5px;"><button name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" style="background-color: rgb(152, 0, 0); color: rgb(255, 255, 255); cursor: pointer; border: 1px solid rgb(152, 0, 0); width: 50%; padding: 2px 10px; font-family: Open Sans; font-size: 14px; text-align: center;">Join Now</button></div><input type="hidden" id="fieldBorder" value=""><input type="hidden" id="submitType" name="submitType" value="optinCustomView"><input type="hidden" id="lD" name="lD" value="16b95518d16b637b"><input type="hidden" name="emailReportId" id="emailReportId" value=""><input type="hidden" id="formType" name="formType" value="QuickForm"><input type="hidden" name="zx" id="cmpZuid" value="126deed43"><input type="hidden" name="zcvers" value="3.0"><input type="hidden" name="oldListIds" id="allCheckedListIds" value=""><input type="hidden" id="mode" name="mode" value="OptinCreateView"><input type="hidden" id="zcld" name="zcld" value="16b95518d16b637b"><input type="hidden" id="document_domain" value="zoho.com"><input type="hidden" id="zc_Url" value="zca.maillist-manage.com"><input type="hidden" id="new_optin_response_in" value="0"><input type="hidden" id="duplicate_optin_response_in" value="0"><input type="hidden" name="zc_trackCode" id="zc_trackCode" value="" onload=""><input type="hidden" id="zc_formIx" name="zc_formIx" value="832d4b985af8b5219ec29dfa0f6b06fb280a44214293713e"></form></div></td></tr></tbody></table></div><img src="https://zca.maillist-manage.com/images/spacer.gif" id="refImage" onload="referenceSetter(this)" style="display:none;"></div></div><div id="zcOptinOverLay" oncontextmenu="return false" style="display:none;text-align: center; background-color: rgb(0, 0, 0); opacity: 0.5; z-index: 100; position: fixed; width: 100%; top: 0px; left: 0px; height: 988px;"></div><div id="zcOptinSuccessPopup" style="display:none;z-index: 9999;width: 800px; height: 40%;top: 84px;position: fixed; left: 26%;background-color: #FFFFFF;border-color: #E6E6E6; border-style: solid; border-width: 1px;  box-shadow: 0 1px 10px #424242;padding: 35px;"><span style="position: absolute;top: -16px;right:-14px;z-index:99999;cursor: pointer;" id="closeSuccess"><img src="https://zca.maillist-manage.com/images/videoclose.png"></span><div id="zcOptinSuccessPanel"></div></div></div></section><section id="custom_html-2" class="widget_text widget widget_custom_html wf-cell wf-1-4"><div class="textwidget custom-html-widget"><div id="yelp-biz-badge-rrc-oalJH9bKuFxhjkUlkx3LEA"><a href="http://yelp.com/biz/sling-pilot-academy-torrance?utm_medium=badge_star_rating_reviews&amp;utm_source=biz_review_badge" target="_blank" rel="noopener noreferrer">Check out Sling Pilot Academy on Yelp</a></div>    <script>(function(d, t) {var g = d.createElement(t);var s = d.getElementsByTagName(t)[0];g.id = "yelp-biz-badge-script-rrc-oalJH9bKuFxhjkUlkx3LEA";g.src = "//yelp.com/biz_badge_js/en_US/rrc/oalJH9bKuFxhjkUlkx3LEA.js";s.parentNode.insertBefore(g, s);}(document, 'script'));</script></div></section>					</div><!-- .wf-container -->
+				</div><!-- .wf-container-footer -->
+			</div><!-- .wf-wrap -->
+
+			
+	</footer><!-- #footer -->
+
+
+	<a href="#" class="scroll-top"><span class="screen-reader-text">Go to Top</span></a>
+
+</div><!-- #page -->
+
+<script type="text/javascript">
+var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:"2d0fe83decd59d0e345dd0d6361dd6fe83a1d2fe3e01b16123e5a2cb140f3780ccd2d195143eb530954fa3f30cfe961a", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
+</script>				<script type="text/javascript" id="modal">
+					document.addEventListener("DOMContentLoaded", function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						//document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						//document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1586149155 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+								<script type="text/javascript" id="info-bar">
+					document.addEventListener("DOMContentLoaded", function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						//document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						//document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1586149155 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+								<script type="text/javascript" id="slidein">
+					document.addEventListener("DOMContentLoaded", function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						//document.cookie="time=0";
+					}
+
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						//document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1586149155 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P5FHRDM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.slingpilotacademy.com/wp-admin/admin-ajax.php";
+</script>
+<script type="text/html" id="wpb-modifications"></script><link href="https://fonts.googleapis.com/css?family=Roboto:400" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+
+		<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {
+			function revslider_showDoubleJqueryError(sliderID) {
+				var err = "<div class='rs_error_message_box'>";
+				err += "<div class='rs_error_message_oops'>Oops...</div>";
+				err += "<div class='rs_error_message_content'>";
+				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+				err += "</div>";
+			err += "</div>";
+				jQuery(sliderID).show().html(err);
+			}
+		}
+		</script>
+      <script type="text/javascript">
+
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfImagesSize = 'full-size';
+          var pfImageDisplayStyle = 'right';
+          var pfEncodeImages = '0';
+          var pfDisableEmail = '1';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+          var pfPlatform = 'Wordpress';
+      </script>
+      <script async src='https://cdn.printfriendly.com/printfriendly.js'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/themes/dt-the7/js/main.min.js?ver=8.1.0'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/before-after-image-comparison-slider-for-elementor//assets/js/jquery.event.move.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/before-after-image-comparison-slider-for-elementor//assets/js/jquery.twentytwenty.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/before-after-image-comparison-slider-for-elementor//assets/js/main.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.slingpilotacademy.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/go_pricing/assets/js/go_pricing_scripts.js?ver=3.3.17'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/wp-display-files/assets/js/frontend.js?ver=5.4'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/dt-the7-core/assets/js/post-type.min.js?ver=8.1.0'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.2.3'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-includes/js/wp-embed.min.js?ver=5.4'></script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/www.slingpilotacademy.com\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/www.slingpilotacademy.com\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slingpilotacademy.com/wp-content/plugins/instagram-feed/js/sb-instagram-2-2.min.js?ver=2.2.2'></script>
+<div class="wpautoterms-footer"><p>
+		<a href="https://www.slingpilotacademy.com/wpautoterms/privacy-policy/">Privacy Policy</a></p>
+</div>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+				<button class="pswp__button pswp__button--share" title="Share"></button>
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div> 
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+			</button>
+			<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+			</button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

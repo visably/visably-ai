@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"cf33b4da04",applicationID:"234837951"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(e,n,t){function r(){}function i(e,n,t){return function(){return o(e,[u.now()].concat(f(arguments)),n?null:this,t),n?void 0:this}}var o=e("handle"),a=e(4),f=e(5),c=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",d=l+"ixn-";a(p,function(e,n){s[n]=i(l+n,!0,"api")}),s.addPageAction=i(l+"addPageAction",!0),s.setCurrentRouteName=i(l+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,i="function"==typeof n;return o(d+"tracer",[u.now(),e,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return n.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],t),e}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=i(d+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){var t=e.getEntries();t.forEach(function(e){"first-paint"===e.name?c("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&c("timing",["fcp",Math.floor(e.startTime)])})}function i(e,n){var t=e.getEntries();t.length>0&&c("lcp",[t[t.length-1]])}function o(e){if(e instanceof s&&!l){var n,t=Math.round(e.timeStamp);n=t>1e12?Date.now()-t:u.now()-t,l=!0,c("timing",["fi",t,{type:e.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e("handle"),u=e("loader"),s=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:["paint"]}),f.observe({entryTypes:["largest-contentful-paint"]})}catch(p){}}if("addEventListener"in document){var l=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}n.exports={agent:i,version:o,match:r}},{}],4:[function(e,n,t){function r(e,n){var t=[],r="",o=0;for(r in e)i.call(e,r)&&(t[o]=n(r,e[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],5:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,i=t-n||0,o=Array(i<0?0:i);++r<i;)o[r]=e[n+r];return o}n.exports=r},{}],6:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function i(e){function n(e){return e&&e instanceof r?e:e?c(e,f,o):o()}function t(t,r,i,o){if(!l.aborted||o){e&&e(t,r,i);for(var a=n(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function d(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||i(t)}function w(e,n){u(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:d,addEventListener:d,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(l.aborted=!0,s=l.backlog={})}var f="nr@context",c=e("gos"),u=e(4),s={},p={},l=n.exports=i();l.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(i.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[n]=r,r}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){i.buffer([e],r),i.emit(e,n,t)}var i=e("ee").get("handle");n.exports=r,r.ee=i},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=E.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();u(y,function(n,t){e[n]||(e[n]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function i(){"complete"===d.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=e("handle"),u=e(4),s=e("ee"),p=e(3),l=window,d=l.document,m="addEventListener",v="attachEvent",g=l.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:g,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1167.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=n.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),e(2),d[m]?(d[m]("DOMContentLoaded",o,!1),l[m]("load",r,!1)):(d[v]("onreadystatechange",i),l[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=e(6)},{}],"wrap-function":[function(e,n,t){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;n.exports=function(e,n){function t(e,n,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){l([u,"",[r,a,i],f])}s(n+"start",[r,a,i],f);try{return c=e.apply(a,r)}catch(p){throw s(n+"err",[r,a,p],f),p}finally{s(n+"end",[r,a,c],f)}}return r(e)?e:(n||(n=""),nrWrapper[a]=e,p(e,nrWrapper),nrWrapper)}function u(e,n,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<n.length;c++)f=n[c],a=e[f],r(a)||(e[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||n){var o=c;c=!0;try{e.emit(t,r,i,n)}catch(a){l([a,t,r,i])}c=o}}function p(e,n){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(e);return t.forEach(function(t){Object.defineProperty(n,t,{get:function(){return e[t]},set:function(n){return e[t]=n,n}})}),n}catch(r){l([r])}for(var i in e)f.call(e,i)&&(n[i]=e[i]);return n}function l(n){try{e.emit("internal-error",n)}catch(t){}}return e||(e=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+<!--    target-densityDpi=medium-dpi-->
+    <!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+    <link rel="shortcut icon" href="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/favicon.ico" type="image/x-icon">
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|Open+Sans:400,700,400italic,700italic|PT+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+			<script src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/js/jquery.backstretch.min.js"></script>
+	    <script src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/js/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	<script src= "https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/js/main.js"></script>
+    <script src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/js/jquery.mCustomScrollbar.min.js"></script>
+
+    <base href="https://criminaldefenseattorneytampa.com" />
+
+    <!--Structured Data-->
+    <script type="application/ld+json">{
+             "@context": "http://schema.org",
+             "@type": "LegalService",
+             "name": "Sammis Law Firm, P.A",
+                 "description": "The four attorneys at Sammis Law Firm, Jason D. Sammis, Leslie M. Sammis, Matt A. Menendez, and Amanda F. Brunson, focus exclusively on criminal defense. That focus allows us to stay up to date on innovative defenses that win cases.",
+             "url" : "https://criminaldefenseattorneytampa.com",
+             "logo" : "https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/logo.png",
+             "image" : "https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/slide1.jpg",
+             "telephone": "(813) 250-0500",
+             "hasMap": "https://www.google.com/maps/place/Sammis+Law+Firm,+P.A./@27.9532609,-82.4603372,17z/data=!3m1!4b1!4m5!3m4!1s0x88c2c461ef94f809:0xbafb7b8fe260896c!8m2!3d27.9532609!4d-82.4581485",
+             "address":
+                  {
+                  "@type": "PostalAddress",
+                  "streetAddress": "1005 N. Marion St.",
+                  "addressLocality": "Tampa",
+                  "addressRegion": "FL",
+                  "postalCode": "33602",
+                  "addressCountry": "USA"
+                  }
+        }</script>
+
+    <script type="text/javascript" charset="utf-8">
+        $(window).load(function() {
+        	const slider = $('.flexslider')
+
+        	if (slider) {
+		        slider.flexslider({ directionNav: false })
+	        }
+        })
+    </script>
+
+    <title>Criminal Defense &amp; DUI Lawyers in Tampa | Sammis Law | 813-250-0500</title>
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+
+<meta name="description" content="Arrested for a crime - felony, misdemeanor or DUI? Call the criminal defense attorneys at Sammis Law Firm in Tampa, Florida, in Hillsborough County."/>
+<link rel="canonical" href="https://criminaldefenseattorneytampa.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Criminal Defense &amp; DUI Lawyers in Tampa | Sammis Law | 813-250-0500" />
+<meta property="og:description" content="Arrested for a crime - felony, misdemeanor or DUI? Call the criminal defense attorneys at Sammis Law Firm in Tampa, Florida, in Hillsborough County." />
+<meta property="og:url" content="https://criminaldefenseattorneytampa.com/" />
+<meta property="og:site_name" content="Sammis Law Firm" />
+<meta property="og:image" content="https://criminaldefenseattorneytampa.com/wp-content/uploads/2019/04/logo@2x.png" />
+<meta property="og:image:secure_url" content="https://criminaldefenseattorneytampa.com/wp-content/uploads/2019/04/logo@2x.png" />
+<meta property="og:image:width" content="276" />
+<meta property="og:image:height" content="276" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Arrested for a crime - felony, misdemeanor or DUI? Call the criminal defense attorneys at Sammis Law Firm in Tampa, Florida, in Hillsborough County." />
+<meta name="twitter:title" content="Criminal Defense &amp; DUI Lawyers in Tampa | Sammis Law | 813-250-0500" />
+<meta name="twitter:site" content="@sammislaw" />
+<meta name="twitter:image" content="https://criminaldefenseattorneytampa.com/wp-content/uploads/2019/04/logo@2x.png" />
+<meta name="twitter:creator" content="@sammislaw" />
+<meta name="msvalidate.01" content="3D5DDA4310D036FE41FE5AC32D94A47C" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://criminaldefenseattorneytampa.com/#organization","name":"Sammis Law Firm","url":"https://criminaldefenseattorneytampa.com/","sameAs":["https://www.facebook.com/TampaCriminalDefenseLawyer","https://www.linkedin.com/company/sammis-law-firm","https://www.youtube.com/channel/UCYqHcdvmyHL8nJ5yyXdX31Q","https://twitter.com/sammislaw"],"logo":{"@type":"ImageObject","@id":"https://criminaldefenseattorneytampa.com/#logo","url":"https://criminaldefenseattorneytampa.com/wp-content/uploads/2019/04/logo@2x.png","width":276,"height":276,"caption":"Sammis Law Firm"},"image":{"@id":"https://criminaldefenseattorneytampa.com/#logo"}},{"@type":"WebSite","@id":"https://criminaldefenseattorneytampa.com/#website","url":"https://criminaldefenseattorneytampa.com/","name":"Criminal Defense Attorneys in Tampa, FL","publisher":{"@id":"https://criminaldefenseattorneytampa.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://criminaldefenseattorneytampa.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://criminaldefenseattorneytampa.com/#webpage","url":"https://criminaldefenseattorneytampa.com/","inLanguage":"en-US","name":"Criminal Defense &amp; DUI Lawyers in Tampa | Sammis Law | 813-250-0500","isPartOf":{"@id":"https://criminaldefenseattorneytampa.com/#website"},"about":{"@id":"https://criminaldefenseattorneytampa.com/#organization"},"datePublished":"2018-11-09T19:46:42+00:00","dateModified":"2020-04-04T20:43:58+00:00","description":"Arrested for a crime - felony, misdemeanor or DUI? Call the criminal defense attorneys at Sammis Law Firm in Tampa, Florida, in Hillsborough County."}]}</script>
+
+<link rel='dns-prefetch' href='//criminaldefenseattorneytampa.com' />
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Sammis Law Firm &raquo; Feed" href="https://criminaldefenseattorneytampa.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sammis Law Firm &raquo; Comments Feed" href="https://criminaldefenseattorneytampa.com/comments/feed/" />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
+var google_tag_params = {"siteID":0,"siteName":"","pageTitle":"Criminal Defense &amp; DUI Lawyers in Tampa | Sammis Law | 813-250-0500","pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthorID":2,"pagePostAuthor":"Leslie Sammis","pagePostDate":"November 9, 2018","pagePostDateYear":"2018","pagePostDateMonth":"11","pagePostDateDay":"09","browserName":"","browserVersion":"","browserEngineName":"","browserEngineVersion":"","osName":"","osVersion":"","deviceType":"","deviceManufacturer":"","deviceModel":"","postCountOnPage":1,"postCountTotal":1,"postID":1,"postFormat":"standard"};
+	dataLayer.push({"siteID":0,"siteName":"","visitorLoginState":"logged-out","visitorType":"visitor-logged-out","visitorEmail":"","visitorRegistrationDate":"","visitorUsername":"","visitorIP":"54.90.139.111","pageTitle":"Criminal Defense &amp; DUI Lawyers in Tampa | Sammis Law | 813-250-0500","pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthorID":2,"pagePostAuthor":"Leslie Sammis","pagePostDate":"November 9, 2018","pagePostDateYear":"2018","pagePostDateMonth":"11","pagePostDateDay":"09","browserName":"","browserVersion":"","browserEngineName":"","browserEngineVersion":"","osName":"","osVersion":"","deviceType":"","deviceManufacturer":"","deviceModel":"","postCountOnPage":1,"postCountTotal":1,"postID":1,"postFormat":"standard","google_tag_params":window.google_tag_params});//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PGKGR5M');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel="alternate" type="application/rss+xml" title="Sammis Law Firm &raquo; Home Comments Feed" href="https://criminaldefenseattorneytampa.com/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/criminaldefenseattorneytampa.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='lavawp-style-css'  href='https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/style.css?ver=7.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://criminaldefenseattorneytampa.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lexicata_form-frontend-css'  href='https://criminaldefenseattorneytampa.com/wp-content/plugins/lexicata-overrides/assets/css/frontend.css?ver=1.0.15' type='text/css' media='all' />
+<link rel='stylesheet' id='page-list-style-css'  href='https://criminaldefenseattorneytampa.com/wp-content/plugins/page-list/css/page-list.css?ver=5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sammis-law-mobile-menu/main.css-css'  href='https://criminaldefenseattorneytampa.com/wp-content/plugins/sammis-law-mobile-menu/dist/styles/main.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='lf-css_style-css'  href='https://criminaldefenseattorneytampa.com/?lf-css=1&#038;ver=5.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://criminaldefenseattorneytampa.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://criminaldefenseattorneytampa.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://criminaldefenseattorneytampa.com/wp-content/plugins/lexicata-overrides/assets/js/frontend.min.js?ver=1.0.15'></script>
+<script type='text/javascript' src='https://criminaldefenseattorneytampa.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.9.2'></script>
+<link rel='https://api.w.org/' href='https://criminaldefenseattorneytampa.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://criminaldefenseattorneytampa.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://criminaldefenseattorneytampa.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.2" />
+<link rel='shortlink' href='https://criminaldefenseattorneytampa.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://criminaldefenseattorneytampa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcriminaldefenseattorneytampa.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://criminaldefenseattorneytampa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcriminaldefenseattorneytampa.com%2F&#038;format=xml" />
+<link rel="pingback" href="https://criminaldefenseattorneytampa.com/xmlrpc.php"></head>
+
+<body class="home page-template-default page page-id-1 ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PGKGR5M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><br style="display:none;">
+<!--[if lt IE 7]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="">activate Google Chrome Frame</a> to improve your experience.</p>
+<![endif]-->
+<header class = "header-wrapper">
+    <div class = "header clearfix">
+        <a class = "logo" href = "https://criminaldefenseattorneytampa.com">
+            <img id = "header-seal" src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/logo.png" alt = "Sammis Law Firm - Florida Criminal Defense"/>
+            <div class="logo-text">
+                <span class="firm-name"><span class="caps">S</span>ammis <span class="caps">L</span>aw <span class="caps">F</span>irm</span>
+                <span class="tag-line"><span class="quote">&ldquo;</span>Fighting for the Best Result<span class="quote">&rdquo;</span></span>
+            </div>
+        </a>
+
+        <div class = "geo">1005 N. Marion St. <br/> Tampa, FL 33602 </div>
+
+        <a class = "call" href = "tel:8132500500">
+            <span class = "telnum">813.250.0500</span><br/>
+            <span class = "byline">Attorneys on call 24/7</span>
+        </a>
+
+        <div class="menu-wrapper">
+            <div class="menu">
+                <a href="#" id="access" class="mbSite"><span data-icon="&#xe055;" aria-hidden="true"></span>Show Site Menu</a>
+                <nav class="mobile-menu-container">
+                    <ul id="primary-menu" class="topnav"><li id="menu-item-908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-908"><a href="https://criminaldefenseattorneytampa.com/practice-areas/">Practice Areas</a>
+<ul class="sub-menu">
+	<li id="menu-item-920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-920"><a href="https://criminaldefenseattorneytampa.com/dui/">DUI</a></li>
+	<li id="menu-item-923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-923"><a href="https://criminaldefenseattorneytampa.com/driving-traffic-offenses/">Driving / Traffic Offenses</a></li>
+	<li id="menu-item-925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-925"><a href="https://criminaldefenseattorneytampa.com/drug-crimes/">Drug Crimes</a></li>
+	<li id="menu-item-924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-924"><a href="https://criminaldefenseattorneytampa.com/marijuana-crimes/">Marijuana</a></li>
+	<li id="menu-item-930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-930"><a href="https://criminaldefenseattorneytampa.com/property-crimes/">Property Crimes</a></li>
+	<li id="menu-item-933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-933"><a href="https://criminaldefenseattorneytampa.com/theft-crimes/">Theft Crimes</a></li>
+	<li id="menu-item-935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-935"><a href="https://criminaldefenseattorneytampa.com/violent-crimes/">Violent Crimes</a></li>
+	<li id="menu-item-5521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5521"><a href="https://criminaldefenseattorneytampa.com/domestic-violence/">Domestic Violence Battery</a></li>
+	<li id="menu-item-937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-937"><a href="https://criminaldefenseattorneytampa.com/sexually-motivated-crimes/">Sexually Motivated Crimes</a></li>
+	<li id="menu-item-943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-943"><a href="https://criminaldefenseattorneytampa.com/firearm-gun-weapon-charges/">Firearm / Gun / Weapon Charges</a></li>
+	<li id="menu-item-940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-940"><a href="https://criminaldefenseattorneytampa.com/white-collar-crime/">White Collar Crime</a></li>
+	<li id="menu-item-947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-947"><a href="https://criminaldefenseattorneytampa.com/juvenile-matters/">Juvenile Defense</a></li>
+	<li id="menu-item-950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-950"><a href="https://criminaldefenseattorneytampa.com/violation-of-probation/">Violation of Probation</a></li>
+	<li id="menu-item-955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-955"><a href="https://criminaldefenseattorneytampa.com/warrant-for-arrest/">Arrest Warrant</a></li>
+	<li id="menu-item-956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-956"><a href="https://criminaldefenseattorneytampa.com/emergency-bond-hearings/">Bond Reductions</a></li>
+	<li id="menu-item-957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-957"><a href="https://criminaldefenseattorneytampa.com/seal-and-expunge-criminal-record/">Seal and Expunge Criminal Record</a></li>
+	<li id="menu-item-960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-960"><a href="https://criminaldefenseattorneytampa.com/asset-seizure-asset-forfeiture/">Asset Seizure / Asset Forfeiture</a></li>
+	<li id="menu-item-963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-963"><a href="https://criminaldefenseattorneytampa.com/career-consequences/appeals/">Appeals</a></li>
+	<li id="menu-item-939" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-939"><a href="https://criminaldefenseattorneytampa.com/protective-order-hearings/">Protective Order Hearings</a></li>
+	<li id="menu-item-970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-970"><a href="https://criminaldefenseattorneytampa.com/legal-defenses/">Legal Defenses</a></li>
+</ul>
+</li>
+<li id="menu-item-909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-909"><a href="https://criminaldefenseattorneytampa.com/meet-our-attorneys/">Meet the Attorneys</a>
+<ul class="sub-menu">
+	<li id="menu-item-915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-915"><a href="https://criminaldefenseattorneytampa.com/meet-our-attorneys/jason-d-sammis/">Jason D. Sammis</a></li>
+	<li id="menu-item-910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-910"><a href="https://criminaldefenseattorneytampa.com/meet-our-attorneys/leslie-m-sammis/">Leslie M. Sammis</a></li>
+	<li id="menu-item-916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-916"><a href="https://criminaldefenseattorneytampa.com/meet-our-attorneys/amanda-brunson/">Amanda Brunson</a></li>
+	<li id="menu-item-912" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-912"><a href="https://criminaldefenseattorneytampa.com/meet-our-attorneys/meet-the-staff/">Meet the Staff</a></li>
+</ul>
+</li>
+<li id="menu-item-972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-has-children menu-item-972"><a href="https://criminaldefenseattorneytampa.com/case-results/">Case Results</a>
+<ul class="sub-menu">
+	<li id="menu-item-976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-976"><a href="https://criminaldefenseattorneytampa.com/case-results/dui-case-results/">DUI Case Results</a></li>
+	<li id="menu-item-5093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5093"><a href="https://criminaldefenseattorneytampa.com/case-results/forfeiture/">Forfeiture Results</a></li>
+	<li id="menu-item-977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-977"><a href="https://criminaldefenseattorneytampa.com/case-results/hto/">HTO Case Results</a></li>
+	<li id="menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-973"><a href="https://criminaldefenseattorneytampa.com/case-results/">Felony / Misdemeanor Case Results</a></li>
+</ul>
+</li>
+<li id="menu-item-979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-979"><a href="https://criminaldefenseattorneytampa.com/track-your-case/">Track Your Case</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-981"><a href="https://criminaldefenseattorneytampa.com/florida/">Areas We Serve</a>
+<ul class="sub-menu">
+	<li id="menu-item-994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-994"><a href="https://criminaldefenseattorneytampa.com/florida/hillsborough-county/">Hillsborough County</a></li>
+	<li id="menu-item-1012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1012"><a href="https://criminaldefenseattorneytampa.com/florida/hernando-county/">Hernando County</a></li>
+	<li id="menu-item-1015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1015"><a href="https://criminaldefenseattorneytampa.com/florida/manatee-county/">Manatee County</a></li>
+	<li id="menu-item-985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-985"><a href="https://criminaldefenseattorneytampa.com/florida/pasco-county/">Pasco County</a></li>
+	<li id="menu-item-1021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1021"><a href="https://criminaldefenseattorneytampa.com/florida/pinellas-county/">Pinellas County</a></li>
+	<li id="menu-item-1031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1031"><a href="https://criminaldefenseattorneytampa.com/florida/polk-county/">Polk County</a></li>
+</ul>
+</li>
+<li id="menu-item-1007" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1007"><a href="https://criminaldefenseattorneytampa.com/contact-us/">Contact Us</a></li>
+</ul>                </nav>
+            </div>
+        </div> <!--/menu-->
+    </div>
+</header> <!--/header-->
+
+    <div class = "banner-bg">
+        <div class = "banner-mask">
+            <div class = "banner clearfix">
+                <div class="features">
+                    <div class="hero" style="background: no-repeat center/cover url(https://criminaldefenseattorneytampa.com/wp-content/uploads/2019/06/attorneys-e1568472029832.jpg);"></div>
+                    <div class="ctas clearfix">
+
+                        <a class="cta first" href="/resources/videos/">
+								<span class="image-container">
+									<img src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/cta-videos.jpg" alt="Watch Our Videos">
+								</span>
+                            <span class="heading">
+									<span class="hide-words">Watch Our </span>Videos
+								</span>
+                        </a>
+
+                        <a class="cta" href="/contact-us/">
+								<span class="image-container">
+									<img src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/cta-office.jpg" alt="Visit Our Office">
+								</span>
+                            <span class="heading">
+									<span class="hide-words">Visit Our </span>Office
+								</span>
+                        </a>
+
+                        <a class="cta" href="/contact-us">
+								<span class="image-container">
+									<img src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/cta-consult.jpg" alt="Schedule a Consultation">
+								</span>
+                            <span class="heading">
+									<span class="hide-words">Schedule a </span>Consultation
+								</span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div class="side">
+                    <div class="banner-form">
+                       <div id="lf_form_container">
+    <form method="post" action="/">
+        <h3>Free Case Evaluation</h3>
+        <p id="lf_first_name_block">
+            <label class="description" for="lf_first_name">First Name</label>
+            <input id="lf_first_name" name="lf_first_name" type="text" maxlength="255" value="" required='required' placeholder="" />
+        </p>
+        <p id="lf_last_name_block">
+            <label class="description" for="lf_last_name">Last Name</label>
+            <input id="lf_last_name" name="lf_last_name" type="text" maxlength="255" value="" required='required' placeholder="" />
+        </p>
+        <p id="lf_email_block">
+            <label class="description" for="lf_email">Email</label>
+            <input id="lf_email" name="lf_email" type="email" maxlength="255" value="" required='required' placeholder="" />
+        </p>
+        <p id="lf_phone_block">
+            <label class="description" for="lf_phone">Phone</label>
+            <input id="lf_phone" name="lf_phone" type="text" maxlength="24" value="" placeholder="" />
+        </p>
+
+	    
+<p id="lf_county_of_arrest_label_block">
+	<label class="description" for="lf_county_of_arrest">County of Arrest</label>
+	<select id="lf_county_of_arrest" name="lf_county_of_arrest">
+								<option  value="Alachua">Alachua</option>
+								<option  value="Baker">Baker</option>
+								<option  value="Bay">Bay</option>
+								<option  value="Bradford">Bradford</option>
+								<option  value="Brevard">Brevard</option>
+								<option  value="Broward">Broward</option>
+								<option  value="Calhoun">Calhoun</option>
+								<option  value="Charlotte">Charlotte</option>
+								<option  value="Citrus">Citrus</option>
+								<option  value="Clay">Clay</option>
+								<option  value="Collier">Collier</option>
+								<option  value="Columbia">Columbia</option>
+								<option  value="DeSoto">DeSoto</option>
+								<option  value="Dixie">Dixie</option>
+								<option  value="Duval">Duval</option>
+								<option  value="Escambia">Escambia</option>
+								<option  value="Flagler">Flagler</option>
+								<option  value="Franklin">Franklin</option>
+								<option  value="Gadsden">Gadsden</option>
+								<option  value="Gilchrist">Gilchrist</option>
+								<option  value="Glades">Glades</option>
+								<option  value="Gulf">Gulf</option>
+								<option  value="Hamilton">Hamilton</option>
+								<option  value="Hardee">Hardee</option>
+								<option  value="Hendry">Hendry</option>
+								<option  value="Hernando">Hernando</option>
+								<option  value="Highlands">Highlands</option>
+								<option selected value="Hillsborough">Hillsborough</option>
+								<option  value="Holmes">Holmes</option>
+								<option  value="Indian River">Indian River</option>
+								<option  value="Jackson">Jackson</option>
+								<option  value="Jefferson">Jefferson</option>
+								<option  value="Lafayette">Lafayette</option>
+								<option  value="Lake">Lake</option>
+								<option  value="Lee">Lee</option>
+								<option  value="Leon">Leon</option>
+								<option  value="Levy">Levy</option>
+								<option  value="Liberty">Liberty</option>
+								<option  value="Madison">Madison</option>
+								<option  value="Manatee">Manatee</option>
+								<option  value="Marion">Marion</option>
+								<option  value="Martin">Martin</option>
+								<option  value="Miami-Dade">Miami-Dade</option>
+								<option  value="Monroe">Monroe</option>
+								<option  value="Nassau">Nassau</option>
+								<option  value="Okaloosa">Okaloosa</option>
+								<option  value="Okeechobee">Okeechobee</option>
+								<option  value="Orange">Orange</option>
+								<option  value="Osceola">Osceola</option>
+								<option  value="Palm Beach">Palm Beach</option>
+								<option  value="Pasco">Pasco</option>
+								<option  value="Pinellas">Pinellas</option>
+								<option  value="Polk">Polk</option>
+								<option  value="Putnam">Putnam</option>
+								<option  value="St. Johns">St. Johns</option>
+								<option  value="St. Lucie">St. Lucie</option>
+								<option  value="Santa Rosa">Santa Rosa</option>
+								<option  value="Sarasota">Sarasota</option>
+								<option  value="Seminole">Seminole</option>
+								<option  value="Sumter">Sumter</option>
+								<option  value="Suwannee">Suwannee</option>
+								<option  value="Taylor">Taylor</option>
+								<option  value="Union">Union</option>
+								<option  value="Volusia">Volusia</option>
+								<option  value="Wakulla">Wakulla</option>
+								<option  value="Walton">Walton</option>
+								<option  value="Washington">Washington</option>
+			</select>
+</p>
+
+        <p id="lf_message_block">
+            <label class="description" for="lf_message">Message</label>
+			<textarea id="lf_message" name="lf_message" required='required' placeholder="Briefly describe your legal situation"></textarea>
+        </p>
+
+			    			<p id="lf_disclaimer">
+				<input type="checkbox" id="lf_disclaimer" name="lf_disclaimer_checkbox" value="i_agree" required='true'/>
+				<label class="description" for="lf_disclaimer">I understand that submission of an online form does not constitute an attorney‑client relationship. *</label>
+			</p>
+		
+        <div id="lf_wrap" style="display:none;">
+            <label class="description" for="leave_this_blank">Leave this Blank if are sentient </label>
+            <input name="leave_this_blank_url" type="text" value="" id="leave_this_blank"/>
+        </div>
+
+		
+        <input type="hidden" name="leave_this_alone" value="MTU4NjE0ODk1Ng=="/>
+        <p class="buttons">
+            <input type="hidden" name="form_id" value="1044046" />
+            <input id="saveForm" class="button_text" type="submit" name="lf_submit" value="Submit" style="background-color: ; color:" />
+        </p>
+    </form>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!--/banner-->
+
+    <div class = "content-bg">
+        <div class = "content-wrapper">
+            <main id="content" class="content">
+                <div class = "content-text">
+                    <h1>Criminal Defense Attorneys in Tampa, FL</h1>
+<p>Sammis Law Firm, P.A., remains open during during the novel coronavirus (COVID&#8211;19) public health crisis. The attorneys and staff are working from home but we are still available by phone, for remote video conference appointment, or for confidential in person meetings at the office when needed.</p>
+<p>During the consultation, you can discuss the facts of the case, the best defenses, and how to protect your rights at each stage of the case. We are fully available and can be reached Monday-Friday between the hours of 8:30 a.m. to 5:00 p.m. at 813-250-0500. We welcome your calls.</p>
+<p>If you need help on the weekend or after business hours, leave a message with our answering service. One of our attorneys is &#8220;on call.&#8221; If you leave a message after normal business hours, an attorney will call you back immediately.</p>
+<p>Our firm is focused exclusively on criminal defense in the greater Tampa Bay area. For the past ten years, our main office has been located in downtown Tampa, FL, just a few blocks from the courthouse. Our second office is located in New Port Richey in Pasco County, FL.</p>
+<h2>Innovative Defenses Win Cases</h2>
+<p>Extraordinary results require extraordinary efforts at each stage of the case. We work with seasoned private investigators and the top experts while still maintaining affordable fees and costs.</p>
+<p>We can help you decide on the best way to resolve your case. If you were falsely accused, the best result is getting the charges dropped by the prosecutor or dismissed by the trial court.</p>
+<p>Depending on how the case resolves, you might be eligible to quickly <a href="https://criminaldefenseattorneytampa.com/seal-and-expunge-criminal-record/">seal or expunge</a> the criminal record history and mug shot so that it disappears from the public view.</p>
+<p>Good things happen when criminal defense attorneys file pre-file motions including:</p>
+<ol>
+<li>motions to suppress evidence illegally obtained;</li>
+<li>motions to exclude irrelevant or prejudicial evidence; or</li>
+<li>motions to dismiss because of insufficient evidence.</li>
+</ol>
+<p>Even if the court doesn&#8217;t grant the pre-trial motion, the defense attorney gains valuable information about the prosecutor&#8217;s case during the hearing. Information from the motion hearing can be used to win the case at trial or negotiate a better pre-trial settlement.</p>
+<p>For all these reasons, we <span class="s1">take a scholarly approach to litigating pre-trial motions. When it comes to a motion hearing or trial, we come prepared.</span></p>
+<hr />
+<h3>Representing Professionals Accused of a Crime</h3>
+<p>Many of our clients have no prior criminal record and never imagined being on the wrong side of the law. The stakes are even higher for certain types of professionals, including:</p>
+<ul>
+<li>health-care professionals;</li>
+<li>teachers and certified educators;</li>
+<li>attorneys and students in law school;</li>
+<li>members of the military; and</li>
+<li>law enforcement officers.</li>
+</ul>
+<p>When the stakes are high, find an experienced criminal justice attorney at Sammis Law Firm to help you fight the charges. We take a full-service approach to criminal defense while addressing the collateral consequences that might occur because of the accusation.</p>
+<p>Keep in mind that during a declared <a href="https://criminaldefenseattorneytampa.com/practice-areas/state-of-emergency/">&#8220;state of emergency&#8221; some criminal charges</a> are more serious and come with a higher bond amount and potential penalties.</p>
+<hr />
+<h3>Don&#8217;t Speak &#8211; You Have the Right to Remain Silent</h3>
+<p>If you decide to speak to law enforcement about the facts of your case without an attorney being present, then you are waiving your Fifth Amendment rights against self-incrimination and your Sixth Amendment right to counsel.</p>
+<p>Don&#8217;t waive important constitutional rights until AFTER you have spoken to an attorney. Your attorney is often in the best position to explain your side of the story to the law enforcement officer.</p>
+<p>You can invoke your rights by saying: &#8220;I&#8217;m taking the 5th and 6th amendment.&#8221; Then remain silent. If you are lawfully detained, you can tell the officer your name, address, and date of birth without waiving your rights.</p>
+<p>At trial, the jury is not told that you invoked your right to remain silent or your right to counsel. In other words, the fact that you remained silent cannot be used against you.</p>
+<p>If you hire a criminal defense attorney, the attorney can send a notice to the investigating officer that you are invoking your rights under the 5th and 6th amendments. This notice prevents the officers from asking you any questions about the accusations or coming to your home to interrogate you.</p>
+<p>In the event the officer does intend to make an arrest, your attorney can help you surrender under terms that may speed up your release, keep you safe, and save you money. We can contact the prosecutor to discuss lowering the bond amount.</p>
+<p>At Sammis Law Firm, our criminal justice attorneys also handle other critical details that might minimize the embarrassment, stress, and expense that might otherwise accompany the arrest.</p>
+<hr />
+<h3>Effective Pre-File Negotiations in the Tampa Bay Area</h3>
+<p>The prosecutors with the State Attorney&#8217;s Office in the Thirteenth Judicial Circuit have discretion when deciding whether to prosecute <a href="https://criminaldefenseattorneytampa.com/statutory-penalties/felony/">felony charges</a> after an arrest by the Tampa Police Department, the Hillsborough County Sheriff&#8217;s Office, or other local law enforcement agencies in Tampa Bay.</p>
+<p>In felony cases, the prosecutors with the State Attorney&#8217;s Offices make a filing decision within 21 (twenty-one) days after the arrest, so you must act quickly to preserve all avenues of attack. If you are not formally charged within 21 days, then you are entitled to an adversary preliminary hearing if the proper motion is filed.</p>
+<p>An attorney can act quickly to present favorable evidence to the prosecutor on your behalf. During the pre-file stages of the case, your attorney will often talk with the prosecutor about reasons not to file any formal charges or only file reduced charges.</p>
+<p>Why are charges dropped? The prosecutor might decide to drop the charges (&#8220;nolle prosse&#8221;) for a variety of reasons including:</p>
+<ul>
+<li>a pending motion to suppress or motion to dismiss;</li>
+<li>insufficient evidence;</li>
+<li>the witness is unavailable;</li>
+<li>witness waivers; or</li>
+<li>the witness files a request not to prosecute.</li>
+</ul>
+<p>Hiring a criminal justice lawyer <em>quickly</em> after an accusation or arrest remains one of the most effective ways to defend yourself against an unfair prosecution.</p>
+<hr />
+<h3>Out of State Clients Charged with a Crime</h3>
+<p>After an arrest for <a href="https://criminaldefenseattorneytampa.com/statutory-penalties/misdemeanor/">misdemeanor</a> charges such as driving under the influence (DUI), possession of marijuana, possession of drug paraphernalia, domestic battery, petit theft or shoplifting after visiting the Tampa Bay area, then call us to discuss the best legal defenses that might apply to your case.</p>
+<p>Your attorney may be able to resolve your case without the need for you to return to Florida. The court may allow you to waive your appearance at many, if not all, of your pre-trial court dates.</p>
+<p>For clients who live out of state, it is important to avoid costly and unnecessary trips to court while aggressively fighting the charges.</p>
+<p>Many people call us after finding out about a Florida <a href="https://criminaldefenseattorneytampa.com/warrant-for-arrest/">arrest warrant</a> for failure to appear, direct file information, or an ongoing criminal investigation. We also represent clients facing <a href="https://criminaldefenseattorneytampa.com/extradition/">extradition on a fugitive warrant to or from the State of Florida</a>.</p>
+<hr />
+<h3>DUI Defense Attorneys for Hillsborough County, FL</h3>
+<p>At Sammis Law Firm, our attorneys are focused on <a href="https://criminaldefenseattorneytampa.com/dui/">DUI defense throughout Tampa</a>, FL, and the surrounding areas in and around Hillsborough County. We also fight <a href="https://criminaldefenseattorneytampa.com/florida/pasco-county/new-port-richey/dui/">DUI cases in New Port Richey</a>, and the surrounding areas of Pasco County, FL. We represent clients charged with DUI after a breath test, blood test, urine test, or a refusal to submit to testing.</p>
+<p>Many of these drunk driving cases have the potential for enhanced penalties because of <a href="https://criminaldefenseattorneytampa.com/dui/chemical-testing/refusal/">property damage</a>, having a BAC over .15, driving with a child passenger, or having a prior DUI conviction.</p>
+<p>For a first DUI without any aggravating factors, you might be eligible for <a href="https://criminaldefenseattorneytampa.com/dui/ridr/">Hillsborough County&#8217;s DUI Diversion program</a>, called Reducing Impaired Driving Recidivism or RIDR for short. Only about 20% of DUI cases are eligible for RIDR.</p>
+<p>With the first ten (10) days of the arrest, we always recommend demanding a formal review hearing to contest the &#8220;on the spot&#8221; administrative suspension of your driver&#8217;s license. The best way to fight the DUI case is to obtain a 42-day permit so that you can keep driving while we contest the administrative suspension.</p>
+<p>We can use the information gained during the formal review hearing to aggressively fight your criminal charges in the courtroom.</p>
+<p>The Tampa DUI Attorneys at Sammis Law Firm can help you understand your rights, protect your freedom, and find the best way to aggressively defend you against the criminal charge for drunk or impaired driving.</p>
+<hr />
+<h2>Finding a Criminal Justice Lawyer in Tampa</h2>
+<p>We understand that your livelihood, liberty, and good name are on the line after an accusation of criminal wrongdoing. Contact Sammis Law Firm, P.A., for a free immediate consultation over the phone or in the office. Our main office is located in downtown Tampa and in New Port Richey, FL.</p>
+<p>Our attorneys are members of the organizations that serve the top criminal defense lawyers across the country by providing training, contacts, networking opportunities and other resources including:</p>
+<ul>
+<li>the National Organization for Criminal Defense Lawyers (NACDL);</li>
+<li>the Florida Association for Criminal Defense Lawyers (FACDL);</li>
+<li>the NORML National Legal Committee (NLC); and</li>
+<li>the National College for DUI Defense (NCDD).</li>
+</ul>
+<p>By focusing exclusively on criminal justice in the Tampa Bay area, we represent clients charged with both felony and misdemeanor criminal offenses in state court. We provide affordable legal fees for a wide range of criminal and DUI charges.</p>
+<p>Our attorneys are also experienced in <a href="https://criminaldefenseattorneytampa.com/appeals/">handling criminal appeals</a> and post-conviction motions. Let us put our experience to work for you.</p>
+<p>Call <a href="tel:(813) 250-0500" target="_blank" title="Call Sammis Law Firm">(813) 250-0500</a>.</p>
+<hr />
+<p><em>This article was last updated on Saturday, April 4, 2020.</em></p>
+                </div>
+            </main> <!--/content-->
+
+            <div class = "side-pane">
+                <div id="custom_html-2" class="widget_text widget widget_custom_html"><h2 class="front-page-sidebar">Attorneys &#038; Staff</h2><div class="textwidget custom-html-widget"><div class="side attys">
+	<p class="heading"><span class="attorneys icon-heading">Meet Our Attorneys</span></p>
+
+	<a href="https://criminaldefenseattorneytampa.com/meet-our-attorneys/jason-d-sammis/" class="atty clearfix">
+		<img src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/atty-jason.jpg" alt="Attorney Jason D. Sammis" />
+		<p class="text">
+
+			<span class="name">Jason D. Sammis</span>Tampa native with 15 years experience. University of Florida College of Law Graduate...
+
+		</p>
+		<span class="more">Read more</span>
+	</a>
+
+	<a href="https://criminaldefenseattorneytampa.com/meet-our-attorneys/leslie-m-sammis/" class="atty clearfix">
+		<img src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/atty-leslie.jpg" alt="Attorney Leslie M. Sammis" />
+
+		<p class="text">
+
+			<span class="name">Leslie M. Sammis</span>Focused on DUI Defense for more than 20 years. Former Assistant Public Defender...
+
+		</p>
+		<span class="more">Read more</span>
+	</a>
+
+
+	<a href="https://criminaldefenseattorneytampa.com/meet-our-attorneys/amanda-brunson/" class="atty clearfix">
+		<img src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/atty-brunson.jpg" alt="Attorney Amanda Brunson" />
+
+		<p class="text">
+
+			<span class="name">Amanda Brunson</span>With over 25 jury trials and 40 bench trials, Amanda is experienced in...
+
+		</p>
+		<span class="more">Read more</span>
+	</a>
+
+	<p class="heading"><span id="attorneys" class="icon-heading">Meet the Staff</span></p>
+
+	<a href="https://criminaldefenseattorneytampa.com/meet-our-attorneys/meet-the-staff/" class="atty clearfix">
+
+		<img src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/staff-pond.jpg" alt="Jennifer Pond - Paralegal" />
+
+		<p class="text">
+
+			<span class="name">Jennifer Pond</span>As a paralegal, Jennifer assists the attorneys with the initial intake, filing motions...
+
+		</p>
+		<span class="more">Read more</span>
+	</a>
+
+	<a href="https://criminaldefenseattorneytampa.com/meet-our-attorneys/meet-the-staff/" class="atty clearfix">
+
+		<img src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/staff-wynimko.jpg" alt="Danielle Wynimko - Paralegal" />
+
+		<p class="text">
+
+			<span class="name">Danielle Wynimko</span>As a Florida Registered Paralegal, Danielle has fulfilled the requirements set forth by...
+
+		</p>
+		<span class="more">Read more</span>
+	</a>
+
+	<a href="https://criminaldefenseattorneytampa.com/meet-our-attorneys/meet-the-staff/" class="atty clearfix">
+	</a></div>
+<!--/attorneys--></div></div><div id="custom_html-3" class="widget_text widget widget_custom_html"><h2 class="front-page-sidebar">Explore Our Site</h2><div class="textwidget custom-html-widget"><div class="side sidemenu">
+	<p class="heading"><span id="website" class="icon-heading">Explore Our Website</span></p>
+	<ul class="sidenav "><li id="Page11" class="level1 first"><a href="https://criminaldefenseattorneytampa.com/dui/" class="level1">DUI</a></li>
+		<li id="Page13" class="level1 "><a href="https://criminaldefenseattorneytampa.com/driving-traffic-offenses/" class="level1">Driving / Traffic Offenses</a></li>
+		<li id="Page14" class="level1 "><a href="https://criminaldefenseattorneytampa.com/drug-crimes/" class="level1">Drug Crimes</a></li>
+		<li id="Page15" class="level1 "><a href="https://criminaldefenseattorneytampa.com/marijuana-crimes/" class="level1">Marijuana</a></li>
+		<li id="Page34" class="level1 "><a href="https://criminaldefenseattorneytampa.com/property-crimes/" class="level1">Property Crimes</a></li>
+		<li id="Page23" class="level1 "><a href="https://criminaldefenseattorneytampa.com/theft-crimes/" class="level1">Theft Crimes</a></li>
+		<li id="Page16" class="level1 "><a href="https://criminaldefenseattorneytampa.com/domestic-violence/" class="level1">Domestic Violence Battery</a></li>
+		<li id="Page22" class="level1 "><a href="https://criminaldefenseattorneytampa.com/firearm-gun-weapon-charges/" class="level1">Firearm / Gun / Weapon Charges</a></li>
+		<li id="Page17" class="level1 "><a href="https://criminaldefenseattorneytampa.com/protective-order-hearings/" class="level1">Protective Order Hearings</a></li>
+		<li id="Page33" class="level1 "><a href="https://criminaldefenseattorneytampa.com/sexually-motivated-crimes/" class="level1">Sexually Motivated Crimes</a></li>
+		<li id="Page30" class="level1 "><a href="https://criminaldefenseattorneytampa.com/white-collar-crime/" class="level1">White Collar Crime</a></li>
+		<li id="Page26" class="level1 "><a href="https://criminaldefenseattorneytampa.com/juvenile-matters/" class="level1">Juvenile Defense</a></li>
+		<li id="Page31" class="level1 "><a href="https://criminaldefenseattorneytampa.com/warrant-for-arrest/" class="level1">Arrest Warrant</a></li>
+		<li id="Page18" class="level1 "><a href="https://criminaldefenseattorneytampa.com/violation-of-probation/" class="level1">Violation of Probation</a></li>
+		<li id="Page29" class="level1 "><a href="https://criminaldefenseattorneytampa.com/seal-and-expunge-criminal-record/" class="level1">Seal / Expunge Criminal Record</a></li>
+		<li id="Page27" class="level1 "><a href="https://criminaldefenseattorneytampa.com/appeals/" class="level1">Appeals</a></li>
+		<li id="Page3" class="level1 "><a href="https://criminaldefenseattorneytampa.com/case-results/" class="level1">Case Results</a></li>
+		<li id="Page234" class="level1 last"><a href="https://criminaldefenseattorneytampa.com/florida/" class="level1">Areas We Serve</a></li>
+	</ul>
+</div></div></div>                <!--                [[!chunkListParser?chunks=`[[*SideContent]]` &wrapperdiv=`SideContent`]]-->
+            </div> <!--/side pane-->
+        </div>
+    </div> <!--/content bg-->
+
+
+<footer class="footer-bg">
+    <div class="footer">
+        <div class="footer-top">
+
+            <div class="footer-top-column">
+                <a class="logo" href="https://criminaldefenseattorneytampa.com">
+                    <img src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/logo.png" id = "footer-seal" alt = "Sammis Law Firm - Florida Criminal Defense"/>
+                    <div class="logo-text">
+                        <span class="firm-name"><span class="caps">S</span>ammis <span class="caps">L</span>aw <span class="caps">F</span>irm</span>
+                        <span class="tag-line"><span class="quote">&ldquo;</span>Fighting for the Best Result<span class="quote">&rdquo;</span></span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="footer-top-column">
+                <div class = "geo">Main Office:<br/> 1005 N. Marion St. <br/> Tampa, FL 33602 </div>
+            </div>
+
+            <div class="footer-top-column">
+                <div class = "geo">Second Office:<br/> 7509 Little Road<br/> New Port Richey, FL 34654<br />Phone: 727-807-6392</div>
+                <a class = "call footer-mobile-call" href = "tel:8132500500">
+                    <span class = "telnum">813.250.0500</span><br/>
+                    <span class = "byline">Attorneys on call 24/7</span>
+                </a>
+            </div>
+
+            <div class="footer-top-column">
+                <p class = "disclaimer">This website is maintained by Jason D. Sammis and Leslie M. Sammis. Although you might find links to other websites maintained by public entities or private third parties on this website, the presence of such a link does not imply an endorsement of the third party website or the accuracy of its content. We update the information on this website periodically, but the information on this site should not be used as legal advice for your personal problem. You should not rely on this information when making decisions about your case. The law is constantly changing and evolving. If you are charged with a crime or being investigated for a crime, it is important to talk with a criminal defense attorney directly about the particular facts and circumstances of your case.</p>
+                <p class = "disclaimer">Do not rely on advertisements when choosing the best criminal defense attorney in Tampa, FL, for your case. Finding the right attorney is an important decision. Before you decide, schedule an appointment to meet directly with the attorney. Learn more about the attorney's qualifications and experience in fighting criminal cases. The use of the Internet for communication with the firm or any individual member of the firm does not establish an attorney-client relationship. Confidential or time-sensitive information should not be sent through this website. </p>
+            </div>
+
+            <div class="footer-top-column">
+                <a class = "call footer-desktop-call" href = "tel:8132500500">
+                    <span class = "telnum">813.250.0500</span><br/>
+                    <span class = "byline">Attorneys on call 24/7</span>
+                </a>
+                <div class = "social">
+                    <a href = "https://www.facebook.com/TampaCriminalDefenseLawyer" target = "_blank" id = "fb"></a>
+                    <a href = "https://twitter.com/sammislaw" target = "_blank" id = "twitter"></a>
+<!--                    <a href = "https://plus.google.com/109801021596907620858/posts" target = "_blank" id = "google"></a>-->
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</footer>
+
+<div class = "copyright-bg">
+    <div class = "copyright">
+        <p>&copy; 2013 - 2020 Sammis Law Firm P.A.  -  <a href="https://criminaldefenseattorneytampa.com/privacy-policy">Privacy Policy</a> - Lawyer Website Design by: <a href="https://www.internetlava.com" target="_blank" rel="noopener" class="lava-link">INTERNET <strong>LAVA</strong><img src="https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/images/mini-lava.png" alt="Internet Lava"></a></p>
+    </div>
+</div>
+
+<nav id="mobile-menu-container" class="menu-mobile-menu-container"><ul id="menu-mobile-menu" class="menu"><li id="menu-item-4700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4700"><a href="/meet-our-attorneys/"><span class="link-before">Our Firm</span><i class="fa fa-user-shield"></i></a></li>
+<li id="menu-item-4701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4701"><a href="tel:8132500500"><span class="link-before">Call</span><i class="fa fa-phone"></i></a></li>
+<li id="menu-item-4702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4702"><a href="/contact-us/"><span class="link-before">Contact</span><i class="fa fa-envelope"></i></a></li>
+<style type='text/css'>.menu-mobile-menu-container { background: linear-gradient(to bottom, rgba(7,65,108,1) 0%,rgba(7,59,97,1) 27%,rgba(7,42,71,1) 68%,rgba(7,33,56,1) 100%);}</style></ul></nav><script type='text/javascript' src='https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/js/skip-link-focus-fix.js?ver=20151215'></script>
+<script type='text/javascript' src='https://criminaldefenseattorneytampa.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-users.js?ver=1.9.2'></script>
+<script type='text/javascript' src='https://kit.fontawesome.com/1a37c2034a.js?ver=5.9.0'></script>
+<script type='text/javascript' src='https://criminaldefenseattorneytampa.com/wp-includes/js/wp-embed.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='https://criminaldefenseattorneytampa.com/wp-content/themes/lavawp/js/jquery.backstretch.min.js?ver=2.1.17'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function($) {
+				$('.hero').backstretch()
+			});
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"cf33b4da04","applicationID":"234837951","transactionName":"ZVEGZBEAXBVUAkBfWlwbJVMXCF0IGgdGWVtGGRRRBAQ=","queueTime":0,"applicationTime":321,"atts":"SRYFElkaTxs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

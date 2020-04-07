@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>Park City Fly Fishing | Park City Fly Shop &amp; Guide Service</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- This site is optimized with the Yoast SEO plugin v13.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Trout Bum 2 is the trusted, local source for everything related to Park City fly fishing! Everything from Park City fly fishing guides to gear and knowledge of Utah, the surrounding region and worldwide fishing destinations."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.troutbum2.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Park City Fly Fishing | Park City Fly Shop &amp; Guide Service" />
+<meta property="og:description" content="Trout Bum 2 is the trusted, local source for everything related to Park City fly fishing! Everything from Park City fly fishing guides to gear and knowledge of Utah, the surrounding region and worldwide fishing destinations." />
+<meta property="og:url" content="https://www.troutbum2.com/" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Trout Bum 2 is the trusted, local source for everything related to Park City fly fishing! Everything from Park City fly fishing guides to gear and knowledge of Utah, the surrounding region and worldwide fishing destinations." />
+<meta name="twitter:title" content="Park City Fly Fishing | Park City Fly Shop &amp; Guide Service" />
+<meta name="twitter:image" content="https://www.troutbum2.com/wp-content/uploads/2018/04/Guide-Service-Homepage.jpg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.troutbum2.com/#organization","name":"Trout Bum 2","url":"https://www.troutbum2.com/","sameAs":["https://www.facebook.com/troutbum2","https://www.instagram.com/troutbumtwo/"],"logo":{"@type":"ImageObject","@id":"https://www.troutbum2.com/#logo","inLanguage":"en-US","url":"https://www.troutbum2.com/wp-content/uploads/2017/01/tb2_logo_300pix.png","width":300,"height":149,"caption":"Trout Bum 2"},"image":{"@id":"https://www.troutbum2.com/#logo"}},{"@type":"WebSite","@id":"https://www.troutbum2.com/#website","url":"https://www.troutbum2.com/","name":"","inLanguage":"en-US","publisher":{"@id":"https://www.troutbum2.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.troutbum2.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://www.troutbum2.com/#primaryimage","inLanguage":"en-US","url":"https://www.troutbum2.com/wp-content/uploads/2018/04/Guide-Service-Homepage.jpg","width":400,"height":400,"caption":"Guide services button, guide pointing"},{"@type":"WebPage","@id":"https://www.troutbum2.com/#webpage","url":"https://www.troutbum2.com/","name":"Park City Fly Fishing | Park City Fly Shop &amp; Guide Service","isPartOf":{"@id":"https://www.troutbum2.com/#website"},"inLanguage":"en-US","about":{"@id":"https://www.troutbum2.com/#organization"},"primaryImageOfPage":{"@id":"https://www.troutbum2.com/#primaryimage"},"datePublished":"2015-05-25T09:53:27+00:00","dateModified":"2019-01-31T16:48:34+00:00","description":"Trout Bum 2 is the trusted, local source for everything related to Park City fly fishing! Everything from Park City fly fishing guides to gear and knowledge of Utah, the surrounding region and worldwide fishing destinations.","potentialAction":[{"@type":"ReadAction","target":["https://www.troutbum2.com/"]}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://www.troutbum2.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="https://www.troutbum2.com/comments/feed/" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Home Comments Feed" href="https://www.troutbum2.com/home-2/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.10.4';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-32341626-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-32341626-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.troutbum2.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.troutbum2.com/wp-includes/css/dist/block-library/style.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-portfolio-css'  href='https://www.troutbum2.com/wp-content/plugins/cherry-portfolio/public/assets/css/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-social-flaticon-css'  href='https://www.troutbum2.com/wp-content/plugins/cherry-social/public/assets/fonts/flaticon.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-social-css'  href='https://www.troutbum2.com/wp-content/plugins/cherry-social/public/assets/css/public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-testimonials-css'  href='https://www.troutbum2.com/wp-content/plugins/cherry-testimonials/public/assets/css/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.troutbum2.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='orchestrated_corona_virus_banner-frontend-css'  href='https://www.troutbum2.com/wp-content/plugins/corona-virus-covid-19-banner/assets/css/frontend.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css'  href='https://www.troutbum2.com/wp-content/plugins/cherry-shortcodes/assets/css/swiper.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://www.troutbum2.com/wp-content/themes/cherryframework4/lib/assets/css/magnific-popup.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-shortcodes-all-css'  href='https://www.troutbum2.com/wp-content/plugins/cherry-shortcodes/assets/css/shortcodes.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='troutbum2-grid-base-css'  href='https://www.troutbum2.com/wp-content/themes/cherryframework4/assets/css/grid-base.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='troutbum2-grid-responsive-css'  href='https://www.troutbum2.com/wp-content/themes/cherryframework4/assets/css/grid-responsive.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://www.troutbum2.com/wp-content/themes/cherryframework4/lib/assets/css/slick.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='troutbum2-main-css'  href='https://www.troutbum2.com/wp-content/themes/troutbum2/assets/css/main.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='troutbum2-main-responsive-css'  href='https://www.troutbum2.com/wp-content/themes/troutbum2/assets/css/main-responsive.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cherryframework4-add-ons-css'  href='https://www.troutbum2.com/wp-content/themes/cherryframework4/lib/assets/css/add-ons.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='troutbum2-style-css'  href='https://www.troutbum2.com/wp-content/themes/troutbum2/style.css?ver=1.0.0' type='text/css' media='all' />
+<style id='troutbum2-style-inline-css' type='text/css'>
+body {color:#252525;font:14px/20px Roboto, sans-serif;}input[type="text"],input[type="search"],input[type="password"],input[type="email"],input[type="tel"],input[type="email"],input[type="url"] {color:#333333;font:12px/20px Arial, Helvetica, sans-serif;}h1, .h1 {letter-spacing:12px;color:#1a1a1a;font:700 116px/116px "Roboto Condensed", sans-serif;}h2, .h2 {letter-spacing:6px;color:#1a1a1a;font:700 30px/32px "Roboto Condensed", sans-serif;}h3, .h3 {letter-spacing:4px;color:#1a1a1a;font:25px/28px "Roboto Condensed", sans-serif;}h4, .h4 {letter-spacing:2px;color:#1a1a1a;font:700 20px/22px "Roboto Condensed", sans-serif;}h5, .h5 {letter-spacing:0;color:#333333;font:700 14px/16px Arial, Helvetica, sans-serif;}h6, .h6 {letter-spacing:0;color:#333333;font:12px/14px Arial, Helvetica, sans-serif;}code {color: #f62e46;background-color: rgb(255,245,255);}pre {color: #1a1a1a;background-color: rgb(187,187,187);border-color: rgb(141,141,141);}kbd {background-color: rgb(0,0,0);}.site-link {letter-spacing:50px;text-align:center;color:#ffffff;font:700 116px/116px "Roboto Condensed", sans-serif;}.footer-logo-link {letter-spacing:24px;text-align:center;color:#777777;font:700 60px/60px "Roboto Condensed", sans-serif;}.site-header {background-image: url();background-color:#252525;background-repeat:no-repeat;background-position:top;background-attachment:scroll;background-clip:padding-box;background-size:cover;background-origin:padding-box;} @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {.site-header {background-image: url();}}.site-content {background-image: url();background-repeat:no-repeat;background-position:bottom;background-attachment:scroll;background-clip:padding-box;background-size:contain;background-origin:padding-box;} @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {.site-content {background-image: url();}}.site-footer {color:#f7f7f7;font:14px/20px "Roboto Condensed", sans-serif;}.site-footer{background-color:#252525;background-repeat:repeat;background-position:left;background-attachment:fixed;background-clip:padding-box;background-size:cover;background-origin:padding-box;background-image:none;}a {color: #252525;}a:hover {color: #dd3333;}.menu-primary a {letter-spacing:3px;text-align:center;color:#ffffff;font:700 25px/40px "Roboto Condensed", sans-serif;}.menu-secondary a {color:#474747;font:700 18px/22px "Roboto Condensed", sans-serif;}.cherry-mega-menu-sub-item > a {color: #252525;}.cherry-mega-menu-sub-item > a:hover {color: #f62e46;}.cherry-mega-menu-sub .sub-column-title > a {color: #333333;}.cherry-breadcrumbs {background-color: rgb(181,181,181);}.cherry-breadcrumbs_item_link,.cherry-breadcrumbs_item_target,.cherry-breadcrumbs_browse,.cherry-breadcrumbs_item_sep {letter-spacing:9px;text-align:center;color:#ffffff;font:300 22px/34px "Roboto Condensed", sans-serif;}.post-gallery_prev,.post-gallery_next {background-color: #f62e46;color: #ffffff;}.post-gallery_prev:hover,.post-gallery_next:hover {background-color: #333333;color: #ffffff;}.post-gallery_item_caption {background-color: #333333;color: #ffffff;}.post-gallery_paging_item {background-color: #333333;}.slick-active > .post-gallery_paging_item,.post-gallery_paging_item:hover {background-color: #f62e46;}.cherry-list-numbered-circle > li, .cherry-list-numbered-slash > li, .cherry-list-icons > li {color: rgb(0,0,0);}.cherry-list-numbered-circle > li::before {background-color: #f62e46;}.cherry-list-numbered-circle > li:hover::before {background-color: rgb(0,0,0);}.cherry-list-numbered-circle > li:hover {color: #f62e46;}.cherry-list-simple > li {color: #f62e46;}.cherry-list-simple > li::before {color: rgb(162,162,162);}.cherry-list-simple > li:hover {color: rgb(0,0,0);}.cherry-list-simple > li:hover::before {color: #f62e46;}.cherry-list-numbered-slash > li::before {color: #f62e46;}.cherry-list-numbered-slash > li:hover {color: #f62e46;}.cherry-list-numbered-slash > li:hover::before {color: rgb(0,0,0);}.cherry-list-icons > li {color: rgb(0,0,0);}.cherry-list-icons > li:hover {color: #f62e46;}.cherry-list-icons > li i {color: rgb(162,162,162);}.cherry-list-icons > li:hover i {color: rgb(0,0,0);}.cherry-hr-primary{background-color: #f62e46;}.cherry-hr-gray-lighter{background-color: rgb(162,162,162);}.cherry-hr-gray-dark{background-color: rgb(0,0,0);}.cherry-drop-cap:first-letter {color: #f62e46;}.cherry-drop-cap-bg:first-letter {background-color: #f62e46}.cherry-drop-cap-bg-grey:first-letter {background-color: rgb(98,98,98);}.cherry-blockquote, .cherry-blockquote:before{color: #f62e46;}.cherry-highlight {background-color: #f62e46;}.cherry-highlight-grey {background-color: rgb(162,162,162);}.cherry-btn-transparent:hover{color: #1a1a1a;}.cherry-tabs-nav span {color: #333333;}.cherry-tabs-nav span.cherry-tabs-current {color: #f62e46;border-bottom: 2px solid rgb(164,164,164);}.cherry-post-meta .cherry-post-date {color: #f62e46;}.portfolio-wrap .portfolio-container .portfolio-pagination ul.page-link li a {color: rgb(0,0,0);}.portfolio-wrap .portfolio-container .portfolio-pagination .page-nav a {color: rgb(0,0,0);}.text-muted {color: rgb(60,60,60);}.help-block {color: rgb(88,88,88);}legend {color: rgb(0,0,0);font-size: 21px;border-bottom: 1px solid rgb(164,164,164);}.cherry-highlight-grey {color: rgb(0,0,0);}abbr[title],abbr[data-original-title] {border-bottom: 1px dotted rgb(0,0,0);}output {color: #1a1a1a;font-size: 14px;line-height: 20px;}small, .small {color: rgb(0,0,0);}small, .small {font-size: 12px;}.form-control[disabled], .form-control[readonly], .form-control fieldset[disabled] {background-color: rgb(162,162,162);}.form-control {color: #1a1a1a;font-size: 14px;line-height: 20px;}.blockquote-reverse, blockquote.pull-right {border-right: 5px solid rgb(162,162,162);}.page-header {border-bottom: 1px solid rgb(162,162,162);}blockquote {border-left: 5px solid rgb(162,162,162);font-size: 17px;}hr {border-top: 1px solid rgb(162,162,162);}.close,.close:hover,.close:focus {color: #fcf8e3;font-size: 21px;}.lead {font-size: 16px;}.entry-content table {border: 1px solid rgb(165,165,165);}.entry-content table > thead > tr > th,.entry-content table > thead > tr > td,.entry-content table > tbody > tr > th,.entry-content table > tbody > tr > td,.entry-content table > tfoot > tr > th,.entry-content table > tfoot > tr > td {border: 1px solid rgb(165,165,165);line-height: 20px;}.table .table {background-color: #252525;}.table > thead > tr > th,.table > thead > tr > td,.table > tbody > tr > th,.table > tbody > tr > td,.table > tfoot > tr > th,.table > tfoot > tr > td {line-height: 20px;}dt,dd {line-height: 20px;}blockquote footer,blockquote small,blockquote .small {line-height: 20px;}address {line-height: 20px;}.cherry-nav-divider {background-color: rgb(162,162,162);}.cherry-box .box-primary {background-color: #f62e46;color: #ffffff;}.cherry-box .box-secondary {background-color: #333333;color: #ffffff;}.cherry-box .box-gray {background-color: #1a1a1a;}.cherry-box .box-primary-border {border-color: #f62e46;}.cherry-box .box-secondary-border {border-color: #333333;}.cherry-box .box-gray-border {border-color: #1a1a1a;}.text-primary {color:#f62e46;}.text-primary:hover {color:rgb(221,21,45);}.text-success {color:#dff0d8;}.text-success:hover {color:rgb(198,215,191);}.text-info {color:#d9edf7;}.text-info:hover {color:rgb(192,212,222);}.text-warning {color:#fcf8e3;}.text-warning:hover {color:rgb(227,223,202);}.text-danger {color:#f2dede;}.text-danger:hover {color:rgb(217,197,197);}.bg-primary {background-color:#f62e46;}.bg-primary:hover {background-color:rgb(221,21,45);}.bg-success {background-color:#dff0d8;}.bg-success:hover {background-color:rgb(198,215,191);}.bg-info {background-color:#d9edf7;}.bg-info:hover {background-color:rgb(192,212,222);}.bg-warning {background-color:#fcf8e3;}.bg-warning:hover {background-color:rgb(227,223,202);}.bg-danger {background-color:#f2dede;}.bg-danger:hover {background-color:rgb(217,197,197);}@media ( min-width:992px ) {.site-header.boxed { max-width: 1310px }.site-content.boxed { max-width: 1310px }.site-footer.boxed { max-width: 1200px }.site-header.boxed .container {width: auto;max-width: 1200px}.site-content.boxed .container{width: auto;max-width: 1200px}.site-footer.boxed .container {width: auto;max-width: 1200px}.site-header.wide .container,.site-content.wide .container,.site-footer.wide .container {width: auto;max-width: 1200px}}@media ( max-width:600px ) {.menu-primary_trigger {display: block;}.simple-menu.menu-items {display: none !important;}.simple-menu.menu-items[aria-expanded="true"] {display: block !important;}.simple-menu.menu-items {padding: 10px;background: #454545;}.simple-menu .sub-menu {position: static;float: none;visibility: visible;opacity: 1;padding: 0 0 0 20px;background: none;}.simple-menu .sub-menu li {float: none;}.simple-menu .sub-menu a {width: 100%;color: #ffffff;}.simple-menu > ul > li {float: none;display: block;margin: 0;padding: 0 0 3px 0;}}@media ( min-width:600px ) {.simple-menu li:hover > ul,.simple-menu li.focus > ul,.simple-menu li.menu-hover > ul {opacity: 1;visibility: visible;overflow: visible;}}/* Navigation (Menu) */#menu-primary > .menu-items > .menu-item > a {color: #ffffff;border-color: transparent;}#menu-primary > .menu-items > .menu-item.current-menu-item > a,#menu-primary > .menu-items > .menu-item > a:hover {background: transparent;border-color: #ffffff;}#menu-primary .menu-items > li:hover > a, #menu-primary .menu-items > li > a:hover, #menu-primary .menu-items > li.current-menu-item > a {border-color: #ffffff;}#menu-primary .sub-menu,#menu-primary .cherry-mega-menu-sub,#menu-primary .cherry-mega-menu-sub.simple-sub {background: #1a1a1a;}#menu-primary .cherry-mega-menu-sub {background-image: url();background-color:#252525;background-repeat:repeat;background-position:left;background-attachment:scroll;background-clip:padding-box;background-size:cover;background-origin:padding-box;} @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {.cherry-mega-menu-sub {background-image: url();}};#menu-primary .sub-menu .menu-item > a,#menu-primary .cherry-mega-menu-sub > a {letter-spacing:3px;text-align:center;color:#ffffff;font:700 25px/40px "Roboto Condensed", sans-serif;;color: #fff;}#menu-primary .cherry-mega-menu-sub-item > a {color: #fff;}#menu-primary .sub-menu .menu-item > a:hover,#menu-primary .cherry-mega-menu-sub > a:hover {/*color: #dd3333;*/color: #fff;}#menu-primary .cherry-mega-menu-sub .megamenu-post-wrap .btn {color: #fff;background: #f62e46;}#menu-primary .cherry-mega-menu-sub .megamenu-post-wrap .btn:hover {color: #fff;background: #333333;}#menu-primary a {/*color: #252525;*/}#menu-primary a:hover {/*color: #dd3333;*/}#menu-secondary .menu-item > a {color: #474747;}#menu-secondary .menu-item > a:hover {color: #f62e46;}/*mega menu mobile */#menu-primary .cherry-mega-menu-mobile-trigger,#menu-primary .cherry-mega-menu-mobile-close {color: #fff;background: transparent;}/* simple menu mobile */@media ( max-width:600px ) {#menu-primary .menu-primary_trigger {text-align: left;border: none;width: 100%;color: #fff;background: #f62e46;}#menu-primary #menu-primary-items > .menu-item {float:none;width:auto !important;margin: 5px 0 0;}#menu-primary > #menu-primary-items > .menu-item > a {padding: 10px;}#menu-primary > #menu-primary-items .sub-menu .sub-menu {padding: 0;margin: 0 0 0 20px;}}/* isStick */.isStick {background: #252525;}/* Inverse */.inverse .title-box_title,.inverse .title-box_subtitle {color: #fff;}.inverse .cherry-btn.cherry-btn-primary {background: #fff;color: #1a1a1a;}.inverse .cherry-btn.cherry-btn-primary:hover {background: transparent;color: #fff;border-color: #fff;}.inverse .cherry-btn.cherry-btn-primary:active {background: #000;color: #fff;}.inverse a {color: #fff;}.row-style-dark h2 {color: #fff;}.row-style-dark .comments-area .comment .comment-body {color: #fff;}.row-style-dark .cherry-posts-item .media .post-title a {color: #fff;}.row-style-dark .cherry-posts-item .media .post-title a:hover {color: #1a1a1a;}.row-style-dark .cherry-posts-item .post-excerpt {color: #fff;}.row-style-dark .cherry-btn.cherry-btn-primary {background: #fff;color: #1a1a1a;}.row-style-dark .cherry-btn.cherry-btn-primary:hover {background: transparent;color: #fff;border-color: #fff;}.row-style-dark .cherry-btn.cherry-btn-primary:active {background: #000;color: #fff;}.row-style-dark h3 {color: #fff;}.row-style-dark .comment-body .headline {color: #fff;}.row-style-dark .comment-body .headline a {color: #fff;}.row-style-dark .comment-contentbox p {color: #fff;}.row-style-dark .team-item {color: #fff;}.row-style-dark .team-item .title {color: #fff;}.portfolio-item .row-style-dark.item-content p {color: #fff;}.portfolio-item .row-style-dark.item-content h3 a {color: #fff;}/* Singe Service Page */.post-service {background: #f7f7f7;}.post-service .cherry-services_item .cherry-services_title {color: #111111;}/* Breadcrumbs */.cherry-breadcrumbs {color: #ffffff;background: none;border-color: #ffffff;}.cherry-breadcrumbs .page-title {color: #ffffff;}.cherry-breadcrumbs_item_link:hover {color: #ffffff;text-decoration: underline;}/* Box */.box .cherry-btn.cherry-btn-primary {background: #fff;color: #1a1a1a;}.box .cherry-btn.cherry-btn-primary:hover {background: #1a1a1a;color: #fff;}.box .cherry-btn.cherry-btn-primary:active {background: #000;color: #fff;}.parallax-box .box .cherry-btn.cherry-btn-primary {background: #fff;color: #1a1a1a;}.parallax-box .box .cherry-btn.cherry-btn-primary:hover {background: #1a1a1a;border-color: #1a1a1a;color: #fff;}.parallax-box .box .cherry-btn.cherry-btn-primary:active {background: #000;color: #fff;}/* Custom Posts */.post-inner {background: #f7f7f7;}.post-inner p,.post-inner h1,.post-inner h2,.post-inner h3,.post-inner h4,.post-inner h5,.post-inner h6,.post-inner time {color: #111111;}.post-inner time:before,.post-inner time:after {background: #111111;}.cherry-posts-item .media .post-title a {color: #1a1a1a;}.cherry-posts-item .media .post-title a:hover {color: #fff;}.search article.page {color: color: #111111;background: #f7f7f7;}.search article.page .cherry-btn.cherry-btn-primary {background: #fff;color: #1a1a1a;}.search article.page .cherry-btn.cherry-btn-primary:hover {background: transparent;color: #fff;border-color: #fff;}.search article.page .cherry-btn.cherry-btn-primary:active {background: #000;color: #fff;}.search article.testimonial {color: #111111;background: #f7f7f7;}.search article.testimonial .btn.btn-default {background: #fff;color: #1a1a1a;}.search article.testimonial .btn.btn-default:hover {background: transparent;color: #fff;border-color: #fff;}.search article.testimonial .btn.btn-default:active {background: #000;color: #fff;}.search article.team {color: color: #111111;background: #f7f7f7;}.search article.team .btn.btn-default {background: #fff;color: #1a1a1a;}.search article.team .btn.btn-default:hover {background: transparent;color: #fff;border-color: #fff;}.search article.team .btn.btn-default:active {background: #000;color: #fff;}/* Service List */.service-list .cherry-services_item {/*color: #fff;*/}.service-list .cherry-services_item .cherry-services_title a {color: #1a1a1a;}.service-list .cherry-services_icon:before,.service-list .cherry-services_icon:after {background: #1a1a1a;}.service-list .cherry-btn.cherry-btn-primary {border-color: #1a1a1a;}/* Parallax */.parallax-box .service-list .cherry-services_item {color: #fff;}.parallax-box .service-list .cherry-services_item .cherry-services_title a {color: #fff;}.parallax-box .service-list .cherry-services_icon:before,.parallax-box .service-list .cherry-services_icon:after {background: #fff;}.parallax-box .cherry-btn.cherry-btn-primary {color: #1a1a1a;background: #fff;border-color: #fff;}.parallax-box .cherry-btn.cherry-btn-primary:hover {background: transparent;color: #fff;border-color: #fff;}/* Logo */.site-link:hover {color: #ffffff;}.site-description {font-family: Roboto Condensed;color: #ffffff;}/* Pagination *//*Blog posts list pagination*/.navigation.pagination .nav-links .page-numbers {color: #fff;background: #333333;}.navigation.pagination .nav-links .page-numbers:hover,.navigation.pagination .nav-links .page-numbers.current {color: #fff;background:#626262;}.navigation.pagination .nav-links .page-numbers.dots:hover {color: #fff;background: #333333;}/*Blog single post prev/next navigation*/.paging-navigation .nav-links a {color: #333333;border:2px solid #333333;}.paging-navigation .nav-links a:hover {color: #fff;border-color: #626262;background:#626262;}/*Portfolio list pagination*/.portfolio-wrap .portfolio-container .portfolio-pagination ul.page-link li a,.portfolio-wrap .portfolio-container .portfolio-pagination .page-nav a {color: #fff;background: #1a1a1a;}.portfolio-wrap .portfolio-container .portfolio-pagination ul.page-link li a:hover,.portfolio-wrap .portfolio-container .portfolio-pagination ul.page-link li.active a,.portfolio-wrap .portfolio-container .portfolio-pagination .page-nav a:hover {background:#626262;}.portfolio-wrap .order-filter > li:hover {color: #f62e46;}/* Shortcodes *//* button */.btn.btn-default {background: #1a1a1a;}.btn.btn-default:hover {background: transparent;color: #1a1a1a;border-color: #1a1a1a;}.cherry-btn.cherry-btn-primary {background: #1a1a1a;}.cherry-btn.cherry-btn-primary:hover {background: transparent;color: #1a1a1a;border-color: #1a1a1a;}.cherry-btn.cherry-btn-primary-light {background: rgb(77,77,77);}.cherry-btn.cherry-btn-primary-light:hover {background: transparent;color: rgb(77,77,77);border-color: rgb(77,77,77);}.cherry-btn.cherry-btn-secondary {background: #333333;}.cherry-btn.cherry-btn-secondary:hover {background: transparent;color: #333333;border-color: #333333;}.cherry-btn.cherry-btn-default {background: transparent;color: #1a1a1a;border-color: #1a1a1a;}.cherry-btn.cherry-btn-default:hover {background: #1a1a1a;color: #fff;}.cherry-btn.cherry-btn-gray {background: #d9edf7;}.cherry-btn.cherry-btn-gray:hover {background: transparent;color: #d9edf7;border-color: #d9edf7;}/* swiper-carousel */.swiper-container .swiper-button-next,.swiper-container .swiper-button-prev {color: #fff;}.swiper-container .swiper-button-next:hover,.swiper-container .swiper-button-prev:hover {color: #fff;}.swiper-container .swiper-pagination .swiper-pagination-bullet-active {background: #f62e46;}/* cherry icon */.cherry-icon {color: #1a1a1a;}/* cherry team*/.team-listing .team-photo:before {background: #f62e46;}/* Portfolio */.portfolio-item .item-content h3 a {color: #1a1a1a;}.portfolio-item .item-content h3 a:before {background: #1a1a1a;}.portfolio-wrap .portfolio-container .portfolio-ajax-button .load-more-button a {color: #fff;background: #f62e46;}.portfolio-wrap .portfolio-container .portfolio-ajax-button .load-more-button a:hover {color: #fff;background: #333333;}.cherry-spinner-double-bounce .cherry-double-bounce1, .cherry-spinner-double-bounce .cherry-double-bounce2 {background-color: #f62e46;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container i {color: #333333;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container .post-date {color:#f62e46;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container .post-author a {color: #252525;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container .post-author a:hover {color: #dd3333;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-taxonomy-list span {color: #f62e46;}.cherry-portfolio-single-post {background: #1a1a1a;}/* Pagination */.navigation.post-navigation .nav-links a {background: #1a1a1a;color: #fff;}.navigation.post-navigation .nav-links a:hover {background: transparent;border-color: #1a1a1a;color: #1a1a1a;}/* Blog */.entry-meta .posted-on:before,.entry-meta .author:before,.entry-meta .comments-link-on:before {/*color: #333333;*/}.entry-permalink a {color: #fff;background: #f62e46;}.entry-permalink a:hover {color: #fff;background: #333333;}/* Author Bio */.author-bio {background: #1a1a1a;}.author-bio h3 {font-family: Roboto;}/* Comments */.comments-area .comment .comment-body {background: #1a1a1a;}.comments-area .comment .comment-body .headline h3 {font-family: Roboto;}.comments-area .comment .comment-meta .fn {color: #f62e46;}.comments-area .comment .comment-meta .comment-metadata:before {color: #333333;}.comment-respond form input,.comment-respond form textarea {background: #ececec;}.comment-respond form input::-webkit-input-placeholder {color: #1a1a1a;}.comment-respond form input:-moz-placeholder {color: #1a1a1a;}.comment-respond form input::-moz-placeholder {color: #1a1a1a;}.comment-respond form input:-ms-input-placeholder {color: #1a1a1a;}.comment-respond form textarea::-webkit-input-placeholder {color: #1a1a1a;}.comment-respond form textarea:-moz-placeholder {color: #1a1a1a;}.comment-respond form textarea::-moz-placeholder {color: #1a1a1a;}.comment-respond form textarea:-ms-input-placeholder {color: #1a1a1a;}/* Contact form */.wpcf7 input,.wpcf7 textarea {background: #ececec;letter-spacing: 0!important;}/* Widgets */.widget > ul > li:before {color:#333333;}.widget_recent_comments li.recentcomments {color: rgba(255,255,255,.5);}.widget_recent_comments li.recentcomments .comment-author-link {color: rgba(255,255,255,.7);}/* Search */.search-form .search-field {}.search-form .search-submit {color: #1a1a1a;background: #fff;}.search-form .search-submit:hover {background: transparent;border-color: #fff;color: #fff;}.search .service header .entry-title a {color: #1a1a1a;}/* Static */.static-social-follow .cherry-follow_list .cherry-follow_item .cherry-follow_link {color: #fff;background: #f62e46;}.static-social-follow .cherry-follow_list .cherry-follow_item .cherry-follow_link:hover {color: #fff;background: #333333;}/* MotoPress Slider */.motoslider_wrapper .ms_pagination .ms_bullet {background: transparent;}.motoslider_wrapper .ms_pagination .ms_bullet:hover, .motoslider_wrapper .ms_pagination .ms_bullet.ms_active {background: transparent;}/* Sidebar */.sidebar-main,.sidebar-secondary {background: #1a1a1a;}/* Footer */.footer-logo-link:hover {color: #fff;}.site-footer .footer-top a,.site-footer .footer-top h3 {color: #f7f7f7;}/*.site-footer .footer-top a:hover {color: #fff;}*//* Back to Top */#back-top a {background:#f62e46;}#back-top a:hover{background:#333333;}/* Carousel */.carousel_1:before{background: #f62e46;color: rgb(255,255,255);}.carousel_1 + .swiper-button-next.outer:hover, .carousel_1 + .swiper-button-next + .swiper-button-prev.outer:hover{color: #f62e46;}.portfolio-filter .filter {font-family: Roboto Condensed;}#cancel-comment-reply-link {color: #1a1a1a;}#cancel-comment-reply-link:hover {color: #dd3333;}@media (min-width: 769px){#menu-primary {background: #252525;}}/*Blog title link color*/.entry-title a {color: #000;}a {text-decoration: underline;}/*Blog category page spacing*/.hentry {margin: 0 0 0;}.post-content {padding: 0 64px;}
+</style>
+<link rel='stylesheet' id='theme26342_flat_icon-css'  href='https://www.troutbum2.com/wp-content/themes/troutbum2/assets/css/fl-great-icon-set.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto+Condensed%3A700%2Cregular%2C300%7CRoboto%3Aregular%7CAbril+Fatface%3Aregular&#038;subset=latin%2Clatin-ext&#038;ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='yelp-widget-pro-css'  href='https://www.troutbum2.com/wp-content/plugins/yelp-widget-pro/assets/dist/css/public-main.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-mega-menu-css'  href='https://www.troutbum2.com/wp-content/plugins/cherry-mega-menu/public/assets/css/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css'  href='//www.troutbum2.com/wp-content/uploads/pum/pum-site-styles.css?generated=1585336242&#038;ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-services-css'  href='https://www.troutbum2.com/wp-content/plugins/cherry-services/public/assets/css/style.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.troutbum2.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.troutbum2.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.js?ver=7.10.4'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/plugins/corona-virus-covid-19-banner/assets/js/frontend.min.js?ver=1.6.0.2'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/plugins/corona-virus-covid-19-banner/assets/js/js.cookie.min.js?ver=1.6.0.2'></script>
+<link rel='https://api.w.org/' href='https://www.troutbum2.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.troutbum2.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.troutbum2.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel='shortlink' href='https://www.troutbum2.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.troutbum2.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.troutbum2.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.troutbum2.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.troutbum2.com%2F&#038;format=xml" />
+	<script type="text/javascript">
+		MPSLCore = {
+			'path': "https://www.troutbum2.com/wp-content/plugins/motopress-slider/motoslider_core/",
+			'version': "2.1.0"
+		};
+	</script>
+<link type="image/x-icon" href="" rel="shortcut icon"><link href="" sizes="57x57" rel="apple-touch-icon-precomposed"><link href="" sizes="72x72" rel="apple-touch-icon-precomposed"><link href="" sizes="114x114" rel="apple-touch-icon-precomposed"><link href="" sizes="144x144" rel="apple-touch-icon-precomposed"><link rel="icon" href="https://www.troutbum2.com/wp-content/uploads/2020/01/cropped-Logo-No-Motto-512-Square-Transparent-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.troutbum2.com/wp-content/uploads/2020/01/cropped-Logo-No-Motto-512-Square-Transparent-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.troutbum2.com/wp-content/uploads/2020/01/cropped-Logo-No-Motto-512-Square-Transparent-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.troutbum2.com/wp-content/uploads/2020/01/cropped-Logo-No-Motto-512-Square-Transparent-270x270.png" />
+</head>
+<body class="home page-template-default page page-id-71 cherry-responsive cherry-no-sidebar group-blog" dir="ltr">
+
+	
+	<div id="site-wrapper" class="hfeed site">
+
+		<header id="header" class="site-header wide" role="banner">
+		<div id="static-area-showcase-area" class="showcase-area static-area"><div class="container"><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 static-moto-slider moto-slider"><div class="motoslider_wrapper " id="motoslider_wrapper5e8ab71f25dfc" >
+        <div data-motoslider style="height: 1011px; max-height: 1011px;">
+    </div>
+    <div class="motoslider" style="display: none;">
+        <div id="settings"  data-full-window-width="true" data-full-height="false" data-full-height-offset="px" data-full-height-offset-container="" data-full-size-grid="false" data-timer="true" data-timer-delay="5000" data-hover-timer="false" data-counter="false" data-slider-layout="auto" data-timer-reverse="false" data-arrows-show="false" data-thumbnails-show="false" data-slideshow-timer-show="false" data-slideshow-ppb-show="false" data-controls-hide-on-leave="false" data-swipe="false" data-delay-init="0" data-scroll-init="false" data-start-slide="12" data-visible-from="" data-visible-till="" data-layout-desktop-width="1170" data-layout-desktop-height="1011" data-layout-notebook-width="1024" data-layout-notebook-height="768" data-layout-tablet-width="778" data-layout-tablet-height="960" data-layout-mobile-width="480" data-layout-mobile-height="720" data-layout="true;false;false;false" data-custom-class="">
+        </div>
+        <div id="slides">
+                            <div class="slide"  data-class="" data-id="" data-animation="msSlideFade" data-fade-animation="msSlideFade" data-duration="800" data-easing="easeIn">
+                    <div class="slide_bg" >
+                        <div  data-type="color" data-color="rgb(255, 255, 255)"></div><div  data-src="https://www.troutbum2.com/wp-content/uploads/2018/06/Middle-Provo-Timp.jpg" data-type="image" data-fit="cover" data-position="center center" data-repeat="no-repeat"></div>                    </div>
+                    <div class="layers">
+                                            </div>
+                </div>
+                            <div class="slide"  data-class="" data-id="" data-animation="msSlideFade" data-fade-animation="msSlideFade" data-duration="800" data-easing="easeIn">
+                    <div class="slide_bg" >
+                        <div  data-type="color" data-color="rgb(0, 0, 0)"></div><div  data-src="https://www.troutbum2.com/wp-content/uploads/2018/06/Brown-Closeup.jpg" data-type="image" data-fit="contain" data-position="center center" data-repeat="no-repeat"></div>                    </div>
+                    <div class="layers">
+                                            </div>
+                </div>
+                            <div class="slide"  data-class="" data-id="" data-animation="msSlideFade" data-fade-animation="msSlideFade" data-duration="800" data-easing="easeIn" data-link="https://www.troutbum2.com/guide-service/green-river/" data-link-target="_self">
+                    <div class="slide_bg" >
+                        <div  data-type="color" data-color="rgb(255, 255, 255)"></div><div  data-src="https://www.troutbum2.com/wp-content/uploads/2018/06/Chad-Launching-Boat-A-Section-Green-River.jpg" data-type="image" data-fit="cover" data-position="center center" data-repeat="no-repeat"></div>                    </div>
+                    <div class="layers">
+                                            </div>
+                </div>
+                            <div class="slide"  data-class="" data-id="" data-animation="msSlideFade" data-fade-animation="msSlideFade" data-duration="800" data-easing="easeIn">
+                    <div class="slide_bg" >
+                        <div  data-type="color" data-color="rgb(255, 255, 255)"></div><div  data-src="https://www.troutbum2.com/wp-content/uploads/2018/06/Red-Creek-Camp-View.jpg" data-type="image" data-fit="cover" data-position="center center" data-repeat="no-repeat"></div>                    </div>
+                    <div class="layers">
+                                            </div>
+                </div>
+                            <div class="slide"  data-class="" data-id="" data-animation="msSlideFade" data-fade-animation="msSlideFade" data-duration="800" data-easing="easeIn">
+                    <div class="slide_bg" >
+                        <div  data-type="color" data-color="rgb(0, 0, 0)"></div><div  data-src="https://www.troutbum2.com/wp-content/uploads/2018/05/DSC_0280-1.jpg" data-type="image" data-fit="contain" data-position="center center" data-repeat="no-repeat"></div>                    </div>
+                    <div class="layers">
+                                            </div>
+                </div>
+                            <div class="slide"  data-class="" data-id="" data-animation="msSlideFade" data-fade-animation="msSlideFade" data-duration="800" data-easing="easeIn">
+                    <div class="slide_bg" >
+                        <div  data-type="color" data-color="rgb(255, 255, 255)"></div><div  data-src="https://www.troutbum2.com/wp-content/uploads/2018/05/DSC_0512.jpg" data-type="image" data-fit="cover" data-position="center center" data-repeat="no-repeat"></div>                    </div>
+                    <div class="layers">
+                                            </div>
+                </div>
+                            <div class="slide"  data-class="" data-id="" data-animation="msSlideFade" data-fade-animation="msSlideFade" data-duration="800" data-easing="easeIn">
+                    <div class="slide_bg" >
+                        <div  data-type="color" data-color="rgb(0, 0, 0)"></div><div  data-src="https://www.troutbum2.com/wp-content/uploads/2018/06/Kerry-Rainbow.jpg" data-type="image" data-fit="contain" data-position="center center" data-repeat="no-repeat"></div>                    </div>
+                    <div class="layers">
+                                            </div>
+                </div>
+                            <div class="slide"  data-class="" data-id="" data-animation="msSlideFade" data-fade-animation="msSlideFade" data-duration="800" data-easing="easeIn">
+                    <div class="slide_bg" >
+                        <div  data-type="color" data-color="#ffffff"></div><div ></div>                    </div>
+                    <div class="layers">
+                                            </div>
+                </div>
+                    </div>
+    </div>
+</div>
+<p class="motopress-hide-script mpsl-hide-script">
+    <script type="text/javascript" id='mpsl-fix-height-motoslider_wrapper5e8ab71f25dfc'>
+        var aspect = 0.86410256410256;
+        var sliderWrapper = document.getElementById('motoslider_wrapper5e8ab71f25dfc');
+        var outerWidth = sliderWrapper.offsetWidth;
+        var curHeight = outerWidth * aspect;
+        sliderWrapper.querySelector('[data-motoslider]').height = curHeight + 'px';
+    </script>
+</p></div></div></div></div><div id="static-area-header-top" class="header-top static-area"><div class="container"><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 static-header-menu">
+	<!-- Primary navigation -->
+	<nav class="menu-primary menu" role="navigation" id="menu-primary">
+
+		<label class="cherry-mega-menu-mobile-trigger" for="trigger-menu-primary-items"> </label><input class="cherry-mega-menu-mobile-trigger-box" id="trigger-menu-primary-items" type="checkbox"><ul id="menu-primary-items" class="menu-items cherry-mega-no-js cherry-mega-menu mega-menu-direction-horizontal total-columns-12" data-event="hover" data-effect="slide-top" data-direction="horizontal" data-mobile-trigger="768" data-parent-selector=".cherry-mega-menu"><li id="menu-item-1090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-1090 cherry-mega-menu-top-item item-submenu-position-fullwidth item-align-top-left menu-item-standard has-image"><a href="https://www.troutbum2.com/" data-title="&lt;img width=&quot;150&quot; height=&quot;75&quot; src=&quot;https://www.troutbum2.com/wp-content/uploads/2016/12/tb2_logo_150pix.png&quot; class=&quot;attachment-full size-full wp-post-image&quot; alt=&quot;Home&quot; title=&quot;Home&quot; /&gt;"><img width="150" height="75" src="https://www.troutbum2.com/wp-content/uploads/2016/12/tb2_logo_150pix.png" class="attachment-full size-full wp-post-image" alt="Home" title="Home" /></a></li>
+<li id="menu-item-817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-817 cherry-mega-menu-top-item item-submenu-position-fullwidth cherry-mega-menu-has-children item-type-standard item-align-top-left menu-item-standard" data-hide-mobile="" data-sub-hr-position="fullwidth" data-sub-vr-position="vertical-parent" data-sub-type="standard"><a href="https://www.troutbum2.com/guide-service/" data-title="Guide Service">Guide Service<i class="fa fa-angle-down mega-menu-arrow top-level-arrow"></i></a>
+<ul class="cherry-mega-menu-sub level-0 effect-slide-top simple-sub">
+	<li id="menu-item-909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-909 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/guide-service/provo-river/" data-title="Provo River">Provo River</a></li>
+	<li id="menu-item-923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-923 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/guide-service/green-river/" data-title="Green River">Green River</a></li>
+	<li id="menu-item-921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-921 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/guide-service/guides/" data-title="The Guides">The Guides</a></li>
+	<li id="menu-item-4924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4924 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/guide-service/rates/" data-title="Guide Rates">Guide Rates</a></li>
+	<li id="menu-item-1152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1152 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/guide-service/guide-request/" data-title="Request a Guide">Request a Guide</a></li>
+</ul>
+</li>
+<li id="menu-item-1251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1251 cherry-mega-menu-top-item item-submenu-position-fullwidth cherry-mega-menu-has-children item-type-standard item-align-top-left menu-item-standard" data-hide-mobile="" data-sub-hr-position="fullwidth" data-sub-vr-position="vertical-parent" data-sub-type="standard"><a href="https://www.troutbum2.com/utah-fly-fishing-reports/" data-title="Fishing Reports">Fishing Reports<i class="fa fa-angle-down mega-menu-arrow top-level-arrow"></i></a>
+<ul class="cherry-mega-menu-sub level-0 effect-slide-top simple-sub">
+	<li id="menu-item-1248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1248 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/middle-provo-river-fishing-reports/" data-title="Middle Provo River">Middle Provo River</a></li>
+	<li id="menu-item-1247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1247 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/lower-provo-river-fishing-reports/" data-title="Lower Provo River">Lower Provo River</a></li>
+	<li id="menu-item-1244" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1244 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/weber-river-fishing-reports/" data-title="Weber River">Weber River</a></li>
+	<li id="menu-item-1243" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1243 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/green-river-fishing-reports/" data-title="Green River">Green River</a></li>
+	<li id="menu-item-1246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1246 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/utah-small-streams-fishing-reports/" data-title="Small Streams">Small Streams</a></li>
+</ul>
+</li>
+<li id="menu-item-2120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2120 cherry-mega-menu-top-item item-submenu-position-fullwidth cherry-mega-menu-has-children item-type-standard item-align-top-left menu-item-standard" data-hide-mobile="" data-sub-hr-position="fullwidth" data-sub-vr-position="vertical-parent" data-sub-type="standard"><a href="https://www.troutbum2.com/destinations/" data-title="Travel">Travel<i class="fa fa-angle-down mega-menu-arrow top-level-arrow"></i></a>
+<ul class="cherry-mega-menu-sub level-0 effect-slide-top simple-sub">
+	<li id="menu-item-2119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2119 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/destinations/dean-river-steelhead/" data-title="Dean River BC">Dean River BC</a></li>
+	<li id="menu-item-2271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2271 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/destinations/blue-bonefish-belize/" data-title="Blue Bonefish Belize">Blue Bonefish Belize</a></li>
+	<li id="menu-item-2270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2270 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/destinations/alaska/" data-title="Katmai Alaska">Katmai Alaska</a></li>
+</ul>
+</li>
+<li id="menu-item-1446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1446 cherry-mega-menu-top-item item-submenu-position-fullwidth cherry-mega-menu-has-children item-type-standard item-align-top-left menu-item-standard" data-hide-mobile="" data-sub-hr-position="fullwidth" data-sub-vr-position="vertical-parent" data-sub-type="standard"><a href="#" data-title="Resources">Resources<i class="fa fa-angle-down mega-menu-arrow top-level-arrow"></i></a>
+<ul class="cherry-mega-menu-sub level-0 effect-slide-top simple-sub">
+	<li id="menu-item-1315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1315 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/contact-us/" data-title="Contact Us">Contact Us</a></li>
+	<li id="menu-item-1271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1271 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/instagram-photo-gallery/" data-title="Instagram Gallery">Instagram Gallery</a></li>
+	<li id="menu-item-1318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1318 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/resources/" data-title="Fly Fishing Resources">Fly Fishing Resources</a></li>
+	<li id="menu-item-1150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/recommended-equipment/" data-title="Recommended Equipment">Recommended Equipment</a></li>
+	<li id="menu-item-3971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3971 cherry-mega-menu-sub-item item-nested-sub item-nested-sub-1 menu-item-standard"><a href="https://www.troutbum2.com/reviews/" data-title="Reviews and Testimonials">Reviews and Testimonials</a></li>
+</ul>
+</li>
+</ul><label class="cherry-mega-menu-mobile-close" for="trigger-menu-primary-items">Close</label>
+	</nav>
+
+</div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 static-header-logo"><div class="site-branding"> <h1 class="site-title image-logo"><a href="https://www.troutbum2.com/" rel="home"><img src="" alt=""></a></h1></div></div></div></div></div>
+		</header>
+<div id="content" class="site-content wide">
+	<div class="container-fluid">
+			<div id="primary" class="content-area"><main id="main" class="site-main" role="main"><article class="clearfix post-71 page type-page status-publish hentry" id="post-71">
+
+
+
+<div class="entry-meta entry-meta-top">
+	
+	
+	
+</div>
+
+<div class="entry-content"><div class="row bg-image text-center well-1" ><section class="parallax-box image-parallax-box " style="min-height: 300px"><div class="parallax-content"><div class="container-fluid"><div class="row row-edge row-style-light">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 collapse-col">
+<div class="row" ><div class="container"><div class="row row-edge row-style-light">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h2>THE BEST FLY FISHING</h2>
+</div>
+</div></div></div>
+<div class="row" ><div class="container"><div class="row row-edge row-style-light">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h4>PARK CITY HAS TO OFFER</h4>
+</div>
+</div></div></div>
+<div class="row" ><div class="container"><div class="row row-edge row-style-light">
+<div class="col-xs-12 col-sm-10 col-md-10 col-lg-10 col-xs-offset-0 col-sm-offset-1 col-md-offset-1 col-lg-offset-1">
+<p><strong><span id="seo-companyname">Trout Bum 2</span> is the premier Park City fly fishing shop &amp; outfitter. We offer the best and most experienced Park City fly fishing guides for <a href="https://www.troutbum2.com/guide-service/provo-river/">the Provo River, Weber River and other local streams</a>. We are the only fly fishing guide service in Park City to hold a permit for Utah&#8217;s premier and only drift boat fishery, the world renowned <a href="https://www.troutbum2.com/guide-service/green-river/">Green River below Flaming Gorge Reservoir</a> and staff some of the most experienced and best guides on that river. </strong></p>
+<p><strong>We are your source for everything related to fly fishing in the Park City, Utah area and far beyond. Not only do we have some of the best fly fishing guides in Park City and on the Green River, but we are also a complete full service fly shop open year-round. Our shop offers everything you need for fly fishing Park City and anywhere else in the world your passion takes you. Since the foundation of the sport is the fly, we our proud to offer the biggest selection of flies in Park City and one of the biggest selections of flies in the state of Utah. If you need fly fishing gear, we carry a complete selection of fly fishing gear from the best brands in the industry like Sage, Simms, Winston, RIO, Umpqua, Scientifc Anglers and many others. Beyond flies we carry every thing you need from tippet and leaders to waders, rods and clothing in addition to stocking a large selection of fly tying materials. We also rent fly fishing gear if you are just learning or are a visitor to Park City and don&#8217;t want to pack your own.</strong></p>
+<p><strong>Our staff of Utah fly fishing guides and fly shop staff know these waters intimately and we can put you on the fish. Just to get a taste of the options awaiting, check out our <a href="https://www.troutbum2.com/instagram-photo-gallery/">photo gallery</a> or our <a href="https://www.troutbum2.com/utah-fly-fishing-reports/">Utah fly fishing report</a> to wet your appetite, we look forward to seeing you!</strong></p>
+</div>
+</div></div></div>
+<div class="row row-edge row-style-none" >
+<div class="col-md-4 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<p><a href="https://www.troutbum2.com/guide-service/"><img src="https://www.troutbum2.com/wp-content/uploads/2018/04/Guide-Service-Homepage.jpg" alt="Guide services button, guide pointing" width="400" height="400" class="alignleft size-full wp-image-2454" srcset="https://www.troutbum2.com/wp-content/uploads/2018/04/Guide-Service-Homepage.jpg 400w, https://www.troutbum2.com/wp-content/uploads/2018/04/Guide-Service-Homepage-150x150.jpg 150w, https://www.troutbum2.com/wp-content/uploads/2018/04/Guide-Service-Homepage-300x300.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>
+</div>
+<div class="col-md-4 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<p><a href="https://www.troutbum2.com/utah-fly-fishing-reports/"><img src="https://www.troutbum2.com/wp-content/uploads/2018/04/Fishing-Reports-Homepage.jpg" alt="Fishing reports button blue wings on river surface" width="400" height="400" class="alignleft size-full wp-image-2460" srcset="https://www.troutbum2.com/wp-content/uploads/2018/04/Fishing-Reports-Homepage.jpg 400w, https://www.troutbum2.com/wp-content/uploads/2018/04/Fishing-Reports-Homepage-150x150.jpg 150w, https://www.troutbum2.com/wp-content/uploads/2018/04/Fishing-Reports-Homepage-300x300.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>
+</div>
+<div class="col-md-4 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<p><a href="https://www.troutbum2.com/destinations/"><img src="https://www.troutbum2.com/wp-content/uploads/2018/04/Travel-Homepage.jpg" alt="belize flats travel button" width="400" height="400" class="alignleft size-full wp-image-2451" srcset="https://www.troutbum2.com/wp-content/uploads/2018/04/Travel-Homepage.jpg 400w, https://www.troutbum2.com/wp-content/uploads/2018/04/Travel-Homepage-150x150.jpg 150w, https://www.troutbum2.com/wp-content/uploads/2018/04/Travel-Homepage-300x300.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>
+</div>
+</div>
+</div>
+</div></div><div class="clear"></div></div><div class="parallax-bg" data-parallax-type="image" data-img-url="https://www.troutbum2.com/wp-content/uploads/2017/01/tb2_top_background.jpg" data-speed="1.5" data-invert="" ></div></section></div>
+<div class="row bg-image well-1 inverse" ></div>
+</div>
+
+
+</article></main></div>
+				
+	</div>
+</div>
+
+<footer id="footer" class="site-footer wide" role="contentinfo"><div id="static-area-footer-top" class="footer-top static-area"><div class="container"><div class="row"><div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 static-footer-info"><div class="site-info"><strong></strong> &copy; 2020 <span> | </span> <a href="https://www.troutbum2.com/privacy-policy/">Privacy Policy</a></div></div><div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 static-footer-sidebars"><div class='row'><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><div class="sidebar-footer-1 widget-area" role="complementary"><aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><table style="width:90%">
+	<tr>
+		<td><strong>SHOP TEMPORARILY CLOSED THROUGH MAY 1<br>
+			PER SUMMIT COUNTY COVID-19 GUIDELINES<br>
+			GUIDE TRIPS STILL AVAILABLE</strong>
+			<br>Spring Hours (Mar - June):<br>
+Mon-Sat: 8-5<br>
+Sun: Closed<br>
+Summer Hours (July - Sep):<br>
+Mon-Sat: 8-6<br>
+Sun 8-5<br>
+Winter Hours (Oct - Feb):<br>
+Mon-Sat: 9-5<br>
+Sun: Closed
+		</td> 
+		<td>
+			<a href="https://www.troutbum2.com/terms-and-conditions/">Terms & Conditions</a><br>
+<a href="https://www.troutbum2.com/privacy-policy/">Privacy Policy</a><br>
+<a href="https://www.troutbum2.com/booking-rental-policies/">Booking & Rental Policy</a><br>
+<a href="https://www.troutbum2.com/return-policy/">Returns</a></td>
+	</tr>
+</table></div></aside></div></div><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><div class="sidebar-footer-2 widget-area" role="complementary"></div></div></div></div></div></div></div><div id="static-area-footer-bottom" class="footer-bottom static-area"><div class="container-fluid"><div class="row"><div class="static-example"><div class="sidebar-footer-3 widget-area" role="complementary"><aside id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1231.2344084563804!2d-111.54531383556129!3d40.693905072900286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86fef6d0bda39fc5!2sTrout+Bum+2+Fly+Shop%2C+Guide+Service!5e0!3m2!1sen!2sus!4v1485209094539" width="2000" height="350" frameborder="0" style="border:0" allowfullscreen></iframe></div></aside></div></div></div></div></div></footer><div id="back-top" class=""><a href="#top"></a></div>
+	</div><!--site-wrapper-->
+
+
+			<style>
+				#ocvb-container #ocvb-body {
+					color: #FFFFFF;
+					background-color: #CC0000;
+					text-align: center;
+					
+				}
+				@media screen and (max-width: 480px) {
+					#ocvb-container #ocvb-body {
+						
+					}
+				}
+				#ocvb-container #ocvb-body h4 {
+					color: #FFFFFF;
+					text-align: center;
+				}
+				#ocvb-container #ocvb-body p {
+					color: #FFFFFF;
+					text-align: center;
+				}
+				#ocvb-container #ocvb-body a {
+					color: #FFFFFF;
+					text-align: center;
+				}
+			</style>
+			<script>
+				if ( typeof Cookies != 'undefined' ) 
+					if ( "true" == false && "banner" == "banner" )
+						Cookies.set( 'ocvb-keep-banner-closed', 'false' );
+			</script>
+			<div id="ocvb-container" class="not-ready ocvb-enabled ocvb-display-type-banner" data-display-type="banner">
+				<div id="ocvb-body">
+					<div id="ocvb-container-close-button" class="ocvb-enabled"><a href="#">x</a></div>
+					<div id="ocvb-container-notice-text">
+						<h4>Temporary Closure Due To COVID-19</h4>
+						<p>We are temporarily closed through May 1 due to Summit County Stay at Home Order. We are currently still able to offer guide trips with clients providing their own transportation and practicing safe social distancing guidelines. Please call 435-658-1166.</p>
+						<div id="ocvb-container-notice-link" class="ocvb-disabled">
+							<a href="">More Information</a>
+						</div>
+					</div>
+				</div>
+			</div>		<script>
+			jQuery( function () { window.ocvb.init( 2 ); });
+		</script><div id="pum-5258" class="pum pum-overlay pum-theme-5253 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:5258,&quot;slug&quot;:&quot;covid-19&quot;,&quot;theme_id&quot;:5253,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center bottom&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:&quot;1&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-5258" class="pum-container popmake theme-5253 pum-responsive pum-responsive-medium responsive size-medium pum-position-fixed">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<p>The store is temporarily closed due to Summit County Stay at Home Order for COVID-19. We are still available for guide trips, please call 435-658-1166.</p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			&times;            </button>
+		
+	</div>
+
+</div>
+        <script type="text/javascript">
+document.addEventListener( 'wpcf7mailsent', function( event ) {
+    ga('send', 'event', 'Contact Form', 'submit');
+}, false );
+</script>
+    <link rel='stylesheet' id='mpsl-core-css'  href='https://www.troutbum2.com/wp-content/plugins/motopress-slider/motoslider_core/styles/motoslider.css?ver=1.0.0' type='text/css' media='all' />
+<style id='mpsl-core-inline-css' type='text/css'>
+.mpsl-layer.mpsl-btn-blue{background-color:#20b9d5;color:#ffffff;font-size:18px;font-family:Open Sans;text-shadow:0px 1px 0px #06879f;padding-top:12px;padding-right:28px;padding-bottom:13px;padding-left:28px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;text-decoration: none; -webkit-box-shadow: 0px 2px 0px 0px #06879f; -moz-box-shadow: 0px 2px 0px 0px #06879f; box-shadow: 0px 2px 0px 0px #06879f;}.mpsl-layer.mpsl-btn-blue:hover{}.mpsl-layer.mpsl-btn-green{background-color:#58cf6e;color:#ffffff;font-size:18px;font-family:Open Sans;text-shadow:0px 1px 0px #17872d;padding-top:12px;padding-right:28px;padding-bottom:13px;padding-left:28px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;text-decoration: none; -webkit-box-shadow: 0px 2px 0px 0px #2ea044; -moz-box-shadow: 0px 2px 0px 0px #2ea044; box-shadow: 0px 2px 0px 0px #2ea044;}.mpsl-layer.mpsl-btn-green:hover{}.mpsl-layer.mpsl-btn-red{background-color:#e75d4a;color:#ffffff;font-size:18px;font-family:Open Sans;text-shadow:0px 1px 0px #c03826;padding-top:12px;padding-right:28px;padding-bottom:13px;padding-left:28px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;text-decoration: none; -webkit-box-shadow: 0px 2px 0px 0px #cd3f2b; -moz-box-shadow: 0px 2px 0px 0px #cd3f2b; box-shadow: 0px 2px 0px 0px #cd3f2b;}.mpsl-layer.mpsl-btn-red:hover{}.mpsl-layer.mpsl-txt-header-dark{color:#000000;font-size:48px;font-family:Open Sans;font-weight:300;letter-spacing: -0.025em;}.mpsl-layer.mpsl-txt-header-dark:hover{}.mpsl-layer.mpsl-txt-header-white{color:#ffffff;font-size:48px;font-family:Open Sans;font-weight:300;letter-spacing: -0.025em;}.mpsl-layer.mpsl-txt-header-white:hover{}.mpsl-layer.mpsl-txt-sub-header-dark{background-color:rgba(0, 0, 0, 0.6);color:#ffffff;font-size:26px;font-family:Open Sans;font-weight:300;padding-top:14px;padding-right:14px;padding-bottom:14px;padding-left:14px;}.mpsl-layer.mpsl-txt-sub-header-dark:hover{}.mpsl-layer.mpsl-txt-sub-header-white{background-color:rgba(255, 255, 255, 0.6);color:#000000;font-size:26px;font-family:Open Sans;font-weight:300;padding-top:14px;padding-right:14px;padding-bottom:14px;padding-left:14px;}.mpsl-layer.mpsl-txt-sub-header-white:hover{}.mpsl-layer.mpsl-txt-dark{color:#000000;font-size:18px;font-family:Open Sans;font-weight:normal;line-height:30px;text-shadow:0px 1px 0px rgba(255, 255, 255, 0.45);}.mpsl-layer.mpsl-txt-dark:hover{}.mpsl-layer.mpsl-txt-white{color:#ffffff;font-size:18px;font-family:Open Sans;font-weight:normal;line-height:30px;text-shadow:0px 1px 0px rgba(0, 0, 0, 0.45);}.mpsl-layer.mpsl-txt-white:hover{}
+</style>
+<link rel='stylesheet' id='mpsl-object-style-css'  href='https://www.troutbum2.com/wp-content/plugins/motopress-slider/css/theme.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mpsl-object-gfonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800&#038;ver=2.1.0' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_load_style = {"0":"wp-block-library.css","1":"cherry-portfolio.css","2":"cherry-social.css","3":"cherry-testimonials.css","4":"contact-form-7.css","5":"orchestrated_corona_virus_banner-frontend.css","6":"font-awesome.css","7":"swiper.css","8":"magnific-popup.css","9":"cherry-shortcodes-all.css","10":"troutbum2-grid-base.css","11":"troutbum2-grid-responsive.css","12":"slick.css","14":"troutbum2-main.css","15":"troutbum2-main-responsive.css","16":"cherryframework4-add-ons.css","17":"troutbum2-style.css","18":"theme26342_flat_icon.css","19":"cherry-google-fonts.css","20":"yelp-widget-pro.css","21":"cherry-mega-menu.css","22":"popup-maker-site.css","23":"cherry-services.css"};
+var wp_load_script = ["cherry-api.js","comment-reply.js","magnific-popup.js","cherry-script.js","monsterinsights-frontend-script.js","contact-form-7.js","orchestrated_corona_virus_banner-frontend.js","orchestrated_corona_virus_banner-jscookie.js","google-recaptcha.js","troutbum2-script.js","cherry-stick-up.js","cherry-mega-menu.js","popup-maker-site.js"];
+var cherry_ajax = "3e5129f617";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/themes/cherryframework4/lib/assets/js/cherry-api.min.js?ver=4.0.5.6'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-includes/js/comment-reply.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/themes/cherryframework4/lib/assets/js/jquery.magnific-popup.min.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cherry_data = {"use_lightbox":"1"};
+var sticky_data = {"selector":"#menu-primary","args":{"correctionSelector":"#wpadminbar","listenSelector":".listenSelector","pseudo":true,"active":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/themes/cherryframework4/lib/assets/js/script.min.js?ver=4.0.5.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.troutbum2.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LeotI8UAAAAADjeHEQwkTiU_1ehEXIHojAEWbbv&#038;ver=3.0'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/themes/troutbum2/assets/js/script.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/themes/cherryframework4/lib/assets/js/jquery.cherry.stickup.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cherry_mega_menu_data = {"duration":"300"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/plugins/cherry-mega-menu/public/assets/js/min/script.min.js?ver=1.0.4'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pum_vars = {"version":"1.9.2","ajaxurl":"https:\/\/www.troutbum2.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.troutbum2.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"5252","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "https:\/\/www.troutbum2.com\/wp-admin\/admin-ajax.php";
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.troutbum2.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-5258":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":true,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_form_submission":false,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"click_open","settings":{"extra_selectors":""}}],"theme_id":"5253","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","location":"center bottom","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","close_on_form_submission_delay":"0","cookies":[],"theme_slug":"lightbox","id":5258,"slug":"covid-19"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.troutbum2.com/wp-content/uploads/pum/pum-site-scripts.js?defer&#038;generated=1585336242&#038;ver=1.9.2'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/plugins/motopress-slider/motoslider_core/scripts/vendor.js?ver=2.1.0'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/plugins/motopress-slider/motoslider_core/scripts/motoslider.js?ver=2.1.0'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/plugins/cherry-shortcodes/assets/js/shotcodes/device.min.js?ver=1.0.7.6'></script>
+<script type='text/javascript' src='https://www.troutbum2.com/wp-content/plugins/cherry-shortcodes/assets/js/shotcodes/parallax.min.js?ver=1.0.7.6'></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6LeotI8UAAAAADjeHEQwkTiU_1ehEXIHojAEWbbv',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+</body>
+</html>

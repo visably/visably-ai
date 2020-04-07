@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="keywords" content="">
+<meta name="description" content="Created by culinary minds Gavin Fine and Roger Freedman, Fine Dining Restaurant Group includes favorite Jackson Hole & Park City restaurants and establishments.">
+
+<meta property="og:title" content="Fine Dining Group" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://jhfinedining.com"/>
+<meta property="og:image" content="https://jhfinedining.com/images/ourgroup-aboutus-bg.jpg" />
+<meta property="og:description" content="Created by culinary minds Gavin Fine and Roger Freedman, Fine Dining Restaurant Group includes favorite Jackson Hole & Park City restaurants and establishments." /> 
+<meta property="og:site_name" content="Fine Dining Group" />
+
+<title>Fine Dining Restaurant Group in Jackson Hole, Wyoming</title>
+<link rel="canonical" href="https://jhfinedining.com/"/>
+<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/upgrade-20170410.css">
+<link rel="stylesheet" href="/css/jquery.fancybox.css">
+<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.1.0.min.js"></script>
+<script src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+<script src="/js/tinynav.min.js" async></script>
+<script src="/js/jquery.bxslider.min.js"></script>
+<script src="/js/jquery.jscrollpane.min.js"></script>
+<script src="/js/jquery.mousewheel.min.js" async></script>
+<script src="/js/jquery.ikSelect.min.js"></script>
+<script src="/js/jquery.livequery.min.js"></script>
+<script src="/js/jquery.fancybox.pack.js" async></script>
+<script src="/js/scripts.js?v=1586149150" async></script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-13056552-26']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- New GA account added on 12/30/2014, client does not have access to account above -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42755618-8', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- New GA account added on 03/16/2016 -->
+<script> 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-74994040-1', 'auto'); 
+ga('send', 'pageview');
+
+</script>
+
+
+
+</head>
+
+<body>
+
+<div id="overlay"></div>
+<div class="container">
+	<div class="push">
+    	<header class="clearfix">
+    		<h1 class="logo-heading"><a href="/index.php" class="logo" alt="Jackson Hole Fine Dining Group"></a></h1>
+			<nav>
+				<ul id="nav">
+					<li>
+						<a href="/fine-dining-restaurant-group.php">Our Group</a>
+						<div class="sub">
+							<ul>
+								<li>
+									<a href="/fine-dining-restaurant-group.php">About Us</a>
+								</li>
+								<li>
+									<a href="/our-team.php">The Team</a>
+								</li>
+							
+								<li>
+									<a href="/gift-cards.php">Gift Certificates</a>
+								</li>
+							</ul>
+						</div>
+					</li>
+					<li>
+						<a href="/about-jackson.php">Jackson Hole</a>
+						<div class="sub">
+							<ul>
+								<li>
+									<a href="/about-jackson.php">About Jackson Hole</a>
+								</li>
+								<!-- <li>
+									<a href="/jackson-hole-links.php">Useful Links</a>
+								</li> -->
+								<li>
+									<a href="/jackson-hole-map.php">Map</a>
+								</li>
+							</ul>
+						</div>
+					</li>
+					<li>
+						<a href="/restaurants-rendezvous-bistro.php">Our Properties</a>
+						<div class="sub">
+							<ul>
+								<li>
+									<a href="/restaurants-rendezvous-bistro.php">Rendezvous Bistro</a> 
+								</li>
+								<li>
+									<a href="/restaurants-osteria.php">II Villaggio Osteria</a>
+								</li>
+								<li>
+									<a href="/restaurants-kitchen.php">The Kitchen</a>
+								</li>
+								<li>
+									<a href="/restaurants-bin22.php">Bin22</a>
+								</li>
+								<li>
+									<a href="/restaurants-bar-enoteca.php">Bar Enoteca</a>
+								</li>
+								
+								<li>
+									<a href="/restaurants-q-roadhouse-brewery.php">Roadhouse Pub & Eatery</a>
+								</li>
+							
+								<li>
+									<a href="/restaurants-bodega.php">Bodega</a>
+								</li>
+								
+								<li>
+									<a href="/restaurants-cream-sugar.php">Cream + Sugar</a>
+								</li>
+								<li>
+									<a href="/restaurants-bovine-swine.php">Bovine + Swine</a>
+								</li>
+
+							</ul>
+						</div>
+					</li>
+					<li>
+						<a href="/bistro-catering.php">Private Events &amp; Catering</a>
+						<div class="sub">
+							<ul>
+								<li>
+									<a href="/bistro-catering.php">Bistro Catering</a>
+								</li>
+								<li>
+									<a href="/private-events.php">Private Events</a>
+								</li>
+								<li>
+									<a href="/private-events-inquiries.php">Inquiry Form</a>
+								</li>
+							</ul>
+						</div>
+					</li>
+					<li>
+						<a href="/company-news.php">News</a>
+						<div class="sub">
+							<ul>
+								<li>
+									<a href="/company-news.php">Company News</a>
+								</li>
+								<li>
+									<a href="/press.php">Press</a>
+								</li><!--
+								<li>
+									<a href="video.php">Video</a>
+								</li>-->
+							</ul>
+						</div>
+					</li>
+					<li>
+						<a href="/philanthropy.php">Community</a>
+						<div class="sub">
+							<ul>
+								<li>
+									<a href="/philanthropy.php">Philanthropy</a>
+								</li>
+								
+								<li>
+									<a href="/social-media.php">Social Media</a>
+								</li>
+
+								<li>
+									<a href="/employee-fund.php">Employee Fund</a>
+								</li>
+								
+							</ul>
+						</div>
+					</li>
+					<li>
+						<a href="/contact-info.php">Contact</a>
+						<div class="sub">
+							<ul>
+								<li>
+									<a href="/contact-info.php">Main Office</a>
+								</li>
+								<!--
+								<li>
+									<a href="/restaurants-info.php">Properties</a>
+								</li>
+								-->
+								<li>
+									<a href="/media-center.php">Media Center</a>
+								</li>
+								<li>
+									<a href="/careers.php">Join Our Team</a>
+								</li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</nav>
+		</header>
+	<style>
+		.slide-logo{
+			position: absolute;
+			top: 135px;
+   			right: 40px;
+    		z-index: 10;
+		}
+	</style>
+		<div class="mainpage-height"></div>
+		<section class="mainpage-bg-slider">
+			<ul>
+									<li class="slide-1">
+						<div class="slide-logo"><a href="restaurants-kitchen.php"><img src="images/logos-bw/logo-kitchen-new.png"></a></div>
+					</li>
+									<li class="slide-6">
+						<div class="slide-logo"><a href="restaurants-bodega.php"><img src="images/logos-bw/logo-bodega.png"></a></div>
+					</li>
+									<li class="slide-3">
+						<div class="slide-logo"><a href="restaurants-bin22.php"><img src="images/logos-bw/logo-bin22-new.png"></a></div>
+					</li>
+									<li class="slide-2">
+						<div class="slide-logo"><a href="restaurants-bar-enoteca.php"><img src="images/logos-bw/logo-enoteca.png"></a></div>
+					</li>
+									<li class="slide-4">
+						<div class="slide-logo"><a href="restaurants-rendezvous-bistro.php"><img src="images/logos-bw/logo-rendevous-bistro.png"></a></div>
+					</li>
+									<li class="slide-5">
+						<div class="slide-logo"><a href="restaurants-osteria.php"><img src="images/logos-bw/osteria.png"></a></div>
+					</li>
+									<li class="slide-7">
+						<div class="slide-logo"><a href="bistro-catering.php"><img src="images/logos-bw/bistro-white.png"></a></div>
+					</li>
+							</ul>
+		</section>
+		<section class="mainpage-content">
+			<div class="mainpage-info">
+				<ul>
+					<li>
+						<div class="mainpage-info-box">
+							<div class="mainpage-info-logo">
+								<a href="http://www.thekitchenjacksonhole.com/">
+									<img src="images/kitchen-logo.png" alt="The Ktichen Jackson Hole">
+								</a>
+							</div>
+							<div class="mainpage-info-text">
+								<div class="quote">
+									<div class="quote-text big-text">
+										<p>"I'm going to write it: The Kitchen is the valley's best restaurant."</p>
+									</div>
+									<div class="quote-author">- JH Weekly (March 2012)</div>
+								</div>
+								<div class="mainpage-rating">
+									<div class="mainpage-rating-cell tripadvisor">
+										<img src="images/stars.png" alt="Trip Advisor Rating">
+									</div>
+									<div class="mainpage-rating-cell yelp">
+										<img src="images/stars.png" alt="Yelp Rating">
+									</div>
+									<div class="mainpage-rating-cell urbanspoon">
+										<img src="images/stars.png" alt="Urbanspoon Rating">
+									</div>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="mainpage-info-box">
+							<div class="mainpage-info-logo">
+								<a href="http://www.qjacksonhole.com/">
+									<img src="images/qroadhouse-logo.png" alt="Q Roadhouse">
+								</a>
+							</div>
+							<div class="mainpage-info-text">
+								<div class="quote">
+									<div class="quote-text">
+										<p>"Barbecue joints don't normally serve dishes like quinoa salad or housemade kimchi, but at the eclectic Q Roadhouse, they go perfectly with dishes like blackened catfish…and pulled pork that has been smoked in-house…The full bar and extensive wine list are the cherries on top."</p>
+									</div>
+									<div class="quote-author">- Zagat (May 2012)</div>
+								</div>
+								<div class="mainpage-rating">
+									<div class="mainpage-rating-cell tripadvisor">
+										<img src="images/stars.png" alt="Trip Advisor Rating">
+									</div>
+									<div class="mainpage-rating-cell yelp">
+										<img src="images/stars.png" alt="Yelp Rating">
+									</div>
+									<div class="mainpage-rating-cell urbanspoon">
+										<img src="images/stars.png" alt="Urbanspoon Rating">
+									</div>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="mainpage-info-box">
+							<div class="mainpage-info-logo">
+								<a href="http://www.bin22jacksonhole.com/">
+									<img src="images/bin22-logo.png" alt="">
+								</a>
+							</div>
+							<div class="mainpage-info-text">
+								<div class="quote">
+									<div class="quote-text">
+										<p>"A robust new wine shop called Bin22…resembles a mini Eataly, with its mozzarella bar staffed by a cheesemonger. In addition, it sells small-batch booze from the new Wyoming Whiskey, the state's first legal distillery."</p>
+									</div>
+									<div class="quote-author">- Chicago (January 2013)</div>
+								</div>
+								<div class="mainpage-rating">
+									<div class="mainpage-rating-cell tripadvisor">
+										<img src="images/stars.png" alt="">
+									</div>
+									<div class="mainpage-rating-cell yelp">
+										<img src="images/stars.png" alt="">
+									</div>
+									<div class="mainpage-rating-cell urbanspoon">
+										<img src="images/stars.png" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="mainpage-info-box">
+							<div class="mainpage-info-logo">
+								<a href="http://www.rendezvousbistro.net/">
+									<img src="images/rendevousbistro-logo.png" alt="Rendevous Bistro">
+								</a>
+							</div>
+							<div class="mainpage-info-text">
+								<div class="quote">
+									<div class="quote-text">
+										<p>"[Gavin Fine's] original place, Rendezvous Bistro is Jackson's version of New York City's Pastis – an excellent burger, the only raw bar in town, great people-watching."</p>
+									</div>
+									<div class="quote-author">- GQ (February 2013)</div>
+								</div>
+								<div class="mainpage-rating">
+									<div class="mainpage-rating-cell tripadvisor">
+										<img src="images/stars.png" alt="Trip Advisor Rating">
+									</div>
+									<div class="mainpage-rating-cell yelp">
+										<img src="images/stars.png" alt="Yelp Rating">
+									</div>
+									<div class="mainpage-rating-cell urbanspoon">
+										<img src="images/stars.png" alt="Urban Spoon Rating">
+									</div>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="mainpage-info-box">
+							<div class="mainpage-info-logo">
+								<a href="http://www.jhosteria.com/">
+									<img src="images/osteria-logo.png" alt="JH Osteria">
+								</a>
+							</div>
+							<div class="mainpage-info-text">
+								<div class="quote">
+									<div class="quote-text">
+										<p>"Il Villaggio Osteria, owned by Gavin Fine of Q Roadhouse and Rendezvous Bistro fame…An illuminated wine cellar and streamlined tableware make it chic; a wood-fired oven and a ceiling with rough-hewn wood beams offer a warm vibe. Order the sausage-stuffed olives and the house-made gnocchi."</p>
+									</div>
+									<div class="quote-author">- Ski Magazine (Winter Travel Issue)</div>
+								</div>
+								<div class="mainpage-rating">
+									<div class="mainpage-rating-cell tripadvisor">
+										<img src="images/stars.png" alt="Trip Advisor Rating">
+									</div>
+									<div class="mainpage-rating-cell yelp">
+										<img src="images/stars.png" alt="Yelp Rating">
+									</div>
+									<div class="mainpage-rating-cell urbanspoon">
+										<img src="images/stars.png" alt="Urbanspoon Rating">
+									</div>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="mainpage-info-box">
+							<div class="mainpage-info-logo">
+								<a href="http://www.bistrocatering.net/">
+									<img src="images/bistro.png" alt="Bistro Catering">
+								</a>
+							</div>
+							<div class="mainpage-info-text">
+								<div class="quote">
+									<div class="quote-text big-text">
+										<p>"You all could not have been more gracious and the food was delicious! Hope we cross paths again!"</p>
+									</div>
+									<div class="quote-author">- Sally Young, Co-Producer and Production Manager for Modern Family</div>
+								</div>
+								<div class="mainpage-rating">
+									
+								</div>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</section>
+		<!--
+<section class="mainpage-reservation">
+			<div class="reservation">
+				<div class="reservation-header">Reservations:</div>
+				<div id="OT_searchWrapperAll">
+					<script type="text/javascript" src="http://www.opentable.com/ism/?rid=18958,32104,18790,5403,69838&hover=1"></script>
+					<noscript id="OT_noscript">
+						<a href="http://www.opentable.com/single.aspx?rid=18958&restref=18958&rtype=ism">Reserve Now for Restaurant A on OpenTable.com</a>
+						<a href="http://www.opentable.com/single.aspx?rid=32104&restref=32104&rtype=ism">Reserve Now for Restaurant B on OpenTable.com</a>
+						<a href="http://www.opentable.com/single.aspx?rid=18790&restref=18790&rtype=ism">Reserve Now for Restaurant B on OpenTable.com</a>
+						<a href="http://www.opentable.com/single.aspx?rid=5403&restref=5403&rtype=ism">Reserve Now for Restaurant B on OpenTable.com</a>
+						<a href="http://www.opentable.com/single.aspx?rid=69838&restref=69838&rtype=ism">Reserve Now for Restaurant B on OpenTable.com</a>
+					</noscript>
+				</div>
+			</div>
+		</section>
+-->
+	</div>
+</div>
+
+
+<footer class="home_page">
+	<ul class="footer-links">
+		
+			<style>
+				.reservations-link{
+					
+					color:#fff !important;
+					display:block;
+					padding:0 20px;
+					width:100%;
+					box-sizing:border-box;
+				}
+
+				.reservations-link.opened { background:transparent; border-top:none; }
+				
+				.reservations-link:before{
+						width: 13px;
+					    height: 9px;
+					    display: inline-block;
+					    background: url(images/arrow-up-white.png) no-repeat !important;
+					    content: '';
+					    vertical-align: middle;
+					    margin: -2px 8px 0 0;
+				}
+
+				
+
+				.venues-ml { list-style-type:none; margin:0; padding:0; -moz-column-count: 2;
+    -moz-column-gap: 2px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 2px;
+    column-count: 2;
+    column-gap: 2px; }
+				.venues-ml li { padding:0; margin:0; }
+				.form-column.list-options { width:auto; margin-left:10px; }
+
+			</style>
+			<li class="open-up" style="background:rgb(150, 16, 20)">
+					<a href="#" data-open="reservations" class="reservations-link"><span>Reservations</span></a> 
+			</li>
+		
+		
+		<li class="open-up">
+			<a href="#" data-open="news"><span>News</span></a>
+		</li>
+		<li class="open-up">
+			<a href="#" data-open="giftcards"><span>Gift Certificates</span></a>
+		</li>
+		<li class="open-up">
+			<a data-open="mailing-list"><span>Connect with us!</span></a>
+		</li>
+		<li>
+			<a href="https://www.facebook.com/pages/Fine-Dining-Restaurant-Group/246227102093778" class="fb"></a>
+		</li>
+		<!-- <li>
+			<a href="https://twitter.com/jhfinedining" class="tw"></a>
+		</li> -->
+		<li class="last">
+			<a href="https://instagram.com/jhfinedining/" class="insta"></a>
+		</li>
+		<!--
+		<li class="last">
+			<a href="#" class="in"></a>
+		</li>-->
+	</ul>
+	<div class="footer-open" data-open="reservations">
+		<div class="footer-open-box panel-reservations">
+			<img src="/images/panel-close.gif" class="panel-close">
+			<div class="footer-open-content">
+				<div class="reservation" style="text-align:center">
+				
+
+					<script type='text/javascript' src='//www.opentable.com/widget/reservation/loader?rid=32104,5403,18958&type=standard&theme=standard&iframe=true&overlay=false&domain=com&lang=en-US'></script>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-open " data-open="news">
+		<div class="footer-open-box panel-news">
+			<img src="/images/panel-close.gif" class="panel-close">
+			<div class="footer-open-content">
+				<div class="footer-slider">
+					<ul>
+					
+					
+																		
+							<li>
+								<div class="open-box-header">A COVID-19 update for our loyal guests</div>
+								<p>03/15/2020</p>
+								<p> <a href="/news/a-covid-19-update-for-our-loyal-guests" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">A message to our loyal guests about COVID-19</div>
+								<p>03/09/2020</p>
+								<p> <a href="/news/a-letter-to-our-loyal-guests" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																																						
+							<li>
+								<div class="open-box-header">Beyond the Plate: Teton County Access to Justice Center</div>
+								<p>04/17/2019</p>
+								<p><p>In the second week of our spring Beyond the Plate series, we are taking a look at Teton County Access to Justice Center, the recipient of this week&rsquo;s off-season fundraising effort.&nbsp; Access to Justice is a non-profit legal aid program that provides help to Jackson Hole community members struggling with civil legal matters.&nbsp;</p> <a href="/news/beyond-the-plate-access-to-justice" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Beyond the Plate: Spread the Love Commission </div>
+								<p>04/08/2019</p>
+								<p><p>Spring has sprung and, despite lingering snow storms, the birds are chirping and tufts of grass are beginning to find their way out of the deep snow piles. The arrival of spring means a lot of things, but to us it means the reammergance of off-season specials&hellip; A time of year when those who like to dine out have a opportunity to give back to the community by dining out, buying one entr&eacute;e and getting a second for $2. 100% of the money from the second entr&eacute;e will be donated to a weekly featured non-profit organization.</p> <a href="/news/beyond-the-plate-spread-the-love" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Eat like a President </div>
+								<p>02/18/2019</p>
+								<p><p>When we think about the US Presidents and food, many automatically think of our first President, George Washington and apple pie.&nbsp; In fact, Washington&rsquo;s estate was known for hosting many guests and providing them with a wide variety of culinary options.&nbsp; As a result, the Mount Vernon Association has a long list of recipes online, showcasing cuisine Washington would serve to his guests.</p> <a href="/news/eat-like-a-president" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Hospitality Holidays, What FDRG employees Bring to Festive Parties</div>
+								<p>11/20/2018</p>
+								<p><p>&lsquo;Tis the season for holiday parties filled with friends, family, twinkling lights and, most importantly, food.&nbsp; Being in hospitality, around this time of year we are often asked what we bring to the holiday table when we&rsquo;re dining with friends and family.&nbsp; In honor of this, we&rsquo;ve compiled a list of the who, the what and the why of which delicious dishes Fine Dining Restaurant Group leaders bring along during the holidays.</p> <a href="/news/hospitality-holidays-what-fdrg-employees-bring-to-festive-parties" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Beyond the Plate: Dancers' Workshop</div>
+								<p>11/14/2018</p>
+								<p><p>In the final edition of our Beyond the Plate miniblog series, we are rounding out the Fall 2018 off-season special beneficiary spotlight with Dancers&rsquo; Workshop.&nbsp; This local nonprofit is a multifaceted organization that strives to enhance the community both through movement and education.</p> <a href="/news/beyond-the-plate-dancers-workshop" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Beyond the Plate: KHOL</div>
+								<p>11/05/2018</p>
+								<p><p>In the third edition of our Beyond the Plate series, we are showcasing Wyoming&rsquo;s community Radio station, 89.1 KHOL.&nbsp; KHOL has remained the only community radio station in Wyoming since they took to the airwaves in 2008.&nbsp; The content being broadcasted by local DJs can be accessed online and picked up from Victor, ID, all the way down to Alpine, WY.</p> <a href="/news/beyond-the-plate-khol" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Beyond the Plate: Community Entry Services</div>
+								<p>10/29/2018</p>
+								<p><p><span>This week in Beyond the Plate,&nbsp;we are excited to introduce Community Entry Services (CES).&nbsp;An incredible&nbsp;Jackson Hole non-profit, CES will be receiving the funds from our off-season&nbsp;fundraising effort from October 29&nbsp;to November 4.</span><br /><br /><span>CES is a local non-profit that&nbsp;supports adults with disabilities and acquired brain injuries in&nbsp;Teton&nbsp;County. &nbsp;They provide a variety of lifelong services to 30 individuals,&nbsp;including&nbsp;affordable housing, daily living skills, vocational services, medication&nbsp;management, residential&nbsp;living skills, community integration and bill&nbsp;payment.&nbsp;</span><br /><br /><br /></p> <a href="/news/beyond-the-plate-community-entry-services" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Beyond the Plate: Jackson Hole Juggernauts</div>
+								<p>10/22/2018</p>
+								<p><p>The changing of the seasons has brought another Jackson Hole &ldquo;off season,&rdquo; where we band together as a company to offer dining deals to guests, while also raising money for Jackson Hole area non-profits.</p>
+<p>Get to know the non-profits who will be receiving funds from this fall&rsquo;s fundraising effort in a four-part blog series &ldquo;Beyond the Plate.&rdquo;</p>
+<p>First up is the beneficiary of fundraising efforts from October 22 &ndash; 28: Jackson Hole Juggernauts.</p> <a href="/news/beyond-the-plate-jackson-hole-juggernauts" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																																																			
+							<li>
+								<div class="open-box-header">Eat Well. Do Good. a success</div>
+								<p>05/15/2018</p>
+								<p><div class="e2ma-p-div">
+<div class="e2ma-p-div">We were blown away by the stories of selfless good deeds being performed in our backyard, by people of all ages, throughout the Jackson Hole community.</div>
+</div> <a href="/news/eat-well-do-good-a-success" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Fine Dining Restaurant Group Launches Eat Well. Do Good. Initiative</div>
+								<p>03/27/2018</p>
+								<p><p>We are please to announce the introduction of Eat Well. Do Good., a movement where we join together to show when a community stands together, magical things begin to happen.</p> <a href="/news/eat-well-do-good" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Welcome to the Fine Dining family!</div>
+								<p>11/14/2017</p>
+								<p><p>We have uncorked the bubbly to celebrate the opening of the newest addition to the Fine Dining family - Bar Enoteca.&nbsp;</p> <a href="/news/welcome-to-the-fine-dining-family" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																																						
+							<li>
+								<div class="open-box-header">Jackson Hole community rallies for Alex's Lemonade Stand</div>
+								<p>06/08/2017</p>
+								<p><div>Building off the success of this winter's inaugural Alex's Table: A Winter Dinner in Jackson Hole, a group of Jackson Hole children will gather together this weekend to host a lemonade stand outside Roadhouse Pub &amp; Eatery to benefit Alex&rsquo;s Lemonade Stand Foundation.</div> <a href="/news/jackson-hole-community-rallies-for-alexs-lemonade-stand" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Fine Dining Returns to the Famed James Beard House</div>
+								<p>10/28/2016</p>
+								<p><p>For the third straight year, the Fine Dining Restaurant Group will be cooking at the historic James Beard House. The group previously partnered with Jackson Hole Mountain Resort (and Spur Restaurant in 2015) in two dinners using Wyoming as the inspiration for the menu. This year, Fine Dining Restaurant Group attends the dinner as the sole architects behind the menu; Gavin and team will keep true to their Wyoming roots while highlighting house-made creations from across the diverse group of restaurants.</p> <a href="/news/fine-dining-returns-to-the-famed-james-beard-house" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Over $126,000 raised for local non-profits since 2011</div>
+								<p>02/04/2016</p>
+								<p><p>The end of 2015 marked a new milestone - over $126,000 raised in five years of off-season specials at Jackson Hole Fine Dining restaurants!</p> <a href="/news/over-126000-raised-for-jackson-hole-non-profits-since-2011" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Don Cosimo Wines - a new, exclusive import</div>
+								<p>01/26/2016</p>
+								<p><p>In&nbsp;a special wine import project, Fine Dining Restaurant Group is now the sole importer of Don Cosimo wines. These Sicilian wines are sold in four varietals, including Nero d'Avola, Grillo, Catarratto and Sparkling Grillo, and are only available at Fine Dining restaurants in Jackson Hole.</p> <a href="/news/don-cosimo-sicilian-wines-a-new-exclusive-import" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Café added to the Fine Dining lineup</div>
+								<p>11/24/2015</p>
+								<p><p>We are pleased to share we've added a Caf&eacute; to the lineup of Fine Dining restaurants. Located in the space previously occupied by Terra Cafe, the new addition will provide a casual outlet for breakfast and lunch, serving largely Italian-inspired selections in a grab-and-go setting - all next door to Osteria in Hotel Terra.</p> <a href="/news/eton-village-cafe-added-to-the-fine-dining-lineup" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Fine Dining Restaurant Group and Carter Country Beef form unique relationship</div>
+								<p>07/23/2015</p>
+								<p><p>Part-time professional snowboarder, part-time cattle rancher, Mark Carter and his brother RC embody the Wyoming lifestyle. Relying on sheer acreage and Mother Nature to harvest their beef, the Carter family has been raising cattle in Ten Sleep, Wyoming for four generations. Grass fed and grain finished, the Carters&rsquo; product is some of the best beef in Wyoming and it&rsquo;s all being delivered to your plate in the most humane way possible.</p> <a href="/news/fine-dining-restaurant-group-and-carter-country-beef-form-unique-relationship" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Spring 2015 fundraising a success</div>
+								<p>07/15/2015</p>
+								<p><p>We are pleased to announce that in Spring 2015, with the help of the Jackson Hole community, we were able to raise $15,964 in just two months! For more information on our bi-annual fundraising efforts, click Learn More.</p> <a href="/news/spring-2015-fundraising-a-success" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Bodega - a new addition to the Fine Dining family</div>
+								<p>12/22/2014</p>
+								<p><p>Please join us in welcoming a new addition to the Fine Dining Restaurant Group family! Bodega, located at the base of Jackson Hole Mountain Resort in Teton Village, is the destination's new stop for great food and beverages.</p> <a href="/news/bodega-a-new-addition-to-fine-dining-restaurant-group" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Holiday hours</div>
+								<p>11/25/2014</p>
+								<p><p>Happy Holidays! As the season ushers in, we welcome you into our restaurant homes to celebrate the sights, sounds and flavors of the season with us. Click below for a complete list of our restaurants' holiday hours.</p> <a href="/news/holiday-hours-jackson-hole-park-city-restaurants" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Our evening at the James Beard House</div>
+								<p>10/16/2014</p>
+								<p><p>Working in partnership with Jackson Hole Mountain Resort&rsquo;s chefs Wes Hamilton and Dave Erlanson, Fine Dining Restaurant Group chefs Roger Freedman, Joel Tate, Chad Horton and Co-Owner Gavin Fine presented a Jackson Hole-inspired seven-course menu at the famed James Beard House on October 2.</p> <a href="/news/fine-dining-and-jhmr-at-the-james-beard-house" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Support Jackson Hole non-profits when you dine out this fall</div>
+								<p>10/15/2014</p>
+								<p><p>What's better than dining out, getting a great deal and supporting Jackson Hole non-profits at the same time? In our opinion... Nothing.&nbsp;</p>
+<p>Click below to learn more about our upcoming dining deals and the fantastic organizations they support.</p> <a href="/news/support-jackson-hole-non-profits-when-you-dine-out-this-fall" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Travel inspiration: Gavin's picks for dining out in NYC</div>
+								<p>10/01/2014</p>
+								<p><p>Food and travel go hand in hand, no matter your destination. There's rarely a better way (in our opinion) to experience a new city than by tasting your way through. New York City is no different. With thousands of eateries within reach, incredible food and drink is simply a step away.&nbsp;</p>
+<p>Traveling to New York City? Try out a few of Gavin Fine's favorite destinations for dining out in New York City.</p> <a href="/news/a-list-of-gavin-fines-picks-for-dining-out-in-new-york-city" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Dine Out in September and Help End Childhood Hunger</div>
+								<p>09/15/2014</p>
+								<p><p>More than 16 million American children face hunger. This September, we are joining thousands of restaurants nationwide to support Share Our Strength&rsquo;s No Kid Hungry<sup>&reg;</sup>&nbsp;campaign by raising funds in our Jackson Hole and Park City restaurants.</p> <a href="/news/dine-out-in-september-and-help-end-childhood-hunger" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Meet the Chefs - Jackson Hole: From the Range, a dinner at NYC's James Beard House</div>
+								<p>08/08/2014</p>
+								<p><p>The big news on the Jackson Hole food front this week is that the JH community will be showcasing culinary talents to the New York media and public this October 2nd&nbsp;at the historic James Beard House. Fine Dining Restaurant Group Executive Chef Roger Freedman and Jackson Hole Mountain Resort Executive Chef Wes Hamilton have collaborated to create<em>&nbsp;<a href="http://jhfinedining.com/news/jhmr-and-fine-dining-restaurant-group-to-showcase-jackson-hole-at-james-beard-house" target="_blank">Jackson Hole: From the Range</a></em>&nbsp;a carefully curated menu of ingredients sourced from our region along with wine and whiskey pairings.</p>
+<p>We&rsquo;re excited to see these chefs in action in NYC, so in the mean time we sat down with them to find out what makes them tick.</p> <a href="/news/meet-the-chefs-jackson-hole-from-the-range-dinner-james-beard" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Jackson Hole Mountain Resort and Fine Dining Restaurant Group to showcase at New York’s Famed James Beard House</div>
+								<p>08/06/2014</p>
+								<p><p>Jackson Hole Mountain Resort (JHMR) and Fine Dining Restaurant Group (FDRG) are proud to announce a partnership with the Jackson Hole community hosting&nbsp;<em>Jackson Hole:</em>&nbsp;<em>From the Range</em>, a day celebrating Jackson Hole&rsquo;s thriving culinary culture at New York City&rsquo;s celebrated James Beard House.&nbsp;<em>Jackson Hole: From the Range</em>&nbsp;brings the best in food and travel culture from the mountain mecca of Jackson Hole to the esteemed, invite-only Beard kitchen.</p> <a href="/news/jhmr-and-fine-dining-restaurant-group-to-showcase-jackson-hole-at-james-beard-house" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																																																			
+							<li>
+								<div class="open-box-header">Fine Dining Restaurant Group Donates Over $14,000 to Non-Profits from Spring Fundraising Effort</div>
+								<p>07/08/2014</p>
+								<p><p>Led by Owners Gavin Fine and Roger Freedman, Fine Dining Restaurant Group presented $14,052.02 to worthy non-profits in a reception last Thursday at Bin22, leading to a total of over $79,000 raised through Jackson Hole restaurant off-season specials since Fall 2011.</p> <a href="/news/fine-dining-restaurant-group-donates-over-14000-to-non-profits-from-spring-fundraising-effort" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Wine Enthusiast Names Jackson Hole Top Foodie City</div>
+								<p>07/03/2014</p>
+								<p><p>We're excited to share Jackson Hole was named a Top 5 Foodie City by Wine Enthusiast. We're even MORE excited to share the article recommends Fine Dining restaurants The Kitchen and Il Villaggio Osteria! Click below to learn more.</p> <a href="/news/wine-enthusiast-names-jackson-hole-top-foodie-city" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Non-Profit Beneficiaries of Park City Fundraising Efforts Announced</div>
+								<p>04/10/2014</p>
+								<p><p>In keeping with the Fine Dining Restaurant Group initiative of supporting the communities in which we work and call home, we are proud to support Park City non-profit organizations through offering 2 for 1s with a twist at Silver.</p> <a href="/news/non-profit-beneficiaries-of-park-city-fundraising-efforts-announced" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Jackson Hole Spring Off Season Specials to Benefit Nine Non-Profit Organizations</div>
+								<p>03/25/2014</p>
+								<p><p>Spring off season specials begin in Jackson Hole on April 7 and will raise money to support nine non-profit organizations.</p> <a href="/news/jackson-hole-spring-off-season-specials-to-benefit-nine-non-profit-organizations" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Fine Dining Restaurant Group Gives Away Over $31,000 Through 2013 Off-Season Specials</div>
+								<p>01/24/2014</p>
+								<p><p>Thank you, Jackson Hole, for your support in making this possible!</p> <a href="/news/fine-dining-restaurant-group-gives-away-over-31000-through-2013-off-season-specials" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																									
+							<li>
+								<div class="open-box-header">Fine Dining Restaurant Group Releases Signature Coffee Blend</div>
+								<p>01/13/2014</p>
+								<p><p>Working closely with locally-based Snake River Roasting Co., we have released our own Signature Coffee Blend - now available at all Jackson Hole Fine Dining restaurants.</p> <a href="/news/fine-dining-restaurant-group-releases-signature-coffee-blend" class="bold">Learn More...</a> </p>
+							</li>
+						
+						
+																																																																														
+						
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-open " data-open="giftcards">
+		<div class="footer-open-box panel-giftcards">
+			<img src="/images/panel-close.gif" class="panel-close">
+			<div class="footer-open-content clearfix">
+				<img src="/images/giftcard2.png" class="image-left" alt="">
+				<div class="column">
+					<!-- <div class="open-box-header">Gift Cards</div> -->
+					<p>Thank you for your interest in purchasing a Fine Dining Restaurant Group gift certificate. Gift certificates are valid for use at all FDRG locations. <a href="/gift-cards.php" class="bold">Learn More...</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-open " data-open="mailing-list">
+		<div class="footer-open-box panel-mailing-list">
+			<img src="/images/panel-close.gif" class="panel-close">
+			<div class="footer-open-content clearfix">
+				<!--<div class="open-box-header">Connect with us!</div>-->
+				<p class="small-text">Stay up to date with what we're up to, what we're serving and what we're planning. </p>
+				<form class="mailing-list" id="ml-form" method="post" action="https://finedining.studioalityapps.com/cms/subscriber/add_captcha">
+					
+					<div class="form-column" style="width:300px;">
+						<fieldset>
+							<input type="text" name="first_name" id="first_name" placeholder="First Name">
+						</fieldset>
+						<fieldset>
+							<input type="text" name="last_name" id="last_name" placeholder="Last Name">
+						</fieldset>
+						<fieldset>
+							<input type="text" name="email" id="email" placeholder="Email">
+						</fieldset>
+						<fieldset>
+							<div style="clear:both; margin-top:10px;">
+								<script src='https://www.google.com/recaptcha/api.js'></script>
+								<div class="g-recaptcha" data-sitekey="6LdS3pQUAAAAAISBJDRqxKgldV1kILMhgwvquBjB"></div>
+							</div>
+						</fieldset>
+					</div>
+					
+					<div class="form-column list-options">
+						<fieldset class="checkbox-group">
+							<ul class="venues-ml">
+							<li><input type="checkbox" value="19" name="venue[]">Enoteca</li><li><input type="checkbox" value="11" name="venue[]">Rendezvous Bistro</li><li><input type="checkbox" value="6" name="venue[]">Bin22</li><li><input type="checkbox" value="8" name="venue[]">The Kitchen</li><li><input type="checkbox" value="9" name="venue[]">Il Villaggio Osteria</li><li><input type="checkbox" value="13" name="venue[]">Bodega </li><li><input type="checkbox" value="7" name="venue[]">Bistro Catering</li><li><input type="checkbox" value="14" name="venue[]">Fine Dining Wine Club</li><li><input type="checkbox" value="1" name="venue[]">Fine Dining Restaurant Group</li><li><input type="checkbox" value="16" name="venue[]">Cream + Sugar Ice Cream</li><li><input type="checkbox" value="18" name="venue[]">Bovine + Swine</li>							</ul>
+						
+							
+						</fieldset>
+					</div>
+					
+					
+					
+					<div class="form-column submit">
+						<fieldset class="ml-submit">
+							<div id="message"></div>
+							<input type="submit" value="Join" id="ml2-submit">
+							<img src="/images/loader.gif" style="display:none" id="loading">
+							<input type="hidden" name="redirect" value="http://jhfinedining.com/index.php">
+						</fieldset>
+					</div>
+				
+				</form>
+			</div>
+		</div>
+	</div>
+	
+	<div class="pull-right">
+		<a href="http://www.bistrocatering.net/" class="footer-logo" alt="Bistro Catering"></a>
+		<span>|</span>
+		<div class="made-in">Site by: <a href="http://studioality.com/">Studioality</a></div>
+	</div>
+</footer>
+
+<link rel="stylesheet" href="js/sweet_alert/sweet-alert.css">
+<script src="js/sweet_alert/sweet-alert.min.js"></script>
+
+	
+	
+</body>
+
+</html><a href="_popup.php" class="closed-pop"></a>
+<script>
+	$(function(){
+		$('.closed-pop').fancybox({
+			type:'iframe',
+			maxWidth:800,
+			maxHeight:600
+		}).trigger('click');
+	});
+</script>

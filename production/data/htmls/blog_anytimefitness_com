@@ -1,0 +1,1795 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" 
+ xmlns:og="http://ogp.me/ns#"
+ xmlns:fb="http://ogp.me/ns/fb#" class="oldie"><![endif]-->
+<!--[if (gte IE 9) | !(IE)]><!--><html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" 
+ xmlns:og="http://ogp.me/ns#"
+ xmlns:fb="http://ogp.me/ns/fb#" class="modern"><!--<![endif]-->
+
+<head>
+<meta charset="UTF-8" />
+
+
+<!-- Always force latest IE rendering engine & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<!-- Meta Viewport -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link rel="shortcut icon" href="http://blog.anytimefitness.com/wp-content/uploads/2013/08/favicon.ico" />
+<link rel="apple-touch-icon-precomposed" href="http://blog.anytimefitness.com/wp-content/themes/simplemag/images/retina-favicon.png" />
+
+
+<!-- This site is optimized with the Yoast SEO plugin v11.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Anytime Fitness Blog - Workouts, Recipes, and Weight Loss</title>
+<meta name="description" content="Improve your wellbeing with fitness tips, recipes, workout plans, music playlists, weight loss advice, and videos + podcasts from Anytime Fitness."/>
+<link rel="canonical" href="http://blog.anytimefitness.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Anytime Fitness Blog - Workouts, Recipes, and Weight Loss" />
+<meta property="og:description" content="Improve your wellbeing with fitness tips, healthy recipes, workout plans, music playlists, weight loss advice, and videos + podcasts from Anytime Fitness, the #1 co-ed fitness franchise in the world!" />
+<meta property="og:url" content="http://blog.anytimefitness.com/" />
+<meta property="og:site_name" content="Anytime Fitness Blog" />
+<meta property="og:image" content="http://blog.anytimefitness.com/wp-content/uploads/2014/09/907Y4738_LR.jpg" />
+<meta property="og:image:width" content="1800" />
+<meta property="og:image:height" content="1200" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Improve your wellbeing with fitness tips, recipes, workout plans, music playlists, weight loss advice, and videos + podcasts from Anytime Fitness." />
+<meta name="twitter:title" content="Anytime Fitness Blog - Workouts, Recipes, and Weight Loss" />
+<meta name="twitter:site" content="@anytimefitness" />
+<meta name="twitter:image" content="http://blog.anytimefitness.com/wp-content/uploads/2014/09/907Y4738_LR.jpg" />
+<meta name="twitter:creator" content="@anytimefitness" />
+<meta name="google-site-verification" content="Ya5qZJYSYUMiOvhGCbDh8Sa7wy1LAlfpPOKEtU1Lj3c" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://blog.anytimefitness.com/#organization","name":"Anytime Fitness","url":"http://blog.anytimefitness.com/","sameAs":["https://www.facebook.com/anytimefitness","http://instagram.com/anytimefitness","http://youtube.com/anytimefitness","http://pinterest.com/anytimefitness","https://twitter.com/anytimefitness"],"logo":{"@type":"ImageObject","@id":"http://blog.anytimefitness.com/#logo","url":"http://blog.anytimefitness.com/wp-content/uploads/2015/03/logo.png","width":251,"height":86,"caption":"Anytime Fitness"},"image":{"@id":"http://blog.anytimefitness.com/#logo"}},{"@type":"WebSite","@id":"http://blog.anytimefitness.com/#website","url":"http://blog.anytimefitness.com/","name":"Anytime Fitness Blog","publisher":{"@id":"http://blog.anytimefitness.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://blog.anytimefitness.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://blog.anytimefitness.com/#webpage","url":"http://blog.anytimefitness.com/","inLanguage":"en-US","name":"Anytime Fitness Blog - Workouts, Recipes, and Weight Loss","isPartOf":{"@id":"http://blog.anytimefitness.com/#website"},"about":{"@id":"http://blog.anytimefitness.com/#organization"},"datePublished":"2013-08-22T16:16:20-05:00","dateModified":"2014-10-08T16:39:40-05:00","description":"Improve your wellbeing with fitness tips, recipes, workout plans, music playlists, weight loss advice, and videos + podcasts from Anytime Fitness."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Anytime Fitness Blog &raquo; Feed" href="http://blog.anytimefitness.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Anytime Fitness Blog &raquo; Comments Feed" href="http://blog.anytimefitness.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Anytime Fitness Blog &raquo; Home Comments Feed" href="http://blog.anytimefitness.com/home/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+		var disableStr = 'ga-disable-UA-2458066-14';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-2458066-14', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/blog.anytimefitness.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://blog.anytimefitness.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avatar-manager-css'  href='http://blog.anytimefitness.com/wp-content/plugins/avatar-manager/assets/css/avatar-manager.min.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sc-frontend-style-css'  href='http://blog.anytimefitness.com/wp-content/plugins/shortcodes-indep/css/frontend-style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='framework-css'  href='http://blog.anytimefitness.com/wp-content/themes/simplemag/css/framework.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://blog.anytimefitness.com/wp-content/themes/simplemag/css/icons.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css'  href='http://blog.anytimefitness.com/wp-content/themes/simplemag/style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext&#038;family=Lato%3A300%2C300italic%2C400%2C400italic%2C700%2C700italic%2C900%2C900italic%7COswald%3A300%2C300italic%2C400%2C400italic%2C700%2C700italic%2C900%2C900italic+rel%3D%27stylesheet%27+type%3D%27text%2Fcss&#038;ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css'  href='http://blog.anytimefitness.com/wp-content/plugins/addthis-smart-layers/frontend/build/addthis_wordpress_public.min.css?ver=5.3.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/blog.anytimefitness.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.anytimefitness.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.6'></script>
+<script type='text/javascript' src='http://blog.anytimefitness.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://blog.anytimefitness.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://blog.anytimefitness.com/wp-content/plugins/avatar-manager/assets/js/avatar-manager.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://blog.anytimefitness.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.7.2'></script>
+<link rel='https://api.w.org/' href='http://blog.anytimefitness.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.anytimefitness.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog.anytimefitness.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://blog.anytimefitness.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://blog.anytimefitness.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fblog.anytimefitness.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://blog.anytimefitness.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fblog.anytimefitness.com%2F&#038;format=xml" />
+<meta property="fb:app_id" content="218896028281249"/>    <style type="text/css" media="screen">
+      div.printfriendly a, div.printfriendly a:link, div.printfriendly a:hover, div.printfriendly a:visited {
+        text-decoration: none;
+        border: none;
+      }
+    </style>
+   
+<!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
+<script data-cfasync="false" type="text/javascript">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+	dataLayer.push({"pagePostType":"frontpage","pagePostType2":"single-page","postCountOnPage":1,"postCountTotal":1});
+</script>
+<script data-cfasync="false">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NSNP5B');</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by DuracellTomi --><style>
+/* Theme Options Styling */
+body {font-family:'Helvetica Neue', Helvetica, sans-serif;}
+h1, h2, h3, h4, h5, h6, .tagline, .sub-title, .menu a, .widget_pages, .widget_categories, .entry-meta, .entry-note, .read-more, #submit, .single .entry-content > p:first-of-type:first-letter, input#s, .widget_ti-about-site p, .comments .vcard, #respond label, .copyright, #wp-calendar tbody, .latest-reviews i, .score-box .total {font-family: 'Helvetica Neue', Helvetica, sans-serif; font-weight:400;}
+.sub-menu ul li a:hover, .secondary-menu a:hover, .secondary-menu .current_page_item > a, .top-strip nav > ul > li:hover > a, .footer-sidebar .widget h3 {color:#7769af !important;}
+#masthead .main-menu > ul > li.sub-hover > a:after{border-color:transparent transparent #7769af;}
+#masthead .main-menu > ul > li{font-size:18px;}
+#masthead .main-menu .sub-menu{border-top-color:#7769af;}
+.widget_ti_most_commented span i:after{border-top-color:#7769af;border-left-color:#7769af;}
+.entry-image, .page-numbers .current, .link-pages span, .score-line span, .widget_ti_most_commented span {background-color:#7769af;}
+.modern .posts-slider figure:before {background-color:#18191a;opacity:0.4;}
+.posts-slider:hover figure:before {opacity:0.7;}
+::selection {background-color:#7769af;}
+::-moz-selection {background-color:#7769af;}
+/* Custom CSS */
+/*START LandingPage - Thanksgiving*/
+.page-id-6188 #masthead,
+.page-id-6188 #footer { display: none !important;
+}
+.page-id-6188 {margin-top: 50px;}
+.page-id-6188 .entry-header {display: none;}
+
+/*END LandingPage - Thanksgiving*/
+
+/*START LandingPage - Contest */
+.page-id-7276 #masthead,
+.page-id-7276 #footer { display: none !important;
+}
+.page-id-7276 {margin-top: 50px;}
+.page-id-7276 .entry-header {display: none;}
+
+/*END LandingPage - Contest*/
+
+/*BEGIN LandingPage - Subscribe*/
+.page-id-7331 .page-title
+{display: none;}
+
+/*END LandingPage - Subscribe*/
+
+/*WEBSITE CUSTOM CSS*/
+
+.tagline {
+line-height: normal;}
+
+/*SPACE BETWEEN BULLETS*/
+
+.single .entry-content li {
+		margin-bottom: 10px;}
+
+/*COLOR H2*/
+	.title-text h2,
+	.page .page-content h2,
+	.single .entry-content h2 { 
+color: #7769af;
+}
+
+/*LINKS*/
+a:link {color:#7769af;}  
+a:visited {color:#867ab8;} 
+a:hover {color:#5e5095;}
+a:active {color:#867ab8;}</style>
+<script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpsl"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpsl-3.1.1"; } if (window.wp_blog_version === undefined) { window.wp_blog_version = "5.3.2"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ignore_server_config":true,"ui_atversion":300}; } if (window.addthis_layers === undefined) { window.addthis_layers = {}; } if (window.addthis_layers_tools === undefined) { window.addthis_layers_tools = [{"sharetoolbox":{"numPreferredServices":5,"counts":"one","size":"32px","style":"fixed","shareCountThreshold":0,"elements":".addthis_inline_share_toolbox_above,.at-above-post"}},{"sharetoolbox":{"numPreferredServices":5,"counts":"one","size":"32px","style":"fixed","shareCountThreshold":0,"elements":".addthis_inline_share_toolbox_below,.at-below-post"}}]; } else { window.addthis_layers_tools.push({"sharetoolbox":{"numPreferredServices":5,"counts":"one","size":"32px","style":"fixed","shareCountThreshold":0,"elements":".addthis_inline_share_toolbox_above,.at-above-post"}}); window.addthis_layers_tools.push({"sharetoolbox":{"numPreferredServices":5,"counts":"one","size":"32px","style":"fixed","shareCountThreshold":0,"elements":".addthis_inline_share_toolbox_below,.at-below-post"}});  } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Smart Layers by AddThis","plugin_version":"3.1.1","plugin_mode":"WordPress","anonymous_profile_id":"wp-290246415a732752e812d506f5f8ee6b","page_info":{"template":"home","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script> <script data-cfasync="false" type="text/javascript"src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-511ab5c4252eb3d5" async="async"></script><script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.1.1"; } if (window.wp_blog_version === undefined) { window.wp_blog_version = "5.3.2"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ignore_server_config":true,"ui_atversion":300}; } if (window.addthis_layers === undefined) { window.addthis_layers = {}; } if (window.addthis_layers_tools === undefined) { window.addthis_layers_tools = [{"sharetoolbox":{"numPreferredServices":5,"counts":"one","size":"32px","style":"fixed","shareCountThreshold":0,"elements":".addthis_inline_share_toolbox_above,.at-above-post"}},{"sharetoolbox":{"numPreferredServices":5,"counts":"one","size":"32px","style":"fixed","shareCountThreshold":0,"elements":".addthis_inline_share_toolbox_below,.at-below-post"}}]; } else { window.addthis_layers_tools.push({"sharetoolbox":{"numPreferredServices":5,"counts":"one","size":"32px","style":"fixed","shareCountThreshold":0,"elements":".addthis_inline_share_toolbox_above,.at-above-post"}}); window.addthis_layers_tools.push({"sharetoolbox":{"numPreferredServices":5,"counts":"one","size":"32px","style":"fixed","shareCountThreshold":0,"elements":".addthis_inline_share_toolbox_below,.at-below-post"}});  } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.1.1","plugin_mode":"WordPress","anonymous_profile_id":"wp-290246415a732752e812d506f5f8ee6b","page_info":{"template":"home","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script> <script data-cfasync="false" type="text/javascript"src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-511ab5c4252eb3d5" async="async"></script>		<style type="text/css" id="wp-custom-css">
+			/* Screenreader specific */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+/* Contrast compliance */
+.tagline, .sub-title, .main-menu, .entry-meta, .pagination li a, .pagination li span {
+  color: #757575;
+}
+.pagination li a:hover, .pagination li a:focus {
+	color: #666;
+	text-decoration:underline;
+}
+.page-numbers .current {
+	color:#fff;
+}
+.footer-sidebar a {
+	color:#6657A2;
+}
+.footer-sidebar a:hover, .footer-sidebar a:focus {
+	color:#40396A;
+}
+
+/* Keyboard accessibility */
+a:focus {
+    outline: -webkit-focus-ring-color auto 5px;
+	
+}
+.posts-slider .flex-prev:focus, .posts-slider .flex-next:focus {
+    box-shadow: 3px 3px 0 #000;
+    text-shadow: 3px 3px 0 #000;
+}		</style>
+		</head>
+
+<body class="home page-template page-template-page-composer page-template-page-composer-php page page-id-23">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NSNP5B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->    
+    
+<!-- Logo -->
+
+<div id="outer-wrap">
+    <div id="inner-wrap">
+
+    <div id="pageslide">
+        <a id="close-pageslide" href="#top"><i class="icon-remove-sign"></i></a>
+    </div><!-- Sidebar in Mobile View -->
+
+    <header id="masthead" role="banner" class="clearfix">
+        
+		<div class="top-strip color-site-white">
+            <div class="wrapper clearfix">
+            	
+                
+<form method="get" id="searchform" action="http://blog.anytimefitness.com/" role="search">
+	<input type="text" name="s" id="s" value="Search" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';" />
+    <button type="submit">
+    	<i class="icon-search"></i>
+    </button>
+</form>                
+                <ul class="social"><li><a href="http://feeds.feedburner.com/anytimefitnessofficial" class="icon-feed" target="_blank"></a></li><li><a href="https://www.facebook.com/anytimefitness" class="icon-facebook" target="_blank"></a></li><li><a href="https://twitter.com/AnytimeFitness" class="icon-twitter" target="_blank"></a></li><li><a href="https://www.linkedin.com/company/anytime-fitness" class="icon-linkedin" target="_blank"></a></li><li><a href="http://instagram.com/anytimefitness" class="icon-instagram" target="_blank"></a></li><li><a href="http://www.youtube.com/user/AnytimeFitnessLLC" class="icon-youtube" target="_blank"></a></li><li><a href="https://www.pinterest.com/anytimefitness/" class="icon-pinterest" target="_blank"></a></li></ul>                
+                <a id="open-pageslide" href="#pageslide"><i class="icon-menu"></i></a>
+
+                <!-- Mobile logo -->
+                <a class="logo" href="http://blog.anytimefitness.com/">
+                    <img src="http://blog.anytimefitness.com/wp-content/uploads/2013/08/logo.png" alt="Anytime Fitness Blog - Anytime Fitness Blog" title="Anytime Fitness Blog - Anytime Fitness Blog" />
+                </a>
+                <!-- End mobile logo -->
+            </div><!-- .wrapper -->
+        </div><!-- .top-strip -->
+        
+        
+        <div class="wrapper">
+        	
+            <div id="branding" class="animated">
+
+                                <span class="tagline">
+                    <a href="http://blog.anytimefitness.com/">Anytime Fitness Blog</a>
+                </span>
+                
+                <!-- Logo -->
+                <a class="logo" href="http://blog.anytimefitness.com/">
+                    <img src="http://blog.anytimefitness.com/wp-content/uploads/2013/08/logo.png" alt="Anytime Fitness Blog - Anytime Fitness Blog" title="Anytime Fitness Blog - Anytime Fitness Blog" />
+                </a>
+                <!-- End Logo -->
+                
+                
+            </div>
+            
+            <nav class="animated main-menu"><ul id="main-nav" class="menu"><li id="menu-item-6107" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="http://blog.anytimefitness.com/category/start-here/">Start Here</a><div class="sub-menu"><ul class="sub-posts">
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/our-top-3-tips-for-setting-goals-and-reaching-them-before-new-years/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2-296x197.jpg" alt="Our Top 3 Tips for Setting Goals, and Reaching Them, Before New Years" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/our-top-3-tips-for-setting-goals-and-reaching-them-before-new-years/">Our Top 3 Tips for Setting Goals, and Reaching Them, Before New Years</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/beginner-strength-workout-get-started-gym/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2019/08/Sept205-296x197.jpg" alt="Beginner Strength Workout &#8211; How to Get Started in the Gym" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/beginner-strength-workout-get-started-gym/">Beginner Strength Workout &#8211; How to Get Started in the Gym</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/your-workouts-should-include-the-plyo-box-heres-why/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2019/06/Artboard206-296x197.png" alt="Your Workouts Should Include the Plyo Box, Here&#8217;s Why" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/your-workouts-should-include-the-plyo-box-heres-why/">Your Workouts Should Include the Plyo Box, Here&#8217;s Why</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/best-tips-making-resolutions-stick/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2019/01/FEB-18-PLATEAU-BLOG-HEADERBLOG-HEADER-296x197.jpg" alt="The Best Tips for Making Your Resolutions Stick" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/best-tips-making-resolutions-stick/">The Best Tips for Making Your Resolutions Stick</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/success-story-365-straight-days-working-dani/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2015/01/down-with-dani-main2-296x197.jpg" alt="Success Story: 365 Straight Days of Working Out With Dani" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/success-story-365-straight-days-working-dani/">Success Story: 365 Straight Days of Working Out With Dani</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/commitment-comes-coach-can-help-meet-goals/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2018/12/420JAN20HH20WITH20COACH20BLOG20HEADER-296x197.jpg" alt="Commitment Comes with a Coach: We Can Help You Meet Your Goals" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/commitment-comes-coach-can-help-meet-goals/">Commitment Comes with a Coach: We Can Help You Meet Your Goals</a>
+								</li><li class="sub-nav-placeholder"></li></ul>
+<ul class="sub-links">
+	<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://blog.anytimefitness.com/about/">About This Blog</a><div class="sub-menu">
+	<ul class="sub-links">
+		<li id="menu-item-6087" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://blog.anytimefitness.com/about/contributors/">Contributors</a><div class="sub-menu"></div>
+</li>
+		<li id="menu-item-6090" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://feeds.feedburner.com/anytimefitnessofficial">Subscribe</a></li>
+	</ul>
+</div>
+</li>
+	<li id="menu-item-6088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#">Beginner&#8217;s Corner</a>
+	<ul class="sub-links">
+		<li id="menu-item-6524" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://blog.anytimefitness.com/tag/fitness-fundamentals/">Fitness Fundamentals</a></li>
+		<li id="menu-item-6525" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://blog.anytimefitness.com/tag/food-focus/">Food Focus</a></li>
+		<li id="menu-item-9824" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="http://blog.anytimefitness.com/first-steps-killer-beach-bod/">First Steps to a Killer Beach Bod</a></li>
+		<li id="menu-item-6113" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="http://blog.anytimefitness.com/395347-the-10-commandments-of-weight-loss/">10 Commandments of Weight Loss</a></li>
+		<li id="menu-item-6111" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="http://blog.anytimefitness.com/395198-burpees-hiits-and-wods-fitness-jargon-decoded/">Fitness Jargon Decoded</a></li>
+		<li id="menu-item-9822" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="http://blog.anytimefitness.com/how-to-create-and-then-break-an-effective-fitness-routine/">How to Create (And Then Break!) an Effective Fitness Routine</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://www.youtube.com/user/AnytimeFitnessLLC/videos">Success Stories</a>
+	<ul class="sub-links">
+		<li id="menu-item-9823" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="http://blog.anytimefitness.com/2015-anytime-fitness-national-success-story-winners/">2015 Anytime Fitness National Success Story Winners</a></li>
+	</ul>
+</li>
+</ul>
+</div>
+</li>
+<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://blog.anytimefitness.com/category/fitness/">Fitness</a><div class="sub-menu"><ul class="sub-posts">
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/25-minute-bodyweight-workout/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2015/05/lunch-time-workout-25-minute-296x197.jpg" alt="25-Minute Bodyweight Workout" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/25-minute-bodyweight-workout/">25-Minute Bodyweight Workout</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/getting-the-most-out-of-your-heart-rate-monitor/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2019/09/OCT220HEARTRATE20BLOG20HEADER20v2.jpg" alt="Getting the Most Out of Your Heart Rate Monitor" width="296" height="141" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/getting-the-most-out-of-your-heart-rate-monitor/">Getting the Most Out of Your Heart Rate Monitor</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/395325-quick-hiit-a-20-minute-elliptical-workout/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2014/03/elliptical-workout-anytime-fitness-296x197.png" alt="Quick HIIT: A 20-Minute HIIT Elliptical Routine" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/395325-quick-hiit-a-20-minute-elliptical-workout/">Quick HIIT: A 20-Minute HIIT Elliptical Routine</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/quick-workouts-you-can-fit-in-during-the-busiest-time-of-the-year/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-296x197.jpg" alt="Quick Workouts You Can Fit In During the Busiest Time of the Year" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/quick-workouts-you-can-fit-in-during-the-busiest-time-of-the-year/">Quick Workouts You Can Fit In During the Busiest Time of the Year</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/revealed-5-reasons-you-may-be-gaining-weight-while-working-out/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2019/06/image-2019-06-05-1024x683.jpg" class="wp-post-image first" alt="Revealed: 5 Reasons You May Be Gaining Weight While Working Out" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/revealed-5-reasons-you-may-be-gaining-weight-while-working-out/">Revealed: 5 Reasons You May Be Gaining Weight While Working Out</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/the-best-way-to-layer-for-running-in-cold-weather/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025-296x197.jpg" alt="The Best Way to Layer for Running in Cold Weather" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/the-best-way-to-layer-for-running-in-cold-weather/">The Best Way to Layer for Running in Cold Weather</a>
+								</li><li class="sub-nav-placeholder"></li></ul></div>
+</li>
+<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://blog.anytimefitness.com/category/nutrition/">Nutrition</a><div class="sub-menu"><ul class="sub-posts">
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/cilantro-lime-chopped-chicken-salad/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352-296x197.jpg" alt="Cilantro-Lime Chopped Chicken Salad" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/cilantro-lime-chopped-chicken-salad/">Cilantro-Lime Chopped Chicken Salad</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/22-heart-healthy-recipes-around-web/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2014/02/QuinoaStuffedPeppers_2-296x197.jpg" alt="22 Heart-Healthy Recipes You Should Try Today" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/22-heart-healthy-recipes-around-web/">22 Heart-Healthy Recipes You Should Try Today</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/394681-no-bake-peanut-butter-chocolate-chip-hearts/"><img src="http://afblog.wpengine.com/wp-content/uploads/2012/02/recipe-peanut-butter-choc-chip-val-hearts.jpg" class="wp-post-image first" alt="No-Bake Peanut Butter Chocolate Chip Hearts" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/394681-no-bake-peanut-butter-chocolate-chip-hearts/">No-Bake Peanut Butter Chocolate Chip Hearts</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/5-mocktails-for-entertaining-non-alcoholic-drinks-everyone-will-love/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2016-296x197.jpg" alt="5 Mocktails for Entertaining: Non-Alcoholic Drinks Everyone Will Love" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/5-mocktails-for-entertaining-non-alcoholic-drinks-everyone-will-love/">5 Mocktails for Entertaining: Non-Alcoholic Drinks Everyone Will Love</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/10-healthy-thanksgiving-appetizers/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2014/11/thanksgiving-apps-296x197.jpg" alt="7 Healthy and Delicious Thanksgiving Appetizers" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/10-healthy-thanksgiving-appetizers/">7 Healthy and Delicious Thanksgiving Appetizers</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/olive-oil-coconut-oil-avocado-oil-one-best/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2017/03/cooking-oils_group-296x197.jpg" alt="Everything You Need to Know About Cooking Oils: Olive, Coconut and Avocado" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/olive-oil-coconut-oil-avocado-oil-one-best/">Everything You Need to Know About Cooking Oils: Olive, Coconut and Avocado</a>
+								</li><li class="sub-nav-placeholder"></li></ul></div>
+</li>
+<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://blog.anytimefitness.com/category/weight-loss/">Weight Loss</a><div class="sub-menu"><ul class="sub-posts">
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/success-stories-when-weddings-inspire/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2015/08/6-week-wedding-workout-plan2-296x197.jpg" alt="Success Stories: When Weddings Inspire!" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/success-stories-when-weddings-inspire/">Success Stories: When Weddings Inspire!</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/success-story-365-straight-days-working-dani/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2015/01/down-with-dani-main2-296x197.jpg" alt="Success Story: 365 Straight Days of Working Out With Dani" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/success-story-365-straight-days-working-dani/">Success Story: 365 Straight Days of Working Out With Dani</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/lets-celebrate-success/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2015/09/AwardsCeremony-296x197.png" alt="Let&#8217;s Celebrate Success!" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/lets-celebrate-success/">Let&#8217;s Celebrate Success!</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/three-rs-reach-goals/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2015/07/WomanThinking-296x197.jpg" alt="Reaching Your Goals With The Three Rs" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/three-rs-reach-goals/">Reaching Your Goals With The Three Rs</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/5-healthy-ways-celebrate-fitness-success/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2017/04/AMKT17260_Monday_24_Blog-v1-296x197.jpg" alt="5 Healthy Ways to Celebrate Your Fitness Success" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/5-healthy-ways-celebrate-fitness-success/">5 Healthy Ways to Celebrate Your Fitness Success</a>
+								</li>
+								<li>
+									<figure>
+										<a href="http://blog.anytimefitness.com/real-friends-can-lead-real-results/"><img src="http://blog.anytimefitness.com/wp-content/uploads/2018/05/Melissa-and-Ashley-296x197.jpg" alt="Real Friends Can Lead to Real Results" width="296" height="197" /></a>
+									</figure>
+									<a href="http://blog.anytimefitness.com/real-friends-can-lead-real-results/">Real Friends Can Lead to Real Results</a>
+								</li><li class="sub-nav-placeholder"></li></ul></div>
+</li>
+<li id="menu-item-9756" class="resources-menu tag-links menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#">Resources</a>
+<ul class="sub-links">
+	<li id="menu-item-9867"http://blog.anytimefitness.com/wp-content/uploads/2013/08/workout.png class="menu-item menu-item-type-taxonomy menu-item-object-post_tag"style="background-image: url(http://blog.anytimefitness.com/wp-content/uploads/2013/08/workout.png);" ><a href="http://blog.anytimefitness.com/tag/workout/">Workouts</a></li>
+	<li id="menu-item-6098"http://blog.anytimefitness.com/wp-content/uploads/2013/10/8-ingredient-fajitas-recipe.png class="menu-item menu-item-type-taxonomy menu-item-object-post_tag"style="background-image: url(http://blog.anytimefitness.com/wp-content/uploads/2013/10/8-ingredient-fajitas-recipe.png);" ><a href="http://blog.anytimefitness.com/tag/recipe/">Recipes</a></li>
+	<li id="menu-item-9826"http://blog.anytimefitness.com/wp-content/uploads/2015/09/BOSU_JP.png class="menu-item menu-item-type-taxonomy menu-item-object-post_tag"style="background-image: url(http://blog.anytimefitness.com/wp-content/uploads/2015/09/BOSU_JP.png);" ><a href="http://blog.anytimefitness.com/tag/fitness-fundamentals/">Fundamentals</a></li>
+	<li id="menu-item-6187"http://blog.anytimefitness.com/wp-content/uploads/2015/08/WomanClockMug.jpg class="menu-item menu-item-type-taxonomy menu-item-object-post_tag"style="background-image: url(http://blog.anytimefitness.com/wp-content/uploads/2015/08/WomanClockMug.jpg);" ><a href="http://blog.anytimefitness.com/tag/lifestyle/">Lifestyle</a></li>
+	<li id="menu-item-9825"http://blog.anytimefitness.com/wp-content/uploads/2013/03/fitness-journey-road-map-paul.jpg class="menu-item menu-item-type-taxonomy menu-item-object-post_tag"style="background-image: url(http://blog.anytimefitness.com/wp-content/uploads/2013/03/fitness-journey-road-map-paul.jpg);" ><a href="http://blog.anytimefitness.com/tag/motivation/">Motivation</a></li>
+	<li id="menu-item-6426"http://blog.anytimefitness.com/wp-content/uploads/2015/08/bigstock-Doctor-Taking-Pulse-55598000.gif class="menu-item menu-item-type-taxonomy menu-item-object-post_tag"style="background-image: url(http://blog.anytimefitness.com/wp-content/uploads/2015/08/bigstock-Doctor-Taking-Pulse-55598000.gif);" ><a href="http://blog.anytimefitness.com/tag/health/">Health</a></li>
+</ul>
+</li>
+<li id="menu-item-6589" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://www.anytimefitness.com/find-gym">Find a Gym</a></li>
+<li id="menu-item-9484" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://myanytimestory.com">#MyAnytimeStory</a></li>
+</ul></nav>    
+        </div><!-- .wrapper -->     
+    </header><!-- #masthead -->	
+    
+    <section id="content" role="main" class="clearfix animated">
+    	<div class="wrapper">
+        
+                    
+        
+<section>
+	
+        
+        <div class="flexslider posts-slider loading">
+            <ul class="slides">
+            
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/cilantro-lime-chopped-chicken-salad/">
+                            <img width="1000" height="700" src="http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352.jpg" class="attachment-big-size size-big-size wp-post-image" alt="chopped chicken salad" srcset="http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352.jpg 1000w, http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352-300x210.jpg 300w, http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352-768x538.jpg 768w, http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352-600x420.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352-829x580.jpg 829w" sizes="(max-width: 1000px) 100vw, 1000px" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/nutrition/" >Nutrition</a></span>
+                           	<span class="entry-date">March 2, 2020</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/cilantro-lime-chopped-chicken-salad/">Cilantro-Lime Chopped Chicken Salad</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/cilantro-lime-chopped-chicken-salad/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/getting-the-most-out-of-your-heart-rate-monitor/">
+                            <img width="1050" height="500" src="http://blog.anytimefitness.com/wp-content/uploads/2019/09/OCT220HEARTRATE20BLOG20HEADER20v2.jpg" class="attachment-big-size size-big-size wp-post-image" alt="understanding your heart rate monitor" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a>, <a href="http://blog.anytimefitness.com/category/resources/" >Resources</a></span>
+                           	<span class="entry-date">December 16, 2019</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/getting-the-most-out-of-your-heart-rate-monitor/">Getting the Most Out of Your Heart Rate Monitor</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/getting-the-most-out-of-your-heart-rate-monitor/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/quick-workouts-you-can-fit-in-during-the-busiest-time-of-the-year/">
+                            <img width="1050" height="700" src="http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-1050x700.jpg" class="attachment-big-size size-big-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-1050x700.jpg 1050w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-300x200.jpg 300w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-768x512.jpg 768w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-1024x683.jpg 1024w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-296x197.jpg 296w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-870x580.jpg 870w" sizes="(max-width: 1050px) 100vw, 1050px" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a></span>
+                           	<span class="entry-date">November 26, 2019</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/quick-workouts-you-can-fit-in-during-the-busiest-time-of-the-year/">Quick Workouts You Can Fit In During the Busiest Time of the Year</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/quick-workouts-you-can-fit-in-during-the-busiest-time-of-the-year/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/our-top-3-tips-for-setting-goals-and-reaching-them-before-new-years/">
+                            <img width="1035" height="500" src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2.jpg" class="attachment-big-size size-big-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2.jpg 1035w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2-300x145.jpg 300w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2-768x371.jpg 768w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2-1024x495.jpg 1024w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2-600x290.jpg 600w" sizes="(max-width: 1035px) 100vw, 1035px" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/lifestyle/" >Lifestyle</a>, <a href="http://blog.anytimefitness.com/category/start-here/" >Start Here</a></span>
+                           	<span class="entry-date">November 5, 2019</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/our-top-3-tips-for-setting-goals-and-reaching-them-before-new-years/">Our Top 3 Tips for Setting Goals, and Reaching Them, Before New Years</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/our-top-3-tips-for-setting-goals-and-reaching-them-before-new-years/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/the-best-way-to-layer-for-running-in-cold-weather/">
+                            <img width="1035" height="500" src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025.jpg" class="attachment-big-size size-big-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025.jpg 1035w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025-300x145.jpg 300w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025-768x371.jpg 768w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025-1024x495.jpg 1024w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025-600x290.jpg 600w" sizes="(max-width: 1035px) 100vw, 1035px" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a>, <a href="http://blog.anytimefitness.com/category/resources/" >Resources</a></span>
+                           	<span class="entry-date">November 5, 2019</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/the-best-way-to-layer-for-running-in-cold-weather/">The Best Way to Layer for Running in Cold Weather</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/the-best-way-to-layer-for-running-in-cold-weather/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/how-to-make-time-to-exercise-during-the-holidays/">
+                            <img width="1035" height="500" src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2014.jpg" class="attachment-big-size size-big-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2014.jpg 1035w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2014-300x145.jpg 300w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2014-768x371.jpg 768w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2014-1024x495.jpg 1024w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2014-600x290.jpg 600w" sizes="(max-width: 1035px) 100vw, 1035px" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a></span>
+                           	<span class="entry-date">November 5, 2019</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/how-to-make-time-to-exercise-during-the-holidays/">How to Make Time to Exercise During the Holidays</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/how-to-make-time-to-exercise-during-the-holidays/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/easy-breakfasts-to-make-when-youre-short-on-time/">
+                            <img width="1050" height="591" src="http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL-1050x591.png" class="attachment-big-size size-big-size wp-post-image" alt="Making breakfast in the morning" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL.png 1050w, http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL-300x169.png 300w, http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL-768x432.png 768w, http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL-1024x576.png 1024w, http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL-600x338.png 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL-1030x580.png 1030w" sizes="(max-width: 1050px) 100vw, 1050px" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/nutrition/" >Nutrition</a></span>
+                           	<span class="entry-date">August 20, 2019</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/easy-breakfasts-to-make-when-youre-short-on-time/">Easy Breakfasts to Make When You&#8217;re Short On Time</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/easy-breakfasts-to-make-when-youre-short-on-time/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/your-workouts-should-include-the-plyo-box-heres-why/">
+                            <img width="1050" height="608" src="http://blog.anytimefitness.com/wp-content/uploads/2019/06/Artboard206-1050x608.png" class="attachment-big-size size-big-size wp-post-image" alt="" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a>, <a href="http://blog.anytimefitness.com/category/resources/" >Resources</a>, <a href="http://blog.anytimefitness.com/category/start-here/" >Start Here</a></span>
+                           	<span class="entry-date">June 7, 2019</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/your-workouts-should-include-the-plyo-box-heres-why/">Your Workouts Should Include the Plyo Box, Here&#8217;s Why</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/your-workouts-should-include-the-plyo-box-heres-why/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/challenge-total-body-trx-workout/">
+                            <img width="1050" height="608" src="http://blog.anytimefitness.com/wp-content/uploads/2019/05/Artboard202-1050x608.png" class="attachment-big-size size-big-size wp-post-image" alt="" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a></span>
+                           	<span class="entry-date">May 22, 2019</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/challenge-total-body-trx-workout/">Challenge Yourself with this Total Body TRX Workout</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/challenge-total-body-trx-workout/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/5-smoothie-recipes-to-keep-your-cool-this-summer/">
+                            <img width="1050" height="591" src="http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake-1050x591.jpg" class="attachment-big-size size-big-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake.jpg 1050w, http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake-300x169.jpg 300w, http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake-768x432.jpg 768w, http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake-1024x576.jpg 1024w, http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake-600x338.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake-1030x580.jpg 1030w" sizes="(max-width: 1050px) 100vw, 1050px" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/nutrition/" >Nutrition</a></span>
+                           	<span class="entry-date">May 20, 2019</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/5-smoothie-recipes-to-keep-your-cool-this-summer/">5 Smoothie Recipes to Keep Your Cool This Summer</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/5-smoothie-recipes-to-keep-your-cool-this-summer/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/25-minute-bodyweight-workout/">
+                            <img width="1050" height="591" src="http://blog.anytimefitness.com/wp-content/uploads/2015/05/lunch-time-workout-25-minute-1050x591.jpg" class="attachment-big-size size-big-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2015/05/lunch-time-workout-25-minute.jpg 1050w, http://blog.anytimefitness.com/wp-content/uploads/2015/05/lunch-time-workout-25-minute-300x169.jpg 300w, http://blog.anytimefitness.com/wp-content/uploads/2015/05/lunch-time-workout-25-minute-1024x576.jpg 1024w, http://blog.anytimefitness.com/wp-content/uploads/2015/05/lunch-time-workout-25-minute-600x338.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2015/05/lunch-time-workout-25-minute-1030x580.jpg 1030w" sizes="(max-width: 1050px) 100vw, 1050px" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a></span>
+                           	<span class="entry-date">March 13, 2020</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/25-minute-bodyweight-workout/">25-Minute Bodyweight Workout</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/25-minute-bodyweight-workout/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/22-heart-healthy-recipes-around-web/">
+                            <img width="809" height="618" src="http://blog.anytimefitness.com/wp-content/uploads/2014/02/QuinoaStuffedPeppers_2.jpg" class="attachment-big-size size-big-size wp-post-image" alt="heart healthy" srcset="http://blog.anytimefitness.com/wp-content/uploads/2014/02/QuinoaStuffedPeppers_2.jpg 809w, http://blog.anytimefitness.com/wp-content/uploads/2014/02/QuinoaStuffedPeppers_2-300x229.jpg 300w, http://blog.anytimefitness.com/wp-content/uploads/2014/02/QuinoaStuffedPeppers_2-768x587.jpg 768w, http://blog.anytimefitness.com/wp-content/uploads/2014/02/QuinoaStuffedPeppers_2-600x458.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2014/02/QuinoaStuffedPeppers_2-759x580.jpg 759w" sizes="(max-width: 809px) 100vw, 809px" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/nutrition/" >Nutrition</a></span>
+                           	<span class="entry-date">January 14, 2020</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/22-heart-healthy-recipes-around-web/">22 Heart-Healthy Recipes You Should Try Today</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/22-heart-healthy-recipes-around-web/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <img class="alter" src="http://blog.anytimefitness.com/wp-content/themes/simplemag/images/pixel.gif" alt="Revealed: 5 Reasons You May Be Gaining Weight While Working Out" />
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a>, <a href="http://blog.anytimefitness.com/category/health/" >Health</a></span>
+                           	<span class="entry-date">November 10, 2019</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/revealed-5-reasons-you-may-be-gaining-weight-while-working-out/">Revealed: 5 Reasons You May Be Gaining Weight While Working Out</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/revealed-5-reasons-you-may-be-gaining-weight-while-working-out/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+                <li>
+                	<figure>
+					                        <a href="http://blog.anytimefitness.com/10-healthy-thanksgiving-appetizers/">
+                            <img width="1050" height="591" src="http://blog.anytimefitness.com/wp-content/uploads/2014/11/thanksgiving-apps.jpg" class="attachment-big-size size-big-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2014/11/thanksgiving-apps.jpg 1050w, http://blog.anytimefitness.com/wp-content/uploads/2014/11/thanksgiving-apps-300x168.jpg 300w, http://blog.anytimefitness.com/wp-content/uploads/2014/11/thanksgiving-apps-1024x576.jpg 1024w, http://blog.anytimefitness.com/wp-content/uploads/2014/11/thanksgiving-apps-600x337.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2014/11/thanksgiving-apps-1030x580.jpg 1030w" sizes="(max-width: 1050px) 100vw, 1050px" />                        </a>
+                                        </figure>
+                    
+                    <header class="entry-header">
+                        <div class="entry-meta">
+							                           	<span class="entry-category"><a href="http://blog.anytimefitness.com/category/nutrition/" >Nutrition</a></span>
+                           	<span class="entry-date">November 7, 2019</span>
+                        </div>
+                            
+                        <h2 class="entry-title">
+                            <a href="http://blog.anytimefitness.com/10-healthy-thanksgiving-appetizers/">7 Healthy and Delicious Thanksgiving Appetizers</a>
+                        </h2>
+                        <a class="read-more" href="http://blog.anytimefitness.com/10-healthy-thanksgiving-appetizers/">Read More</a>
+                    </header>
+                    
+                </li>
+                
+                        
+            </ul>
+        </div>
+    
+    	
+	
+</section><!-- Slider -->
+<section class="home-section advertising">
+	
+        
+   			
+</section><!-- Code Box -->
+<section class="home-section latest-posts">
+            		
+	    
+    
+    
+	
+    <div class="grids">
+    
+        <div class="grid-8 column">
+        	
+            <div class="grids classic-layout entries">
+                
+                
+<article class="grid-4 post-14134 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-nutrition">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/cilantro-lime-chopped-chicken-salad/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="chopped chicken salad" srcset="http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-nutrition"><a href="http://blog.anytimefitness.com/category/nutrition/" >Nutrition</a></span>
+           <span class="entry-date">March 2, 2020</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/cilantro-lime-chopped-chicken-salad/">Cilantro-Lime Chopped Chicken Salad</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/cilantro-lime-chopped-chicken-salad/"></div>
+<p>Salads get a bad rap. From bland and boring to flavorless and tired, salads are too often the spotlight of a #saddesklunch. We&#8217;re here&#8230;<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/cilantro-lime-chopped-chicken-salad/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-14094 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-fitness category-resources">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/getting-the-most-out-of-your-heart-rate-monitor/">
+			<img width="600" height="286" src="http://blog.anytimefitness.com/wp-content/uploads/2019/09/OCT220HEARTRATE20BLOG20HEADER20v2.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="understanding your heart rate monitor" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-fitness"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a>, <a href="http://blog.anytimefitness.com/category/resources/" >Resources</a></span>
+           <span class="entry-date">December 16, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/getting-the-most-out-of-your-heart-rate-monitor/">Getting the Most Out of Your Heart Rate Monitor</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/getting-the-most-out-of-your-heart-rate-monitor/"></div>
+<p>Wearable technology is becoming more accessible and easier to use than ever. There are&nbsp;many different types such as smart watches, step trackers, heart rate&#8230;<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/getting-the-most-out-of-your-heart-rate-monitor/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-14131 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-fitness">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/quick-workouts-you-can-fit-in-during-the-busiest-time-of-the-year/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-300x200.jpg 300w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-768x512.jpg 768w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-1024x683.jpg 1024w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-296x197.jpg 296w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-1050x700.jpg 1050w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-870x580.jpg 870w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-fitness"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a></span>
+           <span class="entry-date">November 26, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/quick-workouts-you-can-fit-in-during-the-busiest-time-of-the-year/">Quick Workouts You Can Fit In During the Busiest Time of the Year</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/quick-workouts-you-can-fit-in-during-the-busiest-time-of-the-year/"></div>
+<p>The holidays can be a very busy time, but you can still work towards your goals and get a great workout in 15-20 minutes&#8230;<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/quick-workouts-you-can-fit-in-during-the-busiest-time-of-the-year/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-14118 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-lifestyle category-start-here">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/our-top-3-tips-for-setting-goals-and-reaching-them-before-new-years/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-lifestyle"><a href="http://blog.anytimefitness.com/category/lifestyle/" >Lifestyle</a>, <a href="http://blog.anytimefitness.com/category/start-here/" >Start Here</a></span>
+           <span class="entry-date">November 5, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/our-top-3-tips-for-setting-goals-and-reaching-them-before-new-years/">Our Top 3 Tips for Setting Goals, and Reaching Them, Before New Years</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/our-top-3-tips-for-setting-goals-and-reaching-them-before-new-years/"></div>
+<p>If you&#8217;re putting off your goals in anticipation of a new year, you may want to ask yourself why you&#8217;re waiting until New Years&#8230;<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/our-top-3-tips-for-setting-goals-and-reaching-them-before-new-years/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-14116 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-fitness category-resources">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/the-best-way-to-layer-for-running-in-cold-weather/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-fitness"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a>, <a href="http://blog.anytimefitness.com/category/resources/" >Resources</a></span>
+           <span class="entry-date">November 5, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/the-best-way-to-layer-for-running-in-cold-weather/">The Best Way to Layer for Running in Cold Weather</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/the-best-way-to-layer-for-running-in-cold-weather/"></div>
+<p>Winter runs can be some of the most peaceful and beautiful runs, but if you aren’t dressed properly they can also be pretty uncomfortable. Keeping an&#8230;<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/the-best-way-to-layer-for-running-in-cold-weather/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-14114 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-fitness">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/how-to-make-time-to-exercise-during-the-holidays/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2014-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2014-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2014-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-fitness"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a></span>
+           <span class="entry-date">November 5, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/how-to-make-time-to-exercise-during-the-holidays/">How to Make Time to Exercise During the Holidays</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/how-to-make-time-to-exercise-during-the-holidays/"></div>
+<p>Consistency is the most important part of reaching your fitness goals. Even though life happens and we have more responsibilities than we would like,&#8230;<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/how-to-make-time-to-exercise-during-the-holidays/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-14074 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-nutrition tag-breakfast tag-recipes">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/easy-breakfasts-to-make-when-youre-short-on-time/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL-600x400.png" class="attachment-medium-size size-medium-size wp-post-image" alt="Making breakfast in the morning" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL-600x400.png 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL-296x197.png 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-nutrition"><a href="http://blog.anytimefitness.com/category/nutrition/" >Nutrition</a></span>
+           <span class="entry-date">August 20, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/easy-breakfasts-to-make-when-youre-short-on-time/">Easy Breakfasts to Make When You&#8217;re Short On Time</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/easy-breakfasts-to-make-when-youre-short-on-time/"></div>
+<p>The Most Impossible Meal of the Day Breakfast is tough, we’ll be honest—especially when you’re short on time. Whether you’re getting children off to&#8230;<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/easy-breakfasts-to-make-when-youre-short-on-time/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-13997 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-fitness category-resources category-start-here tag-plyo-box tag-sos">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/your-workouts-should-include-the-plyo-box-heres-why/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/06/Artboard206-600x400.png" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/06/Artboard206-600x400.png 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/06/Artboard206-296x197.png 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-fitness"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a>, <a href="http://blog.anytimefitness.com/category/resources/" >Resources</a>, <a href="http://blog.anytimefitness.com/category/start-here/" >Start Here</a></span>
+           <span class="entry-date">June 7, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/your-workouts-should-include-the-plyo-box-heres-why/">Your Workouts Should Include the Plyo Box, Here&#8217;s Why</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/your-workouts-should-include-the-plyo-box-heres-why/"></div>
+<p>What Is a Plyo Box? If you’re wondering to yourself, “what on earth is a plyo box?” have no fear, you aren’t alone, and&#8230;<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/your-workouts-should-include-the-plyo-box-heres-why/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-12536 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-fitness tag-sos tag-strength-training tag-trx tag-workout">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/challenge-total-body-trx-workout/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/05/Artboard202-600x400.png" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/05/Artboard202-600x400.png 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/05/Artboard202-296x197.png 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-fitness"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a></span>
+           <span class="entry-date">May 22, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/challenge-total-body-trx-workout/">Challenge Yourself with this Total Body TRX Workout</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/challenge-total-body-trx-workout/"></div>
+<p>Don&#8217;t ignore suspension trainers! Try these eight TRX moves to build total body strength while giving your core an extra challenge. <!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/challenge-total-body-trx-workout/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-13985 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-nutrition">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/5-smoothie-recipes-to-keep-your-cool-this-summer/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-nutrition"><a href="http://blog.anytimefitness.com/category/nutrition/" >Nutrition</a></span>
+           <span class="entry-date">May 20, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/5-smoothie-recipes-to-keep-your-cool-this-summer/">5 Smoothie Recipes to Keep Your Cool This Summer</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/5-smoothie-recipes-to-keep-your-cool-this-summer/"></div>
+<p>As summertime heats up, the need to cool down is more powerful than ever! We want you to be prepared, and the best way&#8230;<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/5-smoothie-recipes-to-keep-your-cool-this-summer/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-9098 post type-post status-publish format-standard has-post-thumbnail hentry category-fitness tag-bodyweight tag-exercise tag-fitness tag-plank tag-strength tag-workout">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/25-minute-bodyweight-workout/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2015/05/lunch-time-workout-25-minute-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2015/05/lunch-time-workout-25-minute-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2015/05/lunch-time-workout-25-minute-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-fitness"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a></span>
+           <span class="entry-date">March 13, 2020</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/25-minute-bodyweight-workout/">25-Minute Bodyweight Workout</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/25-minute-bodyweight-workout/"></div>
+<p>Fit in your fitness during the workday with our full body lunch bodyweight workout. <!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/25-minute-bodyweight-workout/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-6901 post type-post status-publish format-standard has-post-thumbnail hentry category-nutrition tag-eating tag-food tag-health tag-heart tag-recipe">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/22-heart-healthy-recipes-around-web/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2014/02/QuinoaStuffedPeppers_2-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="heart healthy" srcset="http://blog.anytimefitness.com/wp-content/uploads/2014/02/QuinoaStuffedPeppers_2-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2014/02/QuinoaStuffedPeppers_2-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-nutrition"><a href="http://blog.anytimefitness.com/category/nutrition/" >Nutrition</a></span>
+           <span class="entry-date">January 14, 2020</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/22-heart-healthy-recipes-around-web/">22 Heart-Healthy Recipes You Should Try Today</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/22-heart-healthy-recipes-around-web/"></div>
+<p>Get more heart-healthy foods in your diet with these 22 excellent recipes chock full of omega-3 and monounsaturated fats, fiber, and more.<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/22-heart-healthy-recipes-around-web/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-805 post type-post status-publish format-standard hentry category-nutrition tag-food tag-lee-hersh tag-nutrition tag-recipe">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/394681-no-bake-peanut-butter-chocolate-chip-hearts/">
+			<img src="http://afblog.wpengine.com/wp-content/uploads/2012/02/recipe-peanut-butter-choc-chip-val-hearts.jpg" class="wp-post-image" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-nutrition"><a href="http://blog.anytimefitness.com/category/nutrition/" >Nutrition</a></span>
+           <span class="entry-date">January 13, 2020</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/394681-no-bake-peanut-butter-chocolate-chip-hearts/">No-Bake Peanut Butter Chocolate Chip Hearts</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/394681-no-bake-peanut-butter-chocolate-chip-hearts/"></div>
+<p>This recipe is sure to gain the heart of your betrothed with its delicious and nourishing sweetness.<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/394681-no-bake-peanut-butter-chocolate-chip-hearts/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-210 post type-post status-publish format-standard has-post-thumbnail hentry category-fitness tag-cardio tag-elliptical tag-fitness tag-hiit tag-workout">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/395325-quick-hiit-a-20-minute-elliptical-workout/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2014/03/elliptical-workout-anytime-fitness-600x400.png" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2014/03/elliptical-workout-anytime-fitness-600x400.png 600w, http://blog.anytimefitness.com/wp-content/uploads/2014/03/elliptical-workout-anytime-fitness-296x197.png 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-fitness"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a></span>
+           <span class="entry-date">December 6, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/395325-quick-hiit-a-20-minute-elliptical-workout/">Quick HIIT: A 20-Minute HIIT Elliptical Routine</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/395325-quick-hiit-a-20-minute-elliptical-workout/"></div>
+<p>This quick and effective HIIT elliptical routine can be done in only 20 minutes. To get you in the gym, workout,  and then on with your busy life.<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/395325-quick-hiit-a-20-minute-elliptical-workout/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-14121 post type-post status-publish format-standard has-post-thumbnail hentry category-nutrition">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/5-mocktails-for-entertaining-non-alcoholic-drinks-everyone-will-love/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2016-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="non-alcoholic drinks" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2016-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2016-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-nutrition"><a href="http://blog.anytimefitness.com/category/nutrition/" >Nutrition</a></span>
+           <span class="entry-date">November 11, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/5-mocktails-for-entertaining-non-alcoholic-drinks-everyone-will-love/">5 Mocktails for Entertaining: Non-Alcoholic Drinks Everyone Will Love</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/5-mocktails-for-entertaining-non-alcoholic-drinks-everyone-will-love/"></div>
+<p>Entertaining requires plenty of advance preparation and making sure all your incoming guests have what they need is the key to a successful event&#8230;.<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/5-mocktails-for-entertaining-non-alcoholic-drinks-everyone-will-love/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-13992 post type-post status-publish format-standard hentry category-fitness category-health tag-weight-gain tag-working-out">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/revealed-5-reasons-you-may-be-gaining-weight-while-working-out/">
+			<img src="http://blog.anytimefitness.com/wp-content/uploads/2019/06/image-2019-06-05-1024x683.jpg" class="wp-post-image" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-fitness"><a href="http://blog.anytimefitness.com/category/fitness/" >Fitness</a>, <a href="http://blog.anytimefitness.com/category/health/" >Health</a></span>
+           <span class="entry-date">November 10, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/revealed-5-reasons-you-may-be-gaining-weight-while-working-out/">Revealed: 5 Reasons You May Be Gaining Weight While Working Out</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/revealed-5-reasons-you-may-be-gaining-weight-while-working-out/"></div>
+<p>Let us set the scene: you’ve been working really hard at the gym and trying your best to stick to a healthy diet but&#8230;<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/revealed-5-reasons-you-may-be-gaining-weight-while-working-out/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>
+<article class="grid-4 post-8321 post type-post status-publish format-standard has-post-thumbnail hentry category-nutrition tag-fitness tag-holiday tag-thanksgiving">
+
+    <figure class="entry-image">
+    	<a href="http://blog.anytimefitness.com/10-healthy-thanksgiving-appetizers/">
+			<img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2014/11/thanksgiving-apps-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2014/11/thanksgiving-apps-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2014/11/thanksgiving-apps-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />    	</a>
+    </figure>
+        
+    <header class="entry-header">
+        <div class="entry-meta">
+                       <span class="entry-category meta-nutrition"><a href="http://blog.anytimefitness.com/category/nutrition/" >Nutrition</a></span>
+           <span class="entry-date">November 7, 2019</span>
+        </div>
+        <h2 class="entry-title">
+            <a href="http://blog.anytimefitness.com/10-healthy-thanksgiving-appetizers/">7 Healthy and Delicious Thanksgiving Appetizers</a>
+        </h2>
+            </header>
+	    
+        <div class="entry-summary">
+        <div class="at-above-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/10-healthy-thanksgiving-appetizers/"></div>
+<p>Struggling to figure out what to bring for your Thanksgiving appetizer? We&#8217;ve got 10 healthy and tasty options for you!<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="http://blog.anytimefitness.com/10-healthy-thanksgiving-appetizers/"></div>
+<p><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt --></p>
+    </div>
+        
+</article>                
+             </div>
+             
+                          <div class="pagination">
+                <div class="pagination"><ul class="page-numbers"><li><span class='page-numbers current'>1</span></li><li><a class='page-numbers' href='http://blog.anytimefitness.com/page/2/'>2</a></li><li><a class='page-numbers' href='http://blog.anytimefitness.com/page/3/'>3</a></li><li><a class='page-numbers' href='http://blog.anytimefitness.com/page/4/'>4</a></li><li><a class='page-numbers' href='http://blog.anytimefitness.com/page/5/'>5</a></li><li><a class='page-numbers' href='http://blog.anytimefitness.com/page/6/'>6</a></li><li><a class='page-numbers' href='http://blog.anytimefitness.com/page/7/'>7</a></li><li><span>...</span></li><li><a class='page-numbers' href='http://blog.anytimefitness.com/page/147/'>147</a></li><li><a href='http://blog.anytimefitness.com/page/2/' class='next page-numbers'><i class="icon-chevron-right"></i></a></li></ul></div>             </div>
+                         
+                                 
+             
+         </div>
+     	
+		        
+        <div class="grid-4 column">
+        	
+    <aside class="sidebar sidebar-mobile" role="complementary">
+	<div id="search-2" class="widget widget_search">
+<form method="get" id="searchform" action="http://blog.anytimefitness.com/" role="search">
+	<input type="text" name="s" id="s" value="Search" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';" />
+    <button type="submit">
+    	<i class="icon-search"></i>
+    </button>
+</form></div><div id="ti_image_banner-5" class="widget widget_ti_image_banner">            
+            <a href="https://anytimefitness.com/try-us-free" rel="nofollow" target="_blank">
+            	<img src="http://blog.anytimefitness.com/wp-content/uploads/2016/01/MKT16005-FREE-7DAY-PASS.jpg" alt="Ad" target="_blank" />
+            </a>
+            
+	    </div><div id="ti_featured_posts-2" class="widget widget_ti_featured_posts"><h3>Trending Posts</h3>            
+            			<div class="flexslider">
+            
+				<ul class="slides">
+								
+					<li class="post-14134 post type-post status-publish format-standard has-post-thumbnail hentry category-nutrition">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/cilantro-lime-chopped-chicken-salad/">
+                                <img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="chopped chicken salad" srcset="http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2020/03/Anytime-Fitness-Recipes-1352-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/cilantro-lime-chopped-chicken-salad/">Cilantro-Lime Chopped Chicken Salad</a>
+						</h2>
+						
+					</li>
+					
+								
+					<li class="post-14094 post type-post status-publish format-standard has-post-thumbnail hentry category-fitness category-resources">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/getting-the-most-out-of-your-heart-rate-monitor/">
+                                <img width="600" height="286" src="http://blog.anytimefitness.com/wp-content/uploads/2019/09/OCT220HEARTRATE20BLOG20HEADER20v2.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="understanding your heart rate monitor" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/getting-the-most-out-of-your-heart-rate-monitor/">Getting the Most Out of Your Heart Rate Monitor</a>
+						</h2>
+						
+					</li>
+					
+								
+					<li class="post-14131 post type-post status-publish format-standard has-post-thumbnail hentry category-fitness">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/quick-workouts-you-can-fit-in-during-the-busiest-time-of-the-year/">
+                                <img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-300x200.jpg 300w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-768x512.jpg 768w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-1024x683.jpg 1024w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-296x197.jpg 296w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-1050x700.jpg 1050w, http://blog.anytimefitness.com/wp-content/uploads/2019/09/1907_AF_Team_4990-870x580.jpg 870w" sizes="(max-width: 600px) 100vw, 600px" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/quick-workouts-you-can-fit-in-during-the-busiest-time-of-the-year/">Quick Workouts You Can Fit In During the Busiest Time of the Year</a>
+						</h2>
+						
+					</li>
+					
+								
+					<li class="post-14118 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle category-start-here">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/our-top-3-tips-for-setting-goals-and-reaching-them-before-new-years/">
+                                <img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV207-2-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/our-top-3-tips-for-setting-goals-and-reaching-them-before-new-years/">Our Top 3 Tips for Setting Goals, and Reaching Them, Before New Years</a>
+						</h2>
+						
+					</li>
+					
+								
+					<li class="post-14116 post type-post status-publish format-standard has-post-thumbnail hentry category-fitness category-resources">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/the-best-way-to-layer-for-running-in-cold-weather/">
+                                <img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2025-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/the-best-way-to-layer-for-running-in-cold-weather/">The Best Way to Layer for Running in Cold Weather</a>
+						</h2>
+						
+					</li>
+					
+								
+					<li class="post-14114 post type-post status-publish format-standard has-post-thumbnail hentry category-fitness">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/how-to-make-time-to-exercise-during-the-holidays/">
+                                <img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2014-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2014-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/11/November-Social_Blog_1050x500_NOV2014-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/how-to-make-time-to-exercise-during-the-holidays/">How to Make Time to Exercise During the Holidays</a>
+						</h2>
+						
+					</li>
+					
+								
+					<li class="post-14074 post type-post status-publish format-standard has-post-thumbnail hentry category-nutrition tag-breakfast tag-recipes">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/easy-breakfasts-to-make-when-youre-short-on-time/">
+                                <img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL-600x400.png" class="attachment-medium-size size-medium-size wp-post-image" alt="Making breakfast in the morning" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL-600x400.png 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/08/SEPTEMBER20420BREAKFAST20FINAL-296x197.png 296w" sizes="(max-width: 600px) 100vw, 600px" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/easy-breakfasts-to-make-when-youre-short-on-time/">Easy Breakfasts to Make When You&#8217;re Short On Time</a>
+						</h2>
+						
+					</li>
+					
+								
+					<li class="post-13997 post type-post status-publish format-standard has-post-thumbnail hentry category-fitness category-resources category-start-here tag-plyo-box tag-sos">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/your-workouts-should-include-the-plyo-box-heres-why/">
+                                <img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/06/Artboard206-600x400.png" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/06/Artboard206-600x400.png 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/06/Artboard206-296x197.png 296w" sizes="(max-width: 600px) 100vw, 600px" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/your-workouts-should-include-the-plyo-box-heres-why/">Your Workouts Should Include the Plyo Box, Here&#8217;s Why</a>
+						</h2>
+						
+					</li>
+					
+								
+					<li class="post-12536 post type-post status-publish format-standard has-post-thumbnail hentry category-fitness tag-sos tag-strength-training tag-trx tag-workout">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/challenge-total-body-trx-workout/">
+                                <img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/05/Artboard202-600x400.png" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/05/Artboard202-600x400.png 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/05/Artboard202-296x197.png 296w" sizes="(max-width: 600px) 100vw, 600px" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/challenge-total-body-trx-workout/">Challenge Yourself with this Total Body TRX Workout</a>
+						</h2>
+						
+					</li>
+					
+								
+					<li class="post-13985 post type-post status-publish format-standard has-post-thumbnail hentry category-nutrition">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/5-smoothie-recipes-to-keep-your-cool-this-summer/">
+                                <img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2019/05/mango-protein-shake-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/5-smoothie-recipes-to-keep-your-cool-this-summer/">5 Smoothie Recipes to Keep Your Cool This Summer</a>
+						</h2>
+						
+					</li>
+					
+								
+					<li class="post-9977 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle tag-fitness tag-gift-guide tag-gifts tag-holidays">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/21-fun-gift-ideas-for-fitness-fanatics/">
+                                <img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2015/12/November-Social_Blog_1050x500_NOV2022-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="" srcset="http://blog.anytimefitness.com/wp-content/uploads/2015/12/November-Social_Blog_1050x500_NOV2022-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2015/12/November-Social_Blog_1050x500_NOV2022-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/21-fun-gift-ideas-for-fitness-fanatics/">21 Fun Gift Ideas for Fitness Fanatics</a>
+						</h2>
+						
+					</li>
+					
+								
+					<li class="post-12269 post type-post status-publish format-standard has-post-thumbnail hentry category-fitness category-lifestyle tag-health tag-lifestyle tag-tips">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/conquer-no-time-myth/">
+                                <img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2017/09/bigstock-150523448-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="busy street rush" srcset="http://blog.anytimefitness.com/wp-content/uploads/2017/09/bigstock-150523448-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2017/09/bigstock-150523448-300x200.jpg 300w, http://blog.anytimefitness.com/wp-content/uploads/2017/09/bigstock-150523448-768x512.jpg 768w, http://blog.anytimefitness.com/wp-content/uploads/2017/09/bigstock-150523448-1024x683.jpg 1024w, http://blog.anytimefitness.com/wp-content/uploads/2017/09/bigstock-150523448-296x197.jpg 296w, http://blog.anytimefitness.com/wp-content/uploads/2017/09/bigstock-150523448-1050x700.jpg 1050w, http://blog.anytimefitness.com/wp-content/uploads/2017/09/bigstock-150523448-870x580.jpg 870w" sizes="(max-width: 600px) 100vw, 600px" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/conquer-no-time-myth/">How to Conquer the &#8220;No Time&#8221; Myth</a>
+						</h2>
+						
+					</li>
+					
+								
+					<li class="post-9332 post type-post status-publish format-standard has-post-thumbnail hentry category-nutrition">
+                                                       
+                        <figure class="entry-image">
+                            <a href="http://blog.anytimefitness.com/refreshing-easy-3-ingredient-peach-granita/">
+                                <img width="600" height="400" src="http://blog.anytimefitness.com/wp-content/uploads/2015/07/PeachGranita_4896-600x400.jpg" class="attachment-medium-size size-medium-size wp-post-image" alt="Peach Granita" srcset="http://blog.anytimefitness.com/wp-content/uploads/2015/07/PeachGranita_4896-600x400.jpg 600w, http://blog.anytimefitness.com/wp-content/uploads/2015/07/PeachGranita_4896-296x197.jpg 296w" sizes="(max-width: 600px) 100vw, 600px" />                            </a>
+                        </figure>
+						
+						<h2 class="entry-title">
+							<a href="http://blog.anytimefitness.com/refreshing-easy-3-ingredient-peach-granita/">Refreshing &#038; Easy 3 Ingredient Peach Granita</a>
+						</h2>
+						
+					</li>
+					
+								</ul>
+                
+			</div>
+			
+			
+	    </div><div id="ti_image_banner-3" class="widget widget_ti_image_banner">            
+            <a href="http://blog.anytimefitness.com/4-week-cycling-training-plan/" rel="nofollow" target="_blank">
+            	<img src="http://blog.anytimefitness.com/wp-content/uploads/2016/05/CYCLING-workout-widget-image-1.jpg" alt="Ad" target="_blank" />
+            </a>
+            
+	    </div><div id="ti_image_banner-4" class="widget widget_ti_image_banner">            
+            <a href="https://myanytimestory.com/?utm_source=blog&#038;utm_medium=banner%20ad&#038;utm_campaign=MAS2015" rel="nofollow" target="_blank">
+            	<img src="http://blog.anytimefitness.com/wp-content/uploads/2015/08/MAS-Blog-Banner-Ad.png" alt="Ad" target="_blank" />
+            </a>
+            
+	    </div><div id="ti_image_banner-6" class="widget widget_ti_image_banner">            
+            <a href="http://www.anytimefitnessfranchise.com/" rel="nofollow" target="_blank">
+            	<img src="http://blog.anytimefitness.com/wp-content/uploads/2016/07/FS16541_Franchise_Ad_2.jpg" alt="Ad" target="_blank" />
+            </a>
+            
+	    </div><div id="ti_site_authors-2" class="widget widget_ti_site_authors"><h3>Our Authors</h3>
+		<div class="inner">
+			<ul class="carousel">
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/luke-andrus/">
+							<img alt="Luke Andrus" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2013/12/luke-andrus-96x96.png" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/lee-hersh/">
+							<img alt="Lee Hersh" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2013/11/lee-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/lindsay-livingston/">
+							<img alt="Lindsay Livingston" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2013/11/leangreenbean-96x96.jpeg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/rachel-prairie/">
+							<img alt="Rachel Prairie" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2017/07/RACHEL-PRAIRIE-2017-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/cassie-johnston/">
+							<img alt="Cassie Johnston" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2013/11/cassie-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/janelle-olson/">
+							<img alt="Janelle Olson" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2018/09/Headshot-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/shannon-fable/">
+							<img alt="Shannon Fable" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2018/02/Fable-2018-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/carly-sippel/">
+							<img alt="Carly Sippel" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2013/11/carly-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/bryan-forsing/">
+							<img alt="Bryan Forsing" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2016/08/BryanForsing_headshot-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/meg-mcdougallsebrands-com/">
+							<img alt='Meg McDougall' src='http://2.gravatar.com/avatar/20cccb4f7973ad020b5e5a4ea2df13a0?s=96&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/20cccb4f7973ad020b5e5a4ea2df13a0?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/barry-westerkamp/">
+							<img alt='Barry Westerkamp' src='http://1.gravatar.com/avatar/42f5c568b3909e9cc4311179fcc5a420?s=96&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/42f5c568b3909e9cc4311179fcc5a420?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/josh-cox/">
+							<img alt="Josh Cox" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2013/11/821389-thumb-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/debbie-pias/">
+							<img alt="Debbie Pias" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2013/11/debbie-p-96x96.png" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/christine/">
+							<img alt="Christine McDonough" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2015/08/Christine-Headshot300-96x96.gif" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/patrick-thompson/">
+							<img alt="Patrick Thompson" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2017/06/PatrickThompson_HS-96x96.png" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/afblog/">
+							<img alt='afblog' src='http://0.gravatar.com/avatar/c6733c92c31502fb5a40c1622fb4dbdb?s=96&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c6733c92c31502fb5a40c1622fb4dbdb?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/mason/">
+							<img alt="Mason Woodruff" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2015/08/Mason-Anytime-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/kelly/">
+							<img alt='Kelly Fitzgerald' src='http://2.gravatar.com/avatar/589111eb033418d66516f370066f334a?s=96&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/589111eb033418d66516f370066f334a?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/jenna-fox/">
+							<img alt="Jenna Fox" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2017/12/Jenna_300-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/darrellmctague/">
+							<img alt='Darrell McTague' src='http://0.gravatar.com/avatar/0291332a9b4989a315906b8af7f55bb2?s=96&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/0291332a9b4989a315906b8af7f55bb2?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/laura-burstein/">
+							<img alt="Laura Burstein" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2015/09/LauraBurstein-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/chuck-runyon/">
+							<img alt="Chuck Runyon" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2013/11/chuck-runyon-headshot-sq-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/amanda-ingle/">
+							<img alt='Amanda Nagy' src='http://1.gravatar.com/avatar/1a34c01739e7a536169dc06cc31f1e55?s=96&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/1a34c01739e7a536169dc06cc31f1e55?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/wendi-wheeler/">
+							<img alt="Wendi Wheeler" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2015/10/Wendi_headshot-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/ethan/">
+							<img alt="Ethan Smoorenburg" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2015/09/EthanS_headshot-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/tony/">
+							<img alt="Tony Nicholson" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2015/08/TONY_3704_1-2-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/shelly-stael-von-holstein/">
+							<img alt="Shelly Stael von Holstein" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2013/11/SHELLY-A-2-96x96.jpg" width="96">						</a>
+					</li>
+
+				
+					<li>
+						<a href="http://blog.anytimefitness.com/author/hillary-parker/">
+							<img alt="Hillary Parker" class="avatar avatar-96 photo avatar-default" height="96" src="http://blog.anytimefitness.com/wp-content/uploads/2013/12/hil-96x96.jpeg" width="96">						</a>
+					</li>
+
+							</ul>
+			<div class="clearfix">
+				<a class="prev carousel-nav" href="#"><i class="icon-chevron-left"></i></a>
+				<a class="next carousel-nav" href="#"><i class="icon-chevron-right"></i></a>
+			</div>
+		</div>
+
+		</div><div id="ti_image_banner-11" class="widget widget_ti_image_banner">            
+            <a href="https://www.anytimefitness.com/membership-inquiry/" rel="nofollow" target="_blank">
+            	<img src="http://blog.anytimefitness.com/wp-content/uploads/2017/04/AMKT16860-BLOG-DISPLAY-AD_v3.png" alt="Ad" target="_blank" />
+            </a>
+            
+	    </div><div id="text-5" class="widget widget_text">			<div class="textwidget"><p style="text-align: center;"><a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fblog.anytimefitness.com%2Ffeed' target='blank' rel="noopener noreferrer"><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-flat-big_2x.png' alt='follow us in feedly' width='131' height='56'></a></p?</div>
+		</div>    </aside><!-- .sidebar -->        </div>
+        
+	</div>
+    
+        
+</section><!-- Latest Posts -->        
+                    
+		</div>
+    </section>
+    
+
+    <footer id="footer" role="contentinfo" class="animated color-site-dark">
+    
+        
+
+    <div class="footer-sidebar">
+            <div id="supplementary" class="wrapper clearfix columns col-3">
+                                <div id="first" class="widget-area" role="complementary">
+                    <div id="ti-about-site-2" class="widget widget_ti-about-site"><img src="http://blog.anytimefitness.com/wp-content/uploads/2015/03/logo.png" alt="Anytime Fitness Blog" /><p>This is the official health and fitness blog of Anytime Fitness—the world&#039;s largest co-ed fitness franchise.</p><ul class="social clearfix"><li><a href="http://feeds.feedburner.com/anytimefitnessofficial" aria-hidden="true" class="icon-feed" target="_blank"></a></li><li><a href="http://Twitter.com/anytimefitness" aria-hidden="true" class="icon-twitter" target="_blank"></a></li><li><a href="http://Facebook.com/anytimefitness" aria-hidden="true" class="icon-facebook" target="_blank"></a></li><li><a href="http://www.linkedin.com/company/anytime-fitness" aria-hidden="true" class="icon-linkedin" target="_blank"></a></li><li><a href="http://instagram.com/anytimefitness" aria-hidden="true" class="icon-instagram" target="_blank"></a></li><li><a href="http://pinterest.com/anytimefitness/" aria-hidden="true" class="icon-pinterest" target="_blank"></a></li><li><a href="http://www.youtube.com/anytimefitnessllc" aria-hidden="true" class="icon-youtube" target="_blank"></a></li></ul></div>                </div><!-- #first .widget-area -->
+                            
+                                <div id="second" class="widget-area" role="complementary">
+                    <div id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="menu"><li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-23 current_page_item menu-item-111"><a href="http://blog.anytimefitness.com/" aria-current="page">Home</a></li>
+<li id="menu-item-7026" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7026"><a href="http://blog.anytimefitness.com/category/start-here/">Start Here</a></li>
+<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="http://blog.anytimefitness.com/about/">About</a></li>
+<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://blog.anytimefitness.com/archive/">Archive</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115"><a href="http://anytimefitness.com">AnytimeFitness.com</a></li>
+</ul></div></div><div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-main-side-container"><ul id="menu-main-side" class="menu"><li id="menu-item-106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-106"><a href="http://blog.anytimefitness.com/category/fitness/">Fitness</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107"><a href="http://blog.anytimefitness.com/category/health/">Health</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108"><a href="http://blog.anytimefitness.com/category/lifestyle/">Lifestyle</a></li>
+<li id="menu-item-109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109"><a href="http://blog.anytimefitness.com/category/nutrition/">Nutrition</a></li>
+<li id="menu-item-110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110"><a href="http://blog.anytimefitness.com/category/weight-loss/">Weight Loss</a></li>
+</ul></div></div><div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="clearfix" style="margin:80px">
+	
+</div><p style="font-size:small">Anytime Fitness is committed to facilitating the accessibility and usability of content and features on its website, including this blog.  While Anytime Fitness has undertaken efforts to improve the accessibility of this blog, content is frequently posted and some content may be posted by third-parties, not Anytime Fitness, and so may not be accessible to certain users.  If you have questions or concerns regarding the accessibility of this blog, please contact us via the contact section of our <a href="//www.anytimefitness.com/continued-operations-accessibility-maintenance/">Accessibility Statement </a></p></div></div>                </div><!-- #second .widget-area -->
+                            
+                                <div id="third" class="widget-area" role="complementary">
+                    <h3>Find a Gym</h3>
+                    <form id="afsearchform" action="http://anytimefitness.com/find-gym" method="get" novalidate="novalidate">
+                        <input type="text" name="search" placeholder="postal code">
+                        <button>
+                            Go
+                        </button>
+                    </form>
+                    <div id="search-3" class="widget widget_search"><h3>Search This Blog</h3>
+<form method="get" id="searchform" action="http://blog.anytimefitness.com/" role="search">
+	<input type="text" name="s" id="s" value="Search" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';" />
+    <button type="submit">
+    	<i class="icon-search"></i>
+    </button>
+</form></div>                </div><!-- #third .widget-area -->
+                            </div><!-- #supplementary -->
+	</div>        
+        <div class="copyright">
+            <div class="wrapper">
+            	<div class="grids">
+		    <div class="grid-8">
+			<img src="https://s3.amazonaws.com/af-elearn/SE+Logo-white.png" alt="SEBrands Logo" height="86px" ><br />
+                        A Self Esteem Brands™ company
+		    </div>
+                    <div class="grid-8">
+			
+                        &copy; 2020 Anytime Fitness, LLC. 111 Weir Drive | Woodbury, MN 55125                        <div>
+                        <nav class="footer-menu"><ul id="footer-nav" class="menu"><li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://blog.anytimefitness.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-6461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6461"><a target="_blank" rel="noopener noreferrer" href="http://anytimefitness.com">AnytimeFitness.com</a></li>
+</ul></nav>                        </div>
+                    </div>
+                    <div class="grid-4">
+                        <a href="#" class="back-top">Back to top <i class="icon-chevron-up"></i></a>
+                        <div class="consult">
+                            Please consult your physician prior to starting any diet or exercise program.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            
+    </footer><!-- #footer -->
+    
+    </div><!-- #inner-wrap -->
+</div><!-- #outer-wrap -->
+    
+<script src="//my.hellobar.com/3056dada7d851f7dab3169409c93bd63a7d03def.js" type="text/javascript" async="async"></script><script type='text/javascript' src='http://blog.anytimefitness.com/wp-content/plugins/social-polls-by-opinionstage/public/js/shortcodes.js?ver=19.2.4'></script>
+<script type='text/javascript' src='http://blog.anytimefitness.com/wp-content/themes/simplemag/js/jquery.flexslider-min.js?ver=2.1'></script>
+<script type='text/javascript' src='http://blog.anytimefitness.com/wp-content/themes/simplemag/js/jquery.caroufredsel.js?ver=6.2.0'></script>
+<script type='text/javascript' src='http://blog.anytimefitness.com/wp-content/themes/simplemag/js/jquery.touchSwipe.min.js?ver=1.3.3'></script>
+<script type='text/javascript' src='http://blog.anytimefitness.com/wp-content/themes/simplemag/js/jquery.assets.js?ver=1.0'></script>
+<script type='text/javascript' src='http://blog.anytimefitness.com/wp-content/themes/simplemag/js/jquery.custom.js?ver=1.0'></script>
+<script type='text/javascript' src='http://blog.anytimefitness.com/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=218896028281249&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=anytimefitness" async="async"></script>
+</body>
+</html>

@@ -1,0 +1,896 @@
+
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" >
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>Rugged Computers | Military-Grade Computer Systems | Crystal Group</title>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.crystalrugged.com/xmlrpc.php">
+	<!-- FONT AWESOME FONTS -->
+	<style type="text/css">
+	    @font-face{
+	        font-family:"FolioBol W01 Regular";
+	        src:url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/2a3b20ab-eaab-4e1c-ba30-a5dc9a9653f6.eot?#iefix");
+	        src:url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/2a3b20ab-eaab-4e1c-ba30-a5dc9a9653f6.eot?#iefix") format("eot"),url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/252dacb9-341e-400d-a0c1-68ee4d36e7de.woff2") format("woff2"),url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/08d252e2-95e4-4eaa-b870-64ef9793e995.woff") format("woff"),url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/8147f64e-946a-4f53-8c14-485383133c88.ttf") format("truetype"),url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/96f690c4-0fa0-4da4-b419-a48130e320f1.svg#96f690c4-0fa0-4da4-b419-a48130e320f1") format("svg");
+	    }
+	    @font-face{
+	        font-family:"FolioW01-BoldCondensed";
+	        src:url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/19b2f002-b0a8-4c00-87e3-8617ca45db25.eot?#iefix");
+	        src:url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/19b2f002-b0a8-4c00-87e3-8617ca45db25.eot?#iefix") format("eot"),url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/b08955a0-515a-4349-866a-cc0a55fdafd9.woff2") format("woff2"),url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/936235b7-bae0-47bf-9419-b1976f25496a.woff") format("woff"),url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/6796b05b-15c5-4b0a-a0b6-fdf621796f43.ttf") format("truetype"),url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/4007d1c8-d62a-4fa1-992a-dd7bd8209f38.svg#4007d1c8-d62a-4fa1-992a-dd7bd8209f38") format("svg");
+	    }
+	    @font-face{
+	        font-family:"StoneSansITCW01-Medium";
+	        src:url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/0f15e7ee-1960-42c5-8877-6176d738152a.eot?#iefix");
+	        src:url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/0f15e7ee-1960-42c5-8877-6176d738152a.eot?#iefix") format("eot"),url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/3f6c1f98-7039-4a0d-98da-5475646b2da6.woff2") format("woff2"),url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/0e3c43a9-17e4-4bdc-9ef9-67238c840243.woff") format("woff"),url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/5b10a2d0-3c3c-450a-ad4d-df3f163f8516.ttf") format("truetype"),url("https://www.crystalrugged.com/wp-content/themes/crystal/Fonts/d2324631-9dfc-4988-a94d-6913f3eef65e.svg#d2324631-9dfc-4988-a94d-6913f3eef65e") format("svg");
+	    }
+	</style>
+	<script type="text/javascript">
+		var MTIProjectId='f6185c1f-b178-413f-af2f-033a2ebe04a6';
+		(function() {
+			var mtiTracking = document.createElement('script');
+			mtiTracking.type='text/javascript';
+	        mtiTracking.async='true';
+	        mtiTracking.src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/js/mtiFontTrackingCode.js';
+	        (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
+	   })();
+	</script>
+	<!-- END FONT AWESOME FONTS -->
+	
+<!-- This site is optimized with the Yoast SEO plugin v13.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Crystal Group designs &amp; manufactures rugged, high-reliability computing solutions for military computers &amp; industrial applications ISO 9001:2008 cert."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.crystalrugged.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Rugged Computers | Military-Grade Computer Systems | Crystal Group" />
+<meta property="og:description" content="Crystal Group designs &amp; manufactures rugged, high-reliability computing solutions for military computers &amp; industrial applications ISO 9001:2008 cert." />
+<meta property="og:url" content="https://www.crystalrugged.com/" />
+<meta property="og:site_name" content="Crystal Group" />
+<meta property="og:image" content="https://www.crystalrugged.com/wp-content/uploads/2016/09/Coolest-Place-to-Work.jpeg" />
+<meta property="og:image:secure_url" content="https://www.crystalrugged.com/wp-content/uploads/2016/09/Coolest-Place-to-Work.jpeg" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="720" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Crystal Group designs &amp; manufactures rugged, high-reliability computing solutions for military computers &amp; industrial applications ISO 9001:2008 cert." />
+<meta name="twitter:title" content="Rugged Computers | Military-Grade Computer Systems | Crystal Group" />
+<meta name="twitter:site" content="@CrystalGroup" />
+<meta name="twitter:image" content="https://www.crystalrugged.com/wp-content/uploads/2016/09/Coolest-Place-to-Work.jpeg" />
+<meta name="twitter:creator" content="@CrystalGroup" />
+<meta name="msvalidate.01" content="CCF3EC1E1A24A2D82C1F807451F950C9" />
+<meta name="google-site-verification" content="SRBbe98aQAEI3M_dhm8b2788ER0aYhri269XH33yoDs" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.crystalrugged.com/#organization","name":"Crystal Group, Inc.","url":"https://www.crystalrugged.com/","sameAs":["http://www.facebook.com/pages/Crystal-Group/228381210553255","http://www.linkedin.com/company/crystal-group","http://www.linkedin.com/company/crystal-group","https://www.youtube.com/channel/UCoOusX7ngwp1YRICDZ0qnDg","https://twitter.com/CrystalGroup"],"logo":{"@type":"ImageObject","@id":"https://www.crystalrugged.com/#logo","url":"https://www.crystalrugged.com/wp-content/uploads/2016/12/cg-logo.png","width":290,"height":81,"caption":"Crystal Group, Inc."},"image":{"@id":"https://www.crystalrugged.com/#logo"}},{"@type":"WebSite","@id":"https://www.crystalrugged.com/#website","url":"https://www.crystalrugged.com/","name":"Crystal Group","description":"A Clear Advantage.","publisher":{"@id":"https://www.crystalrugged.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.crystalrugged.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.crystalrugged.com/#primaryimage","url":"https://www.crystalrugged.com/wp-content/uploads/2016/09/Coolest-Place-to-Work.jpeg","width":1280,"height":720,"caption":"Crystal Group servers, displays, networking, storage and embedded computers"},{"@type":"WebPage","@id":"https://www.crystalrugged.com/#webpage","url":"https://www.crystalrugged.com/","inLanguage":"en-US","name":"Rugged Computers | Military-Grade Computer Systems | Crystal Group","isPartOf":{"@id":"https://www.crystalrugged.com/#website"},"about":{"@id":"https://www.crystalrugged.com/#organization"},"primaryImageOfPage":{"@id":"https://www.crystalrugged.com/#primaryimage"},"datePublished":"2016-09-19T16:48:36+00:00","dateModified":"2020-02-14T20:42:19+00:00","description":"Crystal Group designs & manufactures rugged, high-reliability computing solutions for military computers & industrial applications ISO 9001:2008 cert."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Crystal Group &raquo; Feed" href="https://www.crystalrugged.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Crystal Group &raquo; Comments Feed" href="https://www.crystalrugged.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Crystal Group &raquo; Home Comments Feed" href="https://www.crystalrugged.com/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.crystalrugged.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.crystalrugged.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://www.crystalrugged.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fvp-frontend-css'  href='https://www.crystalrugged.com/wp-content/plugins/featured-video-plus/styles/frontend.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ff_mega_menu_display_styles-css'  href='https://www.crystalrugged.com/wp-content/plugins/ff-mega-menu/css/ff-mega-menu-display.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='ff_social_styles-css'  href='https://www.crystalrugged.com/wp-content/plugins/ff-social/css/ff-social-styles.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='https://www.crystalrugged.com/wp-content/plugins/theme-my-login/assets/styles/theme-my-login.min.css?ver=7.0.15' type='text/css' media='all' />
+<link rel='stylesheet' id='crystal-bootstrap-wp-css'  href='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/css/bootstrap-wp.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='crystal-bootstrap-css'  href='https://www.crystalrugged.com/wp-content/themes/crystal/lib/resources/bootstrap/css/bootstrap.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='crystal-style-css'  href='https://www.crystalrugged.com/wp-content/themes/crystal/style.css?ver=1.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='crystal-googlefonts-css'  href='https://fonts.googleapis.com/css?family=PT+Sans%3A400%2C400i%2C700%2C700i&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cg-custom-css-css'  href='https://www.crystalrugged.com/wp-content/themes/crystal/custom.css?v=11578702982&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='lity-style-css'  href='//cdnjs.cloudflare.com/ajax/libs/lity/2.3.1/lity.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css'  href='https://www.crystalrugged.com/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=5.2.5' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.3 - Universal enabled - https://www.monsterinsights.com/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-1180346-2', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('set', 'dimension1', 'false');
+	__gaTracker('set', 'dimension3', 'user-1');
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"https:\/\/www.crystalrugged.com\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"no","onScrollOffset":"100","onClick":"","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"","cache":"","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.49'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fvpdata = {"ajaxurl":"https:\/\/www.crystalrugged.com\/wp-admin\/admin-ajax.php","nonce":"b8030f16de","fitvids":"","dynamic":"","overlay":"","opacity":"0.75","color":"b","width":"540"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/plugins/featured-video-plus/js/frontend.min.js?ver=2.3.3'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/resources/bootstrap/js/bootstrap.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/js/bootstrap-wp.js?ver=5.2.5'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/js/zoom-script.js?ver=1.0.0'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/lity/2.3.1/lity.min.js?ver=5.2.5'></script>
+<link rel='https://api.w.org/' href='https://www.crystalrugged.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.crystalrugged.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.crystalrugged.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.5" />
+<link rel='shortlink' href='https://www.crystalrugged.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.crystalrugged.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.crystalrugged.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.crystalrugged.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.crystalrugged.com%2F&#038;format=xml" />
+<!-- Global site tag (gtag.js) - Google Ads: 1072010489 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1072010489"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1072010489');
+</script>
+
+<!-- Global site tag (gtag.js) - Google AdWords: 857747632 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-857747632"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-857747632');
+</script>
+
+<!-- Segment Pixel - IA_Cedar Rapids_Crystal Group_Seg_RT - DO NOT MODIFY -->
+<script src="https://secure.adnxs.com/seg?add=13580373&t=1" type="text/javascript"></script>
+<!-- End of Segment Pixel -->
+<!-- Segment Pixel - IA_Cedar Rapids_Crystal Group SPAWAR_Seg_RT - DO NOT MODIFY -->
+<script src="https://secure.adnxs.com/seg?add=14605436&t=1" type="text/javascript"></script>
+<!-- End of Segment Pixel -->
+<!-- Segment Pixel - IA_Cedar Rapids_Crystal Group Texas Gas and Oil_Seg_RT - DO NOT MODIFY -->
+<script src="https://secure.adnxs.com/seg?add=14605401&t=1" type="text/javascript"></script>
+<!-- End of Segment Pixel -->
+<!-- Segment Pixel - IA_Cedar Rapids_Crystal Group Autonomous Vehicles_Seg_RT - DO NOT MODIFY -->
+<script src="https://secure.adnxs.com/seg?add=14671294&t=1" type="text/javascript"></script>
+<!-- End of Segment Pixel -->
+<!-- Segment Pixel - IA_Cedar Rapids_Crystal Group - Army_SEG_RT - DO NOT MODIFY -->
+<script src="https://secure.adnxs.com/seg?add=19796258&t=1" type="text/javascript"></script>
+<!-- End of Segment Pixel -->
+<!-- Segment Pixel - IA_Cedar Rapids_Crystal Group - Air Force_SEG_RT - DO NOT MODIFY -->
+<script src="https://secure.adnxs.com/seg?add=19796262&t=1" type="text/javascript"></script>
+<!-- End of Segment Pixel -->
+<!-- Segment Pixel - IA_Cedar Rapids_Crystal Group - Navy_SEG_RT - DO NOT MODIFY -->
+<script src="https://secure.adnxs.com/seg?add=19796265&t=1" type="text/javascript"></script>
+<!-- End of Segment Pixel --><script async src='https://tag.simpli.fi/sifitag/2a6d9070-0de5-0137-dfd0-06a9ed4ca31b'></script>
+<script async src='https://tag.simpli.fi/sifitag/d668a3b0-0df0-0137-dfd0-06a9ed4ca31b'></script>
+<script async src='https://tag.simpli.fi/sifitag/d668a3b0-0df0-0137-dfd0-06a9ed4ca31b'></script><script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.2.6"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ignore_server_config":true,"ui_atversion":300}; } if (window.addthis_layers === undefined) { window.addthis_layers = {}; } if (window.addthis_layers_tools === undefined) { window.addthis_layers_tools = []; } else {  } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.2.6","plugin_mode":"WordPress","anonymous_profile_id":"wp-c236b245313f53401a99ec734da4d9b4","page_info":{"template":"home","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script> <script data-cfasync="false" type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=wp-c236b245313f53401a99ec734da4d9b4" async="async"></script><link rel="icon" href="https://www.crystalrugged.com/wp-content/uploads/2016/12/cropped-crystal-group-site-identity-50x50.png" sizes="32x32" />
+<link rel="icon" href="https://www.crystalrugged.com/wp-content/uploads/2016/12/cropped-crystal-group-site-identity-225x225.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.crystalrugged.com/wp-content/uploads/2016/12/cropped-crystal-group-site-identity-225x225.png" />
+<meta name="msapplication-TileImage" content="https://www.crystalrugged.com/wp-content/uploads/2016/12/cropped-crystal-group-site-identity-300x300.png" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+/* Crystal Landing Page */
+.page-id-5950 .cg_ylo_btn {
+  background-color: #F1B434;
+  color: #232b2b;
+  text-decoration: none; }
+.page-id-5950 .btn {
+  border-radius: 0;
+  font-weight: 600;
+  text-transform: uppercase; }
+.page-id-5950 #content {
+  margin: 0;
+  width: 100%; }
+.page-id-5950 .page-sect-wrap {
+  text-align: center; }
+  .page-id-5950 .page-sect-wrap .page-title-img-wrap {
+    padding: 10vh 20px;
+    height: auto;
+    width: 100%; }
+    .page-id-5950 .page-sect-wrap .page-title-img-wrap .page-title-wrapper {
+      position: static;
+      transform: none;
+      width: 100%; }
+.page-id-5950 .subheader {
+  padding: 0 2rem 20vh;
+  color: #fff;
+  background-color: #2C5EAB;
+  background-image: url("https://www.crystalrugged.com/wp-content/uploads/2018/07/landing-page-bg.jpg");
+  background-position: 50% 50%;
+  background-size: cover; }
+.page-id-5950 .subheader-inner {
+  max-width: 900px;
+  margin: auto;
+  text-align: left; }
+  .page-id-5950 .subheader-inner .btn {
+    margin: auto;
+    display: inline-block;
+    font-weight: 600;
+    text-transform: uppercase;
+    min-width: 250px;
+    border-radius: 0; }
+
+.landing-page-products {
+  margin-top: -10vh; }
+
+.landing-page-products--product {
+  background: #fff;
+  box-shadow: 0 -9px 20px -10px rgba(0, 0, 0, 0.5);
+  padding: 2rem;
+  margin-bottom: 5rem; }
+  .landing-page-products--product h2 {
+    color: #000;
+    border: 0; }
+  .landing-page-products--product img {
+    margin-bottom: 2rem;
+    max-width: 100%; }
+  .landing-page-products--product ul {
+    margin-bottom: 2rem;
+    text-align: left; }
+
+.landing-page-video-wrap {
+  background: #000;
+  color: #fff;
+  padding: 10vh 20px; }
+  .landing-page-video-wrap .container {
+    max-width: 800px;
+    margin: auto; }
+  .landing-page-video-wrap h2 {
+    border: 0;
+    color: #fff;
+    margin-bottom: 5rem; }
+  .landing-page-video-wrap .embed-responsive {
+    margin-bottom: 5rem; }
+
+.landing-page-bottom-banner {
+  padding: 8vh 20px;
+  border-bottom: 1px solid #000; }
+  .landing-page-bottom-banner h2 {
+    color: #000;
+    border: 0; }
+
+.collapsible input[type='checkbox'] {
+  display: none; }
+.collapsible .lbl-toggle {
+  display: block;
+  color: #F1B434;
+  padding: 1rem;
+  cursor: pointer;
+  transition: all 0.25s ease-out; }
+.collapsible .lbl-toggle:hover {
+  color: #fff; }
+.collapsible .lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+  transition: transform .2s ease-out; }
+.collapsible .toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px); }
+.collapsible .collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out; }
+.collapsible .toggle:checked + .lbl-toggle + .collapsible-content, .collapsible .toggle:checked + .lbl-toggle + p + .collapsible-content {
+  max-height: 100vh; }
+.collapsible .toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0; }
+
+.landing-page-pardot-form {
+width: 100%;
+max-width: 400px;
+margin: auto;
+background: #eeeeee;
+}
+.landing-page-pardot-form form#pardot-form.form {
+  max-width: 100%;
+width: 100%;
+margin: auto;
+}
+
+/*# sourceMappingURL=crystal.css.map */
+		</style>
+		</head>
+
+<body class="home page-template page-template-templates page-template-tmpl-home page-template-templatestmpl-home-php page page-id-2 cookies-not-set group-blog">
+	
+	
+
+	<header id="masthead" class="site-header" role="banner">
+			<div class="container-fluid">
+			<div class="row">
+				<div id="crystal-head-col-left" class="site-header-inner col-xs-12 col-sm-3 col-md-2">
+											<a id="crystal-navbar-brand" href="https://www.crystalrugged.com/" title="Crystal Group" rel="home">
+							<img src="https://www.crystalrugged.com/wp-content/uploads/2016/11/cg-logo.png" width="290" height="81" alt="">
+						</a>
+									</div>
+				
+<div id="crystal-head-col-right" class=" col-xs-12 col-sm-9 col-md-10">
+	<nav class="site-navigation">
+			<div class="row">
+			<div class="site-navigation-inner col-sm-12">
+				<div id="fusionfarm_mega_menu" class="navbar navbar-default"><div class="navbar-header"><!-- .navbar-toggle is used as the toggle for collapsed navbar content --><button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="sr-only">Toggle navigation </span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><!-- Your site title as branding in the menu --></div><div class="collapse navbar-collapse"><ul id="main-menu" class="nav navbar-nav navbar-right"><li id="menu-item-1" class="menu-item menu-item-type-mega menu-item-has-children ff-mega-menu "><a title="Products &#038; Services" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Products &#038; Services <span class="caret"></span></a><ul role="menu" class="dropdown-menu ff-mega-menu "><li id="" class="menu-item  menu-item-type-mega-container"><div class="row ff-mega-menu-row"><div class="col-sm-12 col-md-4 ff-mega-menu-col ff-mega-menu-col_Rugged-Solutions-1"><p class="ff-mega-menu-col-heading"><a class="ff-mega-menu-col-heading-link" href="/products/">Rugged Solutions</a></p><ul id="menu-Rugged-Solutions-1" class="ff-mega-menu-col-menu"><li id="menu-item-5303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5303"><a title="Crystal Group RIA™ Rugged Intelligence and Autonomy" href="https://www.crystalrugged.com/products/CG-RIA-Rugged-Intelligence-Autonomy/">Crystal Group RIA™ Rugged Intelligence and Autonomy</a></li>
+<li id="menu-item-528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528"><a title="Rugged Servers (RS)" href="https://www.crystalrugged.com/products/rugged-servers/">Rugged Servers (RS)</a></li>
+<li id="menu-item-531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-531"><a title="Rugged Carbon Fiber Servers" href="https://www.crystalrugged.com/products/rugged-carbon-fiber-servers/">Rugged Carbon Fiber Servers</a></li>
+<li id="menu-item-532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532"><a title="Industrial Servers" href="https://www.crystalrugged.com/products/industrial-servers/">Industrial Servers</a></li>
+<li id="menu-item-530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-530"><a title="Rugged LCD Display Monitors" href="https://www.crystalrugged.com/products/rugged-displays/">Rugged LCD Display Monitors</a></li>
+</ul></div><div class="col-sm-12 col-md-4 ff-mega-menu-col ff-mega-menu-col_rugged-solutions-2"><p class="ff-mega-menu-col-heading"><br /></p><ul id="menu-Rugged-Solutions-2" class="ff-mega-menu-col-menu"><li id="menu-item-8483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8483"><a title="Crystal Group ES™ Energy Series" href="https://www.crystalrugged.com/products/CG-Energy-Series/">Crystal Group ES™ Energy Series</a></li>
+<li id="menu-item-8310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8310"><a title="Rugged Cybersecurity Solutions" href="https://www.crystalrugged.com/products/rugged-cybersecurity-solutions/">Rugged Cybersecurity Solutions</a></li>
+<li id="menu-item-1333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333"><a title="Embedded Computer Systems" href="https://www.crystalrugged.com/products/embedded-computer-systems/">Embedded Computer Systems</a></li>
+<li id="menu-item-1334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1334"><a title="Rugged Network Switches, Routers &#038; Firewalls" href="https://www.crystalrugged.com/products/rugged-networking/">Rugged Network Switches, Routers &#038; Firewalls</a></li>
+<li id="menu-item-1335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1335"><a title="Rugged Data Storage Systems" href="https://www.crystalrugged.com/products/rugged-storage-systems/">Rugged Data Storage Systems</a></li>
+</ul></div><div class="col-sm-12 col-md-4 ff-mega-menu-col ff-mega-menu-col_Services"><p class="ff-mega-menu-col-heading"><a class="ff-mega-menu-col-heading-link" href="/products/services/">Services</a></p><ul id="menu-Services" class="ff-mega-menu-col-menu"><li id="menu-item-1889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1889"><a title="Configuration Management" href="https://www.crystalrugged.com/products/services/configuration-management/">Configuration Management</a></li>
+<li id="menu-item-3125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3125"><a title="24/7 Support" href="https://www.crystalrugged.com/support/">24/7 Support</a></li>
+<li id="menu-item-1194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1194"><a title="Custom Design &#038; Development" href="https://www.crystalrugged.com/products/services/custom-design-development/">Custom Design &#038; Development</a></li>
+<li id="menu-item-1885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1885"><a title="Rugged &#038; Reliable" href="https://www.crystalrugged.com/products/services/rugged-reliable/">Rugged &#038; Reliable</a></li>
+<li id="menu-item-1894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1894"><a title="Quality | AS9100 &amp; ISO9001 Certified" href="https://www.crystalrugged.com/products/services/quality/">Quality | AS9100 &#038; ISO9001 Certified</a></li>
+<li id="menu-item-4755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4755"><a title="Transit Case Integration" href="https://www.crystalrugged.com/products/services/transit-cases/">Transit Case Integration</a></li>
+</ul></div></div></li></ul></li><li id="menu-item-2" class="menu-item menu-item-type-dropdown menu-item-has-children dropdown "><a title="Industries Served" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Industries Served <span class="caret"></span></a><ul id="menu-industries-served" class="dropdown-menu  ff-mega-menu-drop_industries-served"><li id="menu-item-655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-655"><a title="Military &#038; Government" href="https://www.crystalrugged.com/military-government/">Military &#038; Government</a></li>
+<li id="menu-item-658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a title="Industrial &#038; Commercial" href="https://www.crystalrugged.com/industrial-commercial/">Industrial &#038; Commercial</a></li>
+</ul></li><li id="menu-item-3" class="menu-item menu-item-type-dropdown menu-item-has-children dropdown "><a title="Testing Standards" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Testing Standards <span class="caret"></span></a><ul id="menu-testing-standards" class="dropdown-menu  ff-mega-menu-drop_testing-standards"><li id="menu-item-2220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2220"><a title="Military Standards" href="https://www.crystalrugged.com/testing-standards/">Military Standards</a></li>
+<li id="menu-item-2222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2222"><a title="How We Ruggedize" href="https://www.crystalrugged.com/closer-look/">How We Ruggedize</a></li>
+</ul></li><li id="menu-item-4" class="menu-item menu-item-type-dropdown menu-item-has-children dropdown "><a title="News &#038; Events" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">News &#038; Events <span class="caret"></span></a><ul id="menu-News-Events" class="dropdown-menu  ff-mega-menu-drop_news-events"><li id="menu-item-1604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1604"><a title="Trade Shows &amp; Events" href="https://www.crystalrugged.com/tradeshows-events/">Trade Shows &#038; Events</a></li>
+<li id="menu-item-1031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1031"><a title="Newsroom" href="https://www.crystalrugged.com/newsroom/">Newsroom</a></li>
+<li id="menu-item-3323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3323"><a title="Media Coverage" href="https://www.crystalrugged.com/media-coverage/">Media Coverage</a></li>
+</ul></li><li id="menu-item-5" class="menu-item menu-item-type-dropdown menu-item-has-children dropdown "><a title="Resources" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a><ul id="menu-Resources" class="dropdown-menu  ff-mega-menu-drop_Resources"><li id="menu-item-3341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3341"><a title="Case Studies" href="https://www.crystalrugged.com/case-studies/">Case Studies</a></li>
+<li id="menu-item-3340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3340"><a title="White Papers" href="https://www.crystalrugged.com/white-papers/">White Papers</a></li>
+<li id="menu-item-5515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5515"><a title="Brochures" href="https://www.crystalrugged.com/Brochures/">Brochures</a></li>
+<li id="menu-item-5810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5810"><a title="Innovation Blog" href="https://www.crystalrugged.com/innovation-blog/">Innovation Blog</a></li>
+<li id="menu-item-5899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5899"><a title="Videos" href="https://www.crystalrugged.com/videos/">Videos</a></li>
+</ul></li><li id="menu-item-6" class="menu-item menu-item-type-dropdown menu-item-has-children dropdown "><a title="Careers" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Careers <span class="caret"></span></a><ul id="menu-careers" class="dropdown-menu  ff-mega-menu-drop_careers"><li id="menu-item-1116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1116"><a title="Careers at Crystal Group" href="https://www.crystalrugged.com/careers/">Careers at Crystal Group</a></li>
+<li id="menu-item-1115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1115"><a title="Crystal Group Innovation Scholarship" href="https://www.crystalrugged.com/scholarships/">Crystal Group Innovation Scholarship</a></li>
+</ul></li><li id="menu-item-7" class="menu-item menu-item-type-dropdown menu-item-has-children dropdown "><a title="About" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a><ul id="menu-About" class="dropdown-menu  ff-mega-menu-drop_about"><li id="menu-item-1110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1110"><a title="About Crystal Group" href="https://www.crystalrugged.com/about/">About Crystal Group</a></li>
+<li id="menu-item-1114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1114"><a title="Our Leadership" href="https://www.crystalrugged.com/about/our-leadership/">Our Leadership</a></li>
+<li id="menu-item-1113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1113"><a title="State-of-the-art Facility" href="https://www.crystalrugged.com/about/facility/">State-of-the-art Facility</a></li>
+<li id="menu-item-7424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7424"><a title="Awards &#038; Certifications" href="https://www.crystalrugged.com/about/Awards-Certifications/">Awards &#038; Certifications</a></li>
+<li id="menu-item-1112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1112"><a title="Fact Sheet" href="https://www.crystalrugged.com/about/fact-sheet/">Fact Sheet</a></li>
+<li id="menu-item-1111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1111"><a title="History" href="https://www.crystalrugged.com/about/history/">History</a></li>
+<li id="menu-item-7006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7006"><a title="Policies &#038; Compliance" href="https://www.crystalrugged.com/about/Policies-Compliance/">Policies &#038; Compliance</a></li>
+</ul></li><li id="menu-item-8" class="menu-item menu-item-type-dropdown menu-item-has-children dropdown "><a title="Contact" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Contact <span class="caret"></span></a><ul id="menu-Contact" class="dropdown-menu  ff-mega-menu-drop_contact"><li id="menu-item-1120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1120"><a title="General Contact" href="https://www.crystalrugged.com/contact/">General Contact</a></li>
+<li id="menu-item-1121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1121"><a title="Request a Quote" href="https://www.crystalrugged.com/quote-request/">Request a Quote</a></li>
+<li id="menu-item-4735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4735"><a title="CG Sales Team" href="https://www.crystalrugged.com/contact/CG-sales-team/">CG Sales Team</a></li>
+<li id="menu-item-4733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4733"><a title="CG MFR Reps" href="https://www.crystalrugged.com/contact/CG-manufacturer-representatives/">CG MFR Reps</a></li>
+<li id="menu-item-4838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4838"><a title="Technical Support" href="https://www.crystalrugged.com/support/tech-team/">Technical Support</a></li>
+</ul></li><li id="menu-item-9" class="menu-item menu-item-type-widget menu-item-has-children ff-mega-menu-widget main-nav-search"><a title="" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false"> <span class="caret"></span></a><ul role="menu" class="dropdown-menu ff-mega-menu-widget-menu  ff-mega-menu-widget-search-sidebar"><li id="" class="menu-item  menu-item-type-widget-container"><aside id="search-7" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://www.crystalrugged.com/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>
+</aside></li></ul></li></ul></div></div><!-- .navbar -->			</div>
+		</div>
+	</nav><!-- .site-navigation -->
+</div>			</div>
+		</div><!-- .container -->
+	</header><!-- #masthead -->
+<div class="main-content">
+	<div class="alert alert-warning" style="
+    margin: 0;
+    background: rgb(239,174,64);
+    border: 0;
+    border-radius: 0;
+    color: #222;
+    text-align: center;
+    font-size: 18px;
+">
+<a href="https://www.crystalrugged.com/Crystal-Group-COVID-19-Statement/" style="color: #000 !important;"><u><b>Click here</b></u></a> for the latest Crystal Group news related to COVID-19.</div>
+	<div class="container-fluid">
+		<div class="row">
+			<div id="content" class="main-content-inner col-sm-12">
+				<div id="hp-hero-row">
+	<div id="hp-hero-wrap" class="col-md-12" style="background-image:url(https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/images/hero-poly-bg.png);">
+					<div id="hp-hero" class="row">
+						<div id="fh-txt-wrapper" class="fh-col col-md-5 col-sm-5 col-xs-12">
+					<div class="fh-txt-wrap">
+						<div class="fh-title-wrap">
+							<h1 class="hp-hero-title">Open and ready <br> to serve.</h1>
+						</div>
+													<div class="fh-content-wrap">
+								<div class="at-above-post-homepage addthis_tool" data-url="https://www.crystalrugged.com/featured-hero/when-livesare-on-the-linereliability-matters/"></div><p>As an essential supplier to critical infrastructure systems and the U.S. Department of Defense, Crystal Group remains fully operational to support our nation’s safety and security with reliable, rugged compute systems.</p>
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post-homepage addthis_tool" data-url="https://www.crystalrugged.com/featured-hero/when-livesare-on-the-linereliability-matters/"></div><!-- AddThis Share Buttons generic via filter on the_content -->							</div>
+												<div class="fh-link-wrap">
+							<a class="cg-btn" href="/products/">Learn More</a>
+						</div>
+					</div>
+				</div>
+				<div id="fh-image-wrapper" class="fh-col col-md-7 col-sm-7 col-xs-12">
+
+					<a href="https://www.crystalrugged.com">
+						<!--
+						<img class="fh-image" src="https://www.crystalrugged.com/wp-content/uploads/2016/11/FORCE-with-Sanitize-Button-1-768x432.png" alt="" width="100%" data-dim="1080-607">
+						-->
+
+													<img class="fh-image" src="https://www.crystalrugged.com/wp-content/uploads/2016/11/FORCE-with-Sanitize-Button-1-768x432.png" alt="" width="100%" style="right: 0%;" >
+							</a>
+				</div>
+					</div>
+			</div>
+	<div class="clear"></div>
+</div>				<div id="hp-prod-row" class="hp-sect-row" style="background-image: url(https://www.crystalrugged.com/wp-content/uploads/2019/08/homepage-bkgd-image-1-1672x881.jpg);">
+	<div id="hp-prod-wrap" class="hp-sect-wrap col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					<div class="sect-title-wrapper">	
+				<div class="sect-title-wrap">
+					<h2 class="sect-title">OUR PRODUCTS</h2>
+					<hr class="sect-title-bb">
+				</div>
+			</div>
+				<div class="hp-prod-cat-wrap">
+			<div class="hp-products-menu row row-centered"><div id='menu-item-1017'  class="hp-prod-cat col-md-3 col-sm-4 col-xs-6 col-centered menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.crystalrugged.com/products/rugged-servers/">Rugged Servers</a></div></li>
+<div id='menu-item-1020'  class="hp-prod-cat col-md-3 col-sm-4 col-xs-6 col-centered menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.crystalrugged.com/products/rugged-carbon-fiber-servers/">Rugged Carbon Fiber Servers</a></div></li>
+<div id='menu-item-1021'  class="hp-prod-cat col-md-3 col-sm-4 col-xs-6 col-centered menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.crystalrugged.com/products/industrial-servers/">Industrial Servers</a></div></li>
+<div id='menu-item-1015'  class="hp-prod-cat col-md-3 col-sm-4 col-xs-6 col-centered menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.crystalrugged.com/products/rugged-workstations/">Rugged Workstations</a></div></li>
+<div id='menu-item-1018'  class="hp-prod-cat col-md-3 col-sm-4 col-xs-6 col-centered menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.crystalrugged.com/products/rugged-networking/">Rugged Networking</a></div></li>
+<div id='menu-item-1016'  class="hp-prod-cat col-md-3 col-sm-4 col-xs-6 col-centered menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.crystalrugged.com/products/rugged-storage-systems/">Rugged Data Storage Systems</a></div></li>
+<div id='menu-item-1019'  class="hp-prod-cat col-md-3 col-sm-4 col-xs-6 col-centered menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.crystalrugged.com/products/rugged-displays/">Rugged LCD Display Monitors</a></div></li>
+<div id='menu-item-1022'  class="hp-prod-cat col-md-3 col-sm-4 col-xs-6 col-centered menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.crystalrugged.com/products/embedded-computer-systems/">Embedded Computer Systems</a></div></li>
+<div id='menu-item-1173'  class="hp-prod-cat col-md-3 col-sm-4 col-xs-6 col-centered menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.crystalrugged.com/products/services/transit-cases/">Transit Case Integration</a></div></li>
+</div>			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+</div><div id="hp-prod-feats-row" class="hp-sect-row">
+	<div id="hp-prod-feats-wrap" class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 hp-sect-wrap">
+					<div class="sect-title-wrapper">
+				<div class="sect-title-wrap">
+					<h2 id="hp-prod-feats-title" class="sect-title">Superior design, performance and capability you can trust.</h2>
+					<hr class="sect-title-bb">
+				</div>
+			</div>
+				<div id="prod-feats-img" class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+			<div id="prod-feats-wrap">
+
+				
+				<img id="pf-img" src="https://www.crystalrugged.com/wp-content/uploads/2019/08/RE1529-IMG_0794-front-right-interactive-image.png">
+
+				
+												<div id="prod-feat-1" class="prod-feat">
+								<div class="prod-feat-txt-wrap">
+									<div class="prod-feat-title col-sm-12">
+										<span class="feat-title">Customizable</span>
+									</div>
+									<div class="prod-feat-pop col-sm-12">
+										<div class="prod-feat-desc">
+											<p>All computer products are customizable, with our systems engineers&#8217; expertise. Expansion slots, available bays are noted in each product&#8217;s specifications.</p>
+											<div class="prod-feat-pop-arrow" style="text-align: right;">
+												<i class="fa fa-caret-up" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+									<div class="clear"></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+												<div id="prod-feat-2" class="prod-feat">
+								<div class="prod-feat-txt-wrap">
+									<div class="prod-feat-title col-sm-12">
+										<span class="feat-title">Chassis</span>
+									</div>
+									<div class="prod-feat-pop col-sm-12">
+										<div class="prod-feat-desc">
+											<p>Crystal Group computer products feature a chassis designed to fit most any rack space in tough, durable aluminum, milled in-house.</p>
+											<div class="prod-feat-pop-arrow" style="text-align: right;">
+												<i class="fa fa-caret-up" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+									<div class="clear"></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+												<div id="prod-feat-3" class="prod-feat">
+								<div class="prod-feat-txt-wrap">
+									<div class="prod-feat-title col-sm-12">
+										<span class="feat-title">Secure</span>
+									</div>
+									<div class="prod-feat-pop col-sm-12">
+										<div class="prod-feat-desc">
+											<p>Crystal Group PASS – Platform Agnostic Security Solutions – includes the world’s first rugged FIPS 140-2 compliant data-at-rest storage devices with exclusively conformal-coated Seagate 2.5-inch, dual-port SAS drives compatible with any Crystal Group computer server, workstation, and JBOD or RAID storage system.</p>
+											<div class="prod-feat-pop-arrow" style="text-align: right;">
+												<i class="fa fa-caret-up" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+									<div class="clear"></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+												<div id="prod-feat-4" class="prod-feat">
+								<div class="prod-feat-txt-wrap">
+									<div class="prod-feat-title col-sm-12">
+										<span class="feat-title">Rugged</span>
+									</div>
+									<div class="prod-feat-pop col-sm-12">
+										<div class="prod-feat-desc">
+											<p>At Crystal Group, we ruggedize computers differently. Our design approach limits chassis deflection to extend the solder joint life of our circuit boards.</p>
+											<div class="prod-feat-pop-arrow" style="text-align: right;">
+												<i class="fa fa-caret-up" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+									<div class="clear"></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+												<div id="prod-feat-5" class="prod-feat">
+								<div class="prod-feat-txt-wrap">
+									<div class="prod-feat-title col-sm-12">
+										<span class="feat-title">Reliable</span>
+									</div>
+									<div class="prod-feat-pop col-sm-12">
+										<div class="prod-feat-desc">
+											<p>We demand un-throttled CPU performance at temperature extremes unlike many of our competitors.</p>
+											<div class="prod-feat-pop-arrow" style="text-align: right;">
+												<i class="fa fa-caret-up" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+									<div class="clear"></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+								</div>
+		</div>
+	</div>
+	<div class="clear"></div>
+</div><div id="hp-cta-row" class="hp-sect-row" style="background-image: url(https://www.crystalrugged.com/wp-content/uploads/2019/08/iStock-881634740-retouched-homepage-web-1-1037x941.jpg);">
+	<div id="hp-cta-wrap" class="hp-sect-wrap col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					<div class="sect-title-wrapper">	
+				<div class="sect-title-wrap">
+					<h2 id="hp-cta-title" class="sect-title">Discover the future of rugged and secure computing.</h2>
+					<hr class="sect-title-bb">
+				</div>
+			</div>
+							<div id="hp-cta-content-wrap" class="col-md-8 col-md-offset-2">
+				<p>The tough environments of land, sea, air, and space are no match for Crystal Group’s <strong>rugged computer</strong> hardware.  Combat proven.  Industry trusted.</p>
+			</div>
+			<div class="clear"></div>
+				<div id="hp-cta-btn-wrap">
+							<a class="cg-btn" href="https://www.crystalrugged.com/military-government/" >Military & Government</a>
+										<a class="cg-btn" href="https://www.crystalrugged.com/industrial-commercial/" >Industrial & Commercial</a>
+					</div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>			</div>
+		</div>
+	</div>
+</div>
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			<div id="footer-overlay"></div>
+			<div class="container-fluid">
+				<div class="row">
+					<div class="site-footer-inner col-sm-12">
+						<div class="site-info">
+							<div id="site-info-row0" class="site-info-row row">
+								<div class="site-ids col-xs-12">
+									<aside id="text-7" class="widget widget_text">			<div class="textwidget"><p>ISO 9001:2015/AS9100D certified | DUNS number: 791156607 | #CAGE code: 1LTM5 | Federal tax ID: 42-1366762</p>
+</div>
+		</aside>								</div>
+							</div>
+							<div id="site-info-row1" class="site-info-row row">
+								<div class="footer-menu-col col-md-4 col-sm-12">
+									<aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-Footer-1-container"><ul id="menu-Footer-1" class="menu"><li id="menu-item-950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-950"><a href="https://www.crystalrugged.com/privacy/">Privacy Statement</a></li>
+<li id="menu-item-949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-949"><a href="https://www.crystalrugged.com/terms/">Terms of Use</a></li>
+<li id="menu-item-948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-948"><a target="_blank" rel="noopener noreferrer" href="/wp-content/uploads/2016/11/dhs-oig-notice.pdf">DHS OIG Notice</a></li>
+<li id="menu-item-6717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6717"><a href="https://www.crystalrugged.com/anti-trafficking-human-compliance-plan/">Anti-Trafficking of Humans Compliance Plan</a></li>
+</ul></div></aside>								</div>
+								<div class="footer-menu-col col-md-4 col-sm-12">
+									<aside id="nav_menu-4" class="widget widget_nav_menu"><div class="menu-Footer-3-container"><ul id="menu-Footer-3" class="menu"><li id="menu-item-5481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5481"><a href="https://www.crystalrugged.com/contact/CG-sales-team/">Sales Support</a></li>
+<li id="menu-item-2345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2345"><a href="https://www.crystalrugged.com/support/tech-team/">Technical Support</a></li>
+<li id="menu-item-2346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2346"><a href="https://www.crystalrugged.com/warranty/">Warranty Agreements</a></li>
+<li id="menu-item-2769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2769"><a href="https://www.crystalrugged.com/support/suppliers/">Register as a Vendor</a></li>
+</ul></div></aside>								</div>
+								<div class="footer-menu-col col-md-4 col-sm-12">
+									<aside id="nav_menu-6" class="widget widget_nav_menu"><div class="menu-Footer-4-container"><ul id="menu-Footer-4" class="menu"><li id="menu-item-8585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8585"><a href="https://www.crystalrugged.com/contact/">Contact</a></li>
+<li id="menu-item-8586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8586"><a href="https://www.crystalrugged.com/careers/">Careers</a></li>
+<li id="menu-item-8587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8587"><a href="https://www.crystalrugged.com/scholarships/">Scholarship</a></li>
+</ul></div></aside>								</div>
+							</div>
+							<div id="site-info-row2" class="site-info-row row">
+								<div class="footer-info-col col-md-6 col-xs-12">
+									<div class="widget">
+										<div class="site-info-sub-row">
+											855 Metzger Drive, Hiawatha, IA 52233										</div>
+										<div class="site-info-sub-row">
+											<a href="tel:800.378.1636">800.378.1636</a> | <a href="tel:+1.319.378.1636">+1.319.378.1636</a> (International)
+											<br>
+											319.393.2338 (Fax)
+										</div>
+										<div class="site-info-sub-row">
+											&copy; 2020 Crystal Group Inc. All Rights Reserved.
+										</div>
+									</div>
+								</div>
+								<div class="footer-info-col col-md-6 col-xs-12">
+									<aside id="text-3" class="widget widget_text">			<div class="textwidget"><h4><em>Employee-Owned</em></h4></div>
+		</aside><aside id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-Footer-2-container"><ul id="menu-Footer-2" class="menu"><li id="menu-item-941" class="parent-link menu-item menu-item-type-custom menu-item-object-custom menu-item-941"><a href="http://www.dexterapache.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.dexterapache.com', 'Dexter Apache Holdings');" target="_blank" rel="noopener noreferrer">Dexter Apache Holdings</a></li>
+<li id="menu-item-942" class="child-link menu-item menu-item-type-custom menu-item-object-custom menu-item-942"><a href="https://www.dexter.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://www.dexter.com/', 'Dexter Laundry');" target="_blank" rel="noopener noreferrer">Dexter Laundry</a></li>
+<li id="menu-item-943" class="child-link menu-item menu-item-type-custom menu-item-object-custom menu-item-943"><a href="https://www.dexterfinancial.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://www.dexterfinancial.com/', 'Dexter Financial');" target="_blank" rel="noopener noreferrer">Dexter Financial</a></li>
+<li id="menu-item-944" class="child-link menu-item menu-item-type-custom menu-item-object-custom menu-item-944"><a href="http://www.apachestainless.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.apachestainless.com/', 'Apache Stainless');" target="_blank" rel="noopener noreferrer">Apache Stainless</a></li>
+<li id="menu-item-1321" class="child-link menu-item menu-item-type-custom menu-item-object-custom menu-item-1321"><a href="http://www.leerinc.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.leerinc.com/', 'Leer');" target="_blank" rel="noopener noreferrer">Leer</a></li>
+<li id="menu-item-1322" class="child-link menu-item menu-item-type-custom menu-item-object-custom menu-item-1322"><a href="http://www.carrollcoolers.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.carrollcoolers.com/', 'Carroll Coolers');" target="_blank" rel="noopener noreferrer">Carroll Coolers</a></li>
+<li id="menu-item-1323" class="child-link menu-item menu-item-type-custom menu-item-object-custom menu-item-1323"><a href="http://www.daltonag.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.daltonag.com/', 'Dalton Ag Products');" target="_blank" rel="noopener noreferrer">Dalton Ag Products</a></li>
+</ul></div></aside>								</div>
+							</div>
+							<div id="site-info-row3" class="site-info-row row">
+								<div class="footer-socmed-col col-sm-12">
+									<ul class="ff-social-row">
+					<li class="ff-social-col">
+
+						
+							
+							<a href="http://www.facebook.com/pages/Crystal-Group/228381210553255" title="Facebook" aria-label="Facebook" target="_blank" >
+
+								
+										<i class="fa fa-facebook fa-2x"></i>
+
+										
+								
+							</a>
+
+						
+					</li>
+
+					
+					<li class="ff-social-col">
+
+						
+							
+							<a href="https://www.instagram.com/crystalgrouprugged/" title="Instagram" aria-label="Instagram" target="_blank" >
+
+								
+										<i class="fa fa-instagram fa-2x"></i>
+
+										
+								
+							</a>
+
+						
+					</li>
+
+					
+					<li class="ff-social-col">
+
+						
+							
+							<a href="http://www.linkedin.com/company/crystal-group" title="LinkedIn" aria-label="LinkedIn" target="_blank" >
+
+								
+										<i class="fa fa-linkedin fa-2x"></i>
+
+										
+								
+							</a>
+
+						
+					</li>
+
+					
+					<li class="ff-social-col">
+
+						
+							
+							<a href="https://twitter.com/CrystalGroup" title="Twitter" aria-label="Twitter" target="_blank" >
+
+								
+										<i class="fa fa-twitter fa-2x"></i>
+
+										
+								
+							</a>
+
+						
+					</li>
+
+					
+					<li class="ff-social-col">
+
+						
+							
+							<a href="https://www.youtube.com/channel/UCoOusX7ngwp1YRICDZ0qnDg" title="YouTube" aria-label="YouTube" target="_blank" >
+
+								
+										<i class="fa fa-youtube fa-2x"></i>
+
+										
+								
+							</a>
+
+						
+					</li>
+
+					</ul>								</div>
+							</div>
+						</div><!-- close .site-info -->
+					</div>
+				</div>
+			</div><!-- close .container -->
+		</footer><!-- close #colophon -->
+	<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NN355P"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NN355P');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072010489;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072010489/?guid=ON&script=0"/>
+</div>
+</noscript>
+
+<!-- start Pardot Website Tracking code -->
+<script type="text/javascript">
+piAId = '142931';
+piCId = '1149';
+
+(function() {
+function async_load(){
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+}
+if(window.attachEvent) { window.attachEvent('onload', async_load); }
+else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+<!-- end Pardot Website Tracking code -->
+
+<!-- Fusionfarm phone number click tracking -->
+<script type="text/javascript">
+jQuery( document ).ready( function() {
+  jQuery('a[href^="tel\:"]').on('click', function() { 
+    __gaTracker('send','event','Phone Call Tracking','Click',jQuery(this).html());
+  });
+});
+</script>
+<!-- end Fusionfarm phone number click tracking -->
+<!-- Hotjar Tracking Code for https://www.crystalrugged.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:428497,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<!-- Code for Action: Site Visitors - Crystal Group -->
+<!-- Begin Rocket Fuel Conversion Action Tracking Code Version 9 -->
+<script type='text/javascript'>
+(function() {
+	var w = window, d = document;
+	var s = d.createElement('script');
+	s.setAttribute('async', 'true');
+	s.setAttribute('type', 'text/javascript');
+	s.setAttribute('src', '//c1.rfihub.net/js/tc.min.js');
+	var f = d.getElementsByTagName('script')[0];
+	f.parentNode.insertBefore(s, f);
+	if (typeof w['_rfi'] !== 'function') {
+		w['_rfi']=function() {
+			w['_rfi'].commands = w['_rfi'].commands || [];
+			w['_rfi'].commands.push(arguments);
+		};
+	}
+	_rfi('setArgs', 'ver', '9');
+	_rfi('setArgs', 'rb', '30173');
+	_rfi('setArgs', 'ca', '20764596');
+	_rfi('setArgs', '_o', '30173');
+	_rfi('setArgs', '_t', '20764596');
+	_rfi('track');
+})();
+</script>
+<noscript>
+  <iframe src='//20764596p.rfihub.com/ca.html?rb=30173&ca=20764596&_o=30173&_t=20764596&ra=REPLACE_ME_WITH_YOUR_CACHE_BUSTING' style='display:none;padding:0;margin:0' width='0' height='0'>
+</iframe>
+</noscript>
+<!-- End Rocket Fuel Conversion Action Tracking Code Version 9 --><script type="text/javascript">
+<!--
+piCId = '1149';
+piAId = '142931';
+
+piHostname = 'pi.pardot.com';
+
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+})();
+-->
+</script><script type='text/javascript' src='https://www.crystalrugged.com/wp-content/mu-plugins/crystal-products/js/crystal-products-fe.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themeMyLogin = {"action":"","errors":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/plugins/theme-my-login/assets/scripts/theme-my-login.min.js?ver=7.0.15'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/js/product-scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/js/content-scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/js/filter-scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/js/hp-scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/js/navigation.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/js/blog-scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/js/jquery.elevatezoom.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-content/themes/crystal/lib/public/js/download-tracking.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.crystalrugged.com/wp-includes/js/wp-embed.min.js?ver=5.2.5'></script>
+
+		<!-- Cookie Notice plugin v1.2.49 by Digital Factory https://dfactory.eu/ -->
+		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: #dcdcdc;"><div class="cookie-notice-container" style="color: #000000;"><span id="cn-notice-text" class="cn-text-container">We use cookies to make our website easier and more meaningful for you. Your information will not be shared.<br>Continuing to use this site gives your permission to use cookies. View our <a href="https://www.crystalrugged.com/privacy/" target="_blank">Privacy Policy</a>.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button cg-btn">x</a></span></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin -->	</body>
+</html>

@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head itemscope itemtype="http://schema.org/WebSite">
+	<meta charset="UTF-8">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<![endif]-->
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<!--iOS/android/handheld specific -->
+<link rel="apple-touch-icon" href="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/themes/sociallyviral/images/apple-touch-icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta itemprop="name" content="SafeAuto Blog | Insurance for the Rest of Us" />
+    <meta itemprop="url" content="https://blog.safeauto.com" />
+    	<link rel="pingback" href="https://blog.safeauto.com/xmlrpc.php" />
+	<title>SafeAuto Blog | Insurance for the Rest of Us - Official Blog of Safe Auto Insurance Company | Insurance for the Rest of Us</title>
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script>
+<!-- This site is optimized with the Yoast SEO plugin v13.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Official Blog of Safe Auto Insurance Company | Insurance for the Rest of Us"/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://blog.safeauto.com/" />
+<link rel="next" href="https://blog.safeauto.com/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="SafeAuto Blog | Insurance for the Rest of Us - Official Blog of Safe Auto Insurance Company | Insurance for the Rest of Us" />
+<meta property="og:description" content="Official Blog of Safe Auto Insurance Company | Insurance for the Rest of Us" />
+<meta property="og:url" content="https://blog.safeauto.com/" />
+<meta property="og:site_name" content="SafeAuto Blog | Insurance for the Rest of Us" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://blog.safeauto.com/#website","url":"https://blog.safeauto.com/","name":"SafeAuto Blog | Insurance for the Rest of Us","inLanguage":"en-US","description":"Official Blog of Safe Auto Insurance Company | Insurance for the Rest of Us","potentialAction":{"@type":"SearchAction","target":"https://blog.safeauto.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://blog.safeauto.com/#webpage","url":"https://blog.safeauto.com/","name":"SafeAuto Blog | Insurance for the Rest of Us - Official Blog of Safe Auto Insurance Company | Insurance for the Rest of Us","isPartOf":{"@id":"https://blog.safeauto.com/#website"},"inLanguage":"en-US","description":"Official Blog of Safe Auto Insurance Company | Insurance for the Rest of Us"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="SafeAuto Blog | Insurance for the Rest of Us &raquo; Feed" href="https://blog.safeauto.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SafeAuto Blog | Insurance for the Rest of Us &raquo; Comments Feed" href="https://blog.safeauto.com/comments/feed/" />
+<link rel='preconnect' href='https://secureservercdn.net' crossorigin />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/secureservercdn.net\/198.71.233.179\/pxq.0ba.myftpupload.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4&time=1585926168"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4&#038;time=1585926168' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/themes/sociallyviral/style.css?ver=5.4&#038;time=1585926168' type='text/css' media='all' />
+<style id='stylesheet-inline-css' type='text/css'>
+
+		body, .sidebar.c-4-12, #commentform textarea, input#author, input#email, input#url {background-color:#f7f7f7; }
+		body {background-image: url( https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/themes/sociallyviral/images/nobg.png );}
+        .pace .pace-progress, #mobile-menu-wrapper ul li a:hover { background: #333333; }
+		.single_post a, .widget .textwidget a, #logo a, .pnavigation2 a, .sidebar.c-4-12 a:hover, footer .widget li a:hover, .sidebar.c-4-12 a:hover, .related-posts a:hover, .title a:hover, .comm, #tabber .inside li a:hover, .readMore a:hover, .fn a, a, span.author-posts a:hover { color:#333333; }	
+			nav a#pull, .mts-subscribe input[type='submit'], #move-to-top:hover, #navigation ul .current-menu-item a, .pagination a, #tabber ul.tabs li a.selected, .tagcloud a:hover, #navigation ul .sfHover a, .primary-navigation, #navigation ul ul, .single_post .thecategory, .single-prev-next a:hover, #commentform input#submit:hover, .contactform #submit:hover, .latestPost .latestPost-review-wrapper, .latestPost .review-type-circle.latestPost-review-wrapper, .post-label, .widget .review-total-only, #wpmm-megamenu .review-total-only { background-color:#333333; color: #fff!important; }
+        a:hover, .copyrights a:hover, .latestPost .title a:hover, span.author-posts a, .single_post .post-info a:hover { color: #cb262b; }
+        #searchform .fa-search, .currenttext, .pagination a:hover, .pagination .nav-previous a:hover, .pagination .nav-next a:hover, .single-prev-next a , #commentform input#submit, .contactform #submit, .tagcloud a { background: #cb262b; color: #fff; }
+        input#author:hover, input#email:hover, input#url:hover, #comment:hover, .contact-form input:hover, .contact-form textarea:hover { border-color: #cb262b; }
+		
+		
+		
+		
+		
+		#commentsAdd {
+    width: 100%;
+    float: left;
+    clear: both;
+    margin-bottom: 0;
+    margin-top: 20px;
+    display: none;
+}
+
+.logo-wrap {
+    margin: 15px 0 0 25px;}
+
+h2#logo, h1#logo{
+  margin-top: 0;
+width: 450px;
+}
+
+#content_box .single_post a{
+color: #509EC0;
+}
+
+.single-prev-next a {
+    color: white !important;
+}
+
+.thecategory a {
+    color: white !important;
+}
+
+#header .header-search {
+    float: none;
+    width: 80%;
+    max-width: 300px;
+    margin-bottom: 0px;
+    margin-top: 29px;
+    margin-left: auto;
+    margin-right: 25px;
+    display: inline-block;
+    text-align: left;
+    float: right;
+}
+
+#header #s {
+    margin: 0 !important;
+    width: 100%;
+    background: #f7f7f7;
+    border-color: #EFEBE7;
+}
+
+.primary-navigation #navigation ul li:hover {
+    background: #cb262b;
+}
+
+a.toplink {
+       top: 10px;
+}
+
+@media screen and (max-width: 768px){
+
+h2#logo, h1#logo {
+    margin-top: 0;
+    width: 90vmin;
+    display: flex;
+}
+
+#logo a {
+margin: 0 auto;}
+
+
+.header-social {
+    float: left;
+    display: inline-block;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    margin-top: 29px;
+}
+
+}
+
+@media screen and (max-width: 728px){
+#header h2#logo, #header h1#logo{
+  width: 100%;
+}
+#header .header-social {
+  display: none;
+}
+
+#header .header-search {
+  display: none; }
+
+#logo a, #logo img {
+margin-top: 10px;
+}
+
+
+
+}
+
+			
+</style>
+<script type='text/javascript' src='https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp&#038;time=1585926168'></script>
+<script type='text/javascript' src='https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1&#038;time=1585926168'></script>
+<script type='text/javascript' src='https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.4&#038;time=1585926168'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mts_customscript = {"responsive":"1","nav_menu":"both"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/themes/sociallyviral/js/customscript.js?ver=5.4&#038;time=1585926168'></script>
+<link rel='https://api.w.org/' href='https://blog.safeauto.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.safeauto.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-includes/wlwmanifest.xml?time=1585926168" /> 
+<!--Theme by MyThemeShop.com-->
+<meta name="generator" content="Site Kit by Google 1.5.1" />
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link href="//fonts.googleapis.com/css?family=Roboto:500|Lato:normal|Lato:300|Lato:700&amp;subset=latin" rel="stylesheet" type="text/css">
+<style type="text/css">
+#logo a { font-family: 'Roboto'; font-weight: 500; font-size: 44px; color: #33bcf2; }
+.primary-navigation li, .primary-navigation li a { font-family: 'Lato'; font-weight: normal; font-size: 16px; color: #ffffff;text-transform: uppercase; }
+.latestPost .title, .latestPost .title a { font-family: 'Lato'; font-weight: 300; font-size: 24px; color: #333333;line-height: 36px; }
+.single-title { font-family: 'Lato'; font-weight: 300; font-size: 38px; color: #333333;line-height: 53px; }
+body { font-family: 'Lato'; font-weight: normal; font-size: 16px; color: #444444; }
+.widget .widget-title { font-family: 'Lato'; font-weight: 300; font-size: 18px; color: #cb262b;text-transform: uppercase; }
+#sidebars .widget { font-family: 'Lato'; font-weight: normal; font-size: 16px; color: #333333; }
+.footer-widgets { font-family: 'Lato'; font-weight: normal; font-size: 14px; color: #707070; }
+h1 { font-family: 'Lato'; font-weight: 300; font-size: 38px; color: #333333; }
+h2 { font-family: 'Lato'; font-weight: 300; font-size: 32px; color: #cb262b; }
+h3 { font-family: 'Lato'; font-weight: 300; font-size: 30px; color: #333333; }
+h4 { font-family: 'Lato'; font-weight: 300; font-size: 28px; color: #333333; }
+h5 { font-family: 'Lato'; font-weight: 300; font-size: 24px; color: #333333; }
+h6 { font-family: 'Lato'; font-weight: 700; font-size: 20px; color: #333333; }
+</style>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
+<link rel="icon" href="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2018/07/cropped-autoknow_ico-65x65.png" sizes="32x32" />
+<link rel="icon" href="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2018/07/cropped-autoknow_ico-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2018/07/cropped-autoknow_ico-300x300.png" />
+<meta name="msapplication-TileImage" content="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2018/07/cropped-autoknow_ico-300x300.png" />
+</head>
+<body id ="blog" class="home blog main" itemscope itemtype="http://schema.org/WebPage">
+<script type="text/javascript">    var _gaq = _gaq || [];
+    _gaq.push(['_setDomainName', 'safeauto.com']);
+    _gaq.push(['_setAccount', 'UA-2292573-5']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_setAccount', 'UA-2292573-8']);
+    _gaq.push(['_trackPageview']);
+ 
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();</script>       
+	<div class="main-container">
+		<header class="main-header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+			<div class="container">
+				<div id="header">
+					<div class="logo-wrap">
+																						<h1 id="logo" class="image-logo" itemprop="headline">
+										<a href="https://blog.safeauto.com"><img src="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2018/07/autoknow.png" alt="SafeAuto Blog | Insurance for the Rest of Us"></a>
+									</h1><!-- END #logo -->
+																		</div>
+					
+											<div class="header-search"><form method="get" id="searchform" class="search-form" action="https://blog.safeauto.com" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="" placeholder="What are you looking for?"  />
+		<input id="search-image" class="sbutton" type="submit" value="" />
+		<i class="fa fa-search"></i>
+	</fieldset>
+</form></div>
+					
+											<div class="header-social">
+					        					            					                <a href="http://facebook.com/safeauto" class="header-facebook" style="background: #375593" target="_blank"><span class="fa fa-facebook"></span></a>
+					            					        					            					                <a href="http://twitter.com/safeauto" class="header-twitter" style="background: #0eb6f6" target="_blank"><span class="fa fa-twitter"></span></a>
+					            					        					            					                <a href="http://youtube.com/c/safeauto" class="header-youtube-play" style="background: #e32c26" target="_blank"><span class="fa fa-youtube-play"></span></a>
+					            					        					            					                <a href="https://instagram.com/safeauto/" class="header-instagram" style="background: #517fa4" target="_blank"><span class="fa fa-instagram"></span></a>
+					            					        					            					                <a href="https://www.linkedin.com/company/35231" class="header-linkedin" style="background: #007bb6" target="_blank"><span class="fa fa-linkedin"></span></a>
+					            					        					    </div>
+					
+																		<div class="primary-navigation" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+													<nav id="navigation" class="clearfix">
+								<a href="#" id="pull" class="toggle-mobile-menu">Menu</a>
+			        						        				<ul id="menu-main-nav" class="menu clearfix"><li id="menu-item-1852" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://blog.safeauto.com/category/safeauto-news/"><i class="far fa-newspaper"></i> News</a></li>
+<li id="menu-item-1850" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://blog.safeauto.com/category/insurance/"><i class="fas fa-shield-alt"></i> Insurance</a></li>
+<li id="menu-item-3852" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://blog.safeauto.com/category/safety/"><i class="fas fa-car-crash"></i> Safety</a></li>
+<li id="menu-item-1849" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://blog.safeauto.com/category/cars-driving/"><i class="fas fa-car"></i> Cars &#038; Driving</a></li>
+<li id="menu-item-3853" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://blog.safeauto.com/category/motorcycles/"><i class="fas fa-motorcycle"></i> Motorcycle</a></li>
+<li id="menu-item-4402" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.safeauto.com/content-disclaimer/">Content Disclaimer</a></li>
+</ul>			        						        		</nav>
+			        	</div>
+						<div class="clear" id="catcher"></div>
+			        
+				</div><!--#header-->
+			</div><!--.container-->        
+		</header><div id="page">
+	<div id="content_box">
+                        			<article class="latestPost excerpt featuredPost" itemscope itemtype="http://schema.org/BlogPosting">
+                				<a href="https://blog.safeauto.com/leading-provider-of-state-minimum-car-insurance-slash-fees-across-states-to-support-customers-amid-pandemic/" title="Leading Provider of State-Minimum Car Insurance Slash Fees Across States to Support Customers Amid Pandemic" rel="nofollow" id="featured-thumbnail">
+                				    <div class="featured-thumbnail"><img width="770" height="297" src="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/INSURANCE-FOR-THE-REST-OF-US.-9-1-2-770x297.png" class="attachment-featuredbig size-featuredbig wp-post-image" alt="insurance for the rest of us" title="" /></div>                                                                                        				</a>
+                                <header>
+                                    <h2 class="title front-view-title" itemprop="headline"><a href="https://blog.safeauto.com/leading-provider-of-state-minimum-car-insurance-slash-fees-across-states-to-support-customers-amid-pandemic/" title="Leading Provider of State-Minimum Car Insurance Slash Fees Across States to Support Customers Amid Pandemic">Leading Provider of State-Minimum Car Insurance Slash Fees Across States to Support Customers Amid Pandemic</a></h2>
+                                                                            <div class="post-info">
+                                                                                            <span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">2 days ago</span></span>
+                                                                                                                                        <span class="thecategory"><i class="fa fa-tags"></i> <a href="https://blog.safeauto.com/category/car-insurance/" title="View all posts in Car insurance"  itemprop="articleSection">Car insurance</a>, <a href="https://blog.safeauto.com/category/cars-driving/" title="View all posts in Cars &amp; Driving"  itemprop="articleSection">Cars &amp; Driving</a></span>
+                                                                                    </div>
+                                                                    </header>
+                            </article><!--.post excerpt-->
+                                        			<article class="latestPost excerpt last " itemscope itemtype="http://schema.org/BlogPosting">
+                				<a href="https://blog.safeauto.com/how-to-handle-stress-while-driving/" title="How to Handle Stress While Driving" rel="nofollow" id="featured-thumbnail">
+                				    <div class="featured-thumbnail"><img width="370" height="297" src="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/04/driving-while-stressed-1-370x297.jpg" class="attachment-featured size-featured wp-post-image" alt="anxiety while driving" title="" srcset="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/04/driving-while-stressed-1-370x297.jpg 370w, https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/04/driving-while-stressed-1-235x190.jpg 235w" sizes="(max-width: 370px) 100vw, 370px" /></div>                                                                                        				</a>
+                                <header>
+                                    <h2 class="title front-view-title" itemprop="headline"><a href="https://blog.safeauto.com/how-to-handle-stress-while-driving/" title="How to Handle Stress While Driving">How to Handle Stress While Driving</a></h2>
+                                                                            <div class="post-info">
+                                                                                            <span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">4 days ago</span></span>
+                                                                                                                                        <span class="thecategory"><i class="fa fa-tags"></i> <a href="https://blog.safeauto.com/category/car-insurance/" title="View all posts in Car insurance"  itemprop="articleSection">Car insurance</a>, <a href="https://blog.safeauto.com/category/cars-driving/" title="View all posts in Cars &amp; Driving"  itemprop="articleSection">Cars &amp; Driving</a></span>
+                                                                                    </div>
+                                                                    </header>
+                            </article><!--.post excerpt-->
+                                        			<article class="latestPost excerpt first " itemscope itemtype="http://schema.org/BlogPosting">
+                				<a href="https://blog.safeauto.com/leading-provider-of-state-minimum-car-insurance-decreases-rate-in-kentucky-to-support-customers-amid-pandemic/" title="Leading Provider of State-Minimum Car Insurance Decreases Rate in Kentucky to Support Customers Amid Pandemic" rel="nofollow" id="featured-thumbnail">
+                				    <div class="featured-thumbnail"><img width="370" height="297" src="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/INSURANCE-FOR-THE-REST-OF-US.-9-1-1-370x297.png" class="attachment-featured size-featured wp-post-image" alt="insurance for the rest of us" title="" srcset="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/INSURANCE-FOR-THE-REST-OF-US.-9-1-1-370x297.png 370w, https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/INSURANCE-FOR-THE-REST-OF-US.-9-1-1-235x190.png 235w" sizes="(max-width: 370px) 100vw, 370px" /></div>                                                                                        				</a>
+                                <header>
+                                    <h2 class="title front-view-title" itemprop="headline"><a href="https://blog.safeauto.com/leading-provider-of-state-minimum-car-insurance-decreases-rate-in-kentucky-to-support-customers-amid-pandemic/" title="Leading Provider of State-Minimum Car Insurance Decreases Rate in Kentucky to Support Customers Amid Pandemic">Leading Provider of State-Minimum Car Insurance Decreases Rate in Kentucky to Support Customers Amid Pandemic</a></h2>
+                                                                            <div class="post-info">
+                                                                                            <span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">5 days ago</span></span>
+                                                                                                                                        <span class="thecategory"><i class="fa fa-tags"></i> <a href="https://blog.safeauto.com/category/cars-driving/" title="View all posts in Cars &amp; Driving"  itemprop="articleSection">Cars &amp; Driving</a></span>
+                                                                                    </div>
+                                                                    </header>
+                            </article><!--.post excerpt-->
+                                        			<article class="latestPost excerpt " itemscope itemtype="http://schema.org/BlogPosting">
+                				<a href="https://blog.safeauto.com/leading-provider-of-state-minimum-car-insurance-decreases-rate-in-ohio-to-support-customers-amid-coronavirus-pandemic/" title="Leading Provider of State-Minimum Car Insurance Decreases Rate in Ohio to Support Customers Amid Coronavirus Pandemic" rel="nofollow" id="featured-thumbnail">
+                				    <div class="featured-thumbnail"><img width="370" height="297" src="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/INSURANCE-FOR-THE-REST-OF-US.-9-1-370x297.png" class="attachment-featured size-featured wp-post-image" alt="insurance for the rest of us" title="" srcset="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/INSURANCE-FOR-THE-REST-OF-US.-9-1-370x297.png 370w, https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/INSURANCE-FOR-THE-REST-OF-US.-9-1-235x190.png 235w" sizes="(max-width: 370px) 100vw, 370px" /></div>                                                                                        				</a>
+                                <header>
+                                    <h2 class="title front-view-title" itemprop="headline"><a href="https://blog.safeauto.com/leading-provider-of-state-minimum-car-insurance-decreases-rate-in-ohio-to-support-customers-amid-coronavirus-pandemic/" title="Leading Provider of State-Minimum Car Insurance Decreases Rate in Ohio to Support Customers Amid Coronavirus Pandemic">Leading Provider of State-Minimum Car Insurance Decreases Rate in Ohio to Support Customers Amid Coronavirus Pandemic</a></h2>
+                                                                            <div class="post-info">
+                                                                                            <span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">1 week ago</span></span>
+                                                                                                                                        <span class="thecategory"><i class="fa fa-tags"></i> <a href="https://blog.safeauto.com/category/cars-driving/" title="View all posts in Cars &amp; Driving"  itemprop="articleSection">Cars &amp; Driving</a></span>
+                                                                                    </div>
+                                                                    </header>
+                            </article><!--.post excerpt-->
+                                        			<article class="latestPost excerpt last " itemscope itemtype="http://schema.org/BlogPosting">
+                				<a href="https://blog.safeauto.com/railroad-crossing-safety-what-you-need-to-know/" title="Railroad Crossing Safety: What You Need to Know" rel="nofollow" id="featured-thumbnail">
+                				    <div class="featured-thumbnail"><img width="370" height="297" src="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/railroad-crossing-safety-370x297.jpg" class="attachment-featured size-featured wp-post-image" alt="Railroad crossing safety" title="" srcset="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/railroad-crossing-safety-370x297.jpg 370w, https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/railroad-crossing-safety-235x190.jpg 235w" sizes="(max-width: 370px) 100vw, 370px" /></div>                                                                                        				</a>
+                                <header>
+                                    <h2 class="title front-view-title" itemprop="headline"><a href="https://blog.safeauto.com/railroad-crossing-safety-what-you-need-to-know/" title="Railroad Crossing Safety: What You Need to Know">Railroad Crossing Safety: What You Need to Know</a></h2>
+                                                                            <div class="post-info">
+                                                                                            <span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">1 week ago</span></span>
+                                                                                                                                        <span class="thecategory"><i class="fa fa-tags"></i> <a href="https://blog.safeauto.com/category/car-insurance/" title="View all posts in Car insurance"  itemprop="articleSection">Car insurance</a>, <a href="https://blog.safeauto.com/category/cars-driving/" title="View all posts in Cars &amp; Driving"  itemprop="articleSection">Cars &amp; Driving</a></span>
+                                                                                    </div>
+                                                                    </header>
+                            </article><!--.post excerpt-->
+                                        			<article class="latestPost excerpt first " itemscope itemtype="http://schema.org/BlogPosting">
+                				<a href="https://blog.safeauto.com/three-ways-to-sanitize-your-car/" title="Three Ways to Sanitize Your Car" rel="nofollow" id="featured-thumbnail">
+                				    <div class="featured-thumbnail"><img width="370" height="297" src="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/bigstock-Polishing-Steering-Wheel-3496333-370x297.jpg" class="attachment-featured size-featured wp-post-image" alt="car cleaning tips" title="" srcset="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/bigstock-Polishing-Steering-Wheel-3496333-370x297.jpg 370w, https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/bigstock-Polishing-Steering-Wheel-3496333-235x190.jpg 235w" sizes="(max-width: 370px) 100vw, 370px" /></div>                                                                                        				</a>
+                                <header>
+                                    <h2 class="title front-view-title" itemprop="headline"><a href="https://blog.safeauto.com/three-ways-to-sanitize-your-car/" title="Three Ways to Sanitize Your Car">Three Ways to Sanitize Your Car</a></h2>
+                                                                            <div class="post-info">
+                                                                                            <span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">2 weeks ago</span></span>
+                                                                                                                                        <span class="thecategory"><i class="fa fa-tags"></i> <a href="https://blog.safeauto.com/category/cars-driving/" title="View all posts in Cars &amp; Driving"  itemprop="articleSection">Cars &amp; Driving</a></span>
+                                                                                    </div>
+                                                                    </header>
+                            </article><!--.post excerpt-->
+                                        			<article class="latestPost excerpt " itemscope itemtype="http://schema.org/BlogPosting">
+                				<a href="https://blog.safeauto.com/seatbelts-why-you-should-buckle-up/" title="Seatbelts: Why You Should Buckle Up" rel="nofollow" id="featured-thumbnail">
+                				    <div class="featured-thumbnail"><img width="370" height="297" src="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/car-seat-belt-safety-370x297.jpg" class="attachment-featured size-featured wp-post-image" alt="Seat belts save lives" title="" srcset="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/car-seat-belt-safety-370x297.jpg 370w, https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/car-seat-belt-safety-235x190.jpg 235w" sizes="(max-width: 370px) 100vw, 370px" /></div>                                                                                        				</a>
+                                <header>
+                                    <h2 class="title front-view-title" itemprop="headline"><a href="https://blog.safeauto.com/seatbelts-why-you-should-buckle-up/" title="Seatbelts: Why You Should Buckle Up">Seatbelts: Why You Should Buckle Up</a></h2>
+                                                                            <div class="post-info">
+                                                                                            <span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">2 weeks ago</span></span>
+                                                                                                                                        <span class="thecategory"><i class="fa fa-tags"></i> <a href="https://blog.safeauto.com/category/car-insurance/" title="View all posts in Car insurance"  itemprop="articleSection">Car insurance</a>, <a href="https://blog.safeauto.com/category/cars-driving/" title="View all posts in Cars &amp; Driving"  itemprop="articleSection">Cars &amp; Driving</a></span>
+                                                                                    </div>
+                                                                    </header>
+                            </article><!--.post excerpt-->
+                                        			<article class="latestPost excerpt last " itemscope itemtype="http://schema.org/BlogPosting">
+                				<a href="https://blog.safeauto.com/the-ins-and-outs-of-dental-insurance/" title="The In&#8217;s and Out&#8217;s of Dental Insurance" rel="nofollow" id="featured-thumbnail">
+                				    <div class="featured-thumbnail"><img width="370" height="297" src="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/dental-insurance-blog-370x297.jpg" class="attachment-featured size-featured wp-post-image" alt="dental health care" title="" srcset="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/dental-insurance-blog-370x297.jpg 370w, https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/dental-insurance-blog-235x190.jpg 235w" sizes="(max-width: 370px) 100vw, 370px" /></div>                                                                                        				</a>
+                                <header>
+                                    <h2 class="title front-view-title" itemprop="headline"><a href="https://blog.safeauto.com/the-ins-and-outs-of-dental-insurance/" title="The In&#8217;s and Out&#8217;s of Dental Insurance">The In&#8217;s and Out&#8217;s of Dental Insurance</a></h2>
+                                                                            <div class="post-info">
+                                                                                            <span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">3 weeks ago</span></span>
+                                                                                                                                        <span class="thecategory"><i class="fa fa-tags"></i> <a href="https://blog.safeauto.com/category/health-insurance/" title="View all posts in health insurance"  itemprop="articleSection">health insurance</a></span>
+                                                                                    </div>
+                                                                    </header>
+                            </article><!--.post excerpt-->
+                                        			<article class="latestPost excerpt first " itemscope itemtype="http://schema.org/BlogPosting">
+                				<a href="https://blog.safeauto.com/buying-vs-leasing-a-vehicle/" title="Buying vs. Leasing a Vehicle" rel="nofollow" id="featured-thumbnail">
+                				    <div class="featured-thumbnail"><img width="370" height="297" src="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/Buying-vs-leasing-pic-370x297.jpg" class="attachment-featured size-featured wp-post-image" alt="Things to consider when buying a car" title="" srcset="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/Buying-vs-leasing-pic-370x297.jpg 370w, https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/Buying-vs-leasing-pic-235x190.jpg 235w" sizes="(max-width: 370px) 100vw, 370px" /></div>                                                                                        				</a>
+                                <header>
+                                    <h2 class="title front-view-title" itemprop="headline"><a href="https://blog.safeauto.com/buying-vs-leasing-a-vehicle/" title="Buying vs. Leasing a Vehicle">Buying vs. Leasing a Vehicle</a></h2>
+                                                                            <div class="post-info">
+                                                                                            <span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">3 weeks ago</span></span>
+                                                                                                                                        <span class="thecategory"><i class="fa fa-tags"></i> <a href="https://blog.safeauto.com/category/cars-driving/" title="View all posts in Cars &amp; Driving"  itemprop="articleSection">Cars &amp; Driving</a></span>
+                                                                                    </div>
+                                                                    </header>
+                            </article><!--.post excerpt-->
+                                        			<article class="latestPost excerpt " itemscope itemtype="http://schema.org/BlogPosting">
+                				<a href="https://blog.safeauto.com/5-car-smells-you-cant-ignore/" title="5 Car Smells You Can&#8217;t Ignore" rel="nofollow" id="featured-thumbnail">
+                				    <div class="featured-thumbnail"><img width="370" height="297" src="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/car-smells-370x297.jpg" class="attachment-featured size-featured wp-post-image" alt="car smells like burning oil" title="" srcset="https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/car-smells-370x297.jpg 370w, https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/uploads/2020/03/car-smells-235x190.jpg 235w" sizes="(max-width: 370px) 100vw, 370px" /></div>                                                                                        				</a>
+                                <header>
+                                    <h2 class="title front-view-title" itemprop="headline"><a href="https://blog.safeauto.com/5-car-smells-you-cant-ignore/" title="5 Car Smells You Can&#8217;t Ignore">5 Car Smells You Can&#8217;t Ignore</a></h2>
+                                                                            <div class="post-info">
+                                                                                            <span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">4 weeks ago</span></span>
+                                                                                                                                        <span class="thecategory"><i class="fa fa-tags"></i> <a href="https://blog.safeauto.com/category/car-insurance/" title="View all posts in Car insurance"  itemprop="articleSection">Car insurance</a>, <a href="https://blog.safeauto.com/category/cars-driving/" title="View all posts in Cars &amp; Driving"  itemprop="articleSection">Cars &amp; Driving</a></span>
+                                                                                    </div>
+                                                                    </header>
+                            </article><!--.post excerpt-->
+                        		
+                        <!--Start Pagination-->
+                                        			<div class="pagination">
+                				<ul>
+                					<li class="nav-previous"><a href="https://blog.safeauto.com/page/2/" rel="nofollow"><i class="fa fa-angle-left"></i> Previous</a></li>
+                                    <li class="nav-next"></li>
+                				</ul>
+                			</div>
+                		                		<!--End Pagination-->
+        
+                    	</div>
+	</div><!--#page-->
+</div><!--.main-container-->
+<footer class="footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+    <div class="container">
+                <div class="copyrights">
+            <!--start copyrights-->
+<div class="row" id="copyright-note">
+    <div class="copyright"><a href="https://blog.safeauto.com/" title="Official Blog of Safe Auto Insurance Company | Insurance for the Rest of Us" rel="nofollow">SafeAuto Blog | Insurance for the Rest of Us</a> Copyright &copy; 2020. Theme by <a href="http://mythemeshop.com/">MyThemeShop</a></div>
+    <a href="#blog" class="toplink" rel="nofollow"><i class="fa fa-angle-up"></i></a>
+    <div class="top">
+        <div class="footer-navigation" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+            <nav id="navigation" class="clearfix">
+                                    <ul id="menu-main-nav-1" class="menu clearfix"><li id="menu-item-1852" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1852"><a href="https://blog.safeauto.com/category/safeauto-news/"><i class="far fa-newspaper"></i> News</a></li>
+<li id="menu-item-1850" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1850"><a href="https://blog.safeauto.com/category/insurance/"><i class="fas fa-shield-alt"></i> Insurance</a></li>
+<li id="menu-item-3852" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3852"><a href="https://blog.safeauto.com/category/safety/"><i class="fas fa-car-crash"></i> Safety</a></li>
+<li id="menu-item-1849" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1849"><a href="https://blog.safeauto.com/category/cars-driving/"><i class="fas fa-car"></i> Cars &#038; Driving</a></li>
+<li id="menu-item-3853" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3853"><a href="https://blog.safeauto.com/category/motorcycles/"><i class="fas fa-motorcycle"></i> Motorcycle</a></li>
+<li id="menu-item-4402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4402"><a href="https://blog.safeauto.com/content-disclaimer/">Content Disclaimer</a></li>
+</ul>                            </nav>
+        </div>  
+    </div>
+</div>
+<!--end copyrights-->
+        </div> 
+    </div><!--.container-->
+</footer><!--footer-->
+
+<!-- Google Tag Manager (noscript) --><script type="text/javascript" id="sns_global_scripts">// Disable form submit on enter (prevents duplicate trigger)
+jQuery(document).keypress(
+  function(event){
+    if (event.which == '13') {
+      event.preventDefault();
+    }
+});
+
+function doitZip(sourceButton, stateOnly, fromModal) {
+    function showError(errorText) {
+        alert(errorText);
+
+        return false;
+    }
+
+    function getQuoteRedirectUrl(rootUrl, stateId, zipCode) {
+
+        if (/^FL|NJ|NC$/.test(stateId)) {
+            _gaq.push(['_trackEvent', 'Home', 'Auto-Quote-Start', 'Home-Auto-PRG-' + stateId]);
+            return "https://www.safeauto.com/progressive-redirect";
+        }
+
+        if (/^DE|HI|WY$/.test(stateId)) {
+            _gaq.push(['_trackEvent', 'Home', 'Auto-Quote-Start', 'Home-Auto-MA', parseInt(zipCode, 10)]);
+            return "https://www.safeauto.com/landing/ma-short-flow?userZip=" + zipCode;
+        }
+
+        if (/^AK|AR|CT|DC|IA|ID|MA|MD|ME|MI|MN|MS|MT|ND|NE|NH|NM|NV|NY|OR|RI|SD|UT|VT|WA|WI|WV$/.test(stateId)) {
+            return "//www.safeauto.com/landing/sure-hits-oof?userZip=" + zipCode + "&stateId=" + stateId;
+        }
+
+        //If no state code found
+        if (/^XX$/.test(stateId)) {
+            _gaq.push(['_trackEvent', 'Home', 'Auto-Quote-Start', 'Home-Auto-OOF', parseInt(zipCode, 10)]);
+            return "//www.safeauto.com/landing/sure-hits-oof";
+        }
+
+        if (/^CA$/.test(stateId)) {
+            return "https://moderator.safeauto.com/v/2/customer/SiteRouting/" + stateId + "/" + zipCode;
+            //_gaq.push(['_trackEvent', 'Home', 'Auto-Quote-Start', 'Home-Auto-OOF-CA', parseInt(zipCode, 10)]);
+            //return "//www.safeauto.com/landing/sure-hits-ca?userZip=" + zipCode;
+        }
+
+        rootUrl = rootUrl.replace(/^(.*?\/\/.*?\/(?:..\/\d{4}\/)).*$/i, "$1").replace(/\/process\/.*?\?__.*$/, "/");
+
+        var url = "https://moderator.safeauto.com/v/2/customer/SiteRouting/" + stateId;
+
+        if (zipCode !== undefined && zipCode !== null)
+            url += "/" + zipCode;
+
+        return url;
+    }
+
+    function redirectToQuote(rootUrl, stateId, zipCode) {
+        var url = getQuoteRedirectUrl(rootUrl, stateId, zipCode);
+
+        window.location.href = url;
+
+        return false;
+    }
+
+    function clearDropDownList(ddl) {
+        var i = ddl.options.length - 1;
+
+        for (; i > -1; i--)
+            ddl.removeChild(ddl.options[i]);
+    }
+
+    function createOption(text, selected, value) {
+        var e = document.createElement("OPTION");
+
+        if (value !== undefined)
+            e.value = value;
+
+        e.selected = selected === undefined ? false : selected;
+
+        e.innerHTML = text;
+
+        return e;
+    }
+
+    function addOption(ddl, o) {
+        try {
+            ddl.options.add(o);
+        }
+        catch (e) {
+            ddl.appendChild(o);
+        }
+    }
+
+    function populateStatesDropdown(ddl, data) {
+        clearDropDownList(ddl);
+
+        ddl.rootUrl = data.rootUrl;
+        ddl.zipCode = jQuery("#quoteZip").val();
+
+        addOption(ddl, createOption("Select State", true, "--"));
+
+        for (var i = 0; i < data.states.length; i++)
+            addOption(ddl, createOption(data.states[i].StateName, false, data.states[i].StateId));
+    }
+
+    function showStateSelectionModal(data) {
+        var ddl = jQuery("#ddlStateModal")[0];
+
+        populateStatesDropdown(ddl, data);
+
+        jQuery('#stateModal').modal();
+        //$('#stateModal').dialog('open');
+    }
+
+    function checkZipCodeLookupResult(data) {
+        if (data.states.length < 1) {
+            showError("Please enter a valid zip code.");
+            jQuery('#quoteZip').focus();
+            return false;
+        }
+
+        if (data.states.length == 1)
+            return redirectToQuote(data.rootUrl, data.states[0].StateId, data.states[0].Zip);
+
+        return showStateSelectionModal(data);
+    }
+
+    function doitzipFromModal() {
+        var stateId = jQuery("#ddlStateModal").val();
+
+        if (stateId == "--") {
+            showError("Please select a state.");
+            return false;
+        }
+
+        var ddl = jQuery("#ddlStateModal")[0];
+
+        redirectToQuote(ddl.rootUrl, stateId, ddl.zipCode);
+    }
+
+    function doitZip2(sourceButton) {
+        var zipCode = jQuery("#quoteZip").val().replace(/\s*|\s*$/, "");
+
+        if (!/^[0-9]{5}$/.test(zipCode))
+            return showError("Please enter a valid zip code.");
+
+
+        jQuery(sourceButton).attr("disabled", true);
+        jQuery.support.cors = true;
+        jQuery.ajax({
+            type: "GET",
+            url: "https://moderator.safeauto.com/v/2/customer/ZipCodeStateResolver.js",
+            data: 'zipCode=' + zipCode,
+            dataType: "jsonp",
+            contentType: "application/json; charset=utf-8",
+            success: function (data) {
+                checkZipCodeLookupResult(data);
+                jQuery(sourceButton).attr("disabled", false);
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                showError("status: " + textStatus + "\r\nerror:" + errorThrown);
+            },
+            complete: function () {
+                jQuery(sourceButton).attr("disabled", false);
+            }
+        });
+    }
+
+    function doitState(quotePath) {
+        var stateId = jQuery("#ddlState").val();
+
+        if (stateId == "" || stateId == "Select State")
+            return showError("Please select a state.");
+
+        return redirectToQuote(quotePath, stateId);
+    }
+
+    if (fromModal)
+        doitzipFromModal();
+
+    if (stateOnly)
+        return doitState(sourceButton);
+
+    return doitZip2(sourceButton);
+}
+
+function doit(quotePath) {
+    doitZip(quotePath, true);
+}
+
+function doitzipFromModal() {
+    doitZip(null, false, true);
+}</script><link rel='stylesheet' id='fontawesome-css'  href='https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/themes/sociallyviral/css/font-awesome.min.css?ver=5.4&#038;time=1585926168' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-content/themes/sociallyviral/css/responsive.css?ver=5.4&#038;time=1585926168' type='text/css' media='all' />
+<script type='text/javascript' src='https://secureservercdn.net/198.71.233.179/pxq.0ba.myftpupload.com/wp-includes/js/wp-embed.min.js?ver=5.4&#038;time=1585926168'></script>
+</body>
+</html>

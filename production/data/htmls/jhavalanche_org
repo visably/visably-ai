@@ -1,0 +1,628 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    <meta name="description" content="The Bridger-Teton Avalanche Center is a comprehensive source for information and data regarding avalanche advisories, 
+        avalanche events, weather, and snow data for the Bridger-Teton National Forest.">
+    <title>Bridger-Teton Avalanche Center  </title>
+    <link rel="icon" type="ico"  href="/assets/images/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/images/icons/btac_57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/images/icons/btac_72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/images/icons/btac_114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/icons/btac_144.png" />
+      
+    <link rel="stylesheet" href="/assets/foundation-icons/foundation-icons.css" />
+    <link rel="stylesheet" href="/css/foundation-datepicker.css">
+
+    <link media="screen" type="text/css" rel="stylesheet" href="/css/colorbox.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="/js/fresco/css/fresco/fresco.css"/>     -->
+    <!-- <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/zf/jszip-2.5.0/dt-1.10.18/b-1.5.4/b-html5-1.5.4/r-2.2.2/sl-1.2.6/datatables.min.css"/> -->
+    <link rel="stylesheet" type="text/css" href="" />
+    <link rel="stylesheet" href = "/js/datatables/datatables.min.css" />   
+    <link rel="stylesheet" href="/css/app.css">
+   <!--<link rel="stylesheet" src="https://cdn.datatables.net/1.10.18/css/dataTables.foundation.min.css" />
+    <link rel="stylesheet" src="https://cdn.datatables.net/responsive/2.2.3/css/responsive.foundation.min.css" />  -->
+    
+    <script src="/node_modules/jquery/dist/jquery.js"></script>
+    <script src="/node_modules/foundation-sites/dist/js/foundation.min.js"></script>
+
+    
+<!-- Google Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-3420677-3', 'auto');
+    ga('send', 'pageview');
+    </script>
+<!-- End Google Analytics -->    
+  </head>
+  <body>
+  
+  <div id="header" class="noprint" >
+    <section>
+      <div  data-responsive-toggle="top-menu" data-hide-for="large" >
+        <div class="grid-x ">
+          <div  class="cell small-6 top-nav">
+           <ul class="menu"> 
+              <li class="one"><a class="top-nav" data-open="observation-choice"   href="#">SUBMIT AN OBSERVATION</a></li>
+              
+            </ul> 
+          </div>
+          <div class="cell small-6 small-expand dark-blue top-nav ">
+          <form style="margin: 0; " class="text-center"  action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <input type="hidden" name="cmd" value="_s-xclick" />
+            <input type="hidden" name="hosted_button_id" value="9JR6AWBE9P8HW" />
+            <input type="submit" class="button "  style="padding: .5em .2em .3em .2em; font-size: 1.1rem; width: 100%;" value = "DONATE »" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          </form>
+            
+          </div>
+        </div> 
+      </div>
+      
+      <div class="top-nav" id="top-menu" >
+        <div class="grid-x ">
+          <div  class="cell medium-10 small-6 ">
+            <ul class="menu align-middle"> 
+              <li ><a href="#" data-open="observation-choice" class="modal-link">SUBMIT AN OBSERVATION</a></li>
+              <li><a  href="/viewTeton">Teton AM Forecast</a></li>
+              <li><a  href="/viewAdvisory">PM Forecast</a></li>
+              <li><a  href="https://forecast.weather.gov/product.php?site=RIW&issuedby=RIW&product=SAG&format=CI&version=1&glossary=1" target="_blank">RPK Forecast</a></li>
+            </ul>
+          </div>
+         <div class="cell medium-2 small-6 auto dark-blue">
+              <form style="margin: 0; " class="text-center"  action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <input type="hidden" name="cmd" value="_s-xclick" />
+                <input type="hidden" name="hosted_button_id" value="9JR6AWBE9P8HW" />
+                <!-- <input type="submit" class="button "  style="width: 100%;" value = "DONATE" name="submit" alt="PayPal - The safer, easier way to pay online!"> -->
+                <input type="submit" class="button "  style="padding: .5em .2em .3em .2em; font-size: 1.1rem; width: 100%;" value = "DONATE »" name="submit" alt="PayPal - The safer, easier way to pay online!">
+
+              </form>
+          </div>
+        </div>
+      </div> 
+    </section>
+
+    <!-- for "PUSH" transition remove "data-transition="overlap"" -->
+    <div class="off-canvas position-left" id="offCanvasLeft" data-off-canvas data-transition="overlap">
+
+    <!-- OffCanvas panel content lives here -->
+    <ul class="menu vertical drilldown  "   data-drilldown>
+        <li><a href="/index.php">Home </a></li>
+        
+        <li >
+            <a href="/forecasts.php">Forecasts</a>
+            <ul class="submenu menu vertical nested" data-submenu>
+                <li><a href="/viewAdvisory">Western Wyoming PM Forecast</a></li>
+                <li><a href="/viewTeton">Teton AM Forecast</a></li>
+                <li><a href="/viewOther?area=tog">Togwotee AM Forecast</a></li>
+                <li><a href="/viewOther?area=grey">Greys AM Forecast</a></li>
+                <li><a href="http://forecast.weather.gov/product.php?site=RIW&issuedby=RIW&product=SAG&format=CI&version=1&glossary=1">RPK Forecast (5AM and 3PM)</a></li>
+                <li><a href="#">NWS Weather Forecasts</a>
+                    <ul class="vertical submenu menu">
+                    <li><a href="http://forecast.weather.gov/product.php?site=NWS&amp;issuedby=RIW&amp;product=AFD&amp;format=txt&amp;version=1&amp;glossary=1">NWS Forecasters Discussion - Riverton WY</a></li>
+                    <li><a href="http://forecast.weather.gov/product.php?site=NWS&amp;issuedby=PIH&amp;product=AFD&amp;format=txt&amp;version=1&amp;glossary=1" >NWS Forecasters Discussion - Pocatello ID</a></li>
+                    <li><a href="https://www.weather.gov/riw/" >NWS Home Page - Riverton, WY</a></li>
+                    <li><a href="http://www.wrh.noaa.gov/pih/" >NWS Home Page - Pocatello, ID</a></li>
+                    <li><a href="http://www.wrh.noaa.gov/satellite/?wfo=slc" >NWS Satellite - Salt Lake City, UT</a></li>
+                    <li><a href="http://radar.weather.gov/radar.php?rid=sfx&amp;product=N0R&amp;overlay=11101111&amp;loop=no" >NWS Radar Pocatello, ID</a></li>
+                    <li><a href="https://www.weather.gov/pih/briefing" >SE Idaho Briefing</a></li>
+                    </ul>          
+                </li>
+                
+                <li><a href="/nws_warnings.php">Watches/Warnings</a></li>
+                <li><a href="/subscribe.php">Subscribe to email forecasts</a></li>
+            </ul> 
+        </li>
+        <li><a  href="#">AVALANCHE EVENTS </a>
+            <ul class="vertical submenu menu" data-submenu>
+                <li><a href="/eventMap.php">Event Map</a></li>
+                <li><a href="/fatalities">Wyoming Fatalities</a></li>
+                <li><a href="http://avalanche.org/accidents.php" target="_blank">US Fatalities</a></li>
+                <li><a href="/videos.php">Awareness Videos</a></li>
+                <li><a href="https://jhavalanche.org/statetrailmaps/index.php" target="_blank">Trail Hazard Maps</a></li>
+                <li><a href="/publications.php">Publications</a></li>
+            </ul>
+        </li>
+        <li><a>DATA CENTER</a>
+            <ul class="vertical submenu menu">
+                <li><a href="/viewBigsheet">24-hour Data Summary</a></li>
+                <li><a href="/stations.php">Weather Stations</a></li>
+                <li><a href="/areaWebcams.php">NW Wyoming Webcams</a></li>
+                <li><a href="http://wxstns.net/wxstns/jhnet/">Raw Data Directory</a></li> 
+                
+                <li><a>Observations </a>
+                    <ul class="vertical submenu menu">
+                        <li><a href="/viewObs.php">Field Observations</a></li>
+                        <li><a href="/viewPits.php">Snowpit Observations</a></li>
+                    </ul>
+                </li>
+                <li><a >Snowpack Information</a>
+                    <ul class="vertical submenu menu">
+                        <li><a href="/summaries.php">Snowpack Summaries</a></li>
+                        <li><a href="/viewDiscussions.php">GTNP Discussions</a></li>
+                        <li><a href="/snowpackData.php">Snowpack Data</a></li>
+                       <!-- <li><a href="https://www.snowpacktracker.com/btac/snowpacktracker">Snowpack Tracker</a></li>
+                        <li><a href="https://www.snowpacktracker.com/btac/stormtracker/tetons">Storm Tracker</a></li> -->
+                        <li><a href="http://www.nohrsc.noaa.gov/interactive/html/map.html">NWS Snowpack Depth</a></li>
+                        <li><a href="https://www.nrcs.usda.gov/wps/portal/wcc/home/quicklinks/imap#version=107&elements=W&networks=!&states=!&counties=!&hucs=&minElevation=&maxElevation=&elementSelectType=all&activeOnly=true&activeForecastPointsOnly=false&hucLabels=false&hucIdLabels=false&hucParameterLabels=false&stationLabels=&overlays=&hucOverlays=&basinOpacity=100&basinNoDataOpacity=100&basemapOpacity=100&maskOpacity=0&mode=stations&openSections=dataElement,parameter,date,basin,elements,location,networks&controlsOpen=true&popup=&popupMulti=&base=esriNgwm&displayType=inventory&basinType=6&dataElement=SRVO&depth=-8&parameter=PCTAVG&frequency=MONTHLY&duration=custom&customDuration=1&dayPart=E&year=2019&month=11&day=2&monthPart=E&forecastPubMonth=6&forecastPubDay=1&forecastExceedance=50&seqColor=1&divColor=3&scaleType=D&scaleMin=&scaleMax=&referencePeriodType=POR&referenceBegin=1981&referenceEnd=2010&minimumYears=20&hucAssociations=true&lat=43.622&lon=-108.883&zoom=8.0"
+                           target="_blank">NRCS Snotel Site Map</a></li>
+                        <li><a href="/historicalData.php">Historical Data Tables</a></li>
+                    </ul>
+                </li>
+                <li><a href="/related.php">Related Links</a></li>
+                
+                
+            </ul>
+        </li>
+        <li><a href="#">Supporters</a>
+            <ul class="vertical submenu menu">
+                <li><a href="/sponsors.php">Sponsors</a></li>
+                <li><a href="/contributors">Contributors</a></li>
+            </ul>
+        </li>
+        
+    </ul>
+    
+    <!-- OffCanvas panel close button -->
+    <button class="close-button" aria-label="Close menu" type="button" data-close>
+        <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+
+  <div class="off-canvas-content" data-off-canvas-content>
+    <!-- Title bar pops up only on "small" screens -->
+    <div class="title-bar hide-for-medium  ">
+      <div class="grid-x margin-x align-middle" style="width: 100%;">
+        <div class="cell small-2 align-middle"
+            <!-- This button/icon fires the OffCanvas panel -->
+            <button class="menu-icon" type="button" data-open="offCanvasLeft"></button>
+        </div>
+        <div class="cell small-2">
+        </div>
+        
+        <div class="cell small-4">
+            <a href="/index.php"><img src="/assets/images/btac_logo.png" ></img></a>
+        </div>
+        <div class="cell small-4">
+        </div>
+      </div>
+        
+    </div>
+  
+    <!-- Main navigation aka Top Bar is set to show on "Medium" screens and larger -->
+    <div class="grid-x show-for-medium main-menu">
+      <div class="cell medium-2">
+         <a href="/index.php">  <img src="/assets/images/btac_logo.png" class="top-bar"></img></a>
+      </div>
+      <div class="cell medium-10 large-8 ">
+        <div class="top-bar" style="height: 100%;">
+            <ul class="menu dropdown main-menu" data-dropdown-menu>
+              <li class="has-submenu">
+               <a href="/forecasts.php">Forecasts</a>
+                <ul class="submenu menu vertical" data-submenu>
+                  <li><a href="/viewAdvisory">Western Wyoming PM Forecast</a></li>
+                  <li><a href="/viewTeton">Teton AM Forecast</a></li>
+                  <li><a href="/viewOther?area=tog">Togwotee AM Forecast</a></li>
+                  <li><a href="/viewOther?area=grey">Greys AM Forecast</a></li>
+                  <li><a href="http://forecast.weather.gov/product.php?site=RIW&issuedby=RIW&product=SAG&format=CI&version=1&glossary=1">RPK Forecast (5AM and 3PM)</a></li>
+                  <li><a href="#">NWS Weather Forecasts</a>
+                    <ul class="vertical submenu menu">
+                      <li><a href="http://forecast.weather.gov/product.php?site=NWS&amp;issuedby=RIW&amp;product=AFD&amp;format=txt&amp;version=1&amp;glossary=1">NWS Forecasters Discussion - Riverton WY</a></li>
+                      <li><a href="http://forecast.weather.gov/product.php?site=NWS&amp;issuedby=PIH&amp;product=AFD&amp;format=txt&amp;version=1&amp;glossary=1" >NWS Forecasters Discussion - Pocatello ID</a></li>
+                      <li><a href="https://www.weather.gov/riw/" >NWS Home Page - Riverton, WY</a></li>
+                      <li><a href="http://www.wrh.noaa.gov/pih/" >NWS Home Page - Pocatello, ID</a></li>
+                      <li><a href="http://www.wrh.noaa.gov/satellite/?wfo=slc" >NWS Satellite - Salt Lake City, UT</a></li>
+                      <li><a href="http://radar.weather.gov/radar.php?rid=sfx&amp;product=N0R&amp;overlay=11101111&amp;loop=no" >NWS Radar Pocatello, ID</a></li>
+                      <li><a href="https://www.weather.gov/pih/briefing" >SE Idaho Briefing</a></li>
+                      
+                    </ul>          
+                  </li>
+                  <li><a href="/nws_warnings.php">Watches/Warnings</a></li>
+                  <li><a href="/subscribe.php">Subscribe to email forecasts</a></li>
+                </ul> 
+              </li>
+              <li><a  href="#">AVALANCHE EVENTS </a>
+                <ul class="vertical submenu menu" data-submenu>
+                  <li><a href="/eventMap.php">Event Map</a></li>
+                  <li><a href="/fatalities">Wyoming Fatalities</a></li>
+                  <li><a href="http://avalanche.org/accidents.php" target="_blank">US Fatalities</a></li>
+                  <li><a href="/videos.php">Awareness Videos</a></li>
+                  <li><a href="https://jhavalanche.org/statetrailmaps" target="_blank">Trail Hazard Maps</a></li>
+                  <li><a href="/publications.php">Publications</a></li>
+                </ul>
+              </li>
+              <li><a>DATA CENTER</a>
+                <ul class="vertical submenu menu">
+                  <li><a href="/viewBigsheet">24-hour Data Summary</a>
+                  <li><a href="/stations.php">Weather Stations</a></li>
+                  <li><a href="/areaWebcams.php">NW Wyoming Webcams</a></li>
+                  <li><a href="http://wxstns.net/wxstns/jhnet/">Raw Data Directory</a></li> 
+                  <li><a>Observations </a>
+                    <ul class="vertical submenu menu">
+                        <li><a href="/viewObs.php">Field Observations</a></li>
+                        <li><a href="/viewPits.php">Snowpit Observations</a></li>
+                    </ul>
+                  </li>
+                  <li><a >Snowpack Information</a>
+                    <ul class="vertical submenu menu">
+                        <li><a href="/summaries.php">Snowpack Summaries</a></li>
+                        <li><a href="/viewDiscussions.php">GTNP Discussions</a></li>
+                        <li><a href="/snowpackData.php">Snowpack Data</a></li>
+
+                        <!--<li><a href="http://www.snowpacktracker.com/btac/snowpacktracker">Snowpack Tracker</a></li>
+                        <li><a href="http://www.snowpacktracker.com/btac/stormtracker/tetons">Storm Tracker</a></li> -->
+                        <li><a href="http://www.nohrsc.noaa.gov/interactive/html/map.html">NWS Snowpack Depth</a></li>
+                        <li><a href="https://www.nrcs.usda.gov/wps/portal/wcc/home/quicklinks/imap#version=107&elements=W&networks=!&states=!&counties=!&hucs=&minElevation=&maxElevation=&elementSelectType=all&activeOnly=true&activeForecastPointsOnly=false&hucLabels=false&hucIdLabels=false&hucParameterLabels=false&stationLabels=&overlays=&hucOverlays=&basinOpacity=100&basinNoDataOpacity=100&basemapOpacity=100&maskOpacity=0&mode=stations&openSections=dataElement,parameter,date,basin,elements,location,networks&controlsOpen=true&popup=&popupMulti=&base=esriNgwm&displayType=inventory&basinType=6&dataElement=SRVO&depth=-8&parameter=PCTAVG&frequency=MONTHLY&duration=custom&customDuration=1&dayPart=E&year=2019&month=11&day=2&monthPart=E&forecastPubMonth=6&forecastPubDay=1&forecastExceedance=50&seqColor=1&divColor=3&scaleType=D&scaleMin=&scaleMax=&referencePeriodType=POR&referenceBegin=1981&referenceEnd=2010&minimumYears=20&hucAssociations=true&lat=43.622&lon=-108.883&zoom=8.0" target="_blank">
+                          NRCS Snotel Site Map</a></li>
+                        <li><a href="/historicalData.php">Historical Data Tables</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="/related.php">Related Links</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Supporters</a>
+                <ul class="vertical submenu menu">
+                  <li><a href="/sponsors.php">Sponsors</a></li>
+                  <li><a href="/contributors">Contributors</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>    <!-- top bar  -->
+      </div>    <!-- cell 8 -->
+      <!-- don't want this to show below large -->
+      <div class="cell large-2  show-for-large dark-blue white " style="background: #003b71;">
+        <div class="white" style="margin: 10px; text-align: center; ">
+         <span style="color: red; text-transform: uppercase; font-weight: bold;">Check it out</span>
+         <p> <a href="http://www.tetonwyo.org/163/Health-Dept" style="text-decoration: underline;" target="_blank" > Teton County COVID-19 alert   </a></p> 
+        </div>
+        
+      </div> 
+    </div>    <!-- grid x -->
+  </div>    <!-- off canvas content -->
+ </div>     <!-- header area -->
+ 
+<div class='printonly' style='font-size: 24px; font-weight: bold;'><img style = 'vertical-align: middle;' src='/assets/images/btac_logo_print.png' alt="Bridger Teton Backcountry Avalanche Forecast Center"/> Bridger Teton Avalanche Center </div>
+ 
+<div class="tiny reveal" id="observation-choice" data-reveal>
+    <h6 class="section">What observation type would you like to submit? </h6>
+    <ul class="menu vertical top-nav">
+        <li><a href="/observations/eventObs.php">Avalanche Event Observation</a></li>
+        <li><a href="/observations/fieldObs.php">Field Observation</a></li>
+        <li><a href="/observations/pitObs.php">Snow Pit Observation</a></li>
+    </ul>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+    
+</div>
+ 
+  <div class="main-content">
+      <div class="grid-x grid-padding-x grid-padding-y">
+        <div  class="cell medium-5 ">
+            <h5 class="main-header">Avalanche Forecast By Region</h5>
+            <div class="margin-bottom-30">Click on a forecast zone on the map to get the full avalanche advisory.</div>
+            
+            <img src='assets/images/dangerscale_340.png' /><br/>
+            <div style="  height: 420px;  margin: 0;  z-index: 1; overflow: visible; ">
+            <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Avalanche Center Forecast Map</title>
+        
+<link href = '//fonts.googleapis.com/css?family=Muli:300|Roboto' rel='stylesheet' type='text/css'>
+<link href = "https://api.avalanche.org/css/map.css?version=1.02" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBwNSYBrlYcTybR02LC8JLwIhAFfjM1_Hk"></script> 
+<script type="text/javascript" src="https://api.avalanche.org/js/avy-org-map.js?version=1.01"></script>
+
+        </head>
+    <body style="height: 100%; margin:0;">
+        
+<div id="avy-maparea">
+    <div id = "avy-tooltip" role="tooltip">
+        View National Danger
+    </div>
+    <a href = "https://avalanche.org" target = "_blank" id = 'avy-open-map-link'>
+        <svg id = 'avy-open-map' fill="#ED1C24" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 0h24v24H0z" fill="none"/>
+            <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/>
+        </svg>
+    </a>
+    <div id="avy-map"></div>
+
+    <div id="avy-zoneinfo"></div>
+</div>
+
+
+<script type="text/javascript">
+
+    var base_url = "https://api.avalanche.org";
+    var avalanche_center = "BTAC";
+    var mapColor = "bw";
+    var iframe = "1";
+    var apiOptions = false    
+    document.addEventListener("DOMContentLoaded", function(){
+
+        //Create map
+        cap.init();
+
+        //Tool tips for avy.org link
+        var tooltipLink = document.getElementById('avy-open-map-link');
+        
+        tooltipLink.onmouseover = function(){
+            var tooltip = document.getElementById('avy-tooltip');
+            tooltip.setAttribute("style","opacity:1;");
+        };
+        tooltipLink.onmouseout = function(){
+            var tooltip = document.getElementById('avy-tooltip');
+            tooltip.setAttribute("style","opacity:0;");
+        };
+
+
+    });
+
+</script>
+    </body>
+</html>             </div>
+            <div class="margin-top-30"><a href="forecasts.php">Area specific avalanche forecasts </a>for our three reporting areas are posted by about 7 AM daily from early November to late April.</div>
+            <div class="margin-top-30">Our <a href="/viewAdvisory"> Evening forecast for Western Wyoming</a> is posted between 5 PM and 7 PM daily from early November to late April</div>
+              
+
+        </div>
+        <div class="cell medium-4 auto" >
+          <h5 class="main-header">Bridger-Teton Avalanche Center</h5>
+          <p>Welcome to the Bridger-Teton Avalanche Center, a comprehensive source for information and data regarding avalanche advisories, avalanche
+          events, weather, and snow data for the Bridger-Teton National Forest.</p>
+          
+          <h5 class="main-header">Recent Activity</h5>
+          If you don't know, don't go.<br/>
+          <a href="/eventMap.php">Avalanche Events >></a><br/>
+          <a href="/viewObs.php">Field Observations >></a><br/>
+          <a href="/viewPits.php">Snowpit Observations >></a><br/>
+          
+          <h5 class="main-header">Submit an Observation</h5>
+          <p>Your observations are extremely valuable to other backcountry users and our program.  Please submit obserations regarding 
+          avalanche events, weather and snow, and snowpit profiles.</p>
+          <div>
+            <a href="#" data-open="observation-choice" class="modal-link button">SUBMIT AN OBSERVATION</a>
+            
+          </div>
+        </div>
+        
+        <!-- sidebar for partner and sponosr logos -->
+
+    <div class="cell medium-3 large-2" >
+        <div class="grid-x padding-x">
+            <div class="cell small-6 medium-12">
+                <img src="/assets/images/Partner-Logos.png"  alt="Our partners" />
+             </div>
+            <div class="cell small-6 medium-12">
+              <a href="https://jhavalanchefriends.com"><img src="/assets/images/logos/fo_btac.jpg"  alt="Friends of BT Avalanche Center"  /></a>
+            </div>
+    
+
+            </div>
+    </div>
+
+      </div>
+
+
+    
+      <!-- different background for this instagramsection -->
+      <!-- <div class='grid-x gridinsta' style="background: #F0F2FA;"> -->
+      <div  class="instagram" >
+          <h2 class="instagram-header  text-center">
+          Instagram Feed
+          </h2>
+          <div class="align-center smaller" >
+                    <a href="https://instagram.com/btacavy" target="_blank">
+                    <img src='/assets/images/logos/glyph-logo_May2016.png' style="  max-width: 24px; margin: 10px;" class="align-center"/>
+                    Follow @btacavy
+                    </a>
+            </div>
+          
+          <div class='grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3 large-up-6 align-top align-center' data-equalizer data-equalize-by-row="true" >
+
+        <div class='cell full insta-image data-equalizer-watch'> <a href='https://www.instagram.com/p/B-ozOzEja5F/' target='_blank'> 
+                                  <img src='https://scontent.cdninstagram.com/v/t51.2885-15/e35/c236.0.608.608a/s150x150/92583535_211342056840857_4090682822517913873_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_ohc=wx_AxWjPg54AX8gVMfo&oh=764b5079751355ad8236f0a1056533fe&oe=5EB38E1E' class='insta-image' /></a> 
+                                    <p class='insta-caption smaller'>The company that host our website at jhavalanche.org is presently experiencing technical problems and we are unable to post our avalanche hazard forecast products on the internet. The Teton area morning avalanche will be available at our telephone hotline at 307-733-2664.  All other products will be posted when this problem is fixed.</p>
+                                  </div><div class='cell full insta-image data-equalizer-watch'> <a href='https://www.instagram.com/p/B-j2UPxDcjz/' target='_blank'> 
+                                  <img src='https://scontent.cdninstagram.com/v/t51.2885-15/e35/s150x150/91614753_223583518881757_8179420021599607184_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_ohc=Wa6PEfKf7TkAX-3sGie&oh=1ae088beaed5fd9f6b33f2bdc231f8a4&oe=5EB4F78D' class='insta-image' /></a> 
+                                    <p class='insta-caption smaller'>Late yesterday afternoon, April 3, the Bonneville County Sheriff’s Department received a call that a snowmobiler was missing in an avalanche accident northeast of the Sheep Creek area in the Snake River Range. Rescuers made it to the accident scene yesterday evening and will return this morning to resume recovery efforts. Also this week, a snowboarder died in an avalanche on Mt. Taylor on April 1. These are tragic events, and our deepest condolences go out to the friends and families of these avalanche victims.</p>
+                                  </div><div class='cell full insta-image data-equalizer-watch'> <a href='https://www.instagram.com/p/B95ZKWmFP1L/' target='_blank'> 
+                                  <img src='https://scontent.cdninstagram.com/v/t51.2885-15/e35/s150x150/90090247_259047418587762_1551926931045824244_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_ohc=dZVut338V1cAX8FYmja&oh=4dc8d711c53f0c6088e4c7f79d066137&oe=5EB662E3' class='insta-image' /></a> 
+                                    <p class='insta-caption smaller'>Due to the unexpected challenges involving Covid-19 and the overloading of our healthcare system, it is important to make conservative choices. Please make cautions decisions and efforts to avoid injuries. Thanks</p>
+                                  </div><div class='cell full insta-image data-equalizer-watch'> <a href='https://www.instagram.com/p/B9enkj1FuRt/' target='_blank'> 
+                                  <img src='https://scontent.cdninstagram.com/v/t51.2885-15/e35/c135.0.810.810a/s150x150/89072680_1652172224925335_5872016550364357580_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_ohc=mBoR4WpNoGgAX_vfvRY&oh=796817c7729caf812bce9c2881f0c839&oe=5EB4DE68' class='insta-image' /></a> 
+                                    <p class='insta-caption smaller'>This roof slide last night.  No one was injured but it could have been tragic</p>
+                                  </div><div class='cell full insta-image data-equalizer-watch'> <a href='https://www.instagram.com/p/B87nFq4lSlz/' target='_blank'> 
+                                  <img src='https://scontent.cdninstagram.com/v/t51.2885-15/e35/c0.60.480.480a/s150x150/83325961_495909184633144_5796709753507965521_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_ohc=quiO0UPp98QAX8IVUeV&oh=82d20242a245fa2c3575fd15cca9272e&oe=5EB3FC1A' class='insta-image' /></a> 
+                                    <p class='insta-caption smaller'>This large slab avalanche was observed on a southeast aspect of Angle Mountain</p>
+                                  </div><div class='cell full insta-image data-equalizer-watch'> <a href='https://www.instagram.com/p/B8RNpQVFzWq/' target='_blank'> 
+                                  <img src='https://scontent.cdninstagram.com/v/t51.2885-15/e35/c135.0.810.810a/s150x150/83648365_118033389617983_4526978927134485642_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_ohc=fbqOP_8qqC4AX9xmWjX&oh=d5c96c46838a362c63f6ed676e5d51d2&oe=5EB57565' class='insta-image' /></a> 
+                                    <p class='insta-caption smaller'>Avalanche debris on the roadway in the Beaverslide avalanche path on the west side of Teton Pass.  This avalanche was explosively triggered by the WYDOT</p>
+                                  </div>        </div></div>
+    </div>
+  
+          
+        <h2 class="instagram-header text-center margin-tb-30">Sponsors </h2>
+        <div class='grid-x grid-padding-x  grid-margin-y small-up-2 medium-up-4 large-up-5 align-middle'>
+            <div class="cell full">
+                <a href="http://wyotrails.state.wy.us" target="_blank">
+                    <img src="/assets/images/logos/traillogo_new.gif" width="150" height="46" alt="" />
+                </a>
+            </div>
+            <div class="cell full">
+                <a href="http://www.jacksonhole.com" target="_blank"><img src="/assets/images/logos/Jackson-Hole-MR.png" alt="" /></a>
+            </div>
+            <div class="cell full">
+                 <td><img src="/assets/images/logos/Bruce-Hayse.png" width="135" height="34" alt="" /></td>
+             </div>
+             
+            <div class="cell full">
+                <a href="http://www.skinnyskis.com" target="_blank"><img src="/assets/images/logos/Skinny-Skis.png"  alt="" /></a> 
+            </div>
+            <div class="cell full">
+          <a href="http://www.brookslake.com" target="_blank"><img src="/assets/images/logos/brooks-lake-lodge-logo.png"  alt="" /></a>
+            </div>
+            <div class="cell full">
+          
+          <a href="http://www.boxylodge.com/" target="_blank"><img src="/assets/images/logos/BoxY.png"  alt="" /></a>
+            </div>
+            <div class="cell full">
+          
+          <a href="http://www.togwoteelodge.com" target="_blank"><img src="/assets/images/logos/Togwotee-Mountain-Lodge.png"  alt="" /></a>
+            </div>
+            <div class="cell full">
+          
+          <a href="http://www.jacksonholecatering.com/" target="_blank"><img src="/assets/images/logos/ChippysKitchen.png" alt="" /></a>
+            </div>
+            <div class="cell full">
+                <a href="http://www.grandtarghee.com" target="_blank"><img src="/assets/images/logos/Grand-Targhee.png"  alt="BTNAC sponsor"  /></a>
+            </div>
+            <div class="cell full">
+                
+                <a href="http://www.defaziolaw.com" target="_blank"><img src="/assets/images/logos/DeFazio.png"  alt="DeFazio" /></a>
+            </div>
+            <!--<div class="cell full">
+                
+                <td><img src="/assets/images/logos/Eric-Balog.png"  alt="balog" /></td>
+            </div> -->
+            <div class="cell full">
+                
+                <a href="#"><img src="/assets/images/logos/Stewart-Johnson-CPA.png"  alt="BTNAC sponsor" /></a>
+            </div>
+            <div class="cell full">
+                
+                <a href="#"><img src="/assets/images/logos/Snow-King-Resort.png"  alt="BTNAC sponsor" /></a>
+            </div>
+            
+             <div class="cell full">
+                
+                <a href="http://www.tetonfloors.com" target="_blank"><img src="/assets/images/logos/Grand-Teton-Floors.png"  alt="" /></a>
+            </div>
+            <div class="cell full">
+               
+                <a href="http://www.rpk3law.com" target="_blank"><img src="/assets/images/logos/RPK3.png"  alt="RPK3 Law" /></a>
+            </div>
+            <!--<div class="cell full">
+                
+                <a href="http://www.redfin.com" target="_blank"><img src="/assets/images/logos/RedFin.png"  alt="Redfin" /></a>
+            </div> -->
+            <!--<div class="cell full">
+                
+                <a href="//www.tiptopsar.com" target="_blank"><img src="/assets/images/logos/Tip-Top-SAR.png"  alt="Tip Top Search and Rescue " /></a>
+            </div> -->
+            <div class="cell full">
+                
+                <a href="https://www.nextlevelclinics.com/" target="_blank"><img src="/assets/images/logos/NXT_LVL_Riding_Clinics.png"  alt="Next Level Riding Clinics" /></a>
+            </div>
+            <div class="cell full">
+                <a href="http://www.jhecotouradventures.com" target="_blank"><img src="/assets/images/logos/EcoTours.png"  alt="Eco Tour Adventures" /></a>
+            </div>
+           <!-- <div class="cell full">
+                
+                <a href=" http://exploradus.com/" target="_blank"><img src="/assets/images/logos/Exploradus-small.png"  alt="Exploradus" /></a>
+            </div>
+            <div class="cell full">
+                
+                <a href="http://www.ortovox.com" target="_blank"><img src="/assets/images/logos/Deuter.png"  alt="" /></a>
+            </div> -->
+            <div class="cell full">
+                
+                <a href="http://www.apexjackson.com" target="_blank"><img src="/assets/images/logos/Apex.png" alt="" /></a>
+            </div>
+<!--            <div class="cell full">
+                <a href="http://www.headwallsports.com" target="_blank"><img src="/assets/images/logos/Headwall-Sports.png"  alt="" /></a>
+            </div> 
+ -->            <div class="cell full">
+                
+                <a href="https://www.gtnpf.org/" target="_blank"><img src="/assets/images/logos/GTNPF.png" alt="" /></a>
+            </div>
+             <div class="cell full">
+                
+                <a href="https://www.tetongravity.com" target="_blank"><img src="/assets/images/logos/TGR.png" alt="Teton Gravity Research" /></a>
+            </div>
+        <div class="cell full">
+            <a href="https://yostmark.com" target="_blank">
+            <img src="/assets/images/logos/Yostmark.png"  alt="Yostmark Mountain Equipment"/></a>
+        </div>
+        <!--<div class="cell full">
+             <a href="https://arcteryx.com/home.aspx?country=us&language=en"   target="Arc'teryx">
+              <img src="/assets/images/logos/Arcteryx.png"  alt=""/></a>
+        </div>
+        <div class="cell full">
+             <a href="https://westonbackcountry.com/"   target="Weston Snowboards">
+              <img src="/assets/images/logos/Weston-Snowboards.png"  alt=""/></a>
+        </div> -->
+        <div class="cell full">
+             <a href="https://stio.com/"   target="Stio">
+              <img src="/assets/images/logos/Stio.png"  alt=""/></a>
+        </div>
+        <div class="cell full">
+            <img src="/assets/images/logos/Tower-3-Investments.png"  alt=""/>
+        </div>
+        <div class="cell full">
+            <a href="https://snakeriverbrewing.com/"   target="_blank" alt="Snake River Brewing">
+            <img src="/assets/images/logos/SRB.png"  alt=""/>
+        </div>
+        <div class="cell full">
+            <a href="https://snowdevils.org/"   target="_blank" alt="Snow Devils">
+            <img src="/assets/images/logos/SnowDevils.png"  alt=""/>
+        </div>
+      <!--  <div class="cell full">
+            <a href="https://fourpinespt.com/"   target="Four Pines Physical Therapy">        
+            <img src="/assets/images/logos/FourPines.png"  alt=""/>
+        </div>
+ -->        </div>
+                
+
+
+
+<!-- http://www.blueprintinteractive.com/blog/how-instagram-api-fancybox-simplified -->    <div id="footer" class="dark-blue noprint" style="margin-top: 20px;" >
+        <div class="grid-x grid-padding-y grid-padding-x align-top">
+            <div class="cell large-1"></div>
+        
+            <div class="cell medium-4 large-4">
+                <a href="/index.php"><img src="/assets/images/btac_logo.png" style="margin-bottom: 10px;"></img></a>
+                <h6 class="footer">Bridger-Teton Avalanche Center</h6>
+                <h6 class="footer">PO Box 424</h6>
+                <h6 class="footer">Teton Village, WY 83025</h6>
+                <h6 class="footer"><a href="tel:307-733-2664" class="tel">307-733-2664</a></h6>
+                <h6 class="footer">REPORT AN AVALANCHE: <a href="tel:307-739-2607" class="tel">307-739-2607</a></h6>
+            </div>
+            <div class="cell medium-4 large-3 align-middle footer">
+                <a href="/forecasts.php">FORECASTS</a><br/>
+                <a href="/eventMap.php">AVALANCHE EVENTS</a><br/>
+                <a href="#">DATA CENTER</a><br/>
+                <a href="/sponsors.php">SUPPORTERS</a><br/>
+            </div>
+            
+            <div class="cell medium-4 large-3 align-top footer">
+                <a href="/afso">DONATE </a><br/>
+                <a href="/contact.php">CONTACT </a><br/>
+                <a href="https://jhavalanchefriends.com" >FRIENDS OF BTAC</a><br/>
+            
+            </div>
+            <div class="cell large-1"></div>
+        </div>
+    
+        
+</div>
+    <script src="/js/foundation-datepicker.min.js"></script>
+    <script src="/node_modules/what-input/dist/what-input.js"></script>
+    <script src="/js/app.js"></script>
+    <script  src="/node_modules/moment/moment.js"></script> 
+    <script src="/node_modules/jquery-colorbox/jquery.colorbox-min.js"></script>
+
+  </body>
+</html>
+

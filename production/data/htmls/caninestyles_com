@@ -1,0 +1,1256 @@
+<!doctype html>
+<!--[if IE 9]> <html class="ie9 no-js" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta name="google-site-verification" content="DwWzWLkTofsTkL1wQS91HSOJiwBcJm2d1RWz0iZbMmw" />
+  <!-- Basic page needs ================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <meta name="theme-color" content="#ffffff">
+  
+
+  
+
+  <link rel="canonical" href="https://www.caninestyles.com/">
+  <!-- Title and description ================================================== -->
+  <title>
+  Canine Styles: a Lifestyle Brand for dogs!
+  </title>
+
+  
+    <meta name="description" content="Established in 1959, Canine Styles is New York&#39;s oldest and finest dog emporium with world-class grooming and products! Canine Styles: a lifestyle for dogs!">
+  
+
+  <!-- Social Meta Tags ===================================== -->
+  <!-- /snippets/social-meta-tags.liquid -->
+
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Canine Styles: a Lifestyle Brand for dogs!">
+  <meta property="og:url" content="https://www.caninestyles.com">
+  
+  <meta property="og:description" content="Established in 1959, Canine Styles is New York&#39;s oldest and finest dog emporium with world-class grooming and products! Canine Styles: a lifestyle for dogs!">
+
+<meta property="og:site_name" content="Canine Styles">
+
+
+
+
+
+  <meta name="twitter:card" content="summary">
+
+
+  <meta name="twitter:site" content="@CanineStylesNYC">
+
+
+  <meta name="twitter:title" content="Canine Styles: a Lifestyle Brand for dogs!">
+  <meta name="twitter:description" content="Established in 1959, Canine Styles is New York&#39;s oldest and finest dog emporium with world-class grooming and products! Canine Styles: a lifestyle for dogs!">
+  
+
+
+  <meta property="og:image" content="https://cdn.shopify.com/s/files/1/0654/0895/files/H-_KATIE_-_ORANGE_HORSE_BLANKET_-_WEBSITE_READY.jpg" />
+
+  <!-- CSS ================================================== -->
+  <link href="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/magnific.css?v=8622347882574122771" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/shop.scss.css?v=6860074354309094501" rel="stylesheet" type="text/css" media="all" />
+
+  <!-- Google Fonts ================================================== -->
+  <link href="https://fonts.googleapis.com/css?family=Cormorant:400,500,700,400i,700i|Raleway:400,400i,600,800" rel="stylesheet">
+
+  <!-- Font Awesome ================================================== -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <!-- Header hook for plugins ================================================== -->
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/6540895/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="184c6d77b884882aca3f80be0a39f4cd">
+<link href="https://v.shopify.com" rel="dns-prefetch">
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, Helvetica Neue, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{line-height:0 !important;padding:0 !important;border-radius:unset !important;width:80px !important}@media (max-width: 500px){.additional-checkout-button--google-pay{width:100% !important}}.gpay-iframe{height:44px !important;width:100%  !important;cursor:pointer;vertical-align:middle !important}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal,.additional-checkout-button--venmo{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<script id="shopify-features" type="application/json">{"accessToken":"184c6d77b884882aca3f80be0a39f4cd","betas":["rich-media-storefront-analytics"],"domain":"www.caninestyles.com","predictiveSearch":true,"shopId":6540895,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "canine-styles.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.theme = {"name":"CS 2.0 Custom Theme - Power Tools","id":37449695326,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["\/\/productreviews.shopifycdn.com\/assets\/v4\/spr.js?shop=canine-styles.myshopify.com","https:\/\/cdn.swellrewards.com\/loader\/mSwePr3hm1XoGU7KoMYyEg.js?shop=canine-styles.myshopify.com","https:\/\/shy.elfsight.com\/p\/platform.js?v=1.5.12\u0026shop=canine-styles.myshopify.com","https:\/\/load.csell.co\/assets\/js\/cross-sell.js?shop=canine-styles.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/164e44215127c17edd550ec84\/62da823c5871d0cc5272c36d4.js?shop=canine-styles.myshopify.com","https:\/\/js.smile.io\/v1\/smile-shopify.js?shop=canine-styles.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":6540895,"offset":-14400,"reqid":"fa36e9b0-e317-4412-b673-4d059fef75be","pageurl":"www.caninestyles.com\/","u":"864656fd4213","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"home"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var isDuplicatedThankYouPageView = function() {
+    return document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1;
+  }
+
+  var setCookieIfThankYouPage = function() {
+    if (window.location.pathname.indexOf('/checkouts') !== -1 &&
+        window.location.pathname.indexOf('/thank_you') !== -1) {
+
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + window.location.pathname + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2019.11.04.1';
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":6540895,"isMerchantRequest":null,"themeId":37449695326,"themeCityHash":"16119666850072084266","contentLanguage":"en","currency":"USD"}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1},"Google Analytics":{"trackingId":"UA-88871614-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["1667269560242412"],"agent":"plshopify1.2"},"Session Attribution":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+      (function () {
+        if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+          return;
+        }
+        window.BOOMR = window.BOOMR || {};
+        window.BOOMR.snippetStart = new Date().getTime();
+        window.BOOMR.snippetExecuted = true;
+        window.BOOMR.snippetVersion = 12;
+        window.BOOMR.application = "core";
+        window.BOOMR.shopId = 6540895;
+        window.BOOMR.themeId = 37449695326;
+        window.BOOMR.url =
+          "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+        var where = document.currentScript || document.getElementsByTagName("script")[0];
+        var parentNode = where.parentNode;
+        var promoted = false;
+        var LOADER_TIMEOUT = 3000;
+        function promote() {
+          if (promoted) {
+            return;
+          }
+          var script = document.createElement("script");
+          script.id = "boomr-scr-as";
+          script.src = window.BOOMR.url;
+          script.async = true;
+          parentNode.appendChild(script);
+          promoted = true;
+        }
+        function iframeLoader(wasFallback) {
+          promoted = true;
+          var dom, bootstrap, iframe, iframeStyle;
+          var doc = document;
+          var win = window;
+          window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+          bootstrap = function(parent, scriptId) {
+            var script = doc.createElement("script");
+            script.id = scriptId || "boomr-if-as";
+            script.src = window.BOOMR.url;
+            BOOMR_lstart = new Date().getTime();
+            parent = parent || doc.body;
+            parent.appendChild(script);
+          };
+          if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+            window.BOOMR.snippetMethod = "s";
+            bootstrap(parentNode, "boomr-async");
+            return;
+          }
+          iframe = document.createElement("IFRAME");
+          iframe.src = "about:blank";
+          iframe.title = "";
+          iframe.role = "presentation";
+          iframe.loading = "eager";
+          iframeStyle = (iframe.frameElement || iframe).style;
+          iframeStyle.width = 0;
+          iframeStyle.height = 0;
+          iframeStyle.border = 0;
+          iframeStyle.display = "none";
+          parentNode.appendChild(iframe);
+          try {
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          } catch (e) {
+            dom = document.domain;
+            iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          }
+          if (dom) {
+            doc._boomrl = function() {
+              this.domain = dom;
+              bootstrap();
+            };
+            doc.write("<body onload='document._boomrl();'>");
+          } else {
+            win._boomrl = function() {
+              bootstrap();
+            };
+            if (win.addEventListener) {
+              win.addEventListener("load", win._boomrl, false);
+            } else if (win.attachEvent) {
+              win.attachEvent("onload", win._boomrl);
+            }
+          }
+          doc.close();
+        }
+        var link = document.createElement("link");
+        if (link.relList &&
+          typeof link.relList.supports === "function" &&
+          link.relList.supports("preload") &&
+          ("as" in link)) {
+          window.BOOMR.snippetMethod = "p";
+          link.href = window.BOOMR.url;
+          link.rel = "preload";
+          link.as = "script";
+          link.addEventListener("load", promote);
+          link.addEventListener("error", function() {
+            iframeLoader(true);
+          });
+          setTimeout(function() {
+            if (!promoted) {
+              iframeLoader(true);
+            }
+          }, LOADER_TIMEOUT);
+          BOOMR_lstart = new Date().getTime();
+          parentNode.appendChild(link);
+        } else {
+          iframeLoader(false);
+        }
+        function boomerangSaveLoadTime(e) {
+          window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+        }
+        if (window.addEventListener) {
+          window.addEventListener("load", boomerangSaveLoadTime, false);
+        } else if (window.attachEvent) {
+          window.attachEvent("onload", boomerangSaveLoadTime);
+        }
+        if (document.addEventListener) {
+          document.addEventListener("onBoomerangLoaded", function(e) {
+            e.detail.BOOMR.init({});
+            e.detail.BOOMR.t_end = new Date().getTime();
+          });
+        } else if (document.attachEvent) {
+          document.attachEvent("onpropertychange", function(e) {
+            if (!e) e=event;
+            if (e.propertyName === "onBoomerangLoaded") {
+              e.detail.BOOMR.init({});
+              e.detail.BOOMR.t_end = new Date().getTime();
+            }
+          });
+        }
+      })();
+    
+
+    if (!isDuplicatedThankYouPageView()) {
+      setCookieIfThankYouPage();
+      
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"home"}
+        );
+      
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-2c6237918c4bbec8783d8ceecd5759edc38afa9b5bef55134462710955517539.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script integrity="sha256-f6FFDo+K6xVN2lCe7Gwex/21wPD5ADi++haIzgy99/U=" crossorigin="anonymous" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/s/assets/storefront/load_feature-7fa1450e8f8aeb154dda509eec6c1ec7fdb5c0f0f90038befa1688ce0cbdf7f5.js"></script>
+<script integrity="sha256-EYppj7RbseKnaugbP4EJXR4sMs7TPdTpPmQ3i163eNA=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/s/assets/storefront/features-118a698fb45bb1e2a76ae81b3f81095d1e2c32ced33dd4e93e64378b5eb778d0.js" crossorigin="anonymous"></script>
+<script defer="defer" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-99e991855b3d8ddc69e625c68ab0579dd9927b611c2ec4943d396c72e3af0849.js"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 60px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+  <!-- Fixes for Older Versions of IE ==================================================-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/modernizr.min.js?v=2139105474820643245" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/magnific.js?v=6211924962893359058" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/jquery.zoom.min.js?v=13038990187238013756" type="text/javascript"></script>
+  
+  
+
+<!--begin-bc-sf-filter-css-->
+  
+<!--end-bc-sf-filter-css-->
+
+  <!-- Global site tag (gtag.js) - AdWords: 992105236 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-992105236"></script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
+
+   gtag('config', 'AW-992105236');
+  </script>
+<div id="shopify-section-filter-menu-settings" class="shopify-section"><style type="text/css">
+/*  Filter Menu Color and Image Section CSS */</style>
+<link href="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/filter-menu.scss.css?v=2428593491137728063" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/filter-menu.js?v=10272244845539769258" type="text/javascript"></script>
+
+
+
+
+
+</div>
+</head>
+
+<body id="canine-styles-a-lifestyle-brand-for-dogs" class="template-index" >
+  <div id="SearchDrawer" class="search-bar drawer drawer--top">
+    <div class="search-bar__table">
+      <form action="/search" method="get" class="search-bar__table-cell search-bar__form" role="search">
+        <div class="search-bar__table">
+          <div class="search-bar__table-cell search-bar__icon-cell">
+            <button type="submit" class="search-bar__icon-button search-bar__submit">
+              <span class="icon icon-search" aria-hidden="true"></span>
+              <span class="icon__fallback-text">Search</span>
+            </button>
+          </div>
+          <div class="search-bar__table-cell">
+            <input type="search" id="SearchInput" name="q" value="" placeholder="Search our store" aria-label="Search our store" class="search-bar__input">
+          </div>
+        </div>
+      </form>
+      <div class="search-bar__table-cell text-right">
+        <button type="button" class="search-bar__icon-button search-bar__close js-drawer-close">
+          <span class="icon icon-x" aria-hidden="true"></span>
+          <span class="icon__fallback-text">close (esc)</span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div id="NavDrawer" class="drawer drawer--left">
+    <div class="drawer__header">
+      <div class="drawer__close">
+        <button type="button" class="drawer__close-button js-drawer-close">
+          <span class="icon icon-x" aria-hidden="true"></span>
+          <span class="icon__fallback-text">Close menu</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="drawer__inner">
+      <ul class="drawer-nav">
+
+			<li class="drawer-nav__spacer"></li>
+
+
+            <li class="added-d-nav nd-1"><a href="/collections/sweaters">Apparel</a>
+                <ul class="added-dd-nav">
+                    <li><a href="/collections/sweaters">Sweaters</a></li>
+                    <li><a href="/collections/coats">Coats</a></li>
+                    <li><a href="/collections/raincoat">Raincoats</a></li>
+                    <li><a href="/collections/polos-dresses-tees">Polos, Dresses, Tees</a></li>
+                  	<li><a href="/collections/boots">Boots</a></li>
+                </ul>
+            </li>
+
+
+            <li class="added-d-nav nd-2"><a href="/collections/beds">Beds</a>
+                <ul class="added-dd-nav">
+                  <li><a href="/collections/bolster-beds">Bolster Beds</a></li>
+                  <li><a href="/collections/rectangular-beds">Cushion Beds, Mattresses</a></li>
+                  <li><a href="/collections/blankets-mats">Blankets &amp; Mats</a></li>
+
+
+                </ul>
+            </li>
+
+
+
+            <li class="added-d-nav nd-3"><a href="/collections/collars-harnesses-leads">Collars, Harnesses, Leads</a>
+                <ul class="added-dd-nav">
+                    <li><a href="/collections/collars-harnesses-leads">Leather Collars, Harnesses, Leads</a></li>
+                    <li><a href="/collections/signature-plaid">Signature Plaid, Webbing</a></li>
+                  <li><a href="/collections/i-d-tags">I.D. Tags</a></li>
+                </ul>
+            </li>
+            <li class="added-d-nav nd-4"><a href="/collections/dogbowls">Bowls</a></li>
+            <li class="added-d-nav nd-5"><a href="/collections/carriers">Carriers</a></li>
+
+
+            <li class="added-d-nav nd-6"><a href="/collections/toys">Toys</a></li>
+            <li class="added-d-nav nd-7"><a href="/collections/treats">Treats</a></li>
+
+            <li class="added-d-nav nd-8"><a href="/collections/novelties">Novelties</a>
+                <ul class="added-dd-nav">
+                    <li><a href="/collections/accessories">Accessories</a></li>
+                  <li><a href="/collections/supplies-1">Supplies</a></li>
+                  <li><a href="/collections/novelties">Dog Key Chains</a></li>
+                  <li><a href="/collections/halloween">Halloween</a></li>
+                  <li><a href="/pages/holiday-gift-guide">Holiday</a></li>
+
+                </ul>
+            </li>
+
+
+        <li class="drawer-nav__spacer"></li>
+
+        
+          
+            <li class="drawer-nav__item drawer-nav__item--secondary">
+              <a href="/account/login" id="customer_login_link">Log in</a>
+            </li>
+            
+            <li class="drawer-nav__item drawer-nav__item--secondary">
+              <a href="/account/register" id="customer_register_link">Create account</a>
+            </li>
+            
+          
+        
+				<li class="drawer-nav__item drawer-nav__item--secondary"><a href="/pages/locations">Locations</a></li>
+        
+          <li class="drawer-nav__item drawer-nav__item--secondary"><a href="/search">Search</a></li>
+        
+          <li class="drawer-nav__item drawer-nav__item--secondary"><a href="/pages/about-us-reviews">About Us</a></li>
+        
+          <li class="drawer-nav__item drawer-nav__item--secondary"><a href="/pages/grooming">Grooming</a></li>
+        
+          <li class="drawer-nav__item drawer-nav__item--secondary"><a href="/pages/policies">Policies</a></li>
+        
+          <li class="drawer-nav__item drawer-nav__item--secondary"><a href="/pages/refund-return-policy">Refund/Return Policy</a></li>
+        
+          <li class="drawer-nav__item drawer-nav__item--secondary"><a href="/blogs/news">Blog</a></li>
+        
+
+      </ul>
+
+
+      <ul class="list--inline social-icons social-icons--drawer">
+        
+          <li>
+            <a href="http://twitter.com/CanineStylesNYC" title="Canine Styles on Twitter">
+              <span class="icon icon-twitter" aria-hidden="true"></span>
+              <span class="visually-hidden">Twitter</span>
+            </a>
+          </li>
+        
+        
+          <li>
+            <a href="https://www.facebook.com/CanineStylesNYC" title="Canine Styles on Facebook">
+              <span class="icon icon-facebook" aria-hidden="true"></span>
+              <span class="visually-hidden">Facebook</span>
+            </a>
+          </li>
+        
+        
+          <li>
+            <a href="https://www.pinterest.com/caninestyles/" title="Canine Styles on Pinterest">
+              <span class="icon icon-pinterest" aria-hidden="true"></span>
+              <span class="visually-hidden">Pinterest</span>
+            </a>
+          </li>
+        
+        
+        
+          <li>
+            <a href="http://instagram.com/CanineStylesNYC" title="Canine Styles on Instagram">
+              <span class="icon icon-instagram" aria-hidden="true"></span>
+              <span class="visually-hidden">Instagram</span>
+            </a>
+          </li>
+        
+        
+        
+          <li>
+            <a href="https://www.youtube.com/channel/UCtfSqEPoPphCDHNdCRpEj9g" title="Canine Styles on YouTube">
+              <span class="icon icon-youtube" aria-hidden="true"></span>
+              <span class="visually-hidden">YouTube</span>
+            </a>
+          </li>
+        
+        
+        
+      </ul>
+    </div>
+  </div>
+  <div id="CartDrawer" class="drawer drawer--right drawer--has-fixed-footer">
+      <div class="drawer__header">
+        <div class="drawer__close">
+          <button type="button" class="drawer__close-button js-drawer-close">
+            <span class="icon icon-x" aria-hidden="true"></span>
+            <span class="icon__fallback-text">Close cart</span>
+          </button>
+        </div>
+      </div>
+      <div class="drawer__inner">
+        <div id="CartContainer">
+        </div>
+      </div>
+  </div>
+
+  <div id="PageContainer">
+
+
+      <div class="hero__site-header">
+
+    
+
+    <div class="header-banner-mobile">
+      <div class="header-banner">
+        
+        <span class="banner_title">
+          All Questions
+        </span>
+        
+        
+        <span class="banner_text">
+          Please Call  212-472-9440
+        </span>
+        
+      </div>
+    </div>
+
+    
+
+    <div class="grid grid--no-gutter grid--table site-header__inner">
+
+      <div class="grid__item small-up--one-whole medium-up--one-half large-up--one-half">
+
+
+        <div class="grid grid--table">
+          <div class="grid__item small--one-whole medium-up--one-twelfth">
+            <button type="button" class="site-header__link text-link site-header__toggle-nav js-drawer-open-left">
+              <span class="icon icon-hamburger" aria-hidden="true"></span>
+              <span class="icon__fallback-text">Menu</span>
+            </button>
+
+          </div>
+          <div class="grid__item small--one-whole medium-up--eleven-twelfths added-menu-hidden">
+
+            <div class="added-header-smallnav">
+
+              <div class="header-menu-container">
+
+                <ul class="header-menu">
+
+
+
+				  
+
+                  <li>
+                  	<a href="/account/login" class="added-btn added-menu-hidden" id="customer_register_link">Login</a>
+                  </li>
+
+                  
+
+				  
+
+                  <li>
+                  	<a href="/account/login" class="added-btn added-menu-hidden" id="customer_register_link">Create Account</a>
+                  </li>
+
+                  
+
+                  <li>
+                    <a href="/pages/about-us-reviews" class="added-btn added-menu-hidden">About</a>
+                  </li>
+
+
+
+                  <li>
+                    <a href="/pages/locations" class="added-btn added-menu-hidden">LOCATIONS</a>
+                  </li>
+
+                </ul>
+              </div>
+
+            </div>
+
+
+          </div>
+        </div>
+
+      </div>
+
+
+
+
+      <div class="grid__item small-up--one-whole medium-up--one-half large-up--one-half text-right">
+
+        <div class="header-menu-container">
+
+        <ul class="header-menu">
+          <li class="added-menu-hidden">
+            <a href="/search" class=" js-drawer-open-top added-btn added-menu-hidden">
+              Search
+              <span class="header-icon-search" aria-hidden="true">
+                <img src="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/search.png?v=931581556411074862" alt="" />
+              </span>
+            </a>
+          </li>
+          <li>
+            <a href="/cart" class="site-header__link site-header__cart cart-link js-drawer-open-right">
+              <span class="header-icon-cart" aria-hidden="true">
+                <img src="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/cart.png?v=649448725288921261" alt="" />
+              </span>
+              
+              <span class="icon__fallback-text">Cart</span>
+            </a>
+          </li>
+        </ul>
+
+        </div>
+
+        </div>
+
+
+    </div>
+      <a href="/" class="header-logo">
+     	 <center><img src="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/logo.png?v=12320212300166996976" alt="" /></center>
+      </a>
+
+<div class="added-header-nav-container">
+  <ul class="added-header-nav">
+
+		<li class="added-h-nav"><a href="/collections/sweaters">Apparel</a>
+			<ul class="added-dd-nav">
+              	<li><a href="/collections/sweaters">Sweaters</a></li>
+				<li><a href="/collections/coats">Coats</a></li>
+				<li><a href="/collections/raincoat">Raincoats</a></li>
+              	<li><a href="/collections/polos-dresses-tees">Polos, Dresses, Tees</a></li>
+				<li><a href="/collections/boots">Boots</a></li>
+
+			</ul>
+		</li>
+
+
+		<li class="added-h-nav"><a href="/collections/beds">Beds</a>
+			<ul class="added-dd-nav">
+              <li><a href="/collections/bolster-beds">Bolster Beds</a></li>
+              <li><a href="/collections/rectangular-beds">Cushion Beds, Mattresses</a></li>
+              <li><a href="/collections/blankets-mats">Blankets &amp; Mats</a></li>
+
+
+			</ul>
+		</li>
+
+
+
+		<li class="added-h-nav"><a href="/collections/collars-harnesses-leads">Collars, Harnesses, Leads</a>
+			<ul class="added-dd-nav">
+				<li><a href="/collections/collars-harnesses-leads">Leather Collars, Harnesses, Leads</a></li>
+				<li><a href="/collections/signature-plaid">Signature Plaid, Webbing</a></li>
+              <li><a href="/collections/i-d-tags">I.D. Tags</a></li>
+			</ul>
+		</li>
+		<li class="added-h-nav"><a href="/collections/dogbowls">Bowls</a></li>
+		<li class="added-h-nav"><a href="/collections/carriers">Carriers</a></li>
+
+
+		<li class="added-h-nav"><a href="/collections/toys">Toys</a></li>
+		<li class="added-h-nav"><a href="/collections/treats">Treats</a></li>
+
+		<li class="added-h-nav"><a href="/collections/novelties">Novelties</a>
+			<ul class="added-dd-nav">
+				<li><a href="/collections/accessories">Accessories</a></li>
+                <li><a href="/collections/supplies-1">Supplies</a></li>
+                <li><a href="/collections/novelties">Dog Key Chains</a></li>
+                <li><a href="/collections/halloween">Halloween</a></li>
+                <li><a href="/pages/holiday-gift-guide">Holiday</a></li>
+			</ul>
+		</li>
+
+	</ul>
+</div>
+
+
+
+  </div>
+
+	<main class="main-content" role="main">
+    	<!-- /templates/index.liquid -->
+
+
+<div class="homepage-hero" style="background-image:url(//cdn.shopify.com/s/files/1/0654/0895/files/home-sanipaws-web_1920x700.jpg?v=1585929306)">
+	
+	<div class="homepage-hero-overlay">
+      <div class="homepage-hero-inner">
+        <h2>Sanipaw</h2>
+        <h4>Eliminates 99.999% Bacteria, Virus, Fungus  & Oder</h4>
+        <a class="btn" href="https://www.caninestyles.com/search?q=sanipaw">Shop Sanipaw</a>
+      </div>
+	</div>
+	
+</div>
+
+<div class="homepage-blocks">
+  
+  <div class="grid">
+    
+	<div class="grid__item large-up--one-third">
+      <div class="homepage_block_item">
+        <a href="https://www.caninestyles.com/collections/dog-sweaters">
+          <div class="homepage_block_image">
+            <img src="//cdn.shopify.com/s/files/1/0654/0895/files/NEW_-_Cashmere_Dog_Sweater_-_Red_Green_-_Canine_Styles_WHITE_BackgroundCA1_3641_555x555.jpg?v=1573236106">
+          </div>
+          <h3>Canine Styles Cashmere</h3>
+        </a>
+      </div>
+    </div>
+    
+    <div class="grid__item large-up--one-third">
+      <div class="homepage_block_item">
+        <a href="https://www.caninestyles.com/collections/novelties">
+          <div class="homepage_block_image">
+            <img src="//cdn.shopify.com/s/files/1/0654/0895/files/S_-_2_555x555.jpg?v=1544210728">
+          </div>
+          <h3>For the dog who has everything</h3>
+        </a>
+      </div>
+    </div>
+    
+    <div class="grid__item large-up--one-third">
+      <div class="homepage_block_item">
+        <a href="https://www.caninestyles.com/collections/carriers">
+          <div class="homepage_block_image">
+            <img src="//cdn.shopify.com/s/files/1/0654/0895/files/Website_ab7395ca-22d8-4a72-b1d5-8c3a6dd5767b_555x555.png?v=1578545661">
+          </div>
+          <h3>Carriers</h3>
+        </a>
+      </div>
+    </div>
+    
+  </div>
+	
+</div>
+
+<div class="homepage-featured">
+  
+  <div class="grid grid--no-gutters">
+    
+	<div class="grid__item large-up--one-third">
+      <div class="homepage_featured_image" style="background-image:url(//cdn.shopify.com/s/files/1/0654/0895/files/Barn_Coat_w_Brown_Corduroy_Collar_-_6_Color_Options_Lifestyle_BackgroundCA1_4119_302716cf-6901-44b7-a345-fcd6ff5f8aa2_700x700.jpg?v=1573237529)";></div>
+    </div>
+    
+    <div class="grid__item large-up--one-third">
+      <div class="homepage_featured_item">
+        <div class="homepage_featured_inner">
+          <h3>Grooming</h3>
+          <p>New York's Finest & Oldest Grooming Pet Salon</p>
+          <a class="btn" href="https://www.caninestyles.com/pages/grooming">LEARN MORE</a>
+        </div>
+      </div>
+    </div>
+    
+   	<div class="grid__item large-up--one-third">
+      <div class="homepage_featured_image" style="background-image:url(//cdn.shopify.com/s/files/1/0654/0895/files/Cashmere_Dog_Sweater_-_Canine_Styles_4_New_Colors_CA1_4710_9dc15347-de9f-485e-b845-50b153b30502_700x700.jpg?v=1573237554)";></div>
+    </div>
+    
+  </div>
+	
+</div>
+
+
+<div class="homepage-hero" style="background-image:url(//cdn.shopify.com/s/files/1/0654/0895/files/winter-sale-homepage_f47b36c7-7c65-4ac9-8aa2-488247dba653_1920x700.jpg?v=1583945215)">
+	
+	<div class="homepage-hero-overlay">
+      <div class="homepage-hero-inner">
+        <h2></h2>
+        <h4>End of Winter Sale: 25% Off Selected Luxury Items!</h4>
+        <a class="btn" href="https://www.caninestyles.com/pages/winter-sale">Shop now</a>
+      </div>
+	</div>
+	
+</div>
+    </main>
+
+
+		
+<footer class="site-footer site-footer-black" role="contentinfo">
+  
+  
+
+  <div class="grid large-up--grid--table">
+    <div class="grid__item large-up--one-third ">
+      
+		    <ul class="list--inline new-footer-links">
+		      
+		        <li><a href="/search">Search</a></li>
+		      
+		        <li><a href="/pages/about-us-reviews">About Us</a></li>
+		      
+		        <li><a href="/pages/grooming">Grooming</a></li>
+		      
+		        <li><a href="/pages/policies">Policies</a></li>
+		      
+		        <li><a href="/pages/refund-return-policy">Refund/Return Policy</a></li>
+		      
+		        <li><a href="/blogs/news">Blog</a></li>
+		      
+		    </ul>
+		  
+     	<span class="added-shop-name"><a href="/">&copy; 2020 Canine Styles</a></span>
+      
+      <div class="footer_divider"></div>
+      
+    </div>
+    <div class="grid__item text-center large-up--one-third">
+      
+      
+      <div class="widget_title h3">CONTACT US</div>
+		
+      <p><a href="/pages/locations">Locations</a> <br/><a href="tel:(212) 472-9440">(212) 472-9440</a> <br/><a href="mailto:bark@caninestyles.com">bark@caninestyles.com</a>
+      <br/><br/></p>
+                  
+      
+     <ul class="list--inline social-icons social-icons--footer">
+        
+          <li>
+            <a href="http://twitter.com/CanineStylesNYC" title="Canine Styles on Twitter">
+              <span class="icon icon-twitter" aria-hidden="true"></span>
+              <span class="visually-hidden">Twitter</span>
+            </a>
+          </li>
+        
+        
+          <li>
+            <a href="https://www.facebook.com/CanineStylesNYC" title="Canine Styles on Facebook">
+              <span class="icon icon-facebook" aria-hidden="true"></span>
+              <span class="visually-hidden">Facebook</span>
+            </a>
+          </li>
+        
+        
+          <li>
+            <a href="https://www.pinterest.com/caninestyles/" title="Canine Styles on Pinterest">
+              <span class="icon icon-pinterest" aria-hidden="true"></span>
+              <span class="visually-hidden">Pinterest</span>
+            </a>
+          </li>
+        
+        
+        
+          <li>
+            <a href="http://instagram.com/CanineStylesNYC" title="Canine Styles on Instagram">
+              <span class="icon icon-instagram" aria-hidden="true"></span>
+              <span class="visually-hidden">Instagram</span>
+            </a>
+          </li>
+        
+        
+        
+          <li>
+            <a href="https://www.youtube.com/channel/UCtfSqEPoPphCDHNdCRpEj9g" title="Canine Styles on YouTube">
+              <span class="icon icon-youtube" aria-hidden="true"></span>
+              <span class="visually-hidden">YouTube</span>
+            </a>
+          </li>
+        
+        
+        
+      </ul> 
+      
+      <div class="footer_divider"></div>
+      
+    </div>
+    <div class="grid__item large-up--one-third text-center">
+      
+      <div class="widget_title h3">SIGN UP FOR OUR NEWSLETTER</div>
+      
+      <!-- snippets/newsletter-form.liquid -->
+
+
+<div class="newsletter text-center">
+  <div class="wrapper">
+    
+    
+      <form action="https://caninestyles.us13.list-manage.com/subscribe/post?u=164e44215127c17edd550ec84&amp;id=b2c90938ab" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+        <div class="input-group">
+          <label for="Email" class="newsletter__label label--hidden">Email address</label>
+          <input type="email" value="" placeholder="Email address" name="EMAIL" id="Email" class="input-group__field newsletter__input" autocorrect="off" autocapitalize="off">
+          <span class="input-group__btn">
+            <button type="submit" class="btn newsletter__submit" name="subscribe" id="Subscribe">
+              <span class="newsletter__submit-text--large">Subscribe</span>
+            </button>
+          </span>
+        </div>
+      </form>
+    
+  </div>
+</div>
+
+
+
+  <hr class="hr--clear">
+
+
+      
+    </div>
+    
+    
+    
+    
+    
+  </div>
+</footer>
+  </div>
+
+  <script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-e94e010e92e659b566dbc436fdfe5242764380e00398907a14955ba301a4749f.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/shop.js?v=5343455863110136628" type="text/javascript"></script>
+
+  
+
+  
+  
+    <script id="CartTemplate" type="text/template">
+      
+        <form action="/cart" method="post" novalidate class="cart ajaxcart">
+          <div class="ajaxcart__inner ajaxcart__inner--has-fixed-footer">
+            {{#items}}
+            <div class="ajaxcart__row">
+              <div class="ajaxcart__product" data-line="{{line}}">
+                <div class="grid grid--half-gutters">
+                  <div class="grid__item one-quarter">
+                    <a href="{{url}}" class="ajaxcart__product-image"><img src="{{img}}" alt="{{name}}"></a>
+                  </div>
+                  <div class="grid__item three-quarters">
+                    <div class="ajaxcart__product-name-wrapper">
+                      <a href="{{url}}" class="ajaxcart__product-name h4">{{name}}</a>
+                      {{#if variation}}
+                        <span class="ajaxcart__product-meta">{{variation}}</span>
+                      {{/if}}
+                      {{#properties}}
+                        {{#each this}}
+                          {{#if this}}
+                            <span class="ajaxcart__product-meta">{{@key}}: {{this}}</span>
+                          {{/if}}
+                        {{/each}}
+                      {{/properties}}
+                    </div>
+
+                    <div class="grid grid--table">
+                      <div class="grid__item one-half">
+                        <div class="ajaxcart__qty">
+                          <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus" data-id="{{id}}" data-qty="{{itemMinus}}" data-line="{{line}}">
+                            <span class="icon icon-minus" aria-hidden="true"></span>
+                            <span class="icon__fallback-text">&minus;</span>
+                          </button>
+                          <input type="text" name="updates[]" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{id}}" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+                          <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus" data-id="{{id}}" data-line="{{line}}" data-qty="{{itemAdd}}">
+                            <span class="icon icon-plus" aria-hidden="true"></span>
+                            <span class="icon__fallback-text">+</span>
+                          </button>
+                        </div>
+                      </div>
+                      <div class="grid__item one-half text-right">
+                        <span class="ajaxcart__price">
+                          {{{price}}}
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {{/items}}
+
+            
+              <div class="ajaxcart__row">
+                <label for="CartSpecialInstructions" class="ajaxcart__note txt--minor">Add optional Gift Note or special instruction</label>
+                <textarea name="note" class="input-full" id="CartSpecialInstructions">{{note}}</textarea>
+              </div>
+            
+          </div>
+          <div class="ajaxcart__footer ajaxcart__footer--fixed">
+            <div class="ajaxcart__subtotal">
+              <div class="grid grid--table">
+                <div class="grid__item two-thirds">
+                  <span class="ajaxcart__subtotal-title h3">Subtotal</span>
+                </div>
+                <div class="grid__item one-third text-right">
+                  <span>{{{totalPrice}}}</span>
+                </div>
+              </div>
+            </div>
+            <p class="text-center ajaxcart__note txt--minor">Shipping and taxes calculated at checkout (PO Boxes are NOT available for shipping)</p>
+            <button type="submit" class="btn btn--full cart__checkout" name="checkout">
+              Check out
+            </button>
+          </div>
+        </form>
+      
+    </script>
+    <script id="JsQty" type="text/template">
+      
+        <div class="js-qty">
+          <button type="button" class="js-qty__adjust js-qty__adjust--minus" data-id="{{id}}" data-qty="{{itemMinus}}">
+            <span class="icon icon-minus" aria-hidden="true"></span>
+            <span class="icon__fallback-text">&minus;</span>
+          </button>
+          <input type="text" class="js-qty__num" value="{{itemQty}}" min="1" data-id="{{id}}" aria-label="quantity" pattern="[0-9]*" name="{{inputName}}" id="{{inputId}}">
+          <button type="button" class="js-qty__adjust js-qty__adjust--plus" data-id="{{id}}" data-qty="{{itemAdd}}">
+            <span class="icon icon-plus" aria-hidden="true"></span>
+            <span class="icon__fallback-text">+</span>
+          </button>
+        </div>
+      
+    </script>
+
+    <script>
+      jQuery(function($) {
+        ajaxCart.init({
+          formSelector: '.product__form',
+          cartContainer: '#CartContainer',
+          addToCartSelector: '.add-to-cart',
+          moneyFormat: "$ {{amount}}"
+        });
+      });
+    </script>
+  
+	<script src="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/slick.js?v=5813417459482447460" type="text/javascript"></script>
+	<script src="//cdn.shopify.com/s/files/1/0654/0895/t/12/assets/added.js?v=11393680716303075377" type="text/javascript"></script>
+
+
+<!--begin-bc-sf-filter-js-->
+  
+<!--end-bc-sf-filter-js-->
+
+<script type="text/javascript">
+
+
+jQuery(document).ready(function($) {
+
+  var now, lastDatePopupShowed, popupSubbed;
+  now = new Date();
+
+  if (localStorage.getItem('lastDatePopupShowed') !== null) {
+    lastDatePopupShowed = new Date(parseInt(localStorage.getItem('lastDatePopupShowed')));
+  }
+
+  if (localStorage.getItem('popupSubbed') !== null) {
+    popupSubbed = localStorage.getItem('popupSubbed');
+  }
+
+  	if ((((now - lastDatePopupShowed) >= (15 * 86400000)) || !lastDatePopupShowed) && (popupSubbed !== 'yes')) {
+       setTimeout(function() {
+          $.magnificPopup.open({
+                tClose: 'No Thanks!',
+                 items: {
+                src: '#mailchimp-popup-form'
+              },
+              type: 'inline',
+              preloader: false,
+              focus: '#email',
+
+              // When elemened is focused, some mobile browsers in some cases zoom in
+              // It looks not nice, so we disable it:
+              callbacks: {
+                  beforeOpen: function() {
+                      if($(window).width() < 860) {
+                          this.st.focus = false;
+                      } else {
+                          this.st.focus = '#email';
+                      }
+                  },
+                  open: function() {
+                    localStorage.setItem('lastDatePopupShowed', now);
+                  },
+              }
+          });
+       }, 8000);
+    }
+
+
+    $('.newsletter__submit').on( "click", function() {
+      $.magnificPopup.close();
+      localStorage.setItem('popupSubbed', 'yes');
+    });
+
+  $('#newsletter__no_thanks').on( "click", function() {
+  $.magnificPopup.close();
+});
+
+});
+
+</script>
+
+
+
+  <!-- link that opens popup -->
+<a class="canine-mailchimp-popup" href="#mailchimp-popup-form" hidden>Open form</a>
+
+<!-- form itself -->
+<div id="mailchimp-popup-form" class="mfp-hide">
+
+	<fieldset>
+       <h3>Join our mailing list and receive a <b>10%</b> discount off your first purchase.</h3>
+		<!-- snippets/newsletter-form.liquid -->
+
+
+<div class="newsletter text-center">
+  <div class="wrapper">
+    
+    
+      <form action="https://caninestyles.us13.list-manage.com/subscribe/post?u=164e44215127c17edd550ec84&amp;id=b2c90938ab" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+        <div class="input-group">
+          <label for="Email" class="newsletter__label label--hidden">Email address</label>
+          <input type="email" value="" placeholder="Email address" name="EMAIL" id="Email" class="input-group__field newsletter__input" autocorrect="off" autocapitalize="off">
+          <span class="input-group__btn">
+            <button type="submit" class="btn newsletter__submit" name="subscribe" id="Subscribe">
+              <span class="newsletter__submit-text--large">Subscribe</span>
+            </button>
+          </span>
+        </div>
+      </form>
+    
+  </div>
+</div>
+
+
+
+  <hr class="hr--clear">
+
+
+	</fieldset>
+  <span id="newsletter__no_thanks">No Thank you!</span>
+</div>
+
+ 
+
+
+<div class="smile-shopify-init"
+  data-channel-key="channel_B1MO4Ahz4FVLkzq9fAAnD4xm"
+
+></div>
+
+
+</body>
+</html>

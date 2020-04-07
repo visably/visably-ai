@@ -1,0 +1,918 @@
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<title>Welcome | Bikes, Accessories &amp; More | Schwinn</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script type="text/javascript" src="/ruxitagentjs_ICA2SVfqru_10187200323152418.js" data-dtconfig="rid=RID_2418|rpid=-1885260639|domain=schwinnbikes.com|reportUrl=/rb_bf23508jjh|app=ea7c4b59f27d43eb|cuc=rvbmwh06|srms=1,1,,,|uxrgcm=100,25,300,3;100,25,300,3|featureHash=ICA2SVfqru|lastModification=1585104659350|dtVersion=10187200323152418|tp=500,50,0,1|rdnt=1|uxrgce=1|uxdcw=1500|agentUri=/ruxitagentjs_ICA2SVfqru_10187200323152418.js"></script><link rel="stylesheet" href="https://static.cloud.coveo.com/searchui/v2.3826/css/CoveoFullSearch.css" />
+<link rel="stylesheet" href="/Coveo/Hive/css/CoveoForSitecore.css" />
+<script type="text/javascript" src='https://static.cloud.coveo.com/searchui/v2.3826/js/CoveoJsSearch.Lazy.min.js'></script>
+<script type="text/javascript" src='/Coveo/Hive/js/CoveoForSitecore.Lazy.min.js'></script>
+<script type="text/javascript" src="/Coveo/Hive/js/cultures/en.js"></script>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/Areas/SchwinnBikes/Assets/img/favicons/apple-touch-icon.png?v2">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Areas/SchwinnBikes/Assets/img/favicons/favicon-32x32.png?v2">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Areas/SchwinnBikes/Assets/img/favicons/favicon-16x16.png?v2">
+    <link rel="icon" href="/Areas/SchwinnBikes/Assets/img/favicons/favicon.ico?v2">
+    <link rel="manifest" href="/Areas/SchwinnBikes/Assets/img/favicons/site.webmanifest?v2">
+    <link rel="mask-icon" href="/Areas/SchwinnBikes/Assets/img/favicons/safari-pinned-tab.svg?v2" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#c8102e">
+    <meta name="theme-color" content="#ffffff">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/Areas/SchwinnBikes/Assets/js/jquery-3.2.0.js"><\/script>')</script>
+    <link rel="stylesheet" href="/Areas/SchwinnBikes/Assets/css/main.css">
+    <link rel="stylesheet" href="https://use.typekit.net/ooa8wgw.css">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-17190483-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-17190483-2');
+    </script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MLVBLPF');</script>
+<!-- End Google Tag Manager -->
+
+<meta property="twitter:description" content="Official site of Schwinn Bicycle. Maker of Road Bikes, Hybrid Bikes, Cruiser Bikes, Mountain Bikes, Bike Path, Urban Bikes and Kids Bicycles." />
+<meta name="Description" content="Official site of Schwinn Bicycle. Maker of Road Bikes, Hybrid Bikes, Cruiser Bikes, Mountain Bikes, Bike Path, Urban Bikes and Kids Bicycles." />
+<meta name="Description" content="Official site of Schwinn Bicycle. Maker of Road Bikes, Hybrid Bikes, Cruiser Bikes, Mountain Bikes, Bike Path, Urban Bikes and Kids Bicycles." />
+<meta name="Robots" content="INDEX,FOLLOW" />
+<meta property="og:locale:alternate" content="en-BR-english" />
+<meta property="og:locale:alternate" content="en-US" />
+<meta property="og:locale:alternate" content="en-LA-english" />
+<meta property="og:locale:alternate" content="es-LA-spanish" />
+<meta property="og:locale:alternate" content="en-IT-english" />
+<meta property="og:locale:alternate" content="en-ES-english" />
+<meta property="og:locale:alternate" content="en-FR-english" />
+<meta property="og:locale:alternate" content="en-NL-english" />
+<meta property="og:locale:alternate" content="en-DE-english" />
+<meta property="og:locale:alternate" content="en-JP-english" />
+<meta property="og:locale:alternate" content="en-NL" />
+<meta property="og:locale:alternate" content="en-AU" />
+<meta property="og:locale:alternate" content="en-CA" />
+<meta property="og:locale:alternate" content="pt-BR" />
+<meta property="og:locale:alternate" content="it-IT" />
+<meta property="og:locale:alternate" content="nl-NL" />
+<meta property="og:locale:alternate" content="en-GB" />
+<meta property="og:locale:alternate" content="es-ES" />
+<meta property="og:locale:alternate" content="fr-FR" />
+<meta property="og:locale:alternate" content="de-DE" />
+<meta property="og:locale:alternate" content="ja-JP" />
+<meta property="og:url" content="https://www.schwinnbikes.com/en" />
+<meta property="og:title" content="Welcome | Bikes, Accessories &amp; More | Schwinn" />
+<meta name="RequestID" content="{fca74c98-8d1d-404b-8460-a20ef4ad0e31}" />
+<meta property="og:site_name" content="Schwinnbikes" />
+<meta name="Site" content="SchwinnBikes" />
+<meta property="twitter:title" content="Welcome | Bikes, Accessories &amp; More | Schwinn" />
+<meta property="og:description" content="Official site of Schwinn Bicycle. Maker of Road Bikes, Hybrid Bikes, Cruiser Bikes, Mountain Bikes, Bike Path, Urban Bikes and Kids Bicycles." />
+<meta name="Keywords" content="Schwinn, Schwinn bikes, Schwinn bike, Schwinn bicycles, bicycle, bicycles, bike, bikes, cycling, sport, sports, cruisers, bike path, mountain, road, hybrid, urban, kids, electric" />
+<meta name="Keywords" content="Schwinn, Schwinn bikes, Schwinn bike, Schwinn bicycles, bicycle, bicycles, bike, bikes, cycling, sport, sports, cruisers, bike path, mountain, road, hybrid, urban, kids, electric" />
+<meta property="og:locale" content="en" /></head>
+
+<body >
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLVBLPF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <div>
+
+    
+    <!-- Resources -->
+    <div id="coveo3a949f41"
+         class="CoveoForSitecoreContext"
+                    data-sc-should-have-analytics-component='true'
+            data-sc-analytics-enabled='true'
+            data-sc-current-language='en'
+            data-prebind-sc-language-field-name='fieldTranslator'
+            data-sc-language-field-name='_language'
+            data-sc-labels='{&quot;If the problem persists contact the administrator.&quot; : &quot;If the problem persists contact the administrator.&quot; , &quot;Search is currently unavailable&quot; : &quot;Oops! Something went wrong on the server.&quot; , &quot;Created&quot; : &quot;Created&quot; , &quot;Created by&quot; : &quot;Created by&quot; , &quot;Creation time.&quot; : &quot;Creation time.&quot; , &quot;Language&quot; : &quot;Language&quot; , &quot;Last time modified.&quot; : &quot;Last time modified.&quot; , &quot;Template&quot; : &quot;Template&quot; , &quot;Uniform resource identifier&quot; : &quot;URI&quot; , &quot;Updated by&quot; : &quot;Updated by&quot;}'
+            data-sc-maximum-age='900000'
+            data-sc-page-name='Home'
+            data-sc-page-name-full-path='/sitecore/content/Schwinn/Home'
+            data-sc-index-source-name='Coveo_web_index - Prod-DorelSports'
+            data-sc-is-in-experience-editor='false'
+            data-sc-is-user-anonymous='true'
+            data-sc-item-uri='6b78b7a6-7e1b-4d4f-a4ee-641e408c8f53'
+            data-prebind-sc-latest-version-field-name='fieldTranslator'
+            data-sc-latest-version-field-name='_latestversion'
+            data-sc-rest-endpoint-uri='/coveo/rest'
+            data-sc-site-name='SchwinnBikes'
+            data-sc-field-prefix='f'
+            data-sc-field-suffix='48105'
+            data-sc-external-fields='[{&quot;fieldName&quot;:&quot;sysauthor&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;syscollection&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;sysconcepts&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;sysdate&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;sysfiletype&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;syssource&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;sysrowid&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;sysattachmentparentid&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;sysclickableuri&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;sysindexeddate&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;sysisattachment&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;syslanguage&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;sysprintableuri&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;syssize&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;systitle&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;systopparent&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;systopparentid&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;systransactionid&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;sysuri&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;sysurihash&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;title&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Description&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Brand&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;ModelName&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;ConsumerName1&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;ConsumerName2&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Consumer Name 1&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Consumer Name 2&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Gender&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Subcategory&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Platform&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;ActiveModelYear&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;ModelYear&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;AgeRange&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Productsubcategoryname&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;TireSize&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;WheelSize&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;SalsifyId&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;ProductUrl&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;productretailerlist&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;productgenericcolor&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;productspecificcolor&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;productmainpicture&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;productcategory&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Open Graph Image&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;blogurl&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;supportinturl&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;blogcategory&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;productregionarchivedateint&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;productregiongolivedateint&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;productregionarchivedateusa&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;productregiongolivedateusa&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;articlestextcomputedindexfield&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;fulldescription&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;RegionCategory&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;documenttype&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;firstSentences&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;cardimageurl&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;urllink&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;batterytype&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;framematerial&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;fronttravel&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;frametravel&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;e-bikedriveunit&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;badges&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;msrp&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;msrpraw&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;mainproductimage&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;color&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;swatches&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;swatchesandimages&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;featured&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;archived&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;isfeatured&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;category&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;searchsortpriority&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;saleprice&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;salepriceraw&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;languagerelativeurl&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;marketingitemid&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;catalogitemid&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;firstavailableon&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;isvalid&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Crosslink CTA Text&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Crosslink CTA Url&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Crosslink Background Image&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;Theme&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;IsCrosslinked&quot;,&quot;shouldEscape&quot;:true}]'
+>
+    </div>
+    <script type="text/javascript">
+        var endpointConfiguration = {
+            itemUri: "6b78b7a6-7e1b-4d4f-a4ee-641e408c8f53",
+            siteName: "SchwinnBikes",
+            restEndpointUri: "/coveo/rest"
+        };
+        if (typeof (CoveoForSitecore) !== "undefined") {
+            CoveoForSitecore.SearchEndpoint.configureSitecoreEndpoint(endpointConfiguration);
+            var context = document.getElementById("coveo3a949f41");
+            if (!!context) {
+                CoveoForSitecore.Context.configureContext(context);
+            }
+        }
+    </script>
+</div>
+
+
+    <div class="CoveoForSitecoreAnalytics"
+        >
+    </div>
+<div>
+    
+
+        <div class="CoveoAnalytics"
+                            data-prebind-endpoint='coveoForSitecoreAnalyticsEndpoint'
+                data-prebind-anonymous='isAnonymous'
+                data-prebind-search-hub='currentPageName'
+                data-prebind-send-to-cloud='analyticsEnabled'
+>
+        </div>
+</div>
+        <header class="site-header">
+            <div class="cookie-banner" data-site-name="SchwinnBikes">
+    <div class="wrap">
+        <div class="message">
+            <p>
+<strong><strong>Hi, welcome to our website.</strong>&nbsp;</strong>This website uses cookies for analytics, personalization and advertising. Please review our&nbsp;<a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.dorelsports.com/cookie-policy/" target="_blank">COOKIE POLICY</a>&nbsp;to learn more or change your cookie settings. By continuing to browse, you agree to our use of cookies. Click Continue to close.
+</p>
+        </div>
+        <a class="light button" href="#">Continue</a>
+    </div>
+</div>
+            <div class="wrap">
+                
+<a class="link-home" href="/" tabindex="2">
+    <div class="logo">
+        <img src="/-/media/feature/navigation/schwinn-logo.svg?la=en&amp;hash=1151040942B7AA6F94378038042E2101C9F49E8B" alt="" />
+    </div>
+</a>
+
+<nav class="nav-main" aria-label="site main navigation">
+    <a class="mobile-nav-trigger" href="#" tabindex="1">
+        <span></span>
+        <div class="label">Menu</div>
+    </a>
+    <ul class="nav-body">
+                <li >
+                        <a href="#" class="top-level" tabindex="3">Products</a>
+                        <div class="col-based  subnav">
+                            <a class="back" href="#">
+                                <i class="fa fa-angle-left"></i>Back</a>
+
+                                <div class="column">
+
+                                        <a href="/en/bikes/mens-bikes">
+                                            <h2 class="title">Men</h2>
+                                        </a>
+                                                                            <ul class="subnav">
+                                            <li>
+                                                <a class="back" href="#">
+                                                    <i class="fa fa-angle-left"></i>Back</a>
+                                            </li>
+                                                <li>
+                                                    <a href="/en/bikes/mens-bikes/mens-mountain-bikes" >Mountain</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/mens-bikes/mens-cruiser-bikes" >Cruiser</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/mens-bikes/mens-hybrid-bikes" >Hybrid</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/mens-bikes/mens-road-bikes" >Road</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/mens-bikes/mens-urban-bikes" >Urban</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/mens-bikes/mens-electric-bikes" >E-Bikes</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/mens-bikes/mens-tricycles" >Tricycles</a>
+                                                </li>
+                                            <li>
+                                                <a class="all" href="/en/bikes/mens-bikes">View all&nbsp;<i class="fa fa-angle-right"></i></a>
+                                            </li>
+                                        </ul>
+                                </div>
+                                <div class="column">
+
+                                        <a href="/en/bikes/womens-bikes">
+                                            <h2 class="title">Women</h2>
+                                        </a>
+                                                                            <ul class="subnav">
+                                            <li>
+                                                <a class="back" href="#">
+                                                    <i class="fa fa-angle-left"></i>Back</a>
+                                            </li>
+                                                <li>
+                                                    <a href="/en/bikes/womens-bikes/womens-mountain-bikes" >Mountain</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/womens-bikes/womens-cruiser-bikes" >Cruiser</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/womens-bikes/womens-hybrid-bikes" >Hybrid</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/womens-bikes/womens-road-bikes" >Road</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/womens-bikes/womens-urban-bikes" >Urban</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/womens-bikes/womens-electric-bikes" >E-Bikes</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/womens-bikes/womens-tricycles" >Tricycles</a>
+                                                </li>
+                                            <li>
+                                                <a class="all" href="/en/bikes/womens-bikes">View all&nbsp;<i class="fa fa-angle-right"></i></a>
+                                            </li>
+                                        </ul>
+                                </div>
+                                <div class="column">
+
+                                        <a href="/en/bikes/kids-bikes">
+                                            <h2 class="title">Kids</h2>
+                                        </a>
+                                                                            <ul class="subnav">
+                                            <li>
+                                                <a class="back" href="#">
+                                                    <i class="fa fa-angle-left"></i>Back</a>
+                                            </li>
+                                                <li>
+                                                    <a href="/en/bikes/kids-bikes/kids-mountain-bikes" >Mountain</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/kids-bikes/kids-sidewalk-bikes" >Sidewalk</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/kids-bikes/kids-cruiser-bikes" >Cruiser</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/bikes/kids-bikes/kids-balance-bikes" >Balance</a>
+                                                </li>
+                                            <li>
+                                                <a class="all" href="/en/bikes/kids-bikes">View all&nbsp;<i class="fa fa-angle-right"></i></a>
+                                            </li>
+                                        </ul>
+                                </div>
+                            
+                        </div>
+                </li>
+                <li >
+                        <a href="#" class="top-level" tabindex="3">Support</a>
+                        <div class="row-based  subnav">
+                            <a class="back" href="#">
+                                <i class="fa fa-angle-left"></i>Back</a>
+
+                                <div class="column">
+
+                                        <a href="/en/support/select">
+                                            <h2 class="title">Select</h2>
+                                        </a>
+                                                                            <ul class="subnav">
+                                            <li>
+                                                <a class="back" href="#">
+                                                    <i class="fa fa-angle-left"></i>Back</a>
+                                            </li>
+                                                <li>
+                                                    <a href="/en/support/select/which-schwinn-is-right-for-me" >Which Schwinn is right for me?</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/select/get-the-right-fit" >Get the right fit (Adults)</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/select/get-the-right-kids-fit" >Get the right fit (Kids)</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/select/bike-types" >Types of bikes</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/select/schwinn-technologies" >Schwinn technologies</a>
+                                                </li>
+                                            <li>
+                                                <a class="all" href="/en/support/select">View all&nbsp;<i class="fa fa-angle-right"></i></a>
+                                            </li>
+                                        </ul>
+                                </div>
+                                <div class="column">
+
+                                        <a href="/en/support/buy">
+                                            <h2 class="title">Buy</h2>
+                                        </a>
+                                                                            <ul class="subnav">
+                                            <li>
+                                                <a class="back" href="#">
+                                                    <i class="fa fa-angle-left"></i>Back</a>
+                                            </li>
+                                                <li>
+                                                    <a href="/en/support/buy/dealer-locator" >Dealer locator</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/register" >Register your product</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/buy/retailers" >Schwinn retailers</a>
+                                                </li>
+                                            <li>
+                                                <a class="all" href="/en/support/buy">View all&nbsp;<i class="fa fa-angle-right"></i></a>
+                                            </li>
+                                        </ul>
+                                </div>
+                                <div class="column">
+
+                                        <a href="/en/support/own-and-maintain">
+                                            <h2 class="title">Own &amp; Maintain</h2>
+                                        </a>
+                                                                            <ul class="subnav">
+                                            <li>
+                                                <a class="back" href="#">
+                                                    <i class="fa fa-angle-left"></i>Back</a>
+                                            </li>
+                                                <li>
+                                                    <a href="/en/support/own-and-maintain/assembly-guides" >Assembly guides</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/own-and-maintain/owners-manuals" >Owners manuals</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/own-and-maintain/warranties" >Warranty information</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/own-and-maintain/pre-ride-bike-maintenance" >Pre-ride bike maintenance</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/own-and-maintain/bike-maintenance-basics" >Bike maintenance basics</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/own-and-maintain/safety-and-recalls" >Safety and recalls</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/own-and-maintain/when-to-call-a-bike-shop" >When to call a bike shop</a>
+                                                </li>
+                                            <li>
+                                                <a class="all" href="/en/support/own-and-maintain">View all&nbsp;<i class="fa fa-angle-right"></i></a>
+                                            </li>
+                                        </ul>
+                                </div>
+                                <div class="column">
+
+                                        <a href="/en/support/ride">
+                                            <h2 class="title">Ride</h2>
+                                        </a>
+                                                                            <ul class="subnav">
+                                            <li>
+                                                <a class="back" href="#">
+                                                    <i class="fa fa-angle-left"></i>Back</a>
+                                            </li>
+                                                <li>
+                                                    <a href="/en/support/ride/anatomy-of-the-bike" >Anatomy of a bike</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/ride/safety-considerations" >Safety considerations</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/ride/teach-your-kid-how-to-ride" >How to teach your kid to ride</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/ride/where-to-ride" >Where to ride</a>
+                                                </li>
+                                            <li>
+                                                <a class="all" href="/en/support/ride">View all&nbsp;<i class="fa fa-angle-right"></i></a>
+                                            </li>
+                                        </ul>
+                                </div>
+                                <div class="column">
+
+                                        <a href="/en/support/community">
+                                            <h2 class="title">Community</h2>
+                                        </a>
+                                                                            <ul class="subnav">
+                                            <li>
+                                                <a class="back" href="#">
+                                                    <i class="fa fa-angle-left"></i>Back</a>
+                                            </li>
+                                                <li>
+                                                    <a href="/en/blog" >Blog</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/community/brand-ambassadors" >Brand ambassadors</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/community-giving" title="Community Giving" >Community Giving</a>
+                                                </li>
+                                            <li>
+                                                <a class="all" href="/en/support/community">View all&nbsp;<i class="fa fa-angle-right"></i></a>
+                                            </li>
+                                        </ul>
+                                </div>
+                                <div class="column">
+
+                                        <a href="/en/support/get-help">
+                                            <h2 class="title">Get Help</h2>
+                                        </a>
+                                                                            <ul class="subnav">
+                                            <li>
+                                                <a class="back" href="#">
+                                                    <i class="fa fa-angle-left"></i>Back</a>
+                                            </li>
+                                                <li>
+                                                    <a href="/en/support/get-help/contact-us" >Contact us</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/get-help/frequently-asked-questions" >Frequently asked questions</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/get-help/international-distributors" >International distributors</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/en/support/get-help/submit-a-support-ticket" >Submit a support ticket</a>
+                                                </li>
+                                            <li>
+                                                <a class="all" href="/en/support/get-help">View all&nbsp;<i class="fa fa-angle-right"></i></a>
+                                            </li>
+                                        </ul>
+                                </div>
+                            
+                        </div>
+                </li>
+                <li >
+                        <a href="#" class="top-level" tabindex="3">About</a>
+                        <div class="row-based  subnav">
+                            <a class="back" href="#">
+                                <i class="fa fa-angle-left"></i>Back</a>
+
+                                <div class="column">
+
+                                        <a href="/en/blog">
+                                            <h2 class="title">Blog</h2>
+                                        </a>
+                                                                    </div>
+                                <div class="column">
+
+                                        <a href="/en/brand-history">
+                                            <h2 class="title">Brand History</h2>
+                                        </a>
+                                                                    </div>
+                                <div class="column">
+
+                                        <a href="/en/community-giving">
+                                            <h2 class="title">Community Giving</h2>
+                                        </a>
+                                                                    </div>
+                                <div class="column">
+
+                                        <a href="/en/support/get-help/contact-us">
+                                            <h2 class="title">Contact us</h2>
+                                        </a>
+                                                                    </div>
+                                <div class="column">
+
+                                        <a href="/en/news-and-press">
+                                            <h2 class="title">News and Press</h2>
+                                        </a>
+                                                                    </div>
+                                <div class="column">
+
+                                        <a href="/en/careers">
+                                            <h2 class="title">Careers</h2>
+                                        </a>
+                                                                    </div>
+                            
+                        </div>
+                </li>
+            <li>
+                <div class="top-level login showhide desktop">
+                    
+                    <div class="layer">
+                        
+                    </div>
+                </div>
+            </li>
+    </ul>
+</nav>﻿
+
+<div class="search-popout">
+    <a class="trigger" href="#">
+        
+        <i class="fa fa-search"></i>
+        <i class="fa fa-times"></i>
+    </a>
+    <div class="layer">
+        <div class="predictive-search">
+            
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var searchboxElement = document.getElementById("SchwinnHeaderCoveoSearchBox");
+
+        if ("SchwinnHeaderCoveoSearchBox" == "BlogLandingCoveoSearch") {
+            searchboxElement.addEventListener("CoveoComponentInitialized", function () {
+                CoveoForSitecore.initSearchboxIfStandalone(searchboxElement, "/en/search-results" + "#t=articles");
+            });
+        } else {
+            searchboxElement.addEventListener("CoveoComponentInitialized", function () {
+                CoveoForSitecore.initSearchboxIfStandalone(searchboxElement, "/en/search-results");
+            });
+        }
+
+        //This resets the facets on a new search.
+        var search = $("#schwinn-search"),
+            previousSearchTerm;
+
+            search.on('doneBuildingQuery', function(e, args) {
+                var currentSearchTerm = args.queryBuilder.expression.parts.join();
+                if (!!previousSearchTerm && previousSearchTerm !== currentSearchTerm) {
+                    Coveo.$('.CoveoFacet').coveo('reset');
+                }
+                previousSearchTerm = currentSearchTerm;
+        });
+     })
+</script>
+
+    <div id="SchwinnHeaderCoveoSearchBox_container"
+                     data-prebind-maximum-age='currentMaximumAge'
+>
+        <div id="SchwinnHeaderCoveoSearchBox"
+             class="CoveoSearchbox"
+                             data-enable-omnibox='true'
+                 data-enable-query-suggest-addon='true'
+                 data-prebind-maximum-age='currentMaximumAge'
+                 data-placeholder='Enter keywords, model name or number'
+>
+            
+            
+<script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function() {
+        var componentId = "SchwinnHeaderCoveoSearchBox";
+        var componentElement = document.getElementById(componentId);
+
+        function showError(error) {
+                console.error(error);
+        }
+
+        function areCoveoResourcesIncluded() {
+            return typeof (Coveo) !== "undefined";
+        }
+
+        if (areCoveoResourcesIncluded()) {
+            var event = document.createEvent("CustomEvent");
+            event.initEvent("CoveoComponentInitialized", false, true);
+            
+            setTimeout(function() {
+                componentElement.dispatchEvent(event);
+            }, 0);
+        } else {
+            componentElement.classList.add("invalid");
+            showError("The Coveo Resources component must be included in this page.");
+        }
+    });
+</script>
+            <div class="CoveoForSitecoreExpressions"></div>
+            <div class="CoveoForSitecoreConfigureSearchHub" data-sc-search-hub="Search Results"></div>
+        </div>
+        
+    </div>
+
+        </div>
+    </div>
+</div>
+            </div>
+        </header>
+    <main class="home">
+        
+
+<header class="hero"
+        data-text="light"
+        data-overlay="dark"
+        data-overlay-opacity="25"
+        data-size="large"
+        data-align="left"
+        data-button="transparent"
+        data-image-focal-point="center"
+        data-gradient="False">
+    <div class="fullbleed">
+        <div class="wrap">
+            <h1 class="headline">Explore new trails</h1>
+<a href="/en/bikes/mens-bikes/mens-mountain-bikes" class="button" >Mountain Bikes For Men</a><a href="/en/bikes/womens-bikes/womens-mountain-bikes" class="button" >Mountain Bikes for Women</a>        </div>
+
+            <picture>
+                    <source media="(min-width: 1170px)" srcset="/-/media/schwinn/homepage/hero/s4136wm_29m_axum-blk_ls9302_1500x600-v1.jpg">
+                                                <img src="/-/media/schwinn/homepage/hero/s4136wm_29m_axum-blk_ls9302_1500x600-v1.jpg?h=600&amp;w=1500&amp;la=en&amp;hash=B594384B62F95BD9A5050F32E89D796C25A2DDFE" alt="Axum" />
+            </picture>
+    </div>
+</header>
+
+<header class="hero"
+        data-text="light"
+        data-overlay="dark"
+        data-overlay-opacity="15"
+        data-size="large"
+        data-align="right"
+        data-button="transparent"
+        data-image-focal-point="center"
+        data-gradient="False">
+    <div class="fullbleed">
+        <div class="wrap">
+            <h1 class="headline">Redefine the<br>road trip</h1>
+<a href="/en/bikes/mens-bikes/mens-road-bikes" class="button" >Road Bikes for Men</a><a href="/en/bikes/womens-bikes/womens-road-bikes" class="button" >Road Bikes for Women</a>        </div>
+
+            <picture>
+                    <source media="(min-width: 1170px)" srcset="/-/media/schwinn/homepage/hero/jordan-craig-august2018-6_1500x600.jpg">
+                                                <img src="/-/media/schwinn/homepage/hero/jordan-craig-august2018-6_1500x600.jpg?h=600&amp;w=1500&amp;la=en&amp;hash=6F2D23478F5FA11B1B3968E6E37EBC08D9030A8E" alt="" />
+            </picture>
+    </div>
+</header>
+
+<header class="hero"
+        data-text="light"
+        data-overlay="dark"
+        data-overlay-opacity="15"
+        data-size="large"
+        data-align="center"
+        data-button="transparent"
+        data-image-focal-point="center"
+        data-gradient="False">
+    <div class="fullbleed">
+        <div class="wrap">
+            <h1 class="headline">Anything but routine</h1>
+<a href="/en/bikes/mens-bikes/mens-hybrid-bikes" class="button" >Hybrid Bikes for Men</a><a href="/en/bikes/womens-bikes/womens-hybrid-bikes" class="button" >Hybrid Bikes for Women</a>        </div>
+
+            <picture>
+                    <source media="(min-width: 1170px)" srcset="/-/media/schwinn/homepage/hero/s17ph_11077_1500x600-2.jpg">
+                                                    <source media="(max-width: 767px)" srcset="/-/media/schwinn/homepage/hero/s17ph_11077_450x350.jpg">
+                <img src="/-/media/schwinn/homepage/hero/s17ph_11077_1500x600-2.jpg?h=600&amp;w=1500&amp;la=en&amp;hash=4EBD3B3530C083DDA10B21BE6DE9139268FA8FCE" alt="" />
+            </picture>
+    </div>
+</header>
+        <div class="page-content">
+            
+
+<section class="image-cta" data-text="light" data-gradient="true">
+    <header>
+        <h1 class="headline">Find your ride. Find your adventure.</h1>
+    </header>
+    <div class="grid">
+        
+
+<a href="/en/bikes/mens-bikes" class="card" data-zoom="" ><img src="/-/media/feature/pagecontent/sliders/fpo-image-cta-home-1.jpg?h=270&amp;w=270&amp;la=en&amp;hash=149643E1A4E675DE698536CD8F5DD55DC2E24655" alt="a1" />    <div class="overlay">
+        Men
+    </div>
+</a>
+
+<a href="/en/bikes/womens-bikes" class="card" data-zoom="" ><img src="/-/media/feature/pagecontent/sliders/fpo-image-cta-home-2.jpg?h=270&amp;w=270&amp;la=en&amp;hash=DEB79F6924DF368F5C03FA0273E034F8B0347A8A" alt="Test " />    <div class="overlay">
+        Women
+    </div>
+</a>
+
+<a href="/en/bikes/kids-bikes" class="card" data-zoom="" ><img src="/-/media/feature/pagecontent/sliders/fpo-image-cta-home-3.jpg?h=270&amp;w=270&amp;la=en&amp;hash=2CAA0787F47AB5F9AF6A6C84F3A2A119E5DA7FD0" alt="Test3" />    <div class="overlay">
+        Kids
+    </div>
+</a>
+    </div>
+    
+</section>
+
+<section
+    class="text-image-cta text-image-cta-margin" style="padding-top:0px;padding-bottom:0px;"
+        data-align="left" 
+            data-image="embedded" 
+                data-text="dark" 
+            data-gradient="true" 
+>
+
+        <div class="text">
+                <header>
+        <h1 class="headline">
+            Check out the Schwinn Fastback Carbon 105
+        </h1>
+    </header>
+    <div class="supplemental">
+        <p style="margin: 2pt 0in;"><span style="color: black;">Take the road less traveled. Equipped with full Shimano 105 the Schwinn Fastback will take you further than ever before.&nbsp;</span>Go further and go faster as you explore the open road on these beautiful, smooth, lightweight bicycles. Push past your limits as you explore the world one ride at a time. Schwinn road cycles remove the intimidation factor and add comfort back into the mix.&nbsp;</p>
+    </div>
+<a href="https://www.schwinnbikes.com/en/usa/bikes/road/fastback-carbon-105-s11309m10" class="button" >Learn More</a>
+        </div>
+        <div class="image">
+            <img src="/-/media/images/homepage/homepage_fpo/s19_700m_fastbackcarbon105-blk_3q.png?h=500&amp;w=500&amp;la=en&amp;hash=06701233B7DEDB49716DEB388E154A621504C180" alt="" />
+        </div>
+
+</section>
+
+
+
+
+<section class="instagram-feed"
+         data-gradient="False"
+         
+         
+         
+         data-feed-url="/api/dorel/social/InstagramImages/?count=12"
+         >
+    <div class="wrap">
+        <header>
+            <h1 class="headline">Living the Schwinn life on Instagram</h1>
+        </header>
+    <ul class="photo-container">
+    </ul>
+        
+        <a href="https://www.instagram.com/schwinnbikes/" class="button" target="_blank" title="SEE US ON INSTAGRAM etst" >SEE US ON INSTAGRAM</a>
+    </div>
+    <script type="text/template" data-for="instagram-feed-image-template">
+        <li>
+            <a href="{url}" target="_blank">
+                <div style="width: 100%; padding-top: 100%; position: relative;">
+                    <div style="background-image: url('{src}'); background-size: cover; position: absolute; top:0; left:0; bottom:0; right:0">
+                    </div>
+                </div>
+            </a>
+        </li>
+    </script>
+</section>
+
+
+        </div>
+        
+        
+    </main>
+    <div class="page-gradient"></div>
+    <input class="carouselSettings" data-Auto-Scroll="true"
+           data-Scroll-Timing="4000"
+           type="hidden" />
+    <footer class="site-footer">
+        <section class="stay-connected">
+    <header>
+        <h1 class="headline">Stay connected with Schwinn</h1>
+    </header>
+    <div class="newsLetterCls">
+    <h2 class="title">Sign Up</h2>
+    <p>Get special offers, exclusive product news, and info on events delivered straight to your inbox.</p>
+<form action="/" id="subscribeNewsletterForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="q3chfwTCLWF-Fo-hKB1N76MdGI6zQdLUU3mbC_hMf5q5EZrbnkvhiwrohjP5T3u7WeLSPw3HDaFrnVnbSXONniffELVUVmkck_PnhGdhlnY1" />        <input type="hidden" name="fhController" value="NewsletterSubscribeFormController" />
+        <input type="hidden" name="fhAction" value="NewsletterSubscribeForm" />
+        <ul class="form-inputs">
+            <li>
+
+                <input data-validetta="required,email" data-vd-message-email="Please enter a valid email address." data-vd-message-required="You must enter an email address." id="Email" name="Email" spellcheck="false" type="text" value="" />
+            </li>
+            <li>
+                <div>
+                    <p>Personal information will be used in accordance with our <a href="https://www.dorelsports.com/privacy-policy/?utm_source=schwinn&utm_medium=footer-privacy&utm_campaign=schwinn-navigation" target="_blank">privacy policy</a></p>
+
+                    <button type="submit">Subscribe</button>
+                </div>
+            </li>
+        </ul>
+</form></div>    <ul class="social-links">
+            <li>
+<a href="https://www.facebook.com/RideSchwinn/" class=" " target="_blank" >                    <i class="fa fa-facebook"></i>
+</a>            </li>
+            <li>
+<a href="https://www.instagram.com/schwinnbikes/" class=" " target="_blank" >                    <i class="fa fa-instagram"></i>
+</a>            </li>
+            <li>
+<a href="https://www.youtube.com/user/schwinnbicycles" class=" " target="_blank" >                    <i class="fa fa-youtube-square"></i>
+</a>            </li>
+            <li>
+<a href="https://twitter.com/rideschwinn" class=" " target="_blank" >                    <i class="fa fa-twitter"></i>
+</a>            </li>
+            <li>
+<a href="https://www.pinterest.com/schwinnbikes/" class=" " target="_blank" >                    <i class="fa fa-pinterest"></i>
+</a>            </li>
+    </ul>
+
+
+
+    <!-- /column -->
+    <!-- ===========================================================================
+    social-links.kit
+    Page Component
+    Links to Schwinn social networking accounts
+    -->
+    <!-- /social-links -->
+
+
+</section><!-- /stay-connected -->
+<nav class="nav-footer grid">
+        <div class="column showhide">
+            <h2 class="trigger">Bikes</h2>
+                <div class="layer">
+                    <ul>
+                            <li>
+                                <a href="/en/bikes/mens-bikes" >Men</a>
+                            </li>
+                            <li>
+                                <a href="/en/bikes/womens-bikes" >Women</a>
+                            </li>
+                            <li>
+                                <a href="/en/bikes/kids-bikes" >Kids</a>
+                            </li>
+                    </ul>
+                </div>
+        </div>
+        <div class="column showhide">
+            <h2 class="trigger">Support</h2>
+                <div class="layer">
+                    <ul>
+                            <li>
+                                <a href="/en/support/buy" >Where to buy</a>
+                            </li>
+                            <li>
+                                <a href="/en/support/buy/dealer-locator" >Dealer locator</a>
+                            </li>
+                            <li>
+                                <a href="/en/register" >Register your product</a>
+                            </li>
+                            <li>
+                                <a href="/en/support/own-and-maintain/warranties" >Warranties</a>
+                            </li>
+                            <li>
+                                <a href="/en/support/get-help/contact-us" >Contact us</a>
+                            </li>
+                    </ul>
+                </div>
+        </div>
+        <div class="column showhide">
+            <h2 class="trigger">About</h2>
+                <div class="layer">
+                    <ul>
+                            <li>
+                                <a href="/en/brand-history" title="Brand History" >Brand History</a>
+                            </li>
+                            <li>
+                                <a href="/en/community-giving" title="Community Giving" >Community Giving</a>
+                            </li>
+                            <li>
+                                <a href="/en/blog" >Blog</a>
+                            </li>
+                            <li>
+                                <a href="/en/news-and-press" >News and press</a>
+                            </li>
+                            <li>
+                                <a href="/en/careers" >Careers</a>
+                            </li>
+                    </ul>
+                </div>
+        </div>
+        <div class="column showhide">
+            <h2 class="trigger">Legal</h2>
+                <div class="layer">
+                    <ul>
+                            <li>
+                                <a href="https://www.dorelsports.com/cookie-policy/?utm_source=schwinn&amp;utm_medium=footer-cookie&amp;utm_campaign=schwinn-navigation" target="_blank" >Cookie policy</a>
+                            </li>
+                            <li>
+                                <a href="https://www.dorelsports.com/privacy-policy/?utm_source=schwinn&amp;utm_medium=footer-privacy&amp;utm_campaign=schwinn-navigation" target="_blank" >Privacy policy</a>
+                            </li>
+                            <li>
+                                <a href="https://www.dorelsports.com/terms-of-service/?utm_source=schwinn&amp;utm_medium=footer-terms&amp;utm_campaign=schwinn-navigation" target="_blank" >Terms &amp; conditions</a>
+                            </li>
+                            <li>
+                                <a href="/en/support/own-and-maintain/safety-and-recalls" >Safety notices &amp; recalls</a>
+                            </li>
+                    </ul>
+                </div>
+        </div>
+</nav>
+<div class="footer-end">
+    <div class="logo">
+        <img src="/-/media/feature/navigation/schwinn-logo.svg?la=en&amp;hash=1151040942B7AA6F94378038042E2101C9F49E8B" alt="" />
+    </div>
+    &copy; Schwinn Bicycles | A division of Dorel Industries, Inc.
+    <div>
+<span style="text-align: center; letter-spacing: -0.32px; color: #252525;">You are viewing Schwinn Bikes United States.</span>    </div>
+</div>
+    </footer>
+    <script src="/Areas/SchwinnBikes/Assets/js/frontend.js"></script>
+    <script src="/Areas/SchwinnBikes/Assets/js/plugins.js"></script>
+    <script src="/Areas/SchwinnBikes/Assets/js/BikeRegistration/RegisteredBikes.js"></script>
+    <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ab17ad41e919cab"></script>
+    <script>
+        $(document).ready(function () {
+            schwinnJs.formValidation("#subscribe-form");
+        });
+    </script>
+<script type="text/javascript">$(document).ready(function(){$("#subscribeNewsletterForm").length&&schwinnJs.formValidation("#subscribeNewsletterForm")})
+</script>
+
+<script src="/Areas/SchwinnBikes/Assets/js/instagram.js"></script></body>
+
+</html>

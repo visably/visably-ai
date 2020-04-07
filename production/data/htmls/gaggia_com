@@ -1,0 +1,856 @@
+<!doctype html>
+<html lang="it-IT">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Homepage - Gaggia</title>
+<link rel="alternate" hreflang="it-it" href="https://www.gaggia.it" />
+<link rel="alternate" hreflang="en-us" href="https://www.gaggia.com" />
+<link rel="alternate" hreflang="de-de" href="https://www.gaggia.de" />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- This site is optimized with the Yoast SEO plugin v11.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.gaggia.it/" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Homepage - Gaggia" />
+<meta property="og:url" content="https://www.gaggia.it/" />
+<meta property="og:site_name" content="Gaggia" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Homepage - Gaggia" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.gaggia.it/#organization","name":"","url":"https://www.gaggia.it/","sameAs":[]},{"@type":"WebSite","@id":"https://www.gaggia.it/#website","url":"https://www.gaggia.it/","name":"Gaggia","publisher":{"@id":"https://www.gaggia.it/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.gaggia.it/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.gaggia.it/#webpage","url":"https://www.gaggia.it/","inLanguage":"it-IT","name":"Homepage - Gaggia","isPartOf":{"@id":"https://www.gaggia.it/#website"},"about":{"@id":"https://www.gaggia.it/#organization"},"datePublished":"2018-04-17T15:18:15+00:00","dateModified":"2020-01-10T17:33:40+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//cdn.polyfill.io' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.gaggia.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.gaggia.it/wp-includes/css/dist/block-library/style.min.css?ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='https://fonts.googleapis.com/css?family=Montserrat:400,600,700,900' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/main.css-css'  href='https://www.gaggia.it/wp-content/themes/gaggia/dist/styles/main_e52bac26.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.gaggia.it/wp-content/plugins/wp-acf-responsive-images/js/picturefill.min.js'></script>
+<script type='text/javascript' src='https://www.gaggia.it/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.gaggia.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.gaggia.it/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.9.2'></script>
+<script type='text/javascript' src='https://cdn.polyfill.io/v2/polyfill.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpml_xdomain_data = {"css_selector":"wpml-ls-item","ajax_url":"https:\/\/www.gaggia.it\/wp-admin\/admin-ajax.php","current_lang":"it"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.gaggia.it/wp-content/plugins/sitepress-multilingual-cms/res/js/xdomain-data.js?ver=4.2.6'></script>
+<link rel='https://api.w.org/' href='https://www.gaggia.it/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.gaggia.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.gaggia.it/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.1" />
+<link rel='shortlink' href='https://www.gaggia.it/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.gaggia.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gaggia.it%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.gaggia.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gaggia.it%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.2.6 stt:1,3,27;" />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
+	dataLayer.push({"pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"Rblab"});//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KW2JCTV');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		      <!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '922958867887158');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=922958867887158&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+    <link rel="shortcut icon" type="image/png" href="https://www.gaggia.it/favicon.png"/>
+</head>
+  <body class="home page-template-default page page-id-172 app-data index-data singular-data page-data page-172-data page-homepage-data front-page-data">
+            <header class="navbar navbar--expanded">
+  <div class="container navbar__container">
+    <div class="row navbar__row">
+      <div class="navbar__logo-container bg-brand">
+        <a class="navbar__logo" href="https://www.gaggia.it/">
+          <img class="img-fluid logo logo__icon" src="https://www.gaggia.it/wp-content/themes/gaggia/dist/images/logo-icon_1a191e2b_e0611122.svg">
+          <img class="img-fluid logo logo__brand" src="https://www.gaggia.it/wp-content/themes/gaggia/dist/images/logo_0e2abbf7.svg">
+        </a>
+      </div>
+      <nav class="navbar__nav-container">
+        <span class="navbar__close-menu icon icon-close"></span>
+        <div class="navbar__nav-row navbar__nav-row--main">
+                      <div class="menu-main-menu-container"><ul id="menu-primary_navigation" class="navbar__nav navbar__nav--main"><li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189 menu-item--primary_navigation"><a href="https://www.gaggia.it/storia/" class="menu__link">Storia</a></li>
+<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188 menu-item--primary_navigation"><a href="https://www.gaggia.it/barista-art/" class="menu__link">Barista Art</a></li>
+<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192 menu-item--primary_navigation"><a href="https://www.gaggia.it/club-gaggia/" class="menu__link">Club Gaggia</a></li>
+<li id="menu-item-179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-179 menu-item--primary_navigation dropdown__toggle"><a href="#" class="menu__link">Contatti</a>
+<div class="dropdown__wrapper">
+
+<ul class="dropdown__menu">
+	<li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-560 menu-item--primary_navigation dropdown__item"><a href="https://www.gaggia.it/gaggia/" class="menu__link">Gaggia</a></li>
+	<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253 menu-item--primary_navigation dropdown__item"><a href="https://www.gaggia.it/centri-assistenza/" class="menu__link">Centri Assistenza</a></li>
+	<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232 menu-item--primary_navigation dropdown__item"><a href="https://www.gaggia.it/mondo/" class="menu__link">Mondo</a></li>
+</ul>
+</div>
+</li>
+</ul></div>
+                  </div>
+        <div class="navbar__nav-row navbar__nav-row--product">
+                      <div class="menu-products-menu-container"><ul id="menu-product_navigation" class="navbar__nav navbar__nav--product"><li id="menu-item-180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-180 menu-item--product_navigation megamenu__toggle"><a href="#" class="menu__link">Macchine<br>Manuali</a>
+<div class="megamenu__wrapper">
+
+<a href='#' class="megamenu__close icon icon-arrow-left"></a>
+
+<span class="megamenu__title">Macchine<br>Manuali</span>
+
+<ul class="megamenu__menu">
+	<li id="menu-item-7653" class="menu-item menu-item-type-post_type menu-item-object-manual-machine menu-item-7653 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-manuali/new-classic/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/10/new-classic_menu-img-2x-350x330-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/10/new-classic_menu-img-2x-350x330-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/10/new-classic_menu-img-2x-350x330-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/10/new-classic_menu-img-2x-350x330-165x156.png" alt="">
+</picture><span class="megamenu__label">New</span>New Classic</a></li>
+	<li id="menu-item-7754" class="menu-item menu-item-type-post_type menu-item-object-manual-machine menu-item-7754 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-manuali/carezza-deluxe/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/Carezza-deluxe-front-1-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/Carezza-deluxe-front-1-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/Carezza-deluxe-front-1-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/Carezza-deluxe-front-1-165x156.png" alt="">
+</picture>Carezza Deluxe</a></li>
+	<li id="menu-item-658" class="menu-item menu-item-type-post_type menu-item-object-manual-machine menu-item-658 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-manuali/carezza-style/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/Carezza-Style-front-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/Carezza-Style-front-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/Carezza-Style-front-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/Carezza-Style-front-no-shadow-165x156.png" alt="">
+</picture>Carezza Style</a></li>
+	<li id="menu-item-657" class="menu-item menu-item-type-post_type menu-item-object-manual-machine menu-item-657 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-manuali/viva-prestige/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/viva-prestige-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/viva-prestige-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/viva-prestige-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/viva-prestige-no-shadow-165x156.png" alt="">
+</picture>Viva Prestige</a></li>
+	<li id="menu-item-656" class="menu-item menu-item-type-post_type menu-item-object-manual-machine menu-item-656 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-manuali/viva-deluxe/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/viva-deluxe-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/viva-deluxe-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/viva-deluxe-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/viva-deluxe-no-shadow-165x156.png" alt="">
+</picture>Viva Deluxe</a></li>
+	<li id="menu-item-655" class="menu-item menu-item-type-post_type menu-item-object-manual-machine menu-item-655 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-manuali/viva-style/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/viva-style-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/viva-style-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/viva-style-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/viva-style-no-shadow-165x156.png" alt="">
+</picture>Viva Style</a></li>
+	<li id="menu-item-7540" class="menu-item menu-item-type-post_type menu-item-object-manual-machine menu-item-7540 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-manuali/viva-chic/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2019/10/mini_menu_vivachic350x330_nero-165x156.png, https://www.gaggia.it/wp-content/uploads/2019/10/mini_menu_vivachic350x330_nero-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2019/10/mini_menu_vivachic350x330_nero-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2019/10/mini_menu_vivachic350x330_nero-165x156.png" alt="">
+</picture><span class="megamenu__label">New</span>VIVA CHIC</a></li>
+	<li id="menu-item-654" class="menu-item menu-item-type-post_type menu-item-object-manual-machine menu-item-654 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-manuali/gran-gaggia-prestige/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/gaggia-prestige-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/gaggia-prestige-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/gaggia-prestige-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/gaggia-prestige-no-shadow-165x156.png" alt="">
+</picture>Gran Gaggia Prestige</a></li>
+	<li id="menu-item-653" class="menu-item menu-item-type-post_type menu-item-object-manual-machine menu-item-653 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-manuali/gran-gaggia-deluxe/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/gaggia-deluxe-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/gaggia-deluxe-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/gaggia-deluxe-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/gaggia-deluxe-no-shadow-165x156.png" alt="">
+</picture>Gran Gaggia Deluxe</a></li>
+	<li id="menu-item-652" class="menu-item menu-item-type-post_type menu-item-object-manual-machine menu-item-652 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-manuali/gran-gaggia-style/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/gran-gaggia-style-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/gran-gaggia-style-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/gran-gaggia-style-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/gran-gaggia-style-no-shadow-165x156.png" alt="">
+</picture>Gran Gaggia Style</a></li>
+</ul>
+</div>
+</li>
+<li id="menu-item-2169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2169 menu-item--product_navigation megamenu__toggle"><a href="#" class="menu__link">Macchine<br>Automatiche</a>
+<div class="megamenu__wrapper">
+
+<a href='#' class="megamenu__close icon icon-arrow-left"></a>
+
+<span class="megamenu__title">Macchine<br>Automatiche</span>
+
+<ul class="megamenu__menu">
+	<li id="menu-item-7687" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-7687 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/cadorna-prestige/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_menu-img-2x-350x330-165x156.png, https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_menu-img-2x-350x330-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_menu-img-2x-350x330-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_menu-img-2x-350x330-165x156.png" alt="">
+</picture><span class="megamenu__label">New</span>Cadorna Prestige</a></li>
+	<li id="menu-item-7688" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-7688 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/cadorna-milk/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2019/07/MILK_menu-img-2x-350x330-165x156.png, https://www.gaggia.it/wp-content/uploads/2019/07/MILK_menu-img-2x-350x330-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2019/07/MILK_menu-img-2x-350x330-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2019/07/MILK_menu-img-2x-350x330-165x156.png" alt="">
+</picture><span class="megamenu__label">New</span>Cadorna Milk</a></li>
+	<li id="menu-item-7689" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-7689 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/cadorna-plus/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2019/07/PLUS_menu-img-2x-350x330-165x156.png, https://www.gaggia.it/wp-content/uploads/2019/07/PLUS_menu-img-2x-350x330-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2019/07/PLUS_menu-img-2x-350x330-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2019/07/PLUS_menu-img-2x-350x330-165x156.png" alt="">
+</picture><span class="megamenu__label">New</span>Cadorna Plus</a></li>
+	<li id="menu-item-5504" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-5504 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/cadorna-style/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2019/07/STYLE_menu-img-2x-350x330-165x156.png, https://www.gaggia.it/wp-content/uploads/2019/07/STYLE_menu-img-2x-350x330-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2019/07/STYLE_menu-img-2x-350x330-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2019/07/STYLE_menu-img-2x-350x330-165x156.png" alt="">
+</picture><span class="megamenu__label">New</span>Cadorna Style</a></li>
+	<li id="menu-item-615" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-615 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/accademia/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/accademia-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/accademia-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/accademia-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/accademia-no-shadow-165x156.png" alt="">
+</picture>Accademia</a></li>
+	<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-182 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/babila/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/babila-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/babila-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/babila-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/babila-no-shadow-165x156.png" alt="">
+</picture>Babila</a></li>
+	<li id="menu-item-616" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-616 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/velasca-prestige/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/velasca-prestige-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/velasca-prestige-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/velasca-prestige-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/velasca-prestige-no-shadow-165x156.png" alt="">
+</picture>Velasca Prestige</a></li>
+	<li id="menu-item-619" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-619 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/velasca/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/velasca-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/velasca-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/velasca-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/velasca-no-shadow-165x156.png" alt="">
+</picture>Velasca</a></li>
+	<li id="menu-item-639" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-639 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/brera/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/brera-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/brera-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/brera-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/brera-no-shadow-165x156.png" alt="">
+</picture>Brera</a></li>
+	<li id="menu-item-638" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-638 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/naviglio-deluxe/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/naviglio-deluxe-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/naviglio-deluxe-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/naviglio-deluxe-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/naviglio-deluxe-no-shadow-165x156.png" alt="">
+</picture>Naviglio Deluxe</a></li>
+	<li id="menu-item-7709" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-7709 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/naviglio-milk/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2019/10/mini_menu_naviglio350x330-165x156.png, https://www.gaggia.it/wp-content/uploads/2019/10/mini_menu_naviglio350x330-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2019/10/mini_menu_naviglio350x330-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2019/10/mini_menu_naviglio350x330-165x156.png" alt="">
+</picture><span class="megamenu__label">New</span>NAVIGLIO MILK</a></li>
+	<li id="menu-item-637" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-637 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/naviglio/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/05/naviglio-no-shadow-165x156.png, https://www.gaggia.it/wp-content/uploads/2018/05/naviglio-no-shadow-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2018/05/naviglio-no-shadow-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/05/naviglio-no-shadow-165x156.png" alt="">
+</picture>Naviglio</a></li>
+	<li id="menu-item-5032" class="menu-item menu-item-type-post_type menu-item-object-automatic-machine menu-item-5032 menu-item--product_navigation megamenu__item"><a href="https://www.gaggia.it/macchine-automatiche/besana/" class="menu__link"><picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2019/05/menu-img-2x-350x330-165x156.png, https://www.gaggia.it/wp-content/uploads/2019/05/menu-img-2x-350x330-248x234.png 1.5x, https://www.gaggia.it/wp-content/uploads/2019/05/menu-img-2x-350x330-330x311.png 2x">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2019/05/menu-img-2x-350x330-165x156.png" alt="">
+</picture><span class="megamenu__label">New</span>BESANA</a></li>
+</ul>
+</div>
+</li>
+<li id="menu-item-540" class="menu-item menu-item-type-post_type_archive menu-item-object-accessory menu-item-540 menu-item--product_navigation"><a href="https://www.gaggia.it/linea-accessori/" class="menu__link">Linea<br>Accessori</a></li>
+<li id="menu-item-3488" class="menu-item menu-item-type-post_type_archive menu-item-object-coffee menu-item-3488 menu-item--product_navigation"><a href="https://www.gaggia.it/linea-caffe/" class="menu__link">LINEA<br />CAFFÈ</a></li>
+</ul></div>
+                      <style id="before-style"></style>
+        </div>
+        <div class="navbar_nav-row navbar__nav-row--service">
+
+          <div class="navbar__service navbar__service--language">
+                          <ul class="language-menu language-menu--desktop d-none d-lg-block">
+                                                                                        <li class="language-menu__item">
+                      <a href="https://www.gaggia.com">en</a>
+                    </li>
+                                                                        <li class="language-menu__item">
+                      <a href="https://www.gaggia.de">de</a>
+                    </li>
+                                                </ul>
+              <div class="language-menu__current d-none d-lg-flex">
+                <span class="language-menu__item language-menu__item--active">
+                  it
+                </span>
+              </div>
+              <ul class="language-menu language-menu--mobile d-lg-none">
+                                  <li class="language-menu__item language-menu__item--active">
+                    <a href="https://www.gaggia.it">it</a>
+                  </li>
+                                  <li class="language-menu__item">
+                    <a href="https://www.gaggia.com">en</a>
+                  </li>
+                                  <li class="language-menu__item">
+                    <a href="https://www.gaggia.de">de</a>
+                  </li>
+                              </ul>
+                      </div>
+          <div class="navbar__service navbar__service--social">
+                                                                            <a href="https://www.facebook.com/GaggiaMilanoOfficial/" target= "_blank" class="no-underline icon icon-facebook"></a>
+                                                                                <a href="https://www.instagram.com/gaggiamilano/" target= "_blank" class="no-underline icon icon-instagram"></a>
+                                                    </div>
+          <div class="navbar__service navbar__service--search navbar__toggle--search">
+            <a href="#" class="no-underline icon icon-search navbar__toggle search__toggle--desktop"></a>
+            <form class="search__form search__form--desktop" action="/" method="get">
+              <input class="search__input" type="text" name="s" id="search" placeholder="Cerca" />
+              <button type="submit" class="search__submit"><span class="icon icon-arrow-right"></span></button>
+            </form>
+          </div>
+        </div>
+      </nav>
+      <div class="navbar__mobile-toggle">
+        <div class="navbar__toggle navbar__toggle--search">
+          <a href="#" class="no-underline icon icon-search search__toggle--mobile"></a>
+          <form class="search__form search__form--mobile" action="/" method="get">
+            <input class="search__input" type="text" name="s" id="search-mobile" placeholder="Cerca" />
+            <button type="submit" class="search__submit"><span class="icon icon-arrow-right"></span></button>
+          </form>
+        </div>
+        <div class="navbar__toggle navbar__toggle--menu">
+          <span class="icon icon-menu"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+    <div id="scroll-wrapper">
+      <div class="wrap" role="document">
+        <div class="content">
+          <main class="main">
+                                        
+                    <div class="container">
+                <div class="row bg-brand-secondary">
+                    <div class="homepage-slider homepage-slider--init slick-slider--width-height-fix slick-slider--full-height">
+                                                                                <div class="position-relative d-block">
+                                                                    <style>
+.slick__slide--1 {
+	background-image: url(https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_prod_intro_720x960-540x720.jpg);
+}
+
+@media (min-width: 768px) {
+	.slick__slide--1 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_prod_intro_720x960.jpg);
+	}
+}
+@media (min-width: 992px) {
+	.slick__slide--1 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_prod_intro_960x710.jpg);
+	}
+}
+@media (min-width: 1200px) {
+	.slick__slide--1 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_prod_intro_1560x790-1140x578.jpg);
+	}
+}
+@media (min-width: 1600px) {
+	.slick__slide--1 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_prod_intro_1560x790.jpg);
+	}
+}
+</style>
+<span class="sr-only"></span>
+                                                                <div class="slick__slide slick__slide--1"></div>
+
+                                <div class="slick__text-container">
+                                                                            <h2 class="slick__title text-alt text-alt--bold fs-xs-16 fs-lg-40">L'ultima frontiera del bar a casa tua: <br />Gaggia Cadorna </h2>
+                                    
+                                                                                                                    <a href="https://www.gaggia.it/macchine-automatiche/" 
+                                        class="text-uppercase no-underline text-white fs-xs-15 mt-4 d-inline-flex align-items-center">Scopri di più <span class="pl-2 icon icon-arrow-right"></span></a>
+                                                                    </div>
+                            </div>
+                                                                                <div class="position-relative d-block">
+                                                                    <style>
+.slick__slide--2 {
+	background-image: url(https://www.gaggia.it/wp-content/uploads/2019/01/HP_720x960-540x720.jpg);
+}
+
+@media (min-width: 768px) {
+	.slick__slide--2 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2019/01/HP_720x960.jpg);
+	}
+}
+@media (min-width: 992px) {
+	.slick__slide--2 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2019/01/HP_960x710.jpg);
+	}
+}
+@media (min-width: 1200px) {
+	.slick__slide--2 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2019/01/IMG_8823ps-1140x578.jpg);
+	}
+}
+@media (min-width: 1600px) {
+	.slick__slide--2 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2019/01/IMG_8823ps.jpg);
+	}
+}
+</style>
+<span class="sr-only"></span>
+                                                                <div class="slick__slide slick__slide--2"></div>
+
+                                <div class="slick__text-container">
+                                                                            <h2 class="slick__title text-alt text-alt--bold fs-xs-16 fs-lg-40">PER AMORE<br />
+DEL CAFFè ESPRESSO</h2>
+                                    
+                                                                                                                    <a href="https://www.gaggia.it/linea-caffe-gaggia/" 
+                                        class="text-uppercase no-underline text-white fs-xs-15 mt-4 d-inline-flex align-items-center">Scopri di più <span class="pl-2 icon icon-arrow-right"></span></a>
+                                                                    </div>
+                            </div>
+                                                                                <div class="position-relative d-block">
+                                                                    <style>
+.slick__slide--3 {
+	background-image: url(https://www.gaggia.it/wp-content/uploads/2018/06/slide_720x960_80esimo-540x720.jpg);
+}
+
+@media (min-width: 768px) {
+	.slick__slide--3 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/06/slide_720x960_80esimo.jpg);
+	}
+}
+@media (min-width: 992px) {
+	.slick__slide--3 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/06/slide_960x710_80esimo.jpg);
+	}
+}
+@media (min-width: 1200px) {
+	.slick__slide--3 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/06/1560x790_storia-80medio-1140x578.jpg);
+	}
+}
+@media (min-width: 1600px) {
+	.slick__slide--3 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/06/1560x790_storia-80medio.jpg);
+	}
+}
+</style>
+<span class="sr-only"></span>
+                                                                <div class="slick__slide slick__slide--3"></div>
+
+                                <div class="slick__text-container">
+                                                                            <h2 class="slick__title text-alt text-alt--bold fs-xs-16 fs-lg-40">&nbsp;</h2>
+                                    
+                                                                                                                    <a href="https://www.gaggia.it/storia/" 
+                                        class="text-uppercase no-underline text-white fs-xs-15 mt-4 d-inline-flex align-items-center">Scopri di Più <span class="pl-2 icon icon-arrow-right"></span></a>
+                                                                    </div>
+                            </div>
+                                                                                <div class="position-relative d-block">
+                                                                    <style>
+.slick__slide--4 {
+	background-image: url(https://www.gaggia.it/wp-content/uploads/2018/06/slide_720x960_skill-540x720.jpg);
+}
+
+@media (min-width: 768px) {
+	.slick__slide--4 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/06/slide_720x960_skill.jpg);
+	}
+}
+@media (min-width: 992px) {
+	.slick__slide--4 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/06/slide_960x710_skill.jpg);
+	}
+}
+@media (min-width: 1200px) {
+	.slick__slide--4 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/06/home_skills-1-1140x578.jpg);
+	}
+}
+@media (min-width: 1600px) {
+	.slick__slide--4 {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/06/home_skills-1.jpg);
+	}
+}
+</style>
+<span class="sr-only"></span>
+                                                                <div class="slick__slide slick__slide--4"></div>
+
+                                <div class="slick__text-container">
+                                                                            <h2 class="slick__title text-alt text-alt--bold fs-xs-16 fs-lg-40">COME CREARE<br />
+LE RICETTE DELLA TRADIZIONE</h2>
+                                    
+                                                                                                                    <a href="https://www.gaggia.it/barista-art/" 
+                                        class="text-uppercase no-underline text-white fs-xs-15 mt-4 d-inline-flex align-items-center">Scopri di più <span class="pl-2 icon icon-arrow-right"></span></a>
+                                                                    </div>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        
+                    <div class="section container">
+                <div class="row js_trigger-element bg-brand-secondary">
+            <div class="section__item col-12 col-md-6 px-0">
+        <div class="section__image-container section__image-container--no-pseudo">
+
+                      <picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_List_780x520.png" media="(min-width: 768px)">
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_List_780x520-540x360.png">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_List_780x520.png" alt="">
+</picture>
+          
+                      <div class="section__image section__image--show-hover section__image--hover-0">
+              <picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_List_780x520_over.png" media="(min-width: 768px)">
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_List_780x520_over-540x360.png">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2019/07/PRESTIGE_List_780x520_over.png" alt="">
+</picture>
+            </div>
+          
+          <div class="section__title-container">
+                          <h2 class="section__title fs-xs-20 fs-lg-40 mb-3 mb-md-4 font-weight-bold">
+                <a href="https://www.gaggia.it/macchine-automatiche/cadorna-prestige/" class="text-white">Cadorna Prestige</a>
+              </h2>
+            
+                      </div>
+        </div>
+      </div>
+          <div class="section__item col-12 col-md-6 px-0">
+        <div class="section__image-container section__image-container--no-pseudo">
+
+                      <picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/04/post3.png" media="(min-width: 768px)">
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/04/post3-540x360.png">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/04/post3.png" alt="">
+</picture>
+          
+                      <div class="section__image section__image--show-hover section__image--hover-1">
+              <picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/04/post3-hover.png" media="(min-width: 768px)">
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/04/post3-hover-540x360.png">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/04/post3-hover.png" alt="">
+</picture>
+            </div>
+          
+          <div class="section__title-container">
+                          <h2 class="section__title fs-xs-20 fs-lg-40 mb-3 mb-md-4 font-weight-bold">
+                <a href="https://www.gaggia.it/storia/" class="text-white">la ricerca dell’espresso perfetto</a>
+              </h2>
+            
+                          <h3 class="section__title section__title--transform-none fs-xs-16 mb-3 mb-md-4 text-family-normal">
+                <a href="https://www.gaggia.it/storia/" class="text-white">SCOPRI DI PIÙ</a>
+              </h3>
+                      </div>
+        </div>
+      </div>
+          <div class="section__item col-12 col-md-6 px-0">
+        <div class="section__image-container section__image-container--no-pseudo">
+
+                      <picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/06/home_list-brevetto.jpg" media="(min-width: 768px)">
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/06/home_list-brevetto-540x360.jpg">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/06/home_list-brevetto.jpg" alt="">
+</picture>
+          
+                      <div class="section__image section__image--show-hover section__image--hover-2">
+              <picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/06/home_list-brevetto-hover.jpg" media="(min-width: 768px)">
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/06/home_list-brevetto-hover-540x360.jpg">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/06/home_list-brevetto-hover.jpg" alt="">
+</picture>
+            </div>
+          
+          <div class="section__title-container">
+                          <h2 class="section__title fs-xs-20 fs-lg-40 mb-3 mb-md-4 font-weight-bold">
+                <a href="https://www.gaggia.it/il-nostro-80-anniversario/" class="text-white">DAL 1938: L’ESPRESSO</a>
+              </h2>
+            
+                          <h3 class="section__title section__title--transform-none fs-xs-16 mb-3 mb-md-4 text-family-normal">
+                <a href="https://www.gaggia.it/il-nostro-80-anniversario/" class="text-white">SCOPRI DI PIÙ</a>
+              </h3>
+                      </div>
+        </div>
+      </div>
+          <div class="section__item col-12 col-md-6 px-0">
+        <div class="section__image-container section__image-container--no-pseudo">
+
+                      <picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/06/viva-prestige-listing.jpg" media="(min-width: 768px)">
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/06/viva-prestige-listing-540x360.jpg">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/06/viva-prestige-listing.jpg" alt="">
+</picture>
+          
+                      <div class="section__image section__image--show-hover section__image--hover-3">
+              <picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/06/viva-prestige-listing-1.jpg" media="(min-width: 768px)">
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/06/viva-prestige-listing-1-540x360.jpg">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/06/viva-prestige-listing-1.jpg" alt="">
+</picture>
+            </div>
+          
+          <div class="section__title-container">
+                          <h2 class="section__title fs-xs-20 fs-lg-40 mb-3 mb-md-4 font-weight-bold">
+                <a href="https://www.gaggia.it/macchine-manuali/viva-prestige/" class="text-white"> VIVA PRESTIGE</a>
+              </h2>
+            
+                      </div>
+        </div>
+      </div>
+          <div class="section__item col-12 col-md-6 px-0">
+        <div class="section__image-container section__image-container--no-pseudo">
+
+                      <picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/10/NewClassic_List_780x520_.png" media="(min-width: 768px)">
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/10/NewClassic_List_780x520_-540x360.png">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/10/NewClassic_List_780x520_.png" alt="">
+</picture>
+          
+                      <div class="section__image section__image--show-hover section__image--hover-4">
+              <picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/10/NewClassic_List_780x520_over.png" media="(min-width: 768px)">
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/10/NewClassic_List_780x520_over-540x360.png">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/10/NewClassic_List_780x520_over.png" alt="">
+</picture>
+            </div>
+          
+          <div class="section__title-container">
+                          <h2 class="section__title fs-xs-20 fs-lg-40 mb-3 mb-md-4 font-weight-bold">
+                <a href="https://www.gaggia.it/macchine-manuali/new-classic/" class="text-white">NEW CLASSIC</a>
+              </h2>
+            
+                      </div>
+        </div>
+      </div>
+          <div class="section__item col-12 col-md-6 px-0">
+        <div class="section__image-container section__image-container--no-pseudo">
+
+                      <picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/06/home_skill-0-780x520.jpg" media="(min-width: 768px)">
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/06/home_skill-0-780x520-540x360.jpg">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/06/home_skill-0-780x520.jpg" alt="">
+</picture>
+          
+                      <div class="section__image section__image--show-hover section__image--hover-5">
+              <picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/06/home_skill-780x520.jpg" media="(min-width: 768px)">
+	<source srcset="https://www.gaggia.it/wp-content/uploads/2018/06/home_skill-780x520-540x360.jpg">
+	<!--[if IE 9]></video><![endif]-->
+	<img class="img-fluid" srcset="https://www.gaggia.it/wp-content/uploads/2018/06/home_skill-780x520.jpg" alt="">
+</picture>
+            </div>
+          
+          <div class="section__title-container">
+                          <h2 class="section__title fs-xs-20 fs-lg-40 mb-3 mb-md-4 font-weight-bold">
+                <a href="https://www.gaggia.it/barista-art/" class="text-white">Barista Art</a>
+              </h2>
+            
+                          <h3 class="section__title section__title--transform-none fs-xs-16 mb-3 mb-md-4 text-family-normal">
+                <a href="https://www.gaggia.it/barista-art/" class="text-white">SCOPRI DI PIÙ</a>
+              </h3>
+                      </div>
+        </div>
+      </div>
+      </div>
+            </div>
+         
+     
+          </main>
+                  </div>
+                  <div class="container">
+            <div class="row newsletter-block">
+
+        <div class="newsletter-block__cell col-12 col-md-6"
+             style="background-color: #fd0000">
+            <div class="newsletter-block__text-container newsletter-block__text-container--centered">
+                <h2 class="newsletter-block__text fs-lg-40">ISCRIVITI<br />
+ALLA NOSTRA<br />
+NEWSLETTER</h2>
+            </div>
+        </div>
+
+        <div class="newsletter-block__cell newsletter-block__cell--bg-image col-12 col-md-6">
+                            <div class="newsletter-block__text-container newsletter-block__text-container--form">
+                    
+                <div class='gf_browser_chrome gform_wrapper' id='gform_wrapper_1' ><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/#gf_1'>
+                        <div class='gform_heading'>
+                            <span class='gform_description'></span>
+                        </div>
+                        <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_1' >Nome Cognome<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_text'><input name='input_1' id='input_1_1' type='text' value='' class='medium'    placeholder='Il tuo nome e cognome' aria-required="true" aria-invalid="false" /></div></li><li id='field_1_2'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_2' >Email<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_2' id='input_1_2' type='email' value='' class='medium'   placeholder='Il tuo indirizzo email' aria-required="true" aria-invalid="false" />
+                        </div></li><li id='field_1_3'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label'  ><span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_checkbox'><ul class='gfield_checkbox' id='input_1_3'><li class='gchoice_1_3_1'>
+								<input name='input_3.1' type='checkbox'  value='Accetto le condizioni della &lt;a href=&quot;/privacy-and-cookies-policy&quot; target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;'  id='choice_1_3_1'   />
+								<label for='choice_1_3_1' id='label_1_3_1'>Accetto le condizioni della <a href="/privacy-and-cookies-policy" target="_blank">privacy policy</a></label>
+							</li></ul></div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Iscriviti'  onclick='if(window["gf_submitting_1"]){return false;}  if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  jQuery("#gform_1").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=1&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsIjkxNGQ5NTA5ZjE1MzE3ZTEwNjZmZmUxMjU5MWFjZjRjIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='Ajax Frame'>Questo iframe contiene la logica necessaria per gestire Gravity Forms con Ajax.</iframe>
+                <script type='text/javascript'>jQuery(document).ready(function($){gformInitSpinner( 1, 'https://www.gaggia.it/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://www.gaggia.it/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );</script><script type='text/javascript'> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script>                </div>
+                    </div>
+    </div>
+
+            <style>
+.newsletter-block__cell--bg-image {
+	background-image: url(https://www.gaggia.it/wp-content/uploads/2018/04/fondo-NL.2X-540x360.png);
+}
+
+@media (min-resolution: 144dpi) {
+	.newsletter-block__cell--bg-image {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/04/fondo-NL.2X-810x540.png);
+	}
+}
+@media (min-resolution: 192dpi) {
+	.newsletter-block__cell--bg-image {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/04/fondo-NL.2X-1080x720.png);
+	}
+}
+@media (min-width: 768px) {
+	.newsletter-block__cell--bg-image {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/04/fondo-NL.2X-780x520.png);
+	}
+}
+@media (min-width: 768px) and (min-resolution: 144dpi) {
+	.newsletter-block__cell--bg-image {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/04/fondo-NL.2X-1170x780.png);
+	}
+}
+@media (min-width: 768px) and (min-resolution: 192dpi) {
+	.newsletter-block__cell--bg-image {
+		background-image: url(https://www.gaggia.it/wp-content/uploads/2018/04/fondo-NL.2X.png);
+	}
+}
+</style>
+<span class="sr-only"></span>
+              </div>
+              </div>
+            <footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="footer__decoration"></div>
+      <div class="footer__social text-center">
+                                                        <a href="https://www.facebook.com/GaggiaMilanoOfficial/" target="_blank" class="no-underline icon icon-facebook"></a>
+                                                            <a href="https://www.instagram.com/gaggiamilano/" target="_blank" class="no-underline icon icon-instagram"></a>
+                                    </div>
+
+      <div class="footer__menu-container">
+                <div class="footer__menu-item text-center">
+          <span class="fs-xs-10">© Gaggia 2020 – Via Torretta 240, 40041 Gaggio Montano (BO)</span>
+        </div>
+                <div class="footer__menu-item">
+                      <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="footer__nav"><li id="menu-item-1831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1831"><a href="https://www.gaggia.it/gaggia/">Gaggia</a></li>
+<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="https://www.gaggia.it/privacy-and-cookies-policy/">Informativa Privacy &#038; Cookies</a></li>
+<li id="menu-item-1835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1835"><a href="https://www.gaggia.it/termini-e-condizioni/">Termini e Condizioni d&#8217;uso</a></li>
+</ul></div>
+                  </div>
+                  <div class="footer__menu-item text-center">
+            <a href="https://www.digital-mind.it" class="fs-xs-10">#DigitalMind</a>
+          </div>
+              </div>
+
+    </div>
+  </div>
+</footer>
+      
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW2JCTV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type='text/javascript'>
+/* <![CDATA[ */
+var theme_options = {"gmap_api_key":"AIzaSyCr85cq_k_gpGY6NzKy4rYRYshR7UNu7u4","youtube_iframe_api":"https:\/\/www.youtube.com\/iframe_api"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.gaggia.it/wp-content/themes/gaggia/dist/scripts/main_e52bac26.js'></script>
+<script type='text/javascript' src='https://www.gaggia.it/wp-includes/js/wp-embed.min.js?ver=5.2.1'></script>
+<script type='text/javascript' src='https://www.gaggia.it/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.4.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gf_global = {"gf_currency_config":{"name":"Euro","symbol_left":"","symbol_right":"&#8364;","symbol_padding":" ","thousand_separator":".","decimal_separator":",","decimals":2},"base_url":"https:\/\/www.gaggia.it\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.gaggia.it\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.gaggia.it/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.4.9'></script>
+<script type='text/javascript' src='https://www.gaggia.it/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.4.9'></script>
+    </div>
+              <div class="cookie-notice cookie-notice--hide bg-brand"
+     data-cookie-expire="30"
+     data-scroll=""
+     data-https="1">
+  <div class="container">
+    <div class="row align-items-md-center">
+      <div class="col-12 col-md-8 text-center text-md-left">
+                  <p class="text-white mb-2 mb-md-0">Per offrirti il miglior servizio possibile questo sito utilizza cookies tecnici. Continuando la navigazione nel sito acconsenti al loro impiego.</p>
+              </div>
+      <div class="col-6 col-md-2 text-center">
+                  <a href="https://www.gaggia.it/privacy-and-cookies-policy/" class="cta cta--white mt-2 mt-md-0">Cookies policy</a>
+              </div>
+      <div class="col-6 col-md-2 text-center">
+        <a id="cookie-accept" href="#" class="cta cta--white mt-2 mt-md-0">Accetto</a>
+      </div>
+    </div>
+  </div>
+</div>
+          </body>
+</html>
