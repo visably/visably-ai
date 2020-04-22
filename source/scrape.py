@@ -37,10 +37,8 @@ bucket_resource = s3
 
 
 def determine_skip_url(current_url, current_fname, prm):
-    url_piece = urlparse(current_url).netloc
-    formatted_file = url_piece + '.html'
     bucket_response = s3.list_objects_v2(
-        Bucket=S3_BUCKET_NAME, Prefix=formatted_file)
+        Bucket=S3_BUCKET_NAME, Prefix=current_fname)
     # Check existing file
     scrape_flag = True
     # file already exists in s3
@@ -113,8 +111,7 @@ async def run():
     async with aiohttp.ClientSession(connector=conn, timeout=timeout) as session:
         # for iurl in tqdm(range(urls.shape[0])):
 
-        fnames = [prm['url_directory'] + '/' +
-                  fname for fname in urls['fname'].tolist()]
+        fnames = urls['fname'].tolist()
         skip_flags = pool.starmap(determine_skip_url, zip(
             urls["url"].tolist(), fnames, repeat(prm)))
 
@@ -165,11 +162,8 @@ async def run():
 
                     urls.iloc[iurl, urls.columns.get_loc(
                         'fsize')] = sys.getsizeof(html_code)
-                    url_piece = urlparse(current_url).netloc
-                    formatted_file = url_piece + '.html'
                     bucket_resource.put_object(Body=html_code, Bucket=S3_BUCKET_NAME,
-                                               Key=formatted_file)
-                    print(urlparse(current_url))
+                                               Key=urls.iloc[iurl, urls.columns.get_loc('fname')])
                     with open(current_fname, "w") as f:  # open file for writing
                         f.write(html_code)  # write html data
                     f.close()  # close file
