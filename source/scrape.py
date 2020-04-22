@@ -38,7 +38,7 @@ bucket_resource = s3
 
 def determine_skip_url(current_url, current_fname, prm):
     bucket_response = s3.list_objects_v2(
-        Bucket=S3_BUCKET_NAME, Prefix=current_fname)
+        Bucket=S3_BUCKET_NAME, Prefix=current_fname + '.html')
     # Check existing file
     scrape_flag = True
     # file already exists in s3
@@ -162,8 +162,10 @@ async def run():
 
                     urls.iloc[iurl, urls.columns.get_loc(
                         'fsize')] = sys.getsizeof(html_code)
+                    formatted = urls.iloc[iurl, urls.columns.get_loc(
+                        'fname')] + '.html'
                     bucket_resource.put_object(Body=html_code, Bucket=S3_BUCKET_NAME,
-                                               Key=urls.iloc[iurl, urls.columns.get_loc('fname')])
+                                               Key=formatted)
                     with open(current_fname, "w") as f:  # open file for writing
                         f.write(html_code)  # write html data
                     f.close()  # close file
