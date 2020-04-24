@@ -52,7 +52,6 @@ def determine_skip_url(current_url, current_fname, prm):
 async def run():
     print('\nscrape.py program started ',
           datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
-    print(s3)
     start_time = time.perf_counter()
 
     # Get parameters filename
@@ -92,10 +91,6 @@ async def run():
     urls['url'] = urls['url'].apply(clean_protocol)
 
     print("Finished adding protocol")
-    # setup user_agent/headers to mimic browser
-    user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
-    headers = {'User-Agent': user_agent}
-
     skipcount = 0
     status_codes = Counter()
     err_codes = Counter()
@@ -164,11 +159,9 @@ async def run():
                         'fsize')] = sys.getsizeof(html_code)
                     formatted = urls.iloc[iurl, urls.columns.get_loc(
                         'fname')] + '.html'
+                    # add to s3
                     bucket_resource.put_object(Body=html_code, Bucket=S3_BUCKET_NAME,
                                                Key=formatted)
-                    with open(current_fname, "w") as f:  # open file for writing
-                        f.write(html_code)  # write html data
-                    f.close()  # close file
                 except Exception as e:
                     print('\nERROR opening/writing file:', current_fname, e)
                     urls.iloc[iurl, urls.columns.get_loc('error')] = e
