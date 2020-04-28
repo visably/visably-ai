@@ -14,6 +14,7 @@ from statistics import stdev
 import  asyncio
 import aiohttp
 from tqdm import tqdm
+import numpy as np
 
 def loadurls(prm):
     # input  prm - parameters - name of url list .csv file
@@ -22,6 +23,8 @@ def loadurls(prm):
     # load csv file containing list of urls to load, expects header
     fullfilename = prm['url_list_fname']
     urls = pd.read_csv(fullfilename,nrows=prm['max_urls'],header=0)
+    urls.dropna(inplace=True,subset=["url"])
+    urls.reset_index(drop=True,inplace=True)
 
     print('\nLoaded ','"'+prm['url_list_fname']+'"',' with ', 
           urls.shape[0],' rows and ', urls.shape[1],' columns.')
@@ -35,6 +38,7 @@ def loadurls(prm):
     urls['fname'] = urls['url']
 
     def clean_filename(url):
+        url = url.strip().rstrip("/")
         char_to_lstrip = ['https','http',':','/','w','.']
         for c in char_to_lstrip:
             url = url.lstrip(c)
@@ -75,7 +79,8 @@ async def scrapeurl(current_url, current_fname, iurl, prm, session):
     #        err_flag - True or False
     #        error_code - Message if err_flag True    
     # setup user_agent/headers to mimic browser
-    user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36' 
+    user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36'
+
     headers = {'User-Agent': user_agent} 
     error_code = ''
     html_code = ''
@@ -128,8 +133,9 @@ def gettextwords(soup,prm,nlp=None):
     # Extract beautiful soop text and convert to lower case words 
     # soup_text = soup.get_text().lower()
 
-    [s.extract() for s in soup(['style', 'script', 'document', 'head', 'meta'])]
+    [s.extract() for s in soup(['style', 'script', 'meta'])]
     soup_text = soup.getText().lower()
+
     soup_text = soup_text[:prm['max_document_text_characters']]
 
     # parse soup_text into words and clean up
@@ -314,8 +320,10 @@ def tfidffeaturenames(urls,word_vectorizer,lword_vectorizer,hword_vectorizer,prm
     if prm['lword_frequency_features_prefix'] != 'none':
         cnames.append('linkw_textw_overlap') #fraction of link words contained in text words)
         cnames.extend([prm['lword_frequency_features_prefix']+str(w.strip()) for w in lword_vectorizer.get_feature_names()])
+
     if prm['hword_frequency_features_prefix'] != 'none':
         cnames.extend([prm['hword_frequency_features_prefix']+str(w.strip()) for w in hword_vectorizer.get_feature_names()])
+
     return cnames
 
 def featuremake(soup,fwt,fwl,fwh,current_url,cnames,prm_wc,prm_wf,nlp=None):
@@ -443,6 +451,7 @@ def featuremake(soup,fwt,fwl,fwh,current_url,cnames,prm_wc,prm_wf,nlp=None):
                         current_features.append(0)
             else:
                 current_features.extend([0] * len(fwl.index))
+
         # htmltag word frequencies
         if prm_wf['hword_frequency_features_prefix'] != 'none':
             # determine linkwords from soup
@@ -462,8 +471,10 @@ def featuremake(soup,fwt,fwl,fwh,current_url,cnames,prm_wc,prm_wf,nlp=None):
                         current_features.append(htmltag_count/fhword_count) 
                     else:
                         current_features.append(0)
+
             else:
                 current_features.extend([0] * len(fwh.index))
+
                     
     return(current_features)
 
@@ -604,7 +615,7 @@ def tfidffeaturemake(soup,word_vectorizer,lword_vectorizer,hword_vectorizer,curr
                     current_features.append(htf_idf_vector[i])
             else:
                 current_features.extend([0] * len(hword_vectorizer.get_feature_names()))
-                    
+
     return(current_features)
 
 def featureprep(df,prm):
@@ -623,6 +634,7 @@ def featureprep(df,prm):
         dropped_urls = df['url'][droprow]
     else:
         X = df
+        dropped_urls = []
     print(df.columns.values)
     # create list of non-dropped urls
     urls = X['url']
