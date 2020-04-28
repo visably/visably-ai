@@ -8,3 +8,4 @@ production/model/*
 !production/data/htmls/.gitkeep
 !production/data/sample_data
 !out/.gitkeep
+source/config.py
