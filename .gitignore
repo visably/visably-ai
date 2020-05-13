@@ -9,3 +9,4 @@ production/model/*
 !production/data/sample_data
 !out/.gitkeep
 source/config.py
+production/source/config.py
