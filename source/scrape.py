@@ -163,7 +163,8 @@ async def run():
                     bucket_resource.put_object(Body=html_code, Bucket=S3_BUCKET_NAME,
                                                Key=formatted)
                 except Exception as e:
-                    print('\nERROR opening/writing file:', current_fname, e)
+                    print('\nERROR opening/writing/uploading file:',
+                          current_fname, e)
                     urls.iloc[iurl, urls.columns.get_loc('error')] = e
                     err_flag = True
             urls.iloc[iurl, urls.columns.get_loc(
@@ -178,9 +179,6 @@ async def run():
           sum(urls['fsize'] > prm['min_url_size']), ' greater than ', prm['min_url_size'], ' bytes.')
     if skipcount > 0:
         print('skipped ', skipcount, 'scrapes due to pre-existing files')
-
-    print("Status codes: ", status_codes)
-    print("Error codes: ", err_codes)
 
     time_taken = time.perf_counter() - start_time
     print('\nDone.  Elapsed time=', '%.4f' % time_taken, ' seconds')

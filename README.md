@@ -3,7 +3,7 @@ AI Research and Development branch containing all code to generate machine learn
 
 # Quickstart
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 cd run
 ./scrape.run
 ```
