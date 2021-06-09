@@ -1,9 +1,9 @@
 classify V1.0 Program Parameters 01/18/2020
 
 Title [This is a test]
-Wordfeature input .csv file               [../data/3_17_2020_wordfeatureA_lemma_english.csv]
+Wordfeature input .csv file               [../data/6_9_2020_wordfeatureA_lemma_english_whois.csv]
 Model (RForest or XGBoost)input .bin file [../model/3_17_2020_rf_model.bin]
-Classified url list output file           [../data/classified_urls.csv]
+Classified url list output file           [../data/classified_urls_whois_crawl.csv]
 Min ascii count for wordfeature record      [10]
 Min vote for classification                 [0.4]
 Verbose (yes/no)                            [yes]

@@ -55,6 +55,7 @@ elif ('xgboost.sklearn.XGBClassifier' in str(type(clf))):
 # load features file
 fullfilename = prm['wordfeature_input_fname']
 df = pd.read_csv(fullfilename,header=0,sep="|") 
+df.fillna(0, inplace=True)
 print('\nLoaded feature file ','"' + prm['wordfeature_input_fname'] + '"',' for classification with ', 
       df.shape[0],' rows and ', df.shape[1],' columns.')
 

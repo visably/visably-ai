@@ -13,6 +13,7 @@ import pandas as pd
 from tqdm import tqdm
 import multiprocessing as mp
 import spacy
+from langdetect import detect
 
 sys.setrecursionlimit(25000)
 nlp = spacy.load("en",  disable=["tagger", "parser", "tokenizer", "ner"])
@@ -65,8 +66,10 @@ fwh = fwh.set_index('word')
 
 # create complete list of feature names
 cnames = cm.featurenames(urls,fwt,fwl,fwh,prm_wf)
+num_non_english = 0
 
 def get_features(iurl):
+    global num_non_english
     current_url = urls.iloc[iurl,urls.columns.get_loc('url')]
     if 'label' in urls.columns:
         current_label = urls.iloc[iurl,urls.columns.get_loc('label')]
@@ -74,7 +77,7 @@ def get_features(iurl):
     fname_location = urls.columns.get_loc('fname')
     current_fname = urls.iloc[iurl,fname_location]
 
-    current_fname = prm_wf['url_directory']+'/'+current_fname
+    current_fname = prm_wf['url_directory']+'/'+current_fname + ".html"
     if prm_wc["verbose"]:
         print('\niurl=',iurl,' url=',current_url, end='')
           
@@ -85,6 +88,19 @@ def get_features(iurl):
     soup = cm.geturl(current_fname)
     
     if soup != None: # if file load was successful
+        [s.extract() for s in soup(['style', 'script', '[document]', 'head', 'meta'])]
+
+        # Filter non-English urls
+        soup_text = soup.getText().lower()
+        try:
+            language = detect(soup_text)
+        except:
+            language = "Failed"
+
+        if language not in ["Failed", "en"]:
+            num_non_english += 1
+            return err_flag
+
         current_features = cm.featuremake(soup,fwt,fwl,fwh,current_url,cnames,prm_wc,prm_wf,nlp)
 
         # If features were created, add to list
@@ -122,6 +138,7 @@ pool.close()
 pool.join()
 
 print(f"\nNumber of errors: {num_errors}, Percent errors: {num_errors / len(urls):.2f}")
+print(f"\nNumber of num_non_english: {num_non_english}, Percent non-English: {num_non_english / len(urls):.2f}")
 
 url_list = list(url_list)
 if 'label' in urls.columns:

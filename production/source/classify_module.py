@@ -193,10 +193,12 @@ def gettextwords(soup,prm,nlp=None):
         combined_words = " ".join(single_words)
         if len(combined_words) > 1000000: # Spacy has a maxiumum character limit of 100,000
             combined_words = combined_words[:1000000 - 1]
-
-        single_words = [token.lemma_ for token in nlp(combined_words)]
-        single_words = [w.strip() for w in single_words if len(str(w).strip()) >= prm['min_word_len']]
-        single_words = [w.strip() for w in single_words if len(str(w).strip()) <= prm['max_word_len']]
+        try:
+            single_words = [token.lemma_ for token in nlp(combined_words)]
+            single_words = [w.strip() for w in single_words if len(str(w).strip()) >= prm['min_word_len']]
+            single_words = [w.strip() for w in single_words if len(str(w).strip()) <= prm['max_word_len']]
+        except:
+            print("Spacy nlp failed...")
     if len(single_words) > prm['max_document_text_words']:
         single_words = single_words[:prm['max_document_text_words']]
 
